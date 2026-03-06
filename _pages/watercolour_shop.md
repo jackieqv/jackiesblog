@@ -4,8 +4,6 @@ title: Shop
 permalink: /watercolour/shop/
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
-
 # Shop
 
 Hier kannst du meine handgemalten Aquarellkarten entdecken.
