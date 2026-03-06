@@ -27,13 +27,13 @@ author_profile: false
         </a>
       </h3>
 
-      <p class="news-meta">
-        <span class="news-source">{{ item.source }}</span>
-        {% if item.published %}
-        <span class="news-separator">•</span>
-        <span class="news-date">{{ item.published }}</span>
-        {% endif %}
-      </p>
+   <p class="news-meta">
+  <span class="news-source">{{ item.source }}</span>
+  {% if item.published %}
+  <span class="news-separator">•</span>
+  <time class="news-date">{{ item.published }}</time>
+  {% endif %}
+</p>
     </article>
     {% endfor %}
   </div>
