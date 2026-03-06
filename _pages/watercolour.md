@@ -4,7 +4,6 @@ title: Watercolour
 permalink: /watercolour/
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/main.scss' | relative_url }}">
 
 # Watercolour
 
