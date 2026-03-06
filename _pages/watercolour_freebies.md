@@ -5,7 +5,6 @@ permalink: /watercolour/freebies/
 author_profile: true
 ---
 
-
 Kostenlose Downloads und kleine kreative Extras.
 
 <div class="watercolour-grid">
