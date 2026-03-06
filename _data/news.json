@@ -36,7 +36,7 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Digitale Trends & Technologie": [
+  "Digital Trends & Technology": [
     {
       "title": "Introducing CQC Implementation Gates for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-cqc-implementation-gates-for-sap-successfactors-hcm/ba-p/14343425",
@@ -110,7 +110,7 @@
       "sort_date": "2026-03-02T15:12:31+00:00"
     }
   ],
-  "Nachrichten Deutschland & Welt": [
+  "News": [
     {
       "title": "ASMR und der weltweite Boom sanfter Geräusche",
       "link": "https://www.tagesschau.de/kultur/asmr-und-der-boom-sanfter-geraeusche-100.html",
@@ -147,5 +147,5 @@
       "sort_date": "2026-03-06T13:48:12+01:00"
     }
   ],
-  "Kochen & Food": []
+  "Food": []
 }
