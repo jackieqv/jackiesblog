@@ -4,6 +4,8 @@ title: Galerie
 permalink: /watercolour/gallery/
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
+
 # Galerie
 
 Hier findest du eine Auswahl meiner Aquarellarbeiten.
