@@ -1,0 +1,34 @@
+---
+title: Weather
+permalink: /weather/
+layout: single
+author_profile: true
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/weather.css' | relative_url }}">
+
+<div class="weather-page">
+  <div class="weather-header">
+    <h1>Weather</h1>
+    <p>Aktuelles Wetter und 5-Tage-Vorhersage mit Open-Meteo.</p>
+  </div>
+
+  <div class="weather-search">
+    <input id="cityInput" type="text" placeholder="Stadt eingeben, z. B. Berlin">
+    <button id="searchBtn">Suchen</button>
+    <button id="locationBtn" class="secondary">Mein Standort</button>
+  </div>
+
+  <p id="weatherStatus" class="weather-status">Gib eine Stadt ein oder nutze deinen Standort.</p>
+
+  <section class="weather-current" id="currentWeather">
+    <div class="weather-empty">Noch keine Wetterdaten geladen.</div>
+  </section>
+
+  <section class="weather-forecast">
+    <h2>5-Tage-Vorhersage</h2>
+    <div id="forecastGrid" class="forecast-grid"></div>
+  </section>
+</div>
+
+<script src="{{ '/assets/js/weather.js' | relative_url }}"></script>
