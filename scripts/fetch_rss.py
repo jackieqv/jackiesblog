@@ -5,44 +5,29 @@ from email.utils import parsedate_to_datetime
 
 feeds = {
 
+    "Education": [
+        "https://thedecisionlab.com/feed/",
+        "https://coffeeandjunk.substack.com/feed",
+        "https://feeds.feedburner.com/bigthink/main"
+    ],
+    
     "Digitale Trends & Technologie": [
-        "https://www.theverge.com/rss/index.xml",
-        "https://feeds.arstechnica.com/arstechnica/index",
-        "https://techcrunch.com/feed/",
-        "https://hnrss.org/frontpage",
-        "https://stratechery.com/feed/"
+       "https://community.sap.com/khhcw49343/rss/board?board.id=hcm-blog-members",
+        "https://community.sap.com/khhcw49343/rss/board?board.id=hcm-blog-sap"
     ],
 
-    "KI / Artificial Intelligence": [
-        "https://openai.com/news/rss.xml",
-        "https://huggingface.co/blog/feed.xml",
-        "https://www.technologyreview.com/feed/"
-    ],
-
-    "China & Geopolitik": [
-        "https://www.scmp.com/rss/91/feed",
-        "https://chinadigitaltimes.net/china/feed/",
-        "https://thediplomat.com/feed/"
-    ],
-
-    "Finanzen & Börse": [
-        "https://www.ft.com/markets?format=rss",
-        "https://feeds.bloomberg.com/markets/news.rss",
-        "https://feeds.marketwatch.com/marketwatch/topstories/",
-        "https://www.handelsblatt.com/contentexport/feed/finanzen"
+    "Science": [
+        "https://singularityhub.com/feed/",
+        "http://www.quantamagazine.org/feed/"
     ],
 
     "Nachrichten Deutschland & Welt": [
         "https://www.tagesschau.de/xml/rss2/",
         "https://rss.dw.com/xml/rss-de-top",
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     ],
 
     "Kochen & Food": [
-        "https://www.chefkoch.de/rs/s0/neuerezepte.xml",
-        "https://www.essen-und-trinken.de/feed",
-        "https://www.lecker.de/rss.xml"
+        "https://www.zuckerzimtundliebe.de"
     ]
 }
 
