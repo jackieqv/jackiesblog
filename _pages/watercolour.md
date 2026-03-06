@@ -5,7 +5,6 @@ permalink: /watercolour/
 author_profile: true
 ---
 
-# Watercolour
 
 Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.
 
