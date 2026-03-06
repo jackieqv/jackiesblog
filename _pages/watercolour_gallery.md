@@ -1,19 +1,18 @@
 ---
-layout: page
-title: Galerie
+layout: single
+title: Gallery
 permalink: /watercolour/gallery/
+author_profile: true
 ---
 
 # Galerie
 
-Hier findest du eine Auswahl meiner Aquarellarbeiten.
+Eine Auswahl meiner Aquarellbilder und Motive.
 
 <div class="gallery-grid">
-
-<img src="/assets/images/aquarell1.jpg" alt="Aquarell Bild">
-<img src="/assets/images/aquarell2.jpg" alt="Aquarell Bild">
-<img src="/assets/images/aquarell3.jpg" alt="Aquarell Bild">
-
+  <img src="{{ '/assets/images/watercolour1.jpg' | relative_url }}" alt="Aquarellbild 1">
+  <img src="{{ '/assets/images/watercolour2.jpg' | relative_url }}" alt="Aquarellbild 2">
+  <img src="{{ '/assets/images/watercolour3.jpg' | relative_url }}" alt="Aquarellbild 3">
 </div>
 
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
