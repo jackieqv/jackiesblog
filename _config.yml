@@ -118,3 +118,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# publish from _pages
+  collections:
+  pages:
+    output: true
