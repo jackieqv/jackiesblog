@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aquarell
-permalink: /aquarell/
+title: Watercolour
+permalink: /watercolour/
 ---
 
 # Aquarell
