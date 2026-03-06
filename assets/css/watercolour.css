@@ -34,23 +34,17 @@
   box-shadow: none;
 }
 
-.card h3 {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-  color: inherit;
-}
-
-.card p {
-  margin-bottom: 1rem;
-  color: inherit;
-}
-
+.card h3,
+.card p,
 .card a,
 .card a:visited {
+  color: inherit;
+}
+
+.card a {
   display: inline-block;
   text-decoration: none;
   font-weight: 600;
-  color: inherit;
 }
 
 .card a:hover {
