@@ -26,26 +26,31 @@
 }
 
 .card {
-  background: #ffffff;
-  border: 1px solid #e6e6e6;
+  background: transparent;
+  color: inherit;
+  border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 14px;
   padding: 20px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  box-shadow: none;
 }
 
 .card h3 {
   margin-top: 0;
   margin-bottom: 0.75rem;
+  color: inherit;
 }
 
 .card p {
   margin-bottom: 1rem;
+  color: inherit;
 }
 
-.card a {
+.card a,
+.card a:visited {
   display: inline-block;
   text-decoration: none;
   font-weight: 600;
+  color: inherit;
 }
 
 .card a:hover {
