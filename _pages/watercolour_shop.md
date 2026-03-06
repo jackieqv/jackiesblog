@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Shop
 permalink: /watercolour/shop/
+author_profile: true
 ---
 
 # Shop
@@ -9,21 +10,19 @@ permalink: /watercolour/shop/
 Hier kannst du meine handgemalten Aquarellkarten entdecken.
 
 <div class="shop-grid">
+  <div class="card">
+    <h3>Wildblumen Karte</h3>
+    <p>Handgemalte botanische Aquarellkarte.</p>
+    <p><strong>4,90 €</strong></p>
+    <a href="#">Mehr erfahren</a>
+  </div>
 
-<div class="card">
-<h3>Wildblumen Karte</h3>
-<p>Handgemalte Aquarellkarte im botanischen Stil.</p>
-<p><strong>4,90 €</strong></p>
-<button>Kaufen</button>
+  <div class="card">
+    <h3>Frühlingsblumen Karte</h3>
+    <p>Zartes florales Motiv in Aquarell.</p>
+    <p><strong>4,90 €</strong></p>
+    <a href="#">Mehr erfahren</a>
+  </div>
 </div>
 
-<div class="card">
-<h3>Blumenstrauß Karte</h3>
-<p>Sanfte Aquarellfarben mit floralen Motiven.</p>
-<p><strong>4,90 €</strong></p>
-<button>Kaufen</button>
-</div>
-
-</div>
-
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
