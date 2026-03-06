@@ -5,7 +5,6 @@ permalink: /watercolour/freebies/
 author_profile: true
 ---
 
-# Freebies
 
 Kostenlose Downloads und kleine kreative Extras.
 
