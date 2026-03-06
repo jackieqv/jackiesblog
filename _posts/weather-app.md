@@ -19,16 +19,12 @@ permalink: /wetter/
 
   <div id="current" class="current"></div>
 
-  <h3 class="forecast-title">Vorhersage (nächste Tage)</h3>
+  <h3 class="forecast-title">Vorhersage (5 Tage)</h3>
   <div id="forecast" class="forecast"></div>
 
   <p class="hint">
-    Hinweis: Auf GitHub Pages ist der API-Key im Code sichtbar. Für Lernprojekte okay – für “produktiv” besser über einen Proxy/Serverless.
+    Open-Meteo nutzt keinen API-Key – ideal für GitHub Pages.
   </p>
 </div>
 
-<script>
-  // Trage hier deinen Key ein:
-  window.OPENWEATHER_API_KEY = "6a65e40ffe83a4caa0882cc593128ca0";
-</script>
-<script src="/assets/js/weather.js"></script>
+<script src="/assets/js/weather-open-meteo.js"></script>
