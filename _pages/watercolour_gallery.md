@@ -5,7 +5,6 @@ permalink: /watercolour/gallery/
 author_profile: true
 ---
 
-# Galerie
 
 Eine Auswahl meiner Aquarellbilder und Motive.
 
