@@ -15,7 +15,7 @@ Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.
 <div class="card">
 <h3>Galerie</h3>
 <p>Eine Auswahl meiner Aquarellbilder und Motive.</p>
-<a href="{{ '/watercolour/galerie/' | relative_url }}">Zur Galerie</a>
+<a href="{{ '/watercolour/gallery/' | relative_url }}">Zur Galerie</a>
 </div>
 
 <div class="card">
