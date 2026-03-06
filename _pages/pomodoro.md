@@ -1,5 +1,5 @@
 ---
-title: "Pomodoro Timer"
+title: "Focus Corner"
 permalink: /pomodoro/
 layout: single
 ---
@@ -47,43 +47,45 @@ layout: single
 </div>
 
 <style>
-:root {
-  --cp-cream: #f7f3eb;
-  --cp-paper: #fffdf9;
-  --cp-sage: #aebea6;
-  --cp-sage-dark: #768772;
-  --cp-terracotta: #c98d74;
-  --cp-ink: #2f342f;
-  --cp-soft: rgba(47, 52, 47, 0.08);
-  --cp-shadow: 0 18px 40px rgba(39, 44, 39, 0.10);
-}
-
 .cozy-pomodoro {
-  --cp-paper: #fffdf8;        /* warm paper */
-  --cp-cream: #f6f1e8;        /* linen */
-  --cp-sage: #a8b8a2;         /* soft sage */
-  --cp-sage-dark: #6f8a6b;    /* darker sage */
-  --cp-terracotta: #d08c72;   /* clay / handmade */
-  --cp-ink: #2f3432;          /* readable dark text */
+  --cp-card-top: rgba(37, 43, 41, 0.86);
+  --cp-card-bottom: rgba(27, 32, 30, 0.82);
+  --cp-card-border: rgba(255, 255, 255, 0.08);
+  --cp-sage: #9caf98;
+  --cp-sage-dark: #7f927b;
+  --cp-terracotta: #c98b73;
+  --cp-ink: #f4efe6;
+  --cp-muted: #c6beb2;
+  --cp-muted-2: #a8afa8;
+  --cp-button: rgba(255, 255, 255, 0.05);
+  --cp-button-border: rgba(255, 255, 255, 0.09);
+  --cp-shadow: 0 20px 48px rgba(0, 0, 0, 0.24);
+
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem 3rem;
 }
 
 .cozy-card {
   width: 100%;
   max-width: 720px;
-  background: linear-gradient(180deg, var(--cp-paper) 0%, var(--cp-cream) 100%);
+  background:
+    linear-gradient(180deg, var(--cp-card-top) 0%, var(--cp-card-bottom) 100%);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--cp-card-border);
+  box-shadow: var(--cp-shadow);
   border-radius: 28px;
   padding: 2.2rem 1.4rem 2rem;
   text-align: center;
-  border: 1px solid rgba(0,0,0,0.05);
-  box-shadow: 0 15px 35px rgba(0,0,0,0.08);
 }
 
 .cozy-badge {
   display: inline-block;
   padding: 0.45rem 0.9rem;
-  background: rgba(201, 141, 116, 0.12);
+  background: rgba(201, 139, 115, 0.12);
   color: var(--cp-ink);
-  border: 1px solid rgba(201, 141, 116, 0.18);
+  border: 1px solid rgba(201, 139, 115, 0.22);
   border-radius: 999px;
   font-size: 0.92rem;
   margin-bottom: 0.9rem;
@@ -94,21 +96,21 @@ layout: single
   text-transform: lowercase;
   letter-spacing: 0.08em;
   font-size: 0.82rem;
-  color: #6b7280;
+  color: var(--cp-muted-2);
 }
 
 .cozy-timer {
   margin: 0;
   font-size: clamp(3.6rem, 10vw, 6.2rem);
   line-height: 1;
-  color: #1f2933;
+  color: var(--cp-ink);
 }
 
 .cozy-note {
   margin: 0.9rem auto 1.5rem;
   max-width: 32rem;
   font-size: 1rem;
-  color: #4b5563;
+  color: var(--cp-muted);
 }
 
 .cozy-ring-wrap {
@@ -136,15 +138,16 @@ layout: single
 }
 
 .ring-bg {
-  stroke: rgba(47, 52, 47, 0.08);
+  stroke: rgba(255, 255, 255, 0.12);
 }
 
 .ring-progress {
-  stroke: var(--cp-terracotta);
+  stroke: rgb(156, 175, 152);
   stroke-linecap: round;
   stroke-dasharray: 326.73;
   stroke-dashoffset: 326.73;
-  transition: stroke-dashoffset 0.4s ease;
+  transition: stroke-dashoffset 0.4s ease, stroke 0.4s linear;
+  filter: drop-shadow(0 0 8px rgba(201, 139, 115, 0.16));
 }
 
 .ring-center {
@@ -154,7 +157,7 @@ layout: single
   align-items: center;
   justify-content: center;
   font-size: 1rem;
-  color: rgba(47, 52, 47, 0.7);
+  color: #b9c0b8;
 }
 
 .cozy-actions,
@@ -176,7 +179,12 @@ layout: single
   padding: 0.85rem 1.2rem;
   font-size: 0.95rem;
   cursor: pointer;
-  transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    opacity 0.15s ease,
+    background 0.2s ease,
+    border-color 0.2s ease;
 }
 
 .cozy-btn:hover,
@@ -185,26 +193,44 @@ layout: single
 }
 
 .cozy-btn {
-  background: #ffffff;
+  background: var(--cp-button);
   color: var(--cp-ink);
-  box-shadow: 0 8px 18px rgba(47, 52, 47, 0.06);
-  border: 1px solid rgba(47, 52, 47, 0.06);
+  border: 1px solid var(--cp-button-border);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
 }
 
 .cozy-btn-primary {
   background: var(--cp-sage-dark);
-  color: white;
+  color: #101513;
 }
 
 .cozy-pill {
-  background: rgba(174, 190, 166, 0.12);
+  background: rgba(255, 255, 255, 0.04);
   color: var(--cp-ink);
-  border: 1px solid rgba(118, 135, 114, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.cozy-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.cozy-btn-primary:hover {
+  background: #90a28b;
+}
+
+.cozy-pill:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.cozy-btn:focus-visible,
+.cozy-pill:focus-visible {
+  outline: 2px solid rgba(156, 175, 152, 0.55);
+  outline-offset: 2px;
 }
 
 .cozy-footer {
   margin-top: 1.4rem;
-  color: #6b7280;
+  color: var(--cp-muted-2);
   font-size: 0.92rem;
 }
 
@@ -212,40 +238,26 @@ layout: single
   margin: 0 0.45rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --cp-cream: #1e211f;
-    --cp-paper: #232725;
-    --cp-sage: #91a28a;
-    --cp-sage-dark: #b0c0a9;
-    --cp-terracotta: #d49a80;
-    --cp-ink: #f3f1ea;
-    --cp-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
-  }
-
+@media (max-width: 480px) {
   .cozy-card {
-    border-color: rgba(255, 255, 255, 0.06);
+    padding: 1.6rem 1rem 1.5rem;
+    border-radius: 24px;
   }
 
-  .cozy-badge,
+  .cozy-ring,
+  .ring-svg {
+    width: 180px;
+    height: 180px;
+  }
+
+  .cozy-actions,
+  .cozy-modes {
+    gap: 0.65rem;
+  }
+
+  .cozy-btn,
   .cozy-pill {
-    background: rgba(255, 255, 255, 0.04);
-    border-color: rgba(255, 255, 255, 0.08);
-  }
-
-  .cozy-btn {
-    background: rgba(255, 255, 255, 0.05);
-    color: var(--cp-ink);
-    border-color: rgba(255, 255, 255, 0.08);
-  }
-
-  .cozy-btn-primary {
-    background: var(--cp-sage-dark);
-    color: #1b1d1b;
-  }
-
-  .ring-bg {
-    stroke: rgba(255, 255, 255, 0.1);
+    width: 100%;
   }
 }
 </style>
@@ -267,6 +279,8 @@ const ringProgressEl = document.getElementById("ringProgress");
 const savedTextEl = document.getElementById("savedText");
 
 const CIRCUMFERENCE = 2 * Math.PI * 52;
+const startColor = [156, 175, 152];
+const endColor = [201, 139, 115];
 
 function saveState() {
   const state = {
@@ -303,6 +317,11 @@ function updateDisplay() {
   const offset = CIRCUMFERENCE - progress * CIRCUMFERENCE;
   ringProgressEl.style.strokeDasharray = CIRCUMFERENCE;
   ringProgressEl.style.strokeDashoffset = offset;
+
+  const r = Math.round(startColor[0] + (endColor[0] - startColor[0]) * progress);
+  const g = Math.round(startColor[1] + (endColor[1] - startColor[1]) * progress);
+  const b = Math.round(startColor[2] + (endColor[2] - startColor[2]) * progress);
+  ringProgressEl.style.stroke = `rgb(${r}, ${g}, ${b})`;
 }
 
 function updateTexts() {
@@ -363,7 +382,6 @@ function setMode(newMode, minutes) {
   mode = newMode;
   totalTime = minutes * 60;
   timeLeft = totalTime;
-
   updateTexts();
   updateDisplay();
   saveState();
