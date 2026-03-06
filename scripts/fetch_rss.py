@@ -46,8 +46,8 @@ feeds = {
     ]
 }
 
-MAX_ITEMS_PER_FEED = 6
-MAX_ITEMS_PER_CATEGORY = 18
+MAX_ITEMS_PER_FEED = 5
+MAX_ITEMS_PER_CATEGORY = 5
 
 
 from datetime import datetime
