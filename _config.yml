@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 #_config.yml
 url: 'https://jackieqv.github.io/' # your main domain
-baseurl: 'jackiesblog/' # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: '/jackiesblog' # if you're using custom domain keep this blank example: baseurl: ''
 
 title: Jackies Blog
 email:
@@ -118,14 +118,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# publish from _pages
-  collections:
-  pages:
-    output: true
-  defaults:
-  - scope:
-      path: "_pages"
-        type: pages
-    values:
-      layout: single
