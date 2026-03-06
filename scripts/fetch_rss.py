@@ -11,7 +11,7 @@ feeds = {
         "https://feeds.feedburner.com/bigthink/main"
     ],
     
-    "Digitale Trends & Technologie": [
+    "Technology": [
        "https://community.sap.com/khhcw49343/rss/board?board.id=hcm-blog-members",
         "https://community.sap.com/khhcw49343/rss/board?board.id=hcm-blog-sap"
     ],
@@ -21,13 +21,14 @@ feeds = {
         "http://www.quantamagazine.org/feed/"
     ],
 
-    "Nachrichten Deutschland & Welt": [
+    "News": [
         "https://www.tagesschau.de/xml/rss2/",
         "https://rss.dw.com/xml/rss-de-top",
     ],
 
-    "Kochen & Food": [
-        "https://www.zuckerzimtundliebe.de"
+    "Food": [
+        "https://www.zuckerzimtundliebe.de",
+        "https://kochkarussell.com"
     ]
 }
 
