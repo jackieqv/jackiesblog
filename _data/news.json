@@ -1,600 +1,150 @@
 {
+  "Education": [
+    {
+      "title": "A new window to the early universe (and aliens?)",
+      "link": "https://bigthink.com/13-8/james-webb-telescope",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T16:00:00+00:00"
+    },
+    {
+      "title": "The cruelest people in Russian history",
+      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T15:00:00+00:00"
+    },
+    {
+      "title": "Mindfulness: New age craze or science-backed solution?",
+      "link": "https://bigthink.com/mind-brain/mindfulness-science",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:40:03+00:00"
+    },
+    {
+      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
+      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:00:00+00:00"
+    },
+    {
+      "title": "What happens when two different respiratory viruses infect the same cell?",
+      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T07:35:26+00:00"
+    }
+  ],
   "Digitale Trends & Technologie": [
     {
-      "title": "Tech industry is in tariff hell, even if refunds are automated",
-      "link": "https://arstechnica.com/tech-policy/2026/03/tech-industry-is-in-tariff-hell-even-if-refunds-are-automated/",
+      "title": "Introducing CQC Implementation Gates for SAP SuccessFactors HCM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-cqc-implementation-gates-for-sap-successfactors-hcm/ba-p/14343425",
       "published": "06 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-06T12:20:40+00:00"
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-06T13:41:19+00:00"
     },
     {
-      "title": "Elite Overproduction",
-      "link": "https://en.wikipedia.org/wiki/Elite_overproduction",
+      "title": "Enterprise Data Replication Governance Between SAP SuccessFactors EC and SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enterprise-data-replication-governance-between-sap-successfactors-ec-and/ba-p/14342972",
       "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T12:10:35+00:00"
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-06T09:19:46+00:00"
     },
     {
-      "title": "AI startup sues ex-CEO, saying he took 41GB of email and lied on résumé",
-      "link": "https://arstechnica.com/tech-policy/2026/03/ai-startup-sues-ex-ceo-saying-he-took-41gb-of-email-and-lied-on-resume/",
-      "published": "06 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-06T12:10:07+00:00"
-    },
-    {
-      "title": "First MacBook Neo Benchmarks Are In",
-      "link": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/",
-      "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T12:06:00+00:00"
-    },
-    {
-      "title": "Which of these two arcades is the \"world largest\"—and does it matter?",
-      "link": "https://arstechnica.com/gaming/2026/03/which-of-these-two-arcades-is-the-world-largest-and-does-it-matter/",
-      "published": "06 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-06T12:00:02+00:00"
-    },
-    {
-      "title": "Rocket Report: SpaceX launch prices are going up; Russia fixes broken launch pad",
-      "link": "https://arstechnica.com/space/2026/03/rocket-report-spacex-launch-prices-are-going-up-russia-fixes-broken-launch-pad/",
-      "published": "06 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-06T12:00:02+00:00"
-    },
-    {
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T11:53:18+00:00"
-    },
-    {
-      "title": "Async Programming Is Just Inject Time",
-      "link": "https://willhbr.net/2026/03/02/async-inject-and-effects/",
-      "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T11:52:01+00:00"
-    },
-    {
-      "title": "LibreSprite – open-source pixel art editor",
-      "link": "https://libresprite.github.io/",
-      "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T09:22:00+00:00"
-    },
-    {
-      "title": "GPL upgrades via section 14 proxy delegation",
-      "link": "https://runxiyu.org/comp/gplproxy/",
-      "published": "06 Mar 2026",
-      "source": "Hacker News: Front Page",
-      "sort_date": "2026-03-06T08:41:51+00:00"
-    },
-    {
-      "title": "Meet your new phone away from phone",
-      "link": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
-      "published": "2026-03-06T07:00:00-05:00",
-      "source": "The Verge",
-      "sort_date": "2026-03-06T07:00:00-05:00"
-    },
-    {
-      "title": "Anthropic to challenge DOD’s supply-chain label in court",
-      "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-      "published": "06 Mar 2026",
-      "source": "TechCrunch",
-      "sort_date": "2026-03-06T01:28:54+00:00"
-    },
-    {
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "published": "05 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-05T23:36:04+00:00"
-    },
-    {
-      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-      "published": "05 Mar 2026",
-      "source": "TechCrunch",
-      "sort_date": "2026-03-05T23:14:04+00:00"
-    },
-    {
-      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
-      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
-      "published": "05 Mar 2026",
-      "source": "TechCrunch",
-      "sort_date": "2026-03-05T22:38:26+00:00"
-    },
-    {
-      "title": "AWS launches a new AI agent platform specifically for healthcare",
-      "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-      "published": "05 Mar 2026",
-      "source": "TechCrunch",
-      "sort_date": "2026-03-05T21:54:37+00:00"
-    },
-    {
-      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-      "link": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-      "published": "05 Mar 2026",
-      "source": "Ars Technica - All content",
-      "sort_date": "2026-03-05T21:39:43+00:00"
-    },
-    {
-      "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
-      "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
-      "published": "05 Mar 2026",
-      "source": "TechCrunch",
-      "sort_date": "2026-03-05T21:33:24+00:00"
-    }
-  ],
-  "KI / Artificial Intelligence": [
-    {
-      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-      "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-      "published": "05 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-05T14:28:46+00:00"
-    },
-    {
-      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-      "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-      "published": "05 Mar 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-03-05T14:16:49+00:00"
-    },
-    {
-      "title": "How much wildfire prevention is too much?",
-      "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-      "published": "05 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-05T11:00:00+00:00"
-    },
-    {
-      "title": "GPT-5.4 Thinking System Card",
-      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T10:00:00+00:00"
-    },
-    {
-      "title": "Introducing GPT-5.4",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T10:00:00+00:00"
-    },
-    {
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T10:00:00+00:00"
-    },
-    {
-      "title": "Online harassment is entering its AI era",
-      "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "published": "05 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-05T10:00:00+00:00"
-    },
-    {
-      "title": "Ensuring AI use in education leads to opportunity",
-      "link": "https://openai.com/index/ai-education-opportunity",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T09:00:00+00:00"
-    },
-    {
-      "title": "The five AI value models driving business reinvention",
-      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T00:00:00+00:00"
-    },
-    {
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "link": "https://openai.com/index/chatgpt-for-excel",
-      "published": "05 Mar 2026",
-      "source": "OpenAI News",
-      "sort_date": "2026-03-05T00:00:00+00:00"
-    },
-    {
-      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-      "link": "https://huggingface.co/blog/modular-diffusers",
-      "published": "05 Mar 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-03-05T00:00:00+00:00"
-    },
-    {
-      "title": "Bridging the operational AI gap",
-      "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "title": "Transitioning from Chaos to Clarity: Converting Raw Design Worksheet XML to Excel",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/transitioning-from-chaos-to-clarity-converting-raw-design-worksheet-xml-to/ba-p/14338636",
       "published": "04 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-04T14:00:00+00:00"
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-04T10:13:04+00:00"
     },
     {
-      "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-      "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+      "title": "Understanding how to retrieve only the right employee records in Variable Pay",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-how-to-retrieve-only-the-right-employee-records-in-variable/ba-p/14339797",
+      "published": "03 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-03T16:19:34+00:00"
+    },
+    {
+      "title": "An AI Tool That Turns SuccessFactors $metadata Into a Clean Excel Data Dictionary in 30 Secs",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/an-ai-tool-that-turns-successfactors-metadata-into-a-clean-excel-data/ba-p/14338690",
+      "published": "02 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-02T02:30:08+00:00"
+    }
+  ],
+  "Science": [
+    {
+      "title": "Thousands of Everyday Drone Pilots Are Making a Google Street View From Above",
+      "link": "https://singularityhub.com/2026/03/05/thousands-of-everyday-drone-pilots-are-making-a-google-street-view-from-above/",
+      "published": "05 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-05T19:13:38+00:00"
+    },
+    {
+      "title": "Can the Most Abstract Math Make the World a Better Place?",
+      "link": "https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/",
       "published": "04 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-04T13:12:00+00:00"
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-04T15:13:50+00:00"
     },
     {
-      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-      "link": "https://huggingface.co/blog/Photoroom/prx-part3",
-      "published": "03 Mar 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-03-03T16:50:49+00:00"
+      "title": "These Supercharged Immune Cells Completely Eliminated Solid Tumors in Mice",
+      "link": "https://singularityhub.com/2026/03/03/these-supercharged-immune-cells-completely-eliminate-solid-tumors-in-mice/",
+      "published": "04 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-04T00:35:15+00:00"
     },
     {
-      "title": "MIT Technology Review Insiders Panel",
-      "link": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
-      "published": "03 Mar 2026",
-      "source": "MIT Technology Review",
-      "sort_date": "2026-03-03T15:53:10+00:00"
+      "title": "New Device Detects Brain Waves in Mini Brains Mimicking Early Human Development",
+      "link": "https://singularityhub.com/2026/03/02/new-device-detects-brain-waves-in-mini-brains-mimicking-early-human-development/",
+      "published": "02 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-02T23:47:26+00:00"
     },
     {
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "link": "https://huggingface.co/blog/moe-transformers",
-      "published": "26 Feb 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-02-26T00:00:00+00:00"
-    },
-    {
-      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-      "published": "24 Feb 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-02-24T00:00:21+00:00"
-    },
-    {
-      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-      "link": "https://huggingface.co/blog/ggml-joins-hf",
-      "published": "20 Feb 2026",
-      "source": "Hugging Face - Blog",
-      "sort_date": "2026-02-20T00:00:00+00:00"
-    }
-  ],
-  "China & Geopolitik": [
-    {
-      "title": "Philippines Arrests 3 Defense Personnel Over China Spy Claims",
-      "link": "https://thediplomat.com/2026/03/philippines-arrests-3-defense-personnel-over-china-spy-claims/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T12:59:00+09:00"
-    },
-    {
-      "title": "Iran’s uncertain future poses a strategic test for China",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3345363/irans-uncertain-future-poses-strategic-test-china?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T12:30:08+00:00"
-    },
-    {
-      "title": "DNA confirms mutilated remains found on Bali beach belong to kidnapped Ukrainian",
-      "link": "https://www.scmp.com/week-asia/people/article/3345757/dna-confirms-mutilated-remains-found-bali-beach-belong-kidnapped-ukrainian?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T12:24:02+00:00"
-    },
-    {
-      "title": "China fires back at currency-depreciation claims, denies using weak yuan to boost exports",
-      "link": "https://www.scmp.com/economy/china-economy/article/3345755/china-fires-back-currency-depreciation-claims-denies-using-weak-yuan-boost-exports?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T12:00:09+00:00"
-    },
-    {
-      "title": "Why China wants stronger policing of disputed waters under new 5-year plan",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3345729/why-china-wants-stronger-policing-disputed-waters-under-new-5-year-plan?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T12:00:08+00:00"
-    },
-    {
-      "title": "Sacking of teacher for anti-police remarks reasonable, appeal court rules",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345753/sacking-teacher-anti-police-remarks-reasonable-appeal-court-rules?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T11:45:48+00:00"
-    },
-    {
-      "title": "2 tankers carrying India’s Reliance fuel ditch Europe, divert to Singapore, Southeast Asia",
-      "link": "https://www.scmp.com/news/world/europe/article/3345744/2-tankers-carrying-indias-reliance-fuel-ditch-europe-divert-singapore-southeast-asia?utm_source=rss_feed",
-      "published": "06 Mar 2026",
-      "source": "News - South China Morning Post",
-      "sort_date": "2026-03-06T11:18:55+00:00"
-    },
-    {
-      "title": "In Hindsight: Madame Nhu and the American War in Vietnam",
-      "link": "https://thediplomat.com/2026/03/in-hindsight-madame-nhu-and-the-american-war-in-vietnam/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T09:00:00+09:00"
-    },
-    {
-      "title": "Thai Election Commission Certifies Remaining Parliamentary Seats",
-      "link": "https://thediplomat.com/2026/03/thai-election-commission-certifies-remaining-parliamentary-seats/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T08:49:00+09:00"
-    },
-    {
-      "title": "Beijing’s Balkan Classrooms",
-      "link": "https://thediplomat.com/2026/03/beijings-balkan-classrooms/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T04:14:00+09:00"
-    },
-    {
-      "title": "Umar Khalid: 2,000 Days in Prison Without Trial",
-      "link": "https://thediplomat.com/2026/03/umar-khalid-2000-days-in-prison-without-trial/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T00:39:00+09:00"
-    },
-    {
-      "title": "America’s Attack on Iran Should Have Asia-Pacific Countries Very, Very Worried",
-      "link": "https://thediplomat.com/2026/03/americas-attack-on-iran-should-have-asia-pacific-countries-very-very-worried/",
-      "published": "06 Mar 2026",
-      "source": "The Diplomat",
-      "sort_date": "2026-03-06T00:07:00+09:00"
-    }
-  ],
-  "Finanzen & Börse": [
-    {
-      "title": "The scary numbers on retirement healthcare: You’ll need up to $469,000 saved",
-      "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T12:54:00+00:00"
-    },
-    {
-      "title": "MAHA’s sweeping changes to pediatric vaccines have made parents more confused than ever",
-      "link": "https://www.marketwatch.com/story/mahas-sweeping-vaccine-changes-and-social-media-have-parents-more-confused-than-ever-1d58b76d?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T12:40:00+00:00"
-    },
-    {
-      "title": "Gap’s Athleta brand sales continue to fall, and that’s sinking the retailer’s stock",
-      "link": "https://www.marketwatch.com/story/this-gap-brand-continues-to-be-an-underperformer-and-it-is-dragging-the-retailers-stock-579397c9?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T12:32:00+00:00"
-    },
-    {
-      "title": "IRGC Apparatus Must Be Dismantled for Iranians to Take Charge: Aarabi",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-06/irgc-apparatus-must-be-dismantled-for-iranians-to-take-charge-aarabi",
-      "published": "06 Mar 2026",
-      "source": "Bloomberg Markets",
-      "sort_date": "2026-03-06T12:31:05+00:00"
-    },
-    {
-      "title": "Goldman’s Struyven Sees ‘Meaningful’ Upside to $100 Oil",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-06/goldman-s-struyven-sees-meaningful-upside-to-100-oil-video",
-      "published": "06 Mar 2026",
-      "source": "Bloomberg Markets",
-      "sort_date": "2026-03-06T12:29:16+00:00"
-    },
-    {
-      "title": "Global bonds slump as Iran war upsets rate-cut bets",
-      "link": "https://www.ft.com/content/d0b40a4d-9cd8-4904-8c0a-ea14326341b7",
-      "published": "06 Mar 2026",
-      "source": "Markets",
-      "sort_date": "2026-03-06T12:11:10+00:00"
-    },
-    {
-      "title": "Anthropic’s meteoric rise shocked the market — but the AI crown remains up for grabs",
-      "link": "https://www.marketwatch.com/story/anthropics-meteoric-rise-shocked-the-market-but-the-ai-crown-remains-up-for-grabs-999f8fef?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T12:01:00+00:00"
-    },
-    {
-      "title": "Interview: Immobilienexpertin Sabine Georgi: „Gebäudetyp E sollte zum verlässlichen Mindeststandard werden“",
-      "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-gebaeudetyp-e-sollte-zum-verlaesslichen-mindeststandard-werden/100195195.html",
-      "published": "06 Mar 2026",
-      "source": "Handelsblatt Schlagzeilen",
-      "sort_date": "2026-03-06T11:59:02+00:00"
-    },
-    {
-      "title": "Dax aktuell: Dax dreht ins Minus – Warten auf neue US-Daten",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-minus-lanxess-aktie-rutscht-ab/100206121.html",
-      "published": "06 Mar 2026",
-      "source": "Handelsblatt Schlagzeilen",
-      "sort_date": "2026-03-06T11:55:32+00:00"
-    },
-    {
-      "title": "Are you financially ‘prepped’ for higher inflation?",
-      "link": "https://www.ft.com/content/0a659cd7-18ac-479c-84f4-47ee344a694e",
-      "published": "06 Mar 2026",
-      "source": "Markets",
-      "sort_date": "2026-03-06T11:53:34+00:00"
-    },
-    {
-      "title": "Submit your questions: Can policymakers keep the global economy on track?",
-      "link": "https://www.ft.com/content/950d23a7-bc13-41f7-ae5e-81d72aa0565a",
-      "published": "06 Mar 2026",
-      "source": "Markets",
-      "sort_date": "2026-03-06T11:48:46+00:00"
-    },
-    {
-      "title": "The ‘everybody loses’ scenario: Why the Iran conflict is breaking this classic portfolio strategy",
-      "link": "https://www.marketwatch.com/story/the-everybody-loses-scenario-why-the-iran-conflict-is-breaking-this-classic-portfolio-strategy-b47c298d?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T11:44:00+00:00"
-    },
-    {
-      "title": "Trump professes no concern for rise in gasoline prices that have jumped over the last week",
-      "link": "https://www.marketwatch.com/story/trump-professes-no-concern-for-rise-in-gasoline-prices-that-have-jumped-over-the-last-week-8f1ce8cd?mod=mw_rss_topstories",
-      "published": "06 Mar 2026",
-      "source": "MarketWatch.com - Top Stories",
-      "sort_date": "2026-03-06T11:36:00+00:00"
-    },
-    {
-      "title": "Geldanlage: Vier Aktien aus Europa und den USA mit besonderen Kurschancen",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-vier-aktien-aus-europa-und-den-usa-mit-besonderen-kurschancen/100203765.html",
-      "published": "06 Mar 2026",
-      "source": "Handelsblatt Schlagzeilen",
-      "sort_date": "2026-03-06T11:30:12+00:00"
-    },
-    {
-      "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
-      "link": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea",
-      "published": "06 Mar 2026",
-      "source": "Markets",
-      "sort_date": "2026-03-06T10:10:27+00:00"
-    },
-    {
-      "title": "Wall Street: Protzen mit Hermès-Krawatte: Goldman rügt junge Banker für Fotoshooting",
-      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/wall-street-protzen-mit-hermes-goldman-ruegt-junge-banker-fuer-fotoshooting/100206178.html",
-      "published": "06 Mar 2026",
-      "source": "Handelsblatt Schlagzeilen",
-      "sort_date": "2026-03-06T10:03:13+00:00"
-    },
-    {
-      "title": "Bonds Slide as War Takes ECB Hike From Fringe to Fully Priced",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-06/bonds-slide-as-war-takes-ecb-rate-hike-from-fringe-to-mainstream",
-      "published": "06 Mar 2026",
-      "source": "Bloomberg Markets",
-      "sort_date": "2026-03-06T09:41:06+00:00"
-    },
-    {
-      "title": "Vincorion: Rüstungs-Zulieferer plant Börsengang in Frankfurt",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/vincorion-ruestungs-zulieferer-plant-boersengang-in-frankfurt/100206151.html",
-      "published": "06 Mar 2026",
-      "source": "Handelsblatt Schlagzeilen",
-      "sort_date": "2026-03-06T09:28:36+00:00"
+      "title": "What Crystals Older Than the Sun Reveal About the Start of the Solar System",
+      "link": "https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/",
+      "published": "02 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-02T15:12:31+00:00"
     }
   ],
   "Nachrichten Deutschland & Welt": [
+    {
+      "title": "ASMR und der weltweite Boom sanfter Geräusche",
+      "link": "https://www.tagesschau.de/kultur/asmr-und-der-boom-sanfter-geraeusche-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T14:45:35+01:00"
+    },
+    {
+      "title": "Kriegsalltag in Saporischschja: \"Angst und Panik helfen uns nicht\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-sicherheitslage-saporischschja-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T14:40:46+01:00"
+    },
+    {
+      "title": "Logistik-Branche fordert Hilfe wegen hoher Spritpreise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/unternehmen-logistiker-spritpreise-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T14:15:12+01:00"
+    },
+    {
+      "title": "Marktbericht: Reiselust beschert Lufthansa Rekordjahr",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-aktie-des-tages-lufthansa-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T14:11:53+01:00"
+    },
     {
       "title": "Wie die Merz-CDU auf die Wahlen im Südwesten schaut",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-landtagswahl-baden-wuerttemberg-100.html",
       "published": "06 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-06T13:48:12+01:00"
-    },
-    {
-      "title": "Bundeswehr darf künftig notfalls Drohnen abschießen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-drohnen-bundesrat-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T12:47:19+01:00"
-    },
-    {
-      "title": "Hungary to expel Ukrainian bank workers in row with Kyiv",
-      "link": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
-      "published": "06 Mar 2026",
-      "source": "BBC News",
-      "sort_date": "2026-03-06T12:42:28+00:00"
-    },
-    {
-      "title": "Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
-      "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T12:33:06+00:00"
-    },
-    {
-      "title": "Gescheiterte Wahl: Präsidentin löst Parlament im Kosovo auf",
-      "link": "https://www.dw.com/de/gescheiterte-wahl-präsidentin-löst-parlament-im-kosovo-auf/a-76247707?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-06T12:31:00+00:00"
-    },
-    {
-      "title": "Sorge um Ölimporte: Ein Krieg, der China nicht recht ist",
-      "link": "https://www.tagesschau.de/ausland/asien/china-iran-oel-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T12:16:49+01:00"
-    },
-    {
-      "title": "Traditionsverständnis beim Militär: Wo bleibt das Liederbuch der Bundeswehr?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-liederbuch-tradition-rechtsextremismus-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T12:00:06+01:00"
-    },
-    {
-      "title": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes",
-      "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T11:38:53+00:00"
-    },
-    {
-      "title": "USA und Venezuela normalisieren ihre Beziehungen weiter",
-      "link": "https://www.dw.com/de/usa-und-venezuela-normalisieren-ihre-beziehungen-weiter/a-76245476?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-06T11:36:00+00:00"
-    },
-    {
-      "title": "Iran-Krieg: US-Geleit für Schiffe in der Straße von Hormus?",
-      "link": "https://www.dw.com/de/iran-krieg-us-geleit-für-schiffe-in-der-straße-von-hormus/a-76241292?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-06T11:11:00+00:00"
-    },
-    {
-      "title": "Bundestag beschließt Reform der Krankenhausreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenhausreform-bundestag-102.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T11:07:25+01:00"
-    },
-    {
-      "title": "Präsidentin des Kosovo löst Parlament auf und kündigt Neuwahl an",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-aufloesung-parlament-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T11:03:02+01:00"
-    },
-    {
-      "title": "Lebanon at ‘Tipping Point’ as It Seeks to Disarm Hezbollah",
-      "link": "https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T08:59:40+00:00"
-    },
-    {
-      "title": "Nach Kritik an ICE-Einsatz: Donald Trump feuert US-Heimatschutzministerin Kristi Noem - News kompakt: Das Wichtigste kurz gefasst",
-      "link": "https://www.dw.com/de/nach-kritik-an-ice-einsatz-donald-trump-feuert-us-heimatschutzministerin-kristi-noem-news-kompakt-das-wichtigste-kurz-gefasst/a-76239306?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-06T08:00:00+00:00"
-    },
-    {
-      "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk With Young Men",
-      "link": "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T05:01:06+00:00"
-    },
-    {
-      "title": "He Had a Purple Heart, PTSD and a Rap Sheet. He Had to Leave the U.S.",
-      "link": "https://www.nytimes.com/2026/03/06/world/asia/south-korea-deportee-immigration.html",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T05:00:24+00:00"
-    },
-    {
-      "title": "The Good Times Are Over in China’s Liquor Capital",
-      "link": "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html",
-      "published": "06 Mar 2026",
-      "source": "NYT > World News",
-      "sort_date": "2026-03-06T05:00:15+00:00"
-    },
-    {
-      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-      "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-      "published": "06 Mar 2026",
-      "source": "BBC News",
-      "sort_date": "2026-03-06T04:23:12+00:00"
     }
   ],
   "Kochen & Food": []
