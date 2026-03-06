@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Janine Quach"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just a regular girl doing everything, everywhere, all at once - while she can :sparkling_heart:"
+  bio    : "A creative maker and curious tech explorer sharing handcrafted projects and small web experiments."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
