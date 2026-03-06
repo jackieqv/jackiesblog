@@ -65,32 +65,26 @@ plugins:
 author:
   name   : "Janine Quach"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A creative maker and curious tech explorer sharing handcrafted projects and small web experiments."
+  bio    : "A creative maker and curious tech explorer sharing handcrafted projects and small web experiments :sparkling_heart:"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janine-quach-9a6302107/"
     
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/JackeiQV"
+    - label: "happyknotscologne"
+      icon: "fab fa-fw fa-wordpress"
+      url: "https://happyknotscologne.com/"
 
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/janine.quach.3"
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janine-quach-9a6302107/"
 
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/JackeiQV"
+    - label: "happyknotscologne"
+      icon: "fab fa-fw fa-wordpress"
+      url: "https://happyknotscologne.com/"
 
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/janine.quach.3"
 
 defaults:
   # _posts
