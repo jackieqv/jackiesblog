@@ -1,4 +1,8 @@
 ---
+title: "Weather App"
+published: true
+categories:
+  - Weather
 layout: page
 title: Wetter
 permalink: /wetter/
