@@ -1,0 +1,158 @@
+.weather-page {
+  margin-top: 1rem;
+}
+
+.weather-header {
+  margin-bottom: 1.5rem;
+}
+
+.weather-header h1 {
+  margin-bottom: 0.35rem;
+}
+
+.weather-search {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.weather-search input {
+  flex: 1 1 260px;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  background: #1f2937;
+  color: #f9fafb;
+}
+
+.weather-search input::placeholder {
+  color: #94a3b8;
+}
+
+.weather-search button {
+  padding: 0.8rem 1rem;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+.weather-search button:hover {
+  opacity: 0.95;
+}
+
+.weather-search button.secondary {
+  background: #374151;
+}
+
+.weather-status {
+  color: #cbd5e1;
+  margin-bottom: 1rem;
+}
+
+.weather-current {
+  background: #1f2937;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 16px;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.weather-empty {
+  color: #cbd5e1;
+}
+
+.current-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.weather-location {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #f9fafb;
+}
+
+.weather-description {
+  color: #cbd5e1;
+  margin-top: 0.25rem;
+}
+
+.weather-temp {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #f9fafb;
+}
+
+.weather-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.weather-meta-card {
+  background: #111827;
+  border-radius: 12px;
+  padding: 0.85rem;
+}
+
+.weather-meta-card span {
+  display: block;
+  font-size: 0.9rem;
+  color: #94a3b8;
+  margin-bottom: 0.25rem;
+}
+
+.weather-meta-card strong {
+  color: #f9fafb;
+}
+
+.weather-forecast h2 {
+  margin-bottom: 1rem;
+}
+
+.forecast-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.forecast-card {
+  background: #1f2937;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 16px;
+  padding: 1rem;
+}
+
+.forecast-day {
+  font-weight: 700;
+  color: #f9fafb;
+  margin-bottom: 0.5rem;
+}
+
+.forecast-desc {
+  color: #cbd5e1;
+  min-height: 2.8em;
+  margin-bottom: 0.75rem;
+}
+
+.forecast-temps {
+  font-weight: 700;
+  color: #f9fafb;
+}
+
+@media (max-width: 640px) {
+  .current-top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .weather-temp {
+    font-size: 1.7rem;
+  }
+}
