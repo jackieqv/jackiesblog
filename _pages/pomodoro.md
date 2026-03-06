@@ -94,21 +94,21 @@ layout: single
   text-transform: lowercase;
   letter-spacing: 0.08em;
   font-size: 0.82rem;
-  color: rgba(47, 52, 47, 0.65);
+  color: #6b7280;
 }
 
 .cozy-timer {
   margin: 0;
   font-size: clamp(3.6rem, 10vw, 6.2rem);
   line-height: 1;
-  color: var(--cp-ink);
+  color: #1f2933;
 }
 
 .cozy-note {
   margin: 0.9rem auto 1.5rem;
   max-width: 32rem;
   font-size: 1rem;
-  color: rgba(47, 52, 47, 0.74);
+  color: #4b5563;
 }
 
 .cozy-ring-wrap {
@@ -204,7 +204,7 @@ layout: single
 
 .cozy-footer {
   margin-top: 1.4rem;
-  color: rgba(47, 52, 47, 0.62);
+  color: #6b7280;
   font-size: 0.92rem;
 }
 
