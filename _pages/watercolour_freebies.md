@@ -4,8 +4,6 @@ title: Freebies
 permalink: /watercolour/freebies/
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
-
 # Freebies
 
 Hier findest du kostenlose Downloads rund um Aquarell.
