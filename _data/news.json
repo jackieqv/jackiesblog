@@ -1,83 +1,372 @@
 {
-  "Hacker News": [
+  "KI / Artificial Intelligence": [
     {
-      "title": "We Might All Be AI Engineers Now",
-      "link": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-      "published": "Fri, 06 Mar 2026 09:13:30 +0000"
+      "title": "GPT-5.4 Thinking System Card",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "source": "OpenAI News"
     },
     {
-      "title": "GPL upgrades via section 14 proxy delegation",
-      "link": "https://runxiyu.org/comp/gplproxy/",
-      "published": "Fri, 06 Mar 2026 08:41:51 +0000"
+      "title": "Introducing GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "source": "OpenAI News"
     },
     {
-      "title": "Stardex (YC S21) is hiring customer success engineers",
-      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-      "published": "Fri, 06 Mar 2026 07:02:08 +0000"
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "source": "OpenAI News"
     },
     {
-      "title": "TeX Live 2026 is available for download now",
-      "link": "https://www.tug.org/texlive/acquire.html",
-      "published": "Fri, 06 Mar 2026 05:20:10 +0000"
+      "title": "Ensuring AI use in education leads to opportunity",
+      "link": "https://openai.com/index/ai-education-opportunity",
+      "published": "Thu, 05 Mar 2026 09:00:00 GMT",
+      "source": "OpenAI News"
     },
     {
-      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-      "link": "https://dev.moment.com/",
-      "published": "Fri, 06 Mar 2026 04:15:40 +0000"
+      "title": "The five AI value models driving business reinvention",
+      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "published": "Thu, 05 Mar 2026 14:16:49 GMT",
+      "source": "Hugging Face - Blog"
+    },
+    {
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "link": "https://huggingface.co/blog/modular-diffusers",
+      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "source": "Hugging Face - Blog"
+    },
+    {
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "published": "Tue, 03 Mar 2026 16:50:49 GMT",
+      "source": "Hugging Face - Blog"
+    },
+    {
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "published": "Thu, 26 Feb 2026 00:00:00 GMT",
+      "source": "Hugging Face - Blog"
+    },
+    {
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "published": "Tue, 24 Feb 2026 00:00:21 GMT",
+      "source": "Hugging Face - Blog"
     }
   ],
-  "The Verge": [
+  "Digitale Trends & Technologie": [
     {
       "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
       "link": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
-      "published": "2026-03-05T20:24:36-05:00"
+      "published": "2026-03-05T20:24:36-05:00",
+      "source": "The Verge"
     },
     {
       "title": "The best iPad deals you can get right now",
       "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "published": "2026-03-05T20:08:00-05:00"
+      "published": "2026-03-05T20:08:00-05:00",
+      "source": "The Verge"
     },
     {
-      "title": "What if your real computer was a super-sized Lego computer brick?",
+      "title": "What if your real computer was a supersized Lego computer brick?",
       "link": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
-      "published": "2026-03-05T19:59:11-05:00"
+      "published": "2026-03-05T19:59:11-05:00",
+      "source": "The Verge"
     },
     {
       "title": "Lawmakers just advanced online safety laws that require age verification at the app store",
       "link": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
-      "published": "2026-03-05T18:16:00-05:00"
+      "published": "2026-03-05T18:16:00-05:00",
+      "source": "The Verge"
     },
     {
       "title": "The Pentagon formally labels Anthropic a supply-chain risk",
       "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-      "published": "2026-03-05T18:02:22-05:00"
+      "published": "2026-03-05T18:02:22-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+      "published": "Thu, 05 Mar 2026 23:36:04 +0000",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
+      "link": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
+      "published": "Thu, 05 Mar 2026 21:39:43 +0000",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
+      "link": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
+      "published": "Thu, 05 Mar 2026 21:29:30 +0000",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "Amazon appears to be down, with over 20,000 reported problems",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+      "published": "Thu, 05 Mar 2026 21:06:05 +0000",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
+      "link": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
+      "published": "Thu, 05 Mar 2026 20:55:25 +0000",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "Anthropic to challenge DOD’s supply-chain label in court",
+      "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "published": "Fri, 06 Mar 2026 01:28:54 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "published": "Thu, 05 Mar 2026 23:14:04 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+      "published": "Thu, 05 Mar 2026 22:38:26 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "published": "Thu, 05 Mar 2026 21:54:37 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
+      "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+      "published": "Thu, 05 Mar 2026 21:33:24 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LibreSprite – open-source pixel art editor",
+      "link": "https://libresprite.github.io/",
+      "published": "Fri, 06 Mar 2026 09:22:00 +0000",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "We might all be AI engineers now",
+      "link": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+      "published": "Fri, 06 Mar 2026 09:13:30 +0000",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "GPL upgrades via section 14 proxy delegation",
+      "link": "https://runxiyu.org/comp/gplproxy/",
+      "published": "Fri, 06 Mar 2026 08:41:51 +0000",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Stardex (YC S21) is hiring customer success engineers",
+      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+      "published": "Fri, 06 Mar 2026 07:02:08 +0000",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "TeX Live 2026 is available for download now",
+      "link": "https://www.tug.org/texlive/acquire.html",
+      "published": "Fri, 06 Mar 2026 05:20:10 +0000",
+      "source": "Hacker News: Front Page"
     }
   ],
-  "NYTimes Tech": [
+  "China & Geopolitik": [
     {
-      "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-      "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
-      "published": "Thu, 05 Mar 2026 16:30:12 +0000"
+      "title": "Sri Lanka takes control of Iranian ship, brings crew to shore",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3345734/sri-lanka-takes-control-iranian-ship-brings-crew-shore?utm_source=rss_feed",
+      "published": "Fri, 06 Mar 2026 10:35:44 +0000",
+      "source": "News - South China Morning Post"
     },
     {
-      "title": "A Word to the Wise: Don’t Trust A.I. to File Your Taxes",
-      "link": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
-      "published": "Thu, 05 Mar 2026 10:01:46 +0000"
+      "title": "Hong Kong police arrest 3 linked to HK$10 million knifepoint robbery",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345730/hong-kong-police-arrest-3-linked-hk10-million-knifepoint-robbery?utm_source=rss_feed",
+      "published": "Fri, 06 Mar 2026 10:27:07 +0000",
+      "source": "News - South China Morning Post"
     },
     {
-      "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
-      "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
-      "published": "Thu, 05 Mar 2026 02:40:25 +0000"
+      "title": "China to pursue commercial health insurance to ease public strain, support drug innovation",
+      "link": "https://www.scmp.com/business/china-business/article/3345717/china-pursue-commercial-health-insurance-ease-public-strain-support-drug-innovation?utm_source=rss_feed",
+      "published": "Fri, 06 Mar 2026 10:12:46 +0000",
+      "source": "News - South China Morning Post"
     },
     {
-      "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-      "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
-      "published": "Wed, 04 Mar 2026 23:35:07 +0000"
+      "title": "Chinese man adopted by Canadian family reunites with birth father after being abandoned",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3345265/chinese-man-adopted-canadian-family-reunites-birth-father-after-being-abandoned?utm_source=rss_feed",
+      "published": "Fri, 06 Mar 2026 10:00:08 +0000",
+      "source": "News - South China Morning Post"
     },
     {
-      "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
-      "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-      "published": "Fri, 06 Mar 2026 01:23:35 +0000"
+      "title": "Could Iran war confirm China’s prediction on US military’s hypersonic nightmare?",
+      "link": "https://www.scmp.com/news/china/science/article/3345667/could-iran-war-confirm-chinas-prediction-us-militarys-hypersonic-nightmare?utm_source=rss_feed",
+      "published": "Fri, 06 Mar 2026 09:56:28 +0000",
+      "source": "News - South China Morning Post"
+    },
+    {
+      "title": "Philippines Arrests 3 Defense Personnel Over China Spy Claims",
+      "link": "https://thediplomat.com/2026/03/philippines-arrests-3-defense-personnel-over-china-spy-claims/",
+      "published": "Fri, 06 Mar 2026 12:59:00 +0900",
+      "source": "The Diplomat"
+    },
+    {
+      "title": "In Hindsight: Madame Nhu and the American War in Vietnam",
+      "link": "https://thediplomat.com/2026/03/in-hindsight-madame-nhu-and-the-american-war-in-vietnam/",
+      "published": "Fri, 06 Mar 2026 09:00:00 +0900",
+      "source": "The Diplomat"
+    },
+    {
+      "title": "Thai Election Commission Certifies Remaining Parliamentary Seats",
+      "link": "https://thediplomat.com/2026/03/thai-election-commission-certifies-remaining-parliamentary-seats/",
+      "published": "Fri, 06 Mar 2026 08:49:00 +0900",
+      "source": "The Diplomat"
+    },
+    {
+      "title": "Beijing’s Balkan Classrooms",
+      "link": "https://thediplomat.com/2026/03/beijings-balkan-classrooms/",
+      "published": "Fri, 06 Mar 2026 04:14:00 +0900",
+      "source": "The Diplomat"
+    },
+    {
+      "title": "Umar Khalid: 2,000 Days in Prison Without Trial",
+      "link": "https://thediplomat.com/2026/03/umar-khalid-2000-days-in-prison-without-trial/",
+      "published": "Fri, 06 Mar 2026 00:39:00 +0900",
+      "source": "The Diplomat"
+    }
+  ],
+  "Nachrichten Deutschland & Welt": [
+    {
+      "title": "Bundestag beschließt Reform der Krankenhausreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenhausreform-bundestag-102.html",
+      "published": "Fri, 06 Mar 2026 11:07:25 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Präsidentin des Kosovo löst Parlament auf und kündigt Neuwahl an",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-aufloesung-parlament-100.html",
+      "published": "Fri, 06 Mar 2026 11:03:02 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Notenbank-Legende Alan Greenspan wird 100 Jahre alt",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/alan-greenspan-100-jahre-100.html",
+      "published": "Fri, 06 Mar 2026 11:03:00 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Marktbericht:DAX-Richtung hängt am Ölpreis",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-krise-dow-100.html",
+      "published": "Fri, 06 Mar 2026 10:56:04 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Flugverkehr im Nahen Osten läuft trotz Krieg teilweise wieder an",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-flugverkehr-100.html",
+      "published": "Fri, 06 Mar 2026 11:24:50 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Türkei im Iran-Krieg: Angst vor dem Flächenbrand",
+      "link": "https://www.dw.com/de/türkei-im-iran-krieg-angst-vor-dem-flächenbrand/a-76230053?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "Fri, 6 Mar 2026 06:00:00 GMT",
+      "source": "Deutsche Welle: DW.com Themen des Tages"
+    },
+    {
+      "title": "Nach Kritik an ICE-Einsatz: Donald Trump feuert US-Heimatschutzministerin Kristi Noem - News kompakt: Das Wichtigste kurz gefasst",
+      "link": "https://www.dw.com/de/nach-kritik-an-ice-einsatz-donald-trump-feuert-us-heimatschutzministerin-kristi-noem-news-kompakt-das-wichtigste-kurz-gefasst/a-76239306?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "Fri, 6 Mar 2026 08:00:00 GMT",
+      "source": "Deutsche Welle: DW.com Themen des Tages"
+    },
+    {
+      "title": "Kölner Dom kostet künftig für Touristen Eintritt",
+      "link": "https://www.dw.com/de/kölner-dom-kostet-künftig-für-touristen-eintritt/a-76231400?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "Thu, 5 Mar 2026 14:46:00 GMT",
+      "source": "Deutsche Welle: DW.com Themen des Tages"
+    },
+    {
+      "title": "China rechnet mit weniger Wachstum - Militäretat steigt aber",
+      "link": "https://www.dw.com/de/china-rechnet-mit-weniger-wachstum-militäretat-steigt-aber/a-76227680?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "Thu, 5 Mar 2026 12:41:00 GMT",
+      "source": "Deutsche Welle: DW.com Themen des Tages"
+    },
+    {
+      "title": "Attacke am Holocaust-Mahnmal: Haftstrafe für IS-Anhänger",
+      "link": "https://www.dw.com/de/attacke-am-holocaust-mahnmal-haftstrafe-für-is-anhänger/a-76227044?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "Thu, 5 Mar 2026 11:23:00 GMT",
+      "source": "Deutsche Welle: DW.com Themen des Tages"
+    },
+    {
+      "title": "Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
+      "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+      "published": "Fri, 06 Mar 2026 10:30:09 +0000",
+      "source": "NYT > World News"
+    },
+    {
+      "title": "Lebanon at ‘Tipping Point’ as It Seeks to Disarm Hezbollah",
+      "link": "https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html",
+      "published": "Fri, 06 Mar 2026 08:59:40 +0000",
+      "source": "NYT > World News"
+    },
+    {
+      "title": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes",
+      "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
+      "published": "Fri, 06 Mar 2026 10:03:50 +0000",
+      "source": "NYT > World News"
+    },
+    {
+      "title": "He Had a Purple Heart, PTSD and a Rap Sheet. He Had to Leave the U.S.",
+      "link": "https://www.nytimes.com/2026/03/06/world/asia/south-korea-deportee-immigration.html",
+      "published": "Fri, 06 Mar 2026 05:00:24 +0000",
+      "source": "NYT > World News"
+    },
+    {
+      "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk With Young Men",
+      "link": "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html",
+      "published": "Fri, 06 Mar 2026 05:01:06 +0000",
+      "source": "NYT > World News"
+    }
+  ],
+  "Kochen & Food": [
+    {
+      "title": "Creamy Lemon Pie (7 Ingredients)",
+      "link": "https://sallysbakingaddiction.com/creamy-lemon-pie/",
+      "published": "Wed, 04 Mar 2026 10:41:33 +0000",
+      "source": "Sally's Baking"
+    },
+    {
+      "title": "Simply Applesauce Muffins",
+      "link": "https://sallysbakingaddiction.com/applesauce-muffins/",
+      "published": "Mon, 02 Mar 2026 11:00:00 +0000",
+      "source": "Sally's Baking"
+    },
+    {
+      "title": "Homemade Fougasse (French-Style Flatbread)",
+      "link": "https://sallysbakingaddiction.com/fougasse/",
+      "published": "Sun, 01 Mar 2026 11:00:00 +0000",
+      "source": "Sally's Baking"
+    },
+    {
+      "title": "Lemon Pistachio Loaf",
+      "link": "https://sallysbakingaddiction.com/lemon-pistachio-loaf/",
+      "published": "Wed, 25 Feb 2026 16:15:48 +0000",
+      "source": "Sally's Baking"
+    },
+    {
+      "title": "Blueberry Swirl Cheesecake",
+      "link": "https://sallysbakingaddiction.com/blueberry-swirl-cheesecake/",
+      "published": "Fri, 20 Feb 2026 11:00:26 +0000",
+      "source": "Sally's Baking"
     }
   ]
 }
