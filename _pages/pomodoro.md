@@ -59,9 +59,12 @@ layout: single
 }
 
 .cozy-pomodoro {
-  display: flex;
-  justify-content: center;
-  padding: 2rem 1rem 3rem;
+  --cp-paper: #fffdf8;        /* warm paper */
+  --cp-cream: #f6f1e8;        /* linen */
+  --cp-sage: #a8b8a2;         /* soft sage */
+  --cp-sage-dark: #6f8a6b;    /* darker sage */
+  --cp-terracotta: #d08c72;   /* clay / handmade */
+  --cp-ink: #2f3432;          /* readable dark text */
 }
 
 .cozy-card {
