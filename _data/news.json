@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Eskalation: Der Iran-Krieg in Karten und Grafiken",
+      "link": "https://www.dw.com/de/eskalation-der-iran-krieg-in-karten-und-grafiken/a-76248863?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "06 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-06T20:40:00+00:00"
+    },
+    {
+      "title": "Trump fordert Irans \"bedingungslose Kapitulation\"",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-kapitulation-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T20:05:15+01:00"
+    },
+    {
       "title": "Bundesrat will Frauen besser vor Spanner-Aufnahmen schützen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-schutz-spannervideos-frauen-100.html",
       "published": "06 Mar 2026",
@@ -131,20 +145,6 @@
       "published": "06 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-06T18:22:09+01:00"
-    },
-    {
-      "title": "EU-Kommission bezuschusst Rückholflüge aus dem Nahen Osten",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-bezuschusst-evakuierungsfluege-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T18:21:43+01:00"
-    },
-    {
-      "title": "Krieg in Iran: Regime-Anhänger demonstrieren nach Freitagsgebet",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-regime-anhaenger-demo-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T17:25:14+01:00"
     }
   ],
   "Food": []
