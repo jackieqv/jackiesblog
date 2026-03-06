@@ -50,13 +50,17 @@ MAX_ITEMS_PER_FEED = 6
 MAX_ITEMS_PER_CATEGORY = 18
 
 
+from datetime import datetime
+
 def parse_date(entry):
     published = entry.get("published", "") or entry.get("updated", "")
     if not published:
         return "", ""
+
     try:
         dt = parsedate_to_datetime(published)
-        return published, dt.isoformat()
+        display_date = dt.strftime("%d %b %Y")
+        return display_date, dt.isoformat()
     except Exception:
         return published, published
 
