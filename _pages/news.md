@@ -1,23 +1,46 @@
 ---
-title: Tech News
+title: News Feed
 permalink: /news/
 layout: single
+author_profile: false
 ---
 
-# Tech News
+<link rel="stylesheet" href="{{ '/assets/css/news.css' | relative_url }}">
+
+# News Feed
+
+Hier findest du aktuelle Artikel aus meinen Interessengebieten: digitale Trends, KI, China, Nachrichten und Kochen.
 
 {% assign feeds = site.data.news %}
 
-{% for feed in feeds %}
-## {{ feed[0] }}
+{% if feeds %}
+  {% for category in feeds %}
+    <section class="news-section">
+      <div class="news-section-header">
+        <h2>{{ category[0] }}</h2>
+      </div>
 
-<ul>
-{% for item in feed[1] %}
-  <li>
-    <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-      {{ item.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-{% endfor %}
+      <div class="news-grid">
+        {% for item in category[1] %}
+          <article class="news-card">
+            <h3 class="news-title">
+              <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+                {{ item.title }}
+              </a>
+            </h3>
+
+            <p class="news-meta">
+              <span class="news-source">{{ item.source }}</span>
+              {% if item.published %}
+                <span class="news-separator">•</span>
+                <span class="news-date">{{ item.published }}</span>
+              {% endif %}
+            </p>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+{% else %}
+  <p>Noch keine News gefunden. Bitte starte den GitHub Action Workflow einmal manuell.</p>
+{% endif %}
