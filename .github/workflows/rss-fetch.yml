@@ -1,0 +1,33 @@
+name: Fetch RSS feeds
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:        # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch feeds
+        run: python scripts/fetch_rss.py
+
+      - name: Commit updates
+        run: |
+          git config --global user.name "rss-bot"
+          git config --global user.email "rss-bot@users.noreply.github.com"
+          git add _data/news.json
+          git commit -m "Update RSS feeds" || echo "No changes"
+          git push
