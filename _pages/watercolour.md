@@ -4,6 +4,8 @@ title: Watercolour
 permalink: /watercolour/
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/main.scss' | relative_url }}">
+
 # Watercolour
 
 Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.
