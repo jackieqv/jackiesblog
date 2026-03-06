@@ -5,7 +5,6 @@ permalink: /watercolour/shop/
 author_profile: true
 ---
 
-# Shop
 
 Hier kannst du meine handgemalten Aquarellkarten entdecken.
 
