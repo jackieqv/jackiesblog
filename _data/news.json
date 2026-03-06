@@ -36,7 +36,7 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Digital Trends & Technology": [
+  "Technology": [
     {
       "title": "Introducing CQC Implementation Gates for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-cqc-implementation-gates-for-sap-successfactors-hcm/ba-p/14343425",
@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
+      "link": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
+      "published": "06 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-06T15:00:33+00:00"
+    },
+    {
       "title": "Thousands of Everyday Drone Pilots Are Making a Google Street View From Above",
       "link": "https://singularityhub.com/2026/03/05/thousands-of-everyday-drone-pilots-are-making-a-google-street-view-from-above/",
       "published": "05 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "02 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-02T23:47:26+00:00"
-    },
-    {
-      "title": "What Crystals Older Than the Sun Reveal About the Start of the Solar System",
-      "link": "https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/",
-      "published": "02 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-02T15:12:31+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Axel-Springer-Verlag kauft britische Zeitung The Telegraph",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/springer-verlag-telegraph-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T16:28:31+01:00"
+    },
+    {
+      "title": "Referendum im August: Isländer sollen über EU-Beitrittsverhandlungen abstimmen",
+      "link": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T16:27:03+01:00"
+    },
+    {
+      "title": "Iran-Krieg: Israel greift Chameneis Bunker in Teheran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-israel-angriffe-118.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T15:48:15+01:00"
+    },
+    {
+      "title": "Studie: Erderwärmung geht seit 2015 wirklich schneller voran",
+      "link": "https://www.tagesschau.de/wissen/klima/klimawandek-erderwaermung-folgen-100.html",
+      "published": "06 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-06T15:00:44+01:00"
+    },
     {
       "title": "ASMR und der weltweite Boom sanfter Geräusche",
       "link": "https://www.tagesschau.de/kultur/asmr-und-der-boom-sanfter-geraeusche-100.html",
       "published": "06 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-06T14:45:35+01:00"
-    },
-    {
-      "title": "Kriegsalltag in Saporischschja: \"Angst und Panik helfen uns nicht\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-sicherheitslage-saporischschja-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T14:40:46+01:00"
-    },
-    {
-      "title": "Logistik-Branche fordert Hilfe wegen hoher Spritpreise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/unternehmen-logistiker-spritpreise-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T14:15:12+01:00"
-    },
-    {
-      "title": "Marktbericht: Reiselust beschert Lufthansa Rekordjahr",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-aktie-des-tages-lufthansa-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T14:11:53+01:00"
-    },
-    {
-      "title": "Wie die Merz-CDU auf die Wahlen im Südwesten schaut",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-landtagswahl-baden-wuerttemberg-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T13:48:12+01:00"
     }
   ],
   "Food": []
