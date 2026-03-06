@@ -6,7 +6,7 @@ main:
   - title: "Weather"
     url: /weather/
   - title: "Watercolour"
-    url: /watercolour/"
+    url: /watercolour/
   - title: "Pomodoro Timer"
     url: /pomodoro/
   - title: "Categories"
