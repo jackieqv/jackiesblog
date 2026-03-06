@@ -71,11 +71,11 @@ layout: single
   width: 100%;
   max-width: 720px;
   background: linear-gradient(180deg, var(--cp-paper) 0%, var(--cp-cream) 100%);
-  border: 1px solid rgba(47, 52, 47, 0.08);
-  box-shadow: var(--cp-shadow);
   border-radius: 28px;
   padding: 2.2rem 1.4rem 2rem;
   text-align: center;
+  border: 1px solid rgba(0,0,0,0.05);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.08);
 }
 
 .cozy-badge {
