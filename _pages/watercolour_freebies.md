@@ -1,23 +1,26 @@
 ---
-layout: page
+layout: single
 title: Freebies
 permalink: /watercolour/freebies/
+author_profile: true
 ---
 
 # Freebies
 
-Hier findest du kostenlose Downloads rund um Aquarell.
+Kostenlose Downloads und kleine kreative Extras.
 
-## Printable Karte
+<div class="watercolour-grid">
+  <div class="card">
+    <h3>Printable Karte</h3>
+    <p>Eine kleine Aquarellkarte zum Ausdrucken.</p>
+    <a href="{{ '/assets/freebies/card.pdf' | relative_url }}">Download</a>
+  </div>
 
-Eine kleine Aquarellkarte zum Ausdrucken.
+  <div class="card">
+    <h3>Wallpaper</h3>
+    <p>Sanfter Aquarellhintergrund für dein Handy.</p>
+    <a href="{{ '/assets/freebies/wallpaper.jpg' | relative_url }}">Download</a>
+  </div>
+</div>
 
-<a href="/assets/freebies/aquarellkarte.pdf">Download</a>
-
-## Wallpaper
-
-Aquarell-Hintergrund für dein Handy.
-
-<a href="/assets/freebies/wallpaper.jpg">Download</a>
-
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
