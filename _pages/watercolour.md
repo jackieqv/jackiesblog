@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Watercolour
 permalink: /watercolour/
 author_profile: true
 ---
