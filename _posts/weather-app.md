@@ -4,8 +4,8 @@ published: true
 categories:
   - Weather
 layout: page
-title: Wetter
-permalink: /wetter/
+title: Weather
+permalink: /weather/
 ---
 
 <link rel="stylesheet" href="/assets/css/weather.css">
