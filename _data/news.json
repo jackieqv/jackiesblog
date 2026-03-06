@@ -1,0 +1,83 @@
+{
+  "Hacker News": [
+    {
+      "title": "We Might All Be AI Engineers Now",
+      "link": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+      "published": "Fri, 06 Mar 2026 09:13:30 +0000"
+    },
+    {
+      "title": "GPL upgrades via section 14 proxy delegation",
+      "link": "https://runxiyu.org/comp/gplproxy/",
+      "published": "Fri, 06 Mar 2026 08:41:51 +0000"
+    },
+    {
+      "title": "Stardex (YC S21) is hiring customer success engineers",
+      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+      "published": "Fri, 06 Mar 2026 07:02:08 +0000"
+    },
+    {
+      "title": "TeX Live 2026 is available for download now",
+      "link": "https://www.tug.org/texlive/acquire.html",
+      "published": "Fri, 06 Mar 2026 05:20:10 +0000"
+    },
+    {
+      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "link": "https://dev.moment.com/",
+      "published": "Fri, 06 Mar 2026 04:15:40 +0000"
+    }
+  ],
+  "The Verge": [
+    {
+      "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
+      "link": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
+      "published": "2026-03-05T20:24:36-05:00"
+    },
+    {
+      "title": "The best iPad deals you can get right now",
+      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "published": "2026-03-05T20:08:00-05:00"
+    },
+    {
+      "title": "What if your real computer was a super-sized Lego computer brick?",
+      "link": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
+      "published": "2026-03-05T19:59:11-05:00"
+    },
+    {
+      "title": "Lawmakers just advanced online safety laws that require age verification at the app store",
+      "link": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
+      "published": "2026-03-05T18:16:00-05:00"
+    },
+    {
+      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "published": "2026-03-05T18:02:22-05:00"
+    }
+  ],
+  "NYTimes Tech": [
+    {
+      "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+      "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+      "published": "Thu, 05 Mar 2026 16:30:12 +0000"
+    },
+    {
+      "title": "A Word to the Wise: Don’t Trust A.I. to File Your Taxes",
+      "link": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
+      "published": "Thu, 05 Mar 2026 10:01:46 +0000"
+    },
+    {
+      "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
+      "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
+      "published": "Thu, 05 Mar 2026 02:40:25 +0000"
+    },
+    {
+      "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+      "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+      "published": "Wed, 04 Mar 2026 23:35:07 +0000"
+    },
+    {
+      "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
+      "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+      "published": "Fri, 06 Mar 2026 01:23:35 +0000"
+    }
+  ]
+}
