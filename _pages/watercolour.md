@@ -4,7 +4,6 @@ title: Watercolour
 permalink: /watercolour/
 ---
 
-
 # Watercolour
 
 Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.
