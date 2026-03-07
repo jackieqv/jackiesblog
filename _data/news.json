@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 7)",
+      "link": "https://singularityhub.com/2026/03/07/this-weeks-awesome-tech-stories-from-around-the-web-through-march-7-2/",
+      "published": "07 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-07T15:00:00+00:00"
+    },
+    {
       "title": "Autonomous AI Agents Have an Ethics Problem",
       "link": "https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/",
       "published": "06 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "04 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-04T15:13:50+00:00"
-    },
-    {
-      "title": "These Supercharged Immune Cells Completely Eliminated Solid Tumors in Mice",
-      "link": "https://singularityhub.com/2026/03/03/these-supercharged-immune-cells-completely-eliminate-solid-tumors-in-mice/",
-      "published": "04 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-04T00:35:15+00:00"
     }
   ],
   "News": [
     {
-      "title": "Wo steht Europa im US‑israelischen Krieg mit Iran?",
-      "link": "https://www.dw.com/de/wo-steht-europa-im-us‑israelischen-krieg-mit-iran/a-76260264?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "07 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-07T12:30:00+00:00"
-    },
-    {
-      "title": "Karsten Wildberger: Anpackender Digitalminister oder \"Motivationscoach\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-digitalminister-digitale-unabhaengigkeit-100.html",
+      "title": "Südafrika: Mit der Armee gegen die Banden in Kapstadt",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-armee-kapstadt-cape-flats-100.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T12:13:04+01:00"
+      "sort_date": "2026-03-07T15:31:41+01:00"
     },
     {
-      "title": "Tote nach massiven russischen Angriffen auf die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-luftangriffe-102.html",
+      "title": "Welche Chancen und Risiken Betriebsrenten für die Altersvorsorge haben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/betriebsrenten-kosten-100.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T11:29:37+01:00"
+      "sort_date": "2026-03-07T15:14:39+01:00"
     },
     {
-      "title": "US-Präsident Trump sieht Kuba vor dem baldigen \"Fall\"",
-      "link": "https://www.dw.com/de/us-präsident-trump-sieht-kuba-vor-dem-baldigen-fall/a-76258881?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "07 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-07T11:26:00+00:00"
-    },
-    {
-      "title": "Paralympics: Forster holt Gold bei der Para-Ski-Alpin-Abfahrt",
-      "link": "https://www.tagesschau.de/sport/forster-gold-paralympics-100.html",
+      "title": "Massive Angriffe der USA und Israels auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-teheran-krieg-usa-israel-100.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T11:15:20+01:00"
+      "sort_date": "2026-03-07T15:04:40+01:00"
+    },
+    {
+      "title": "Spargelsaison könnte bereits Mitte März starten",
+      "link": "https://www.tagesschau.de/inland/spargel-ernte-maerz-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T14:20:20+01:00"
+    },
+    {
+      "title": "Libanon: Angriffe dauern an, Zivilbevölkerung leidet zunehmend",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-lage-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T13:54:58+01:00"
     }
   ],
   "Food": []
