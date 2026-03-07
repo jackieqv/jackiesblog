@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
-      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html",
+      "title": "Gewalt in Zügen: Jeder dritte Bahnmitarbeiter denkt an Kündigung",
+      "link": "https://www.tagesschau.de/inland/bahn-kuendigung-gewalt-100.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T02:34:07+01:00"
+      "sort_date": "2026-03-07T05:12:02+01:00"
+    },
+    {
+      "title": "Kameras sollen in größeren Schlachthöfen Pflicht werden",
+      "link": "https://www.tagesschau.de/inland/videoueberwachung-schlachthoefe-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T05:08:25+01:00"
     },
     {
       "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T01:24:48+01:00"
+      "sort_date": "2026-03-07T04:27:18+01:00"
     },
     {
-      "title": "Eskalation: Der Iran-Krieg in Karten und Grafiken",
-      "link": "https://www.dw.com/de/eskalation-der-iran-krieg-in-karten-und-grafiken/a-76248863?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-06T20:40:00+00:00"
-    },
-    {
-      "title": "Trump fordert Irans \"bedingungslose Kapitulation\"",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-kapitulation-100.html",
-      "published": "06 Mar 2026",
+      "title": "Iran-Krieg: Eine Woche - und die Kämpfe reißen nicht ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-eine-woche-100.html",
+      "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T20:05:15+01:00"
+      "sort_date": "2026-03-07T04:19:32+01:00"
     },
     {
-      "title": "Bundesrat will Frauen besser vor Spanner-Aufnahmen schützen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-schutz-spannervideos-frauen-100.html",
-      "published": "06 Mar 2026",
+      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html",
+      "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T18:45:59+01:00"
+      "sort_date": "2026-03-07T02:34:07+01:00"
     }
   ],
   "Food": []
