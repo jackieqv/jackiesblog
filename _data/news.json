@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Autonomous AI Agents Have an Ethics Problem",
+      "link": "https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/",
+      "published": "06 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-06T22:03:16+00:00"
+    },
+    {
       "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
       "link": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
       "published": "06 Mar 2026",
@@ -101,16 +108,23 @@
       "published": "04 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-04T00:35:15+00:00"
-    },
-    {
-      "title": "New Device Detects Brain Waves in Mini Brains Mimicking Early Human Development",
-      "link": "https://singularityhub.com/2026/03/02/new-device-detects-brain-waves-in-mini-brains-mimicking-early-human-development/",
-      "published": "02 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-02T23:47:26+00:00"
     }
   ],
   "News": [
+    {
+      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T02:34:07+01:00"
+    },
+    {
+      "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T01:24:48+01:00"
+    },
     {
       "title": "Eskalation: Der Iran-Krieg in Karten und Grafiken",
       "link": "https://www.dw.com/de/eskalation-der-iran-krieg-in-karten-und-grafiken/a-76248863?maca=de-rss-de-top-1016-xml-mrss",
@@ -131,20 +145,6 @@
       "published": "06 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-06T18:45:59+01:00"
-    },
-    {
-      "title": "Eskalation des Pipeline-Streits zwischen der Slowakei und der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/pipeline-slowakei-ukraine-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T18:30:46+01:00"
-    },
-    {
-      "title": "Marktbericht: Börsen bleiben weltweit im Krisenmodus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-krise-dow-100.html",
-      "published": "06 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-06T18:22:09+01:00"
     }
   ],
   "Food": []
