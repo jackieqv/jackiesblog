@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Bedroht im Amt: Wenn Kommunalpolitiker angegriffen werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/angriffe-kommunalpolitiker-kommunalwahlen-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T06:25:54+01:00"
+    },
+    {
       "title": "Gewalt in Zügen: Jeder dritte Bahnmitarbeiter denkt an Kündigung",
       "link": "https://www.tagesschau.de/inland/bahn-kuendigung-gewalt-100.html",
       "published": "07 Mar 2026",
@@ -124,13 +131,6 @@
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-07T05:08:25+01:00"
-    },
-    {
-      "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T04:27:18+01:00"
     },
     {
       "title": "Iran-Krieg: Eine Woche - und die Kämpfe reißen nicht ab",
