@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Spanien: Digital gegen Gewalt an Frauen",
+      "link": "https://www.dw.com/de/spanien-digital-gegen-gewalt-an-frauen/a-76247745?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "07 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-07T20:41:00+00:00"
+    },
+    {
+      "title": "Unwetter in Kenia: Mehr als 20 Tote bei Überschwemmungen in Nairobi",
+      "link": "https://www.tagesschau.de/ausland/afrika/unwetter-nairobi-tote-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T20:23:06+01:00"
+    },
+    {
+      "title": "Nach dem Angriff auf Iran: Was bleibt vom Völkerrecht?",
+      "link": "https://www.tagesschau.de/ausland/asien/voelkerrecht-zukunft-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T20:10:50+01:00"
+    },
+    {
       "title": "Fast zwei Drittel aller geplanten Abschiebungen gescheitert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-asylbewerber-100.html",
       "published": "07 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-07T17:57:32+01:00"
-    },
-    {
-      "title": "Rechte Einstellungen bleiben laut Umfrage konstant",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/rechtsextremismus-deutschland-102.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T16:39:01+01:00"
-    },
-    {
-      "title": "Südafrika: Mit der Armee gegen die Banden in Kapstadt",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-armee-kapstadt-cape-flats-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T15:31:41+01:00"
-    },
-    {
-      "title": "Welche Chancen und Risiken Betriebsrenten für die Altersvorsorge haben",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/betriebsrenten-kosten-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T15:14:39+01:00"
     }
   ],
   "Food": []
