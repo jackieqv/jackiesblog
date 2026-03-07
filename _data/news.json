@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Generalsanierung der Bahn stellt Logistiker vor Existenzprobleme",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahnstrecke-hamburg-berlin-verzoegerung-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T08:57:28+01:00"
+    },
+    {
+      "title": "USA zeigen sich nach Berichten zu russischer Hilfe für Iran unbeeindruckt",
+      "link": "https://www.tagesschau.de/ausland/amerika/russland-iran-informationen-100.html",
+      "published": "07 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-07T08:46:22+01:00"
+    },
+    {
+      "title": "Völkerrecht: Ramstein-Urteil zu Jemen-Angriffen ohne Bedeutung für Iran-Krieg?",
+      "link": "https://www.dw.com/de/völkerrecht-ramstein-urteil-zu-jemen-angriffen-ohne-bedeutung-für-iran-krieg/a-76249077?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "07 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-07T08:04:00+00:00"
+    },
+    {
+      "title": "News kompakt: Trump fordert Kapitulation des Irans",
+      "link": "https://www.dw.com/de/news-kompakt-trump-fordert-kapitulation-des-irans/a-76257468?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "07 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-07T08:00:00+00:00"
+    },
+    {
       "title": "Bedroht im Amt: Wenn Kommunalpolitiker angegriffen werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/angriffe-kommunalpolitiker-kommunalwahlen-100.html",
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-07T06:25:54+01:00"
-    },
-    {
-      "title": "Gewalt in Zügen: Jeder dritte Bahnmitarbeiter denkt an Kündigung",
-      "link": "https://www.tagesschau.de/inland/bahn-kuendigung-gewalt-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T05:12:02+01:00"
-    },
-    {
-      "title": "Kameras sollen in größeren Schlachthöfen Pflicht werden",
-      "link": "https://www.tagesschau.de/inland/videoueberwachung-schlachthoefe-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T05:08:25+01:00"
-    },
-    {
-      "title": "Iran-Krieg: Eine Woche - und die Kämpfe reißen nicht ab",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-eine-woche-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T04:19:32+01:00"
-    },
-    {
-      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
-      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T02:34:07+01:00"
     }
   ],
   "Food": []
