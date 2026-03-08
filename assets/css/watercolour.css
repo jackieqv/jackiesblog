@@ -50,3 +50,68 @@
 .card a:hover {
   text-decoration: underline;
 }
+
+.watercolour-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 2rem;
+  align-items: start;
+}
+
+.section-sidebar {
+  position: relative;
+}
+
+.section-sidebar-box {
+  position: sticky;
+  top: 2rem;
+  background: #1f2937;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 16px;
+  padding: 1rem;
+}
+
+.section-sidebar-title {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 1.1rem;
+}
+
+.section-sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section-sidebar-nav li + li {
+  margin-top: 0.4rem;
+}
+
+.section-sidebar-nav a {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
+.section-sidebar-nav a:hover {
+  background: rgba(255,255,255,0.08);
+  color: #ffffff;
+}
+
+.section-sidebar-nav a.is-active {
+  background: #2563eb;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .watercolour-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .section-sidebar-box {
+    position: static;
+  }
+}
