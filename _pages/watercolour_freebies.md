@@ -7,6 +7,10 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
+<div class="section-layout">
+      
+<div class="section-main">
+
 Free downloads and small creative extras.
 
 <div class="watercolour-grid">
@@ -24,3 +28,9 @@ Free downloads and small creative extras.
 </div>
 
 <a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
+
+  </div>
+
+  {% include watercolour-sidebar.html %}
+
+</div>
