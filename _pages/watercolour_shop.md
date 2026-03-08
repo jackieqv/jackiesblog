@@ -7,22 +7,22 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
-Hier kannst du meine handgemalten Aquarellkarten entdecken.
+Here you can discover my hand-painted watercolor cards.
 
 <div class="shop-grid">
   <div class="card">
-    <h3>Wildblumen Karte</h3>
-    <p>Handgemalte botanische Aquarellkarte.</p>
+    <h3>Wildflower card</h3>
+    <p>Hand-painted botanical watercolour card.</p>
     <p><strong>4,90 €</strong></p>
-    <a href="#">Mehr erfahren</a>
+    <a href="#">Learn more</a>
   </div>
 
   <div class="card">
-    <h3>Frühlingsblumen Karte</h3>
-    <p>Zartes florales Motiv in Aquarell.</p>
+    <h3>Spring flowers card</h3>
+    <p>Delicate floral motif in watercolour.</p>
     <p><strong>4,90 €</strong></p>
-    <a href="#">Mehr erfahren</a>
+    <a href="#">Learn more</a>
   </div>
 </div>
 
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
