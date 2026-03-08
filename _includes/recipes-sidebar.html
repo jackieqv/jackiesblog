@@ -1,0 +1,5 @@
+### Recipes
+
+{% for item in site.data.navigation.recipes %}
+  * [{{ item.title }}]({{ item.url | relative_url }})
+{% endfor %}
