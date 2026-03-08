@@ -24,3 +24,5 @@ author_profile: true
 <img src="{{ '/assets/images/studio-work.jpg' | relative_url }}" alt="Work in progress">
 
 </div>
+
+<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
