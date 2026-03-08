@@ -12,7 +12,7 @@ Kostenlose Downloads und kleine kreative Extras.
 <div class="watercolour-grid">
   <div class="card">
     <h3>Printable Karte</h3>
-    <p>Eine kleine Aquarellkarte zum Ausdrucken.</p>
+    <p>A small watercolor card to print out.</p>
     <a href="{{ '/assets/freebies/card.pdf' | relative_url }}">Download</a>
   </div>
 
