@@ -5,6 +5,8 @@ permalink: /watercolour/freebies/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
+
 Kostenlose Downloads und kleine kreative Extras.
 
 <div class="watercolour-grid">
