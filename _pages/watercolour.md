@@ -11,13 +11,13 @@ author_profile: true
   <p>Here you'll find my watercolour art, cards, and small creative extras.</p>
 </div>
 
-<div class="watercolour-card">
-  <h2>Studio</h2>
-  <p>A glimpse behind the scenes of my watercolour process.</p>
-  <a href="{{ '/watercolour/studio/' | relative_url }}">To the studio</a>
-</div>
-
 <div class="watercolour-cards">
+  <div class="watercolour-card">
+    <h2>Studio</h2>
+    <p>A glimpse behind the scenes of my watercolour process.</p>
+    <a href="{{ '/watercolour/studio/' | relative_url }}">To the studio</a>
+  </div>
+
   <div class="watercolour-card">
     <h2>Galerie</h2>
     <p>A selection of my watercolor paintings and motifs.</p>
