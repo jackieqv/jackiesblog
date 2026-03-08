@@ -7,6 +7,10 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
+<div class="section-layout">
+      
+<div class="section-main">
+
 Here you can discover my hand-painted watercolor cards.
 
 <div class="shop-grid">
@@ -26,3 +30,9 @@ Here you can discover my hand-painted watercolor cards.
 </div>
 
 <a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
+
+ </div>
+
+  {% include watercolour-sidebar.html %}
+
+</div>
