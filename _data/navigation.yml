@@ -7,6 +7,8 @@ main:
     url: /weather/
   - title: "Watercolour"
     url: /watercolour/
+  - title: "Recipes"
+    url: /recipes/
   - title: "Pomodoro Timer"
     url: /pomodoro/
   - title: "Categories"
@@ -25,3 +27,11 @@ watercolour:
     url: /watercolour/shop/
   - title: "Freebies"
     url: /watercolour/freebies/
+
+food:
+  - title: "Food"
+    url: /recipes/food/
+  - title: "Baking"
+    url: /food/baking/
+  - title: "Drinks"
+    url: /food/drinks/
