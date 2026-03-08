@@ -3,6 +3,7 @@ layout: single
 title: Freebies
 permalink: /watercolour/freebies/
 author_profile: true
+classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
