@@ -5,6 +5,7 @@ permalink: /watercolour/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
 Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.
 
