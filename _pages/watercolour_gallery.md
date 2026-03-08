@@ -11,7 +11,7 @@ author_profile: true
 
 <div>
 
-Eine Auswahl meiner Aquarellbilder und Motive.
+A selection of my watercolor paintings and motifs.
 
 <div class="gallery-grid">
   <img src="{{ '/assets/images/wedding-car-card-white.jpg' | relative_url }}" alt="Aquarellbild 1">
