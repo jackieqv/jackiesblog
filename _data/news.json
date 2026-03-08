@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Iran-Krieg: ++ Tote nach Angriff auf Hotel in Beirut ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T02:48:54+01:00"
+    },
+    {
+      "title": "Bundesregierung zieht Personal der Botschaft in Teheran ab",
+      "link": "https://www.tagesschau.de/ausland/deutsches-botschaftspersonal-teheran-100.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T01:03:34+01:00"
+    },
+    {
       "title": "Spanien: Digital gegen Gewalt an Frauen",
       "link": "https://www.dw.com/de/spanien-digital-gegen-gewalt-an-frauen/a-76247745?maca=de-rss-de-top-1016-xml-mrss",
       "published": "07 Mar 2026",
@@ -131,20 +145,6 @@
       "published": "07 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-07T20:10:50+01:00"
-    },
-    {
-      "title": "Fast zwei Drittel aller geplanten Abschiebungen gescheitert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-asylbewerber-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T18:19:40+01:00"
-    },
-    {
-      "title": "US-Präsident Trump droht Iran \"in die Hölle geprügelt\" zu werden",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-krieg-102.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T17:57:32+01:00"
     }
   ],
   "Food": []
