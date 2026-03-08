@@ -18,5 +18,5 @@ A selection of my watercolor paintings and motifs.
   <img src="{{ '/assets/images/birthday-cake-card-brown.jpg' | relative_url }}" alt="Aquarellbild 2">
 </div>
 
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
 
