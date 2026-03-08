@@ -17,9 +17,6 @@ main:
     url: /about/
 
 watercolour:
-  - title: "Overview"
-    url: /watercolour/
-    watercolour:
   - title: "Studio"
     url: /watercolour/studio/
   - title: "Gallery"
