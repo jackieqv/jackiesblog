@@ -1,14 +1,12 @@
 <aside class="section-sidebar">
   <div class="section-sidebar-box">
     <h3 class="section-sidebar-title">Watercolour</h3>
-
     <nav class="section-sidebar-nav">
       <ul>
         {% for item in site.data.navigation.watercolour %}
           <li>
-            <a
-              href="{{ item.url | relative_url }}"
-              class="{% if page.url == item.url %}is-active{% endif %}">
+            <a href="{{ item.url | relative_url }}"
+               class="{% if page.url == item.url %}is-active{% endif %}">
               {{ item.title }}
             </a>
           </li>
@@ -17,4 +15,3 @@
     </nav>
   </div>
 </aside>
-
