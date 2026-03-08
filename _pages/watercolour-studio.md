@@ -8,9 +8,10 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
-<div class="watercolour-layout">
+<div class="section-layout">
+      
+<div class="section-main">
 
-<div>
 
 <p>Here you get a glimpse behind the scenes of my watercolor process – sketches, materials and work in progress.</p>
 
