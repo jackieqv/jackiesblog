@@ -3,6 +3,7 @@ layout: single
 title: Shop
 permalink: /watercolour/shop/
 author_profile: true
+classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
