@@ -26,9 +26,11 @@ classes: wide
 
 </div>
 
-<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
+<p>
+      <a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
+    </p>
 
-</div>
+  </div>
 
   {% include watercolour-sidebar.html %}
 
