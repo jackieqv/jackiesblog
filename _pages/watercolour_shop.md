@@ -5,6 +5,8 @@ permalink: /watercolour/shop/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
+
 Hier kannst du meine handgemalten Aquarellkarten entdecken.
 
 <div class="shop-grid">
