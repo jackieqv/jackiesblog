@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "++ Wahllokale haben geöffnet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html",
+      "title": "Kopf an Kopf in den Wahltag in Baden-Württemberg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-ausgangslage-100.html",
       "published": "08 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-08T10:18:58+01:00"
+      "sort_date": "2026-03-08T13:26:30+01:00"
+    },
+    {
+      "title": "Iran-Krieg: ++ Offenbar Einigung auf Chamenei-Nachfolger ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T13:08:32+01:00"
+    },
+    {
+      "title": "Moped-Autos boomen im ländlichen Raum bei Jugendlichen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/moped-auto-100.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T12:16:31+01:00"
     },
     {
       "title": "Öldepot in Teheran brennt - Iran greift wieder Golfländer an",
       "link": "https://www.dw.com/de/öldepot-in-teheran-brennt-iran-greift-wieder-golfländer-an/a-76265495?maca=de-rss-de-top-1016-xml-mrss",
       "published": "08 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-08T09:06:00+00:00"
+      "sort_date": "2026-03-08T12:00:00+00:00"
     },
     {
-      "title": "Gender Investment Gap: Gründerinnen fehlt oft Kapital",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gender-investment-gap-gruenderinnen-boerse-100.html",
+      "title": "Metall- und Elektroindustrie: Arbeitgeber befürchten Verlust von bis zu 150.000 Jobs",
+      "link": "https://www.tagesschau.de/wirtschaft/metallindustrie-arbeitsplaetze-100.html",
       "published": "08 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-08T08:48:03+01:00"
-    },
-    {
-      "title": "Iran-Krieg: Israel greift Öllager in Teheran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-oellager-angriff-100.html",
-      "published": "08 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-08T07:55:50+01:00"
-    },
-    {
-      "title": "Was die Baden-Württemberg-Wahl zu einer besonderen macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-wahltag-100.html",
-      "published": "08 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-08T06:00:07+01:00"
+      "sort_date": "2026-03-08T11:12:05+01:00"
     }
   ],
   "Food": []
