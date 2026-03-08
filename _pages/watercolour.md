@@ -11,6 +11,12 @@ author_profile: true
   <p>Hier findest du meine Aquarellkunst, Karten und kleine kreative Extras.</p>
 </div>
 
+<div class="watercolour-card">
+  <h2>Studio</h2>
+  <p>Einblicke hinter die Kulissen meines Aquarellprozesses.</p>
+  <a href="{{ '/watercolour/studio/' | relative_url }}">Zum Studio</a>
+</div>
+
 <div class="watercolour-cards">
   <div class="watercolour-card">
     <h2>Galerie</h2>
