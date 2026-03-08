@@ -5,6 +5,8 @@ permalink: /watercolour/gallery/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
+
 Eine Auswahl meiner Aquarellbilder und Motive.
 
 <div class="gallery-grid">
