@@ -2,7 +2,7 @@
 title: Watercolour
 permalink: /watercolour/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
