@@ -36,5 +36,3 @@ author_profile: true
     <a href="{{ '/watercolour/freebies/' | relative_url }}">To the freebies</a>
   </div>
 </div>
-
-<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
