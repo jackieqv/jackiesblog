@@ -7,6 +7,10 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
+<div class="watercolour-layout">
+
+<div>
+
 Eine Auswahl meiner Aquarellbilder und Motive.
 
 <div class="gallery-grid">
@@ -15,3 +19,9 @@ Eine Auswahl meiner Aquarellbilder und Motive.
 </div>
 
 <a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
+
+</div>
+
+{% include watercolour-sidebar.html %}
+
+</div>
