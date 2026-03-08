@@ -7,7 +7,7 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
 
-Kostenlose Downloads und kleine kreative Extras.
+Free downloads and small creative extras.
 
 <div class="watercolour-grid">
   <div class="card">
@@ -23,4 +23,4 @@ Kostenlose Downloads und kleine kreative Extras.
   </div>
 </div>
 
-<a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
+<a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
