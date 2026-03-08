@@ -19,6 +19,9 @@ main:
 watercolour:
   - title: "Overview"
     url: /watercolour/
+    watercolour:
+  - title: "Studio"
+    url: /watercolour/studio/
   - title: "Gallery"
     url: /watercolour/gallery/
   - title: "Shop"
