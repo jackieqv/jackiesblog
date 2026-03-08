@@ -86,3 +86,77 @@
 .watercolour-card a:hover {
   text-decoration: underline;
 }
+
+/* ------------------------------------ */
+/* Right sidebar layout for subpages */
+/* ------------------------------------ */
+
+.section-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  gap: 2rem;
+  align-items: start;
+}
+
+.section-main {
+  min-width: 0;
+}
+
+.section-sidebar {
+  min-width: 0;
+}
+
+.section-sidebar-box {
+  position: sticky;
+  top: 2rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  padding: 1rem;
+}
+
+.section-sidebar-title {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+.section-sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section-sidebar-nav li + li {
+  margin-top: 0.35rem;
+}
+
+.section-sidebar-nav a {
+  display: block;
+  padding: 0.65rem 0.8rem;
+  border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.section-sidebar-nav a:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.section-sidebar-nav a.is-active {
+  background: rgba(255, 255, 255, 0.10);
+  font-weight: 600;
+}
+
+/* Mobile layout */
+
+@media (max-width: 900px) {
+
+  .section-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .section-sidebar-box {
+    position: static;
+  }
+
+}
