@@ -19,7 +19,7 @@ author_profile: true
   </div>
 
   <div class="watercolour-card">
-    <h2>Galerie</h2>
+    <h2>Gallery</h2>
     <p>A selection of my watercolor paintings and motifs.</p>
     <a href="{{ '/watercolour/gallery/' | relative_url }}">To the gallery</a>
   </div>
