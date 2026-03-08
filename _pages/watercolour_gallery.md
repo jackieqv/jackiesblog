@@ -3,7 +3,6 @@ layout: single
 title: Gallery
 permalink: /watercolour/gallery/
 author_profile: true
-classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/watercolour.css' | relative_url }}">
