@@ -11,16 +11,16 @@ Here you'll find my recipes, baking projects, and drinks.
 
 Meals, savory dishes, and everyday cooking.
 
-[To Food](/recipes/food/)
+[To Food]({{ "/recipes/food/" | relative_url }})
 
 ## Baking
 
 Cakes, cookies, breads, and sweet bakes.
 
-[To Baking](/recipes/baking/)
+[To Baking]({{ "/recipes/baking/" | relative_url }})
 
 ## Drinks
 
 Coffee, tea, smoothies, and other drinks.
 
-[To Drinks](/recipes/drinks/)
+[To Drinks]({{ "/recipes/drinks/" | relative_url }})
