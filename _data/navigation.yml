@@ -15,3 +15,13 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+  watercolour:
+  - title: "Übersicht"
+    url: /watercolour/
+  - title: "Galerie"
+    url: /watercolour/gallery/
+  - title: "Shop"
+    url: /watercolour/shop/
+  - title: "Freebies"
+    url: /watercolour/freebies/
