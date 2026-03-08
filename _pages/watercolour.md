@@ -13,7 +13,7 @@ author_profile: true
 
 <div class="watercolour-card">
   <h2>Studio</h2>
-  <p>EA glimpse behind the scenes of my watercolour process.</p>
+  <p>A glimpse behind the scenes of my watercolour process.</p>
   <a href="{{ '/watercolour/studio/' | relative_url }}">Zum Studio</a>
 </div>
 
