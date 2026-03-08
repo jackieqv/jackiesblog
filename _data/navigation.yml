@@ -32,6 +32,6 @@ food:
   - title: "Food"
     url: /recipes/food/
   - title: "Baking"
-    url: /food/baking/
+    url: /recipes/baking/
   - title: "Drinks"
-    url: /food/drinks/
+    url: /recipes/drinks/
