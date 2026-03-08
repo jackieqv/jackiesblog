@@ -18,7 +18,7 @@ Kostenlose Downloads und kleine kreative Extras.
 
   <div class="card">
     <h3>Wallpaper</h3>
-    <p>Sanfter Aquarellhintergrund für dein Handy.</p>
+    <p>Soft watercolour background for your phone.</p>
     <a href="{{ '/assets/freebies/wallpaper.jpg' | relative_url }}">Download</a>
   </div>
 </div>
