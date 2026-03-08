@@ -19,3 +19,4 @@ Eine Auswahl meiner Aquarellbilder und Motive.
 </div>
 
 <a href="{{ '/watercolour/' | relative_url }}">← Zurück zu Watercolour</a>
+
