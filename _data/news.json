@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Appelle für mehr Gleichstellung zum Frauentag",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/weltfrauentag-prien-bas-100.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T05:15:49+01:00"
+    },
+    {
       "title": "Iran-Krieg: ++ Tote nach Angriff auf Hotel in Beirut ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html",
       "published": "08 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-08T02:48:54+01:00"
+      "sort_date": "2026-03-08T04:54:38+01:00"
+    },
+    {
+      "title": "Przemysław Czarnek wird neuer Spitzenkandidat der PiS",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-pis-spitzenkandidat-parlamentswahl-100.html",
+      "published": "08 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-08T04:30:08+01:00"
     },
     {
       "title": "Bundesregierung zieht Personal der Botschaft in Teheran ab",
@@ -131,20 +145,6 @@
       "published": "07 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-03-07T20:41:00+00:00"
-    },
-    {
-      "title": "Unwetter in Kenia: Mehr als 20 Tote bei Überschwemmungen in Nairobi",
-      "link": "https://www.tagesschau.de/ausland/afrika/unwetter-nairobi-tote-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T20:23:06+01:00"
-    },
-    {
-      "title": "Nach dem Angriff auf Iran: Was bleibt vom Völkerrecht?",
-      "link": "https://www.tagesschau.de/ausland/asien/voelkerrecht-zukunft-100.html",
-      "published": "07 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-07T20:10:50+01:00"
     }
   ],
   "Food": []
