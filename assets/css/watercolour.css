@@ -1,109 +1,52 @@
-.watercolour-layout {
+.watercolour-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 260px;
-  gap: 2rem;
-  align-items: start;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 2rem;
 }
 
-.section-sidebar {
-  position: relative;
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 2rem;
 }
 
-.section-sidebar-box {
-  position: sticky;
-  top: 2rem;
-  background: #1f2937;
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 16px;
-  padding: 1rem;
-}
-
-.section-sidebar-title {
-  margin: 0 0 0.8rem 0;
-  font-size: 1.1rem;
-  color: #f9fafb;
-}
-
-.section-sidebar-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.section-sidebar-nav li + li {
-  margin-top: 0.4rem;
-}
-
-.section-sidebar-nav a {
+.gallery-grid img {
+  width: 100%;
   display: block;
-  padding: 0.65rem 0.8rem;
-  border-radius: 10px;
-  text-decoration: none;
-  color: #e5e7eb;
-  transition: background 0.15s ease, color 0.15s ease;
+  border-radius: 12px;
 }
 
-.section-sidebar-nav a:hover {
-  background: rgba(255,255,255,0.08);
-  color: #ffffff;
-}
-
-.section-sidebar-nav a.is-active {
-  background: #2563eb;
-  color: #ffffff;
-  font-weight: 600;
-}
-
-.watercolour-cards {
+.shop-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1rem;
-  margin-top: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 2rem;
 }
 
-.watercolour-card {
-  background: #1f2937;
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 16px;
-  padding: 1.25rem;
+.card {
+  background: transparent;
+  color: inherit;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: none;
 }
 
-.watercolour-card h2 {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
+.card h3,
+.card p,
+.card a,
+.card a:visited {
+  color: inherit;
 }
 
-.watercolour-card p {
-  color: #cbd5e1;
-}
-
-.watercolour-card a {
-  color: #f9fafb;
+.card a {
+  display: inline-block;
   text-decoration: none;
   font-weight: 600;
 }
 
-.watercolour-card a:hover {
-  color: #7dd3fc;
+.card a:hover {
   text-decoration: underline;
 }
-
-.watercolour-intro {
-  margin-bottom: 1.5rem;
-}
-
-.watercolour-intro p {
-  color: #cbd5e1;
-  max-width: 800px;
-}
-
-@media (max-width: 900px) {
-  .watercolour-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .section-sidebar-box {
-    position: static;
-  }
-}
-
