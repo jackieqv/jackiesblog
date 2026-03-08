@@ -26,7 +26,7 @@ classes: wide
 
 </div>
 
-<p>
+      <p>
       <a href="{{ '/watercolour/' | relative_url }}">← Back to watercolour</a>
     </p>
 
