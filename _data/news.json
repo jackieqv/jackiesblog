@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Disorder Drives One of Nature’s Most Complex Machines",
+      "link": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
+      "published": "09 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-09T14:20:51+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 7)",
       "link": "https://singularityhub.com/2026/03/07/this-weeks-awesome-tech-stories-from-around-the-web-through-march-7-2/",
       "published": "07 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "05 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-05T19:13:38+00:00"
-    },
-    {
-      "title": "Can the Most Abstract Math Make the World a Better Place?",
-      "link": "https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/",
-      "published": "04 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-04T15:13:50+00:00"
     }
   ],
   "News": [
     {
-      "title": "FAQ: Ölpreise auf nicht zu stoppendem Höhenflug?",
-      "link": "https://www.tagesschau.de/wirtschaft/oelpreis-anstieg-100.html",
+      "title": "Kommentar zu Chamenei: Die Hardliner sitzen noch immer im Sattel",
+      "link": "https://www.tagesschau.de/kommentar/modschtaba-chamenei-iran-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T13:55:38+01:00"
+      "sort_date": "2026-03-09T16:42:28+01:00"
     },
     {
-      "title": "Gegen den Markttrend: Ölaktien im Aufwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-oelaktien-100.html",
+      "title": "Terrorverdacht nach Explosion vor Synagoge in Lüttich",
+      "link": "https://www.tagesschau.de/ausland/europa/luettich-anschlag-synagoge-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T13:31:46+01:00"
+      "sort_date": "2026-03-09T15:42:13+01:00"
     },
     {
-      "title": "Mehr EU-Stärke durch Eurobonds?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/eu-eurobonds-spanien-100.html",
+      "title": "Beschuss aus Iran: Wie verwundbar sind die Golfstaaten?",
+      "link": "https://www.tagesschau.de/ausland/asien/golfstaaten-verteidigung-militaer-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T13:14:37+01:00"
+      "sort_date": "2026-03-09T15:37:57+01:00"
     },
     {
-      "title": "\"Gen Z\"-Rapper wird Nepals Regierungschef: Wer ist Balendra Shah?",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-wahl-102.html",
+      "title": "Studie: Frühjahrsmüdigkeit nicht wissenschaftlich belegt",
+      "link": "https://www.tagesschau.de/wissen/studie-fruehjahrsmuedigkeit-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T13:04:19+01:00"
+      "sort_date": "2026-03-09T15:31:36+01:00"
     },
     {
-      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html",
+      "title": "Teilerfolg für Klage gegen Impfstoffhersteller AstraZeneca",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/covid-impfung-astrazeneca-prozess-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T12:39:52+01:00"
+      "sort_date": "2026-03-09T14:39:21+01:00"
     }
   ],
   "Food": []
