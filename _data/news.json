@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Identifying Leaders via Direct Reports in the Performance–Potential Matrix (Succession Planning)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/identifying-leaders-via-direct-reports-in-the-performance-potential-matrix/ba-p/14342375",
+      "published": "09 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-09T09:54:14+00:00"
+    },
+    {
+      "title": "Now That You Have Talent Intelligence Hub, How to Maximize It for Workforce & Succession Planning",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/now-that-you-have-talent-intelligence-hub-how-to-maximize-it-for-workforce/ba-p/14340897",
+      "published": "09 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-09T09:51:39+00:00"
+    },
+    {
       "title": "Introducing CQC Implementation Gates for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-cqc-implementation-gates-for-sap-successfactors-hcm/ba-p/14343425",
       "published": "06 Mar 2026",
@@ -57,20 +71,6 @@
       "published": "04 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-04T10:13:04+00:00"
-    },
-    {
-      "title": "Understanding how to retrieve only the right employee records in Variable Pay",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-how-to-retrieve-only-the-right-employee-records-in-variable/ba-p/14339797",
-      "published": "03 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-03T16:19:34+00:00"
-    },
-    {
-      "title": "An AI Tool That Turns SuccessFactors $metadata Into a Clean Excel Data Dictionary in 30 Secs",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/an-ai-tool-that-turns-successfactors-metadata-into-a-clean-excel-data/ba-p/14338690",
-      "published": "02 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-02T02:30:08+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: Konjunktursorgen schicken DAX auf Talfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html",
+      "title": "FAQ: Ölpreise auf nicht zu stoppendem Höhenflug?",
+      "link": "https://www.tagesschau.de/wirtschaft/oelpreis-anstieg-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T10:41:18+01:00"
+      "sort_date": "2026-03-09T13:55:38+01:00"
     },
     {
-      "title": "++ Liveblog: Schweitzer macht SPD-Ergebnis \"nicht nervös\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html",
+      "title": "Gegen den Markttrend: Ölaktien im Aufwind",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-oelaktien-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T10:40:45+01:00"
+      "sort_date": "2026-03-09T13:31:46+01:00"
     },
     {
-      "title": "Iran-Krieg: ++ Feuer in Ölraffinerie in Bahrain ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html",
+      "title": "Mehr EU-Stärke durch Eurobonds?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/eu-eurobonds-spanien-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T10:34:44+01:00"
+      "sort_date": "2026-03-09T13:14:37+01:00"
     },
     {
-      "title": "Iran: Wer ist Modschtaba Chamenei?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-modschtaba-chamenei-portraet-100.html",
+      "title": "\"Gen Z\"-Rapper wird Nepals Regierungschef: Wer ist Balendra Shah?",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-wahl-102.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T09:59:30+01:00"
+      "sort_date": "2026-03-09T13:04:19+01:00"
     },
     {
-      "title": "Landtagswahl Baden-Württemberg: Grüne im Aufwind, CDU ernüchtert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-baden-wuerttemberg-reaktionen-100.html",
+      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html",
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T09:07:47+01:00"
+      "sort_date": "2026-03-09T12:39:52+01:00"
     }
   ],
   "Food": []
