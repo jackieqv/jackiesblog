@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Hackers Are Automating Cyberattacks With AI. Defenders Are Using It to Fight Back.",
+      "link": "https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/",
+      "published": "09 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-09T23:07:57+00:00"
+    },
+    {
       "title": "Disorder Drives One of Nature’s Most Complex Machines",
       "link": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
       "published": "09 Mar 2026",
@@ -101,16 +108,16 @@
       "published": "06 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-06T15:00:33+00:00"
-    },
-    {
-      "title": "Thousands of Everyday Drone Pilots Are Making a Google Street View From Above",
-      "link": "https://singularityhub.com/2026/03/05/thousands-of-everyday-drone-pilots-are-making-a-google-street-view-from-above/",
-      "published": "05 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-05T19:13:38+00:00"
     }
   ],
   "News": [
+    {
+      "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T00:55:09+01:00"
+    },
     {
       "title": "KI-Firma Anthropic wehrt sich vor Gericht gegen Trump-Regierung",
       "link": "https://www.tagesschau.de/wirtschaft/anthropic-klage-us-regierung-100.html",
@@ -138,13 +145,6 @@
       "published": "09 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-09T20:06:53+01:00"
-    },
-    {
-      "title": "Applaus für den Angeklagten - Prozess in Istanbul gegen İmamoğlu",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-prozesse-opposition-justiz-100.html",
-      "published": "09 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T18:38:04+01:00"
     }
   ],
   "Food": []
