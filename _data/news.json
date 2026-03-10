@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Understanding how to retrieve only the right employee records in Variable Pay",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-how-to-retrieve-only-the-right-employee-records-in-variable/ba-p/14339797",
+      "published": "10 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-10T04:46:23+00:00"
+    },
+    {
       "title": "Why Compound Employee Delta Integrations May Behave Differently After ONB 2.0 Migration",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/why-compound-employee-delta-integrations-may-behave-differently-after-onb-2/ba-p/14344051",
       "published": "10 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "06 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-06T13:41:19+00:00"
-    },
-    {
-      "title": "Enterprise Data Replication Governance Between SAP SuccessFactors EC and SAP S/4HANA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enterprise-data-replication-governance-between-sap-successfactors-ec-and/ba-p/14342972",
-      "published": "06 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-06T09:19:46+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Springers Pläne mit dem \"Telegraph\"",
+      "title": "Nahost-Liveblog: ++ Iran dementiert Raketen-Abschuss auf Türkei ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T07:39:47+01:00"
+    },
+    {
+      "title": "Marktbericht: DAX dürfte auf Erholungskurs gehen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-naher-osten-boerse-100.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T07:37:11+01:00"
+    },
+    {
+      "title": "Auswärtiges Amt: Lage in Syrien offenbar nur leicht verbessert",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-auswaertiges-amt-100.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T06:01:06+01:00"
+    },
+    {
+      "title": "Sorgen im Irak vor einer Ausweitung des Iran-Krieges",
+      "link": "https://www.tagesschau.de/ausland/asien/irak-krieg-iran-ausweitung-100.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T06:00:20+01:00"
+    },
+    {
+      "title": "Springers Pläne mit dem britischen Telegraph",
       "link": "https://www.tagesschau.de/ausland/europa/telegraph-springer-medien-100.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-10T03:32:27+01:00"
-    },
-    {
-      "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T00:55:09+01:00"
-    },
-    {
-      "title": "KI-Firma Anthropic wehrt sich vor Gericht gegen Trump-Regierung",
-      "link": "https://www.tagesschau.de/wirtschaft/anthropic-klage-us-regierung-100.html",
-      "published": "09 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T22:21:55+01:00"
-    },
-    {
-      "title": "NATO-Abwehrsystem: Erneut Rakete aus Iran über der Türkei abgefangen",
-      "link": "https://www.tagesschau.de/ausland/asien/zweite-rakete-iran-tuerkei-100.html",
-      "published": "09 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T20:43:19+01:00"
-    },
-    {
-      "title": "Ramstein Air Base: Militärisches Drehkreuz der USA in Europa",
-      "link": "https://www.dw.com/de/ramstein-air-base-militärisches-drehkreuz-der-usa-in-europa/a-76275616?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "09 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-09T20:10:00+00:00"
     }
   ],
   "Food": []
