@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Iran dementiert Raketen-Abschuss auf Türkei ++",
+      "title": "Nahost-Liveblog: ++ Netanjahu geht nicht von baldigem Kriegsende aus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T07:39:47+01:00"
+      "sort_date": "2026-03-10T10:42:26+01:00"
     },
     {
-      "title": "Marktbericht: DAX dürfte auf Erholungskurs gehen",
+      "title": "New Yorker Weinhändler kippte Trumps Zölle",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/weinhaendler-new-york-trump-zoelle-100.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T10:40:41+01:00"
+    },
+    {
+      "title": "Marktbericht: DAX-Käufer kehren mit Schwung zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-naher-osten-boerse-100.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T07:37:11+01:00"
+      "sort_date": "2026-03-10T10:40:15+01:00"
     },
     {
-      "title": "Auswärtiges Amt: Lage in Syrien offenbar nur leicht verbessert",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-auswaertiges-amt-100.html",
+      "title": "Welche Folgen der Iran-Krieg für Somaliland hat",
+      "link": "https://www.tagesschau.de/ausland/afrika/somaliland-auswirkung-krieg-nahost-100.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T06:01:06+01:00"
+      "sort_date": "2026-03-10T10:19:45+01:00"
     },
     {
-      "title": "Sorgen im Irak vor einer Ausweitung des Iran-Krieges",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-krieg-iran-ausweitung-100.html",
+      "title": "Tankstellenverband erwartet noch höhere Spritpreise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-tankstellenverband-100.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T06:00:20+01:00"
-    },
-    {
-      "title": "Springers Pläne mit dem britischen Telegraph",
-      "link": "https://www.tagesschau.de/ausland/europa/telegraph-springer-medien-100.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T03:32:27+01:00"
+      "sort_date": "2026-03-10T09:08:38+01:00"
     }
   ],
   "Food": []
