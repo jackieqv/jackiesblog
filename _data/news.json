@@ -38,11 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "Why Compound Employee Delta Integrations May Behave Differently After ONB 2.0 Migration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/why-compound-employee-delta-integrations-may-behave-differently-after-onb-2/ba-p/14344051",
+      "published": "10 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-10T03:39:50+00:00"
+    },
+    {
       "title": "Identifying Leaders via Direct Reports in the Performance–Potential Matrix (Succession Planning)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/identifying-leaders-via-direct-reports-in-the-performance-potential-matrix/ba-p/14342375",
-      "published": "09 Mar 2026",
+      "published": "10 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-09T09:54:14+00:00"
+      "sort_date": "2026-03-10T03:39:05+00:00"
     },
     {
       "title": "Now That You Have Talent Intelligence Hub, How to Maximize It for Workforce & Succession Planning",
@@ -64,13 +71,6 @@
       "published": "06 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-06T09:19:46+00:00"
-    },
-    {
-      "title": "Transitioning from Chaos to Clarity: Converting Raw Design Worksheet XML to Excel",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/transitioning-from-chaos-to-clarity-converting-raw-design-worksheet-xml-to/ba-p/14338636",
-      "published": "04 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-04T10:13:04+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Springers Pläne mit dem \"Telegraph\"",
+      "link": "https://www.tagesschau.de/ausland/europa/telegraph-springer-medien-100.html",
+      "published": "10 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-10T03:32:27+01:00"
+    },
+    {
       "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html",
       "published": "10 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "09 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-03-09T20:10:00+00:00"
-    },
-    {
-      "title": "tagesschau und NDR starten Faktencheck-Format \"rabbit hole\"",
-      "link": "https://www.tagesschau.de/inland/rabbit-hole-tagesschau-ndr-100.html",
-      "published": "09 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-09T20:06:53+01:00"
     }
   ],
   "Food": []
