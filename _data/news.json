@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Drohnenabwehr: Ukraine entsendet Experten nach Nahost",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-experten-nahost-102.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T02:56:19+01:00"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Netanjahu erneuert Aufruf zu Regimesturz ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T02:55:29+01:00"
+    },
+    {
+      "title": "Mindestens sechs Tote bei Busbrand in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-bus-brand-100.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T02:43:50+01:00"
+    },
+    {
+      "title": "Wadephul zu Iran-Krieg: \"Müssen uns noch auf eine gewisse Zeit einrichten\"",
+      "link": "https://www.tagesschau.de/ausland/asien/wadephul-tagesthemen-iran-krieg-100.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T00:07:33+01:00"
+    },
+    {
       "title": "Trump und ein mögliches Kriegsende: \"Die USA sind ohne Strategie unterwegs\"",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-perspektive-kriegsende-100.html",
       "published": "10 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-10T19:38:34+01:00"
-    },
-    {
-      "title": "Kommentar zur geplanten EU-Förderung: Mini-Atomreaktoren sind keine Lösung",
-      "link": "https://www.tagesschau.de/ausland/europa/kommentar-atomenergie-foederung-eu-100.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T19:05:15+01:00"
-    },
-    {
-      "title": "Piloten der Lufthansa zum zweitägigen Streik aufgerufen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/piloten-streik-lufthansa-100.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T18:57:12+01:00"
-    },
-    {
-      "title": "Repräsentative Studie: \"Man erfährt Diskriminierung überall\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-untersuchung-100.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T18:48:09+01:00"
-    },
-    {
-      "title": "Wie es zum Wirbel um den Buchhandlungspreis kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-buchhandlungen-verfassungsschutz-100.html",
-      "published": "10 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-10T18:44:16+01:00"
     }
   ],
   "Food": []
