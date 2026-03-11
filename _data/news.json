@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+      "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+      "published": "11 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-11T14:07:28+00:00"
+    },
+    {
       "title": "In a First, Researchers Use Stem Cells and Surgery to Treat Spina Bifida in the Womb",
       "link": "https://singularityhub.com/2026/03/10/in-a-first-researchers-use-stem-cells-and-surgery-to-treat-spina-bifida-in-the-womb/",
       "published": "10 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "07 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-07T15:00:00+00:00"
-    },
-    {
-      "title": "Autonomous AI Agents Have an Ethics Problem",
-      "link": "https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/",
-      "published": "06 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-06T22:03:16+00:00"
     }
   ],
   "News": [
     {
-      "title": "Janosch - der Vater der Tigerente wird 95",
-      "link": "https://www.tagesschau.de/kultur/janosch-portrait-geburtstag-95-100.html",
+      "title": "Sechs Tote in der Schweiz: Mutmaßlicher Brandstifter offenbar psychisch krank",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busbrand-102.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T13:57:11+01:00"
+      "sort_date": "2026-03-11T16:30:34+01:00"
     },
     {
-      "title": "Tankstellen sollen nur noch einmal an Tag Preise erhöhen dürfen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-erhoehung-100.html",
+      "title": "Mehr Spender, aber Zahl an Organspenden reicht bei Weitem nicht aus",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/organspende-zahl-reicht-nicht-100.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T13:46:16+01:00"
+      "sort_date": "2026-03-11T15:47:50+01:00"
     },
     {
-      "title": "Deutschland gibt Teil der nationalen Ölreserve frei",
-      "link": "https://www.tagesschau.de/wirtschaft/freigabe-oelreserven-deutschland-100.html",
+      "title": "\"Divorced Dad Rock\" - Midlife-Crisis-Meme wird zum Massenphänomen",
+      "link": "https://www.tagesschau.de/kultur/divorced-dad-rock-100.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T12:56:57+01:00"
+      "sort_date": "2026-03-11T15:36:54+01:00"
     },
     {
-      "title": "Kommunalwahlen in Bayern: Verluste für CSU, Grüne und SPD - AfD legt zu",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/kommunalwahl-bayern-ergebnis-100.html",
+      "title": "Klöckner in Kyjiw: \"Wir bleiben an Ihrer Seite\"",
+      "link": "https://www.dw.com/de/klöckner-in-kyjiw-wir-bleiben-an-ihrer-seite/a-76307910?maca=de-rss-de-top-1016-xml-mrss",
       "published": "11 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T12:44:59+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-11T15:12:00+00:00"
     },
     {
-      "title": "Energiekonzern Uniper zahlt dem Staat Millionen-Dividende",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-dividende-bund-100.html",
+      "title": "Merz: Deutschland bleibt beim Aus für Atomenergie",
+      "link": "https://www.dw.com/de/merz-deutschland-bleibt-beim-aus-für-atomenergie/a-76299902?maca=de-rss-de-top-1016-xml-mrss",
       "published": "11 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T12:27:06+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-11T14:54:00+00:00"
     }
   ],
   "Food": []
