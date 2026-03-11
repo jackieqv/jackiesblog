@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Designing an External Career Site in SAP SuccessFactors SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/designing-an-external-career-site-in-sap-successfactors-smartrecruiters/ba-p/14346187",
+      "published": "11 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-11T06:24:59+00:00"
+    },
+    {
       "title": "Understanding how to retrieve only the right employee records in Variable Pay",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-how-to-retrieve-only-the-right-employee-records-in-variable/ba-p/14339797",
       "published": "10 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "09 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-09T09:51:39+00:00"
-    },
-    {
-      "title": "Introducing CQC Implementation Gates for SAP SuccessFactors HCM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-cqc-implementation-gates-for-sap-successfactors-hcm/ba-p/14343425",
-      "published": "06 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-06T13:41:19+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Netanjahu erneuert Aufruf zu Regimesturz ++",
+      "title": "DAX hin- und hergerissen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-100.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T07:51:20+01:00"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Offenbar Wohnhaus im Zentrum Beiruts getroffen  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T05:28:58+01:00"
+      "sort_date": "2026-03-11T07:44:42+01:00"
     },
     {
-      "title": "Straße von Hormus: USA melden Angriff auf iranische Minenlegerboote",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-minen-100.html",
+      "title": "SPD pocht auf Reform der Schuldenbremse",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-debatte-108.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T05:21:28+01:00"
+      "sort_date": "2026-03-11T07:36:40+01:00"
     },
     {
-      "title": "Fossil zeigt besondere Flossenstruktur eines Fischsauriers",
-      "link": "https://www.tagesschau.de/wissen/forschung/fischsaurier-100.html",
+      "title": "Geben steigende Öl- und Gaspreise der Inflation neuen Schub?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-oelpreis-iran-krieg-ezb-100.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T05:02:06+01:00"
+      "sort_date": "2026-03-11T06:19:44+01:00"
     },
     {
-      "title": "Drohnenabwehr: Ukraine entsendet Experten nach Nahost",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-experten-nahost-102.html",
+      "title": "Neuausrichtung - Der BND soll mehr Informationen sammeln",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-umbau-menschliche-quellen-100.html",
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T02:56:19+01:00"
-    },
-    {
-      "title": "Mindestens sechs Tote bei Busbrand in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-bus-brand-100.html",
-      "published": "11 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T02:43:50+01:00"
+      "sort_date": "2026-03-11T06:00:07+01:00"
     }
   ],
   "Food": []
