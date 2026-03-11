@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Lufthansa-Streik könnte kleiner als gedacht ausfallen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-kleiner-als-gedacht-100.html",
+      "published": "11 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-11T20:00:00+01:00"
+    },
+    {
       "title": "Buchbranche empört über Weimer-Vorgehen",
       "link": "https://www.tagesschau.de/kultur/wolfram-weimer-buchhandlungspreis-reaktionen-100.html",
       "published": "11 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-11T18:31:45+01:00"
-    },
-    {
-      "title": "Politikberater Bahbah im Interview: Enttäuschte Emirate, Wut auf Trump",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-interview-bishara-bahbah-100.html",
-      "published": "11 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T17:02:47+01:00"
     }
   ],
   "Food": []
