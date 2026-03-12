@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Campaigns in SmartRecruiters Talent Communities: A Complete Guide to Candidate Engagement",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/campaigns-in-smartrecruiters-talent-communities-a-complete-guide-to/ba-p/14347668",
+      "published": "12 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-12T20:25:49+00:00"
+    },
+    {
       "title": "Designing an External Career Site in SAP SuccessFactors SmartRecruiters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/designing-an-external-career-site-in-sap-successfactors-smartrecruiters/ba-p/14346187",
       "published": "11 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "10 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-10T03:39:05+00:00"
-    },
-    {
-      "title": "Now That You Have Talent Intelligence Hub, How to Maximize It for Workforce & Succession Planning",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/now-that-you-have-talent-intelligence-hub-how-to-maximize-it-for-workforce/ba-p/14340897",
-      "published": "09 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-09T09:51:39+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Polen Präsident Nawrocki lehnt milliardenschweren EU-Rüstungskredit ab",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ablehnung-eu-ruestungskredite-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T22:07:24+01:00"
+    },
+    {
+      "title": "Experte zur Straße von Hormus: \"Sollten davon ausgehen, dass dort Minen sind\"",
+      "link": "https://www.tagesschau.de/ausland/asien/interview-brake-minen-schifffahrt-iran-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T20:20:55+01:00"
+    },
+    {
+      "title": "Ungarn vor der Parlamentswahl: Warum Orban nicht mehr begeistert",
+      "link": "https://www.tagesschau.de/ausland/europa/orban-ungarn-wahl-2026-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T20:01:34+01:00"
+    },
+    {
       "title": "Kommentar zu Spritpreisen: Der Staat ist keine Vollkaskoversicherung",
       "link": "https://www.tagesschau.de/kommentar/kommentar-girschick-energiekosten-100.html",
       "published": "12 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-12T19:10:13+01:00"
-    },
-    {
-      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T18:32:08+01:00"
-    },
-    {
-      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T18:01:03+01:00"
-    },
-    {
-      "title": "Irans Religionsführer Chamenei fordert Rache für Kriegsopfer",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-modschtaba-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T16:56:56+01:00"
     }
   ],
   "Food": []
