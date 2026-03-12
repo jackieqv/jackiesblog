@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Kommentar zu Spritpreisen: Der Staat ist keine Vollkaskoversicherung",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-girschick-energiekosten-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T19:48:09+01:00"
+    },
+    {
+      "title": "Wie viel Macht hat das Kartellamt bei gestiegenen Kraftstoffpreisen?",
+      "link": "https://www.tagesschau.de/wirtschaft/macht-kartellamt-energiepreise-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T19:10:13+01:00"
+    },
+    {
+      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T18:32:08+01:00"
+    },
+    {
+      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T18:01:03+01:00"
+    },
+    {
       "title": "Irans Religionsführer Chamenei fordert Rache für Kriegsopfer",
       "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-modschtaba-100.html",
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-12T16:56:56+01:00"
-    },
-    {
-      "title": "Kritik an Staatsminister Weimer: Kulturszene sorgt sich um die Kunstfreiheit",
-      "link": "https://www.tagesschau.de/kultur/wolfram-weimer-widerstand-kulturszene-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T16:32:56+01:00"
-    },
-    {
-      "title": "Volkskongresses: China treibt Modernisierung voran - und sorgt sich",
-      "link": "https://www.tagesschau.de/ausland/asien/china-abschluss-volkskongress-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T15:17:08+01:00"
-    },
-    {
-      "title": "Seit Kriegsbeginn: UN melden bis zu 3,2 Millionen Vertriebene in Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/vertriebene-iran-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T15:09:32+01:00"
-    },
-    {
-      "title": "Trotz Ermittlungen - Gröner will weitere Bauprojekte umsetzen",
-      "link": "https://www.tagesschau.de/investigativ/fakt/groener-bauunternehmer-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T14:53:48+01:00"
     }
   ],
   "Food": []
