@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Irak meldet Angriff auf Öltanker ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html",
+      "title": "Gewinn von Daimler Truck um 34 Prozent eingebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimler-truck-gewinneinbruch-100.html",
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T07:35:23+01:00"
+      "sort_date": "2026-03-12T10:13:37+01:00"
     },
     {
-      "title": "Hunderttausende sind im Libanon auf der Flucht",
-      "link": "https://www.tagesschau.de/ausland/asien/humanitaere-lage-libanon-100.html",
+      "title": "Wie das Bewegen der Hände das Gehirn trainiert",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/feinmotorik-gehirn-funktion-100.html",
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T07:08:52+01:00"
+      "sort_date": "2026-03-12T10:10:34+01:00"
     },
     {
-      "title": "Ukraine: Moderne Kriegsführung in der \"Todeszone\"",
-      "link": "https://www.dw.com/de/ukraine-moderne-kriegsführung-in-der-todeszone/a-76306850?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "12 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-12T06:36:00+00:00"
-    },
-    {
-      "title": "Rechtsruck in Chile: Kast als neuer Präsident vereidigt",
-      "link": "https://www.tagesschau.de/ausland/amerika/chile-kast-praesident-100.html",
+      "title": "Betrieb am BER wegen Sichtung von Flugobjekten zweimal eingestellt",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/ber-flugobjekte-sperrung-100.html",
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T05:25:52+01:00"
+      "sort_date": "2026-03-12T10:03:01+01:00"
     },
     {
-      "title": "Pilotenstreik: Welche Rechte Flugreisende haben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fluggastrechte-118.html",
+      "title": "Krieg in Nahost: Iran attackiert Energiesektor am Golf",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-oelsektor-golfstaaten-100.html",
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T04:02:00+01:00"
+      "sort_date": "2026-03-12T09:06:36+01:00"
+    },
+    {
+      "title": "Wie der Iran-Krieg einen Aufschwung in Deutschland bremsen könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/konjunktur-sorgen-politik-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T08:30:11+01:00"
     }
   ],
   "Food": []
