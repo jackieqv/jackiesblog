@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Iran-Krieg: Auch die USA geben Ölreserven teils frei",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-freigabe-oelreserve-100.html",
+      "published": "12 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-12T01:42:54+01:00"
+    },
+    {
       "title": "Lufthansa-Streik könnte kleiner als gedacht ausfallen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-kleiner-als-gedacht-100.html",
       "published": "11 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "11 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-11T18:35:30+01:00"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Angriffe auf Tausende Ziele in Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-usa-israel-100.html",
-      "published": "11 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-11T18:31:45+01:00"
     }
   ],
   "Food": []
