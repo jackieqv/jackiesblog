@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Aberglaube: Ist Freitag, der 13., wirklich ein Unglückstag?",
+      "link": "https://www.tagesschau.de/wissen/forschung/freitag-der-13-100.html",
+      "published": "13 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-13T07:52:00+01:00"
+    },
+    {
       "title": "Iran-Liveblog: ++ US-Militär meldet Absturz von Tankflugzeug im Irak ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T05:28:25+01:00"
+      "sort_date": "2026-03-13T07:36:05+01:00"
     },
     {
-      "title": "Profitiert Putin vom Iran-Krieg?",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-iran-krieg-100.html",
+      "title": "Marktbericht: DAX vor stabilem Handelsstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-notenbanken-geldpolitik-oel-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T05:01:13+01:00"
+      "sort_date": "2026-03-13T07:34:43+01:00"
     },
     {
-      "title": "USA erlauben vorübergehend Kauf von russischem Öl",
-      "link": "https://www.tagesschau.de/ausland/usa-russisches-erdoel-100.html",
+      "title": "Mann steuert Auto in Synagoge in Michigan - FBI ermittelt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-synagoge-michigan-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T05:00:27+01:00"
+      "sort_date": "2026-03-13T07:07:20+01:00"
     },
     {
-      "title": "Weltschlaftag: So wichtig ist guter Schlaf für die Gesundheit",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/schlafforschung-fruejahrsmuedigkeit-schlafstoerungen-100.html",
+      "title": "11KM-Podcast: Warum Tanken teurer wurde - und wer davon profitiert",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-oelpreis-tanken-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T04:19:20+01:00"
-    },
-    {
-      "title": "Französischer Soldat bei Angriff im Irak getötet",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-irak-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T03:55:03+01:00"
+      "sort_date": "2026-03-13T06:28:50+01:00"
     }
   ],
   "Food": []
