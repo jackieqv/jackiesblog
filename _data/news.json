@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Understanding Work Schedule in SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-work-schedule-in-successfactors/ba-p/14347721",
+      "published": "12 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-12T22:54:07+00:00"
+    },
+    {
       "title": "Campaigns in SmartRecruiters Talent Communities: A Complete Guide to Candidate Engagement",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/campaigns-in-smartrecruiters-talent-communities-a-complete-guide-to/ba-p/14347668",
       "published": "12 Mar 2026",
@@ -64,16 +71,16 @@
       "published": "10 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-10T03:39:50+00:00"
-    },
-    {
-      "title": "Identifying Leaders via Direct Reports in the Performance–Potential Matrix (Succession Planning)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/identifying-leaders-via-direct-reports-in-the-performance-potential-matrix/ba-p/14342375",
-      "published": "10 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-10T03:39:05+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "The US Plans to Break Ground on a Permanent Moon Base by 2030. Here’s What It Will Take.",
+      "link": "https://singularityhub.com/2026/03/12/nasa-is-planning-to-build-a-permanent-moon-base-by-2030-heres-what-it-will-take/",
+      "published": "12 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-12T22:26:46+00:00"
+    },
     {
       "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
       "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
@@ -101,16 +108,16 @@
       "published": "09 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-09T14:20:51+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 7)",
-      "link": "https://singularityhub.com/2026/03/07/this-weeks-awesome-tech-stories-from-around-the-web-through-march-7-2/",
-      "published": "07 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-07T15:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Gastarbeiter am Golf: Arbeiten unter Beschuss",
+      "link": "https://www.tagesschau.de/ausland/asien/dubai-gastarbeiter-vae-100.html",
+      "published": "13 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-13T01:51:55+01:00"
+    },
     {
       "title": "Polen Präsident Nawrocki lehnt milliardenschweren EU-Rüstungskredit ab",
       "link": "https://www.tagesschau.de/ausland/europa/polen-ablehnung-eu-ruestungskredite-100.html",
@@ -138,13 +145,6 @@
       "published": "12 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-12T19:48:09+01:00"
-    },
-    {
-      "title": "Wie viel Macht hat das Kartellamt bei gestiegenen Kraftstoffpreisen?",
-      "link": "https://www.tagesschau.de/wirtschaft/macht-kartellamt-energiepreise-100.html",
-      "published": "12 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-12T19:10:13+01:00"
     }
   ],
   "Food": []
