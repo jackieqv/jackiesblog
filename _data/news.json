@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
+      "link": "https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/",
+      "published": "13 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-13T14:37:02+00:00"
+    },
+    {
       "title": "The US Plans to Break Ground on a Permanent Moon Base by 2030. Here’s What It Will Take.",
       "link": "https://singularityhub.com/2026/03/12/nasa-is-planning-to-build-a-permanent-moon-base-by-2030-heres-what-it-will-take/",
       "published": "12 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "09 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-09T23:07:57+00:00"
-    },
-    {
-      "title": "Disorder Drives One of Nature’s Most Complex Machines",
-      "link": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
-      "published": "09 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-09T14:20:51+00:00"
     }
   ],
   "News": [
     {
-      "title": "Energiepreise: Vom Iran-Schock zum Energiewende-Motor?",
-      "link": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-gaspreise-oelpreise-100.html",
+      "title": "Schönenborn wird Moderator der tagesthemen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/tagesthemen-schoenenborn-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T13:37:27+01:00"
+      "sort_date": "2026-03-13T16:14:58+01:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Iranisches Geschoss über der Türkei abgefangen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html",
+      "title": "Nach Brandanschlag auf Synagoge in Rotterdam wächst die Angst",
+      "link": "https://www.tagesschau.de/ausland/europa/anschlag-synagoge-rotterdam-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T13:29:35+01:00"
+      "sort_date": "2026-03-13T15:33:11+01:00"
     },
     {
-      "title": "Erste Warnsignale vom Rentenmarkt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/rentenmaerkte-marktbericht-100.html",
+      "title": "EU hält an Russland-Sanktionen fest",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-198.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T13:26:22+01:00"
+      "sort_date": "2026-03-13T15:17:58+01:00"
     },
     {
-      "title": "ÖPNV soll in Nordrhein-Westfalen stillstehen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html",
+      "title": "Kriminalität durch KI: Wie die EU gegen Deepfakes vorgehen will",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-deepfakes-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T12:58:00+01:00"
+      "sort_date": "2026-03-13T14:54:42+01:00"
     },
     {
-      "title": "Pakistan weitet Angriffe auf Afghanistan aus",
-      "link": "https://www.dw.com/de/pakistan-weitet-angriffe-auf-afghanistan-aus/a-76348140?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Iran-Krieg: Trump will Regime \"vollständig zerstören\"",
+      "link": "https://www.dw.com/de/iran-krieg-trump-will-regime-vollständig-zerstören/a-76344650?maca=de-rss-de-top-1016-xml-mrss",
       "published": "13 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-13T12:43:00+00:00"
+      "sort_date": "2026-03-13T12:50:00+00:00"
     }
   ],
   "Food": []
