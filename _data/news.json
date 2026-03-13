@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "HCM Brasil: CNPJ Alfanumérico - Fase 1 Concluída!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cnpj-alfanum%C3%A9rico-fase-1-conclu%C3%ADda/ba-p/14348644",
+      "published": "13 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-13T21:17:19+00:00"
+    },
+    {
       "title": "Understanding Work Schedule in SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-work-schedule-in-successfactors/ba-p/14347721",
       "published": "12 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "10 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-10T04:46:23+00:00"
-    },
-    {
-      "title": "Why Compound Employee Delta Integrations May Behave Differently After ONB 2.0 Migration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/why-compound-employee-delta-integrations-may-behave-differently-after-onb-2/ba-p/14344051",
-      "published": "10 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-10T03:39:50+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html",
+      "published": "13 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-13T21:48:39+01:00"
+    },
+    {
+      "title": "Interview: \"Russland ist einer der großen Profiteure\"",
+      "link": "https://www.tagesschau.de/ausland/europa/us-sanktionen-russland-oel-100.html",
+      "published": "13 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-13T21:35:38+01:00"
+    },
+    {
+      "title": "Vom Vermittler zum Zuschauer: Europas Problem mit Iran",
+      "link": "https://www.dw.com/de/vom-vermittler-zum-zuschauer-europas-problem-mit-iran/a-76349615?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "13 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-13T20:51:00+00:00"
+    },
+    {
       "title": "Ukraine in Sorge über US-Entscheidung zu Russland-Sanktionen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-sanktionen-oel-100.html",
       "published": "13 Mar 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-03-13T19:29:51+01:00"
     },
     {
-      "title": "US-Verteidigungsministerium nicht besorgt über Lage in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-golf-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T19:16:30+01:00"
-    },
-    {
       "title": "Reiche-Berater bringen heimisches Fracking ins Spiel",
       "link": "https://www.tagesschau.de/inland/innenpolitik/energiekrise-strategien-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-13T19:15:34+01:00"
-    },
-    {
-      "title": "Was Deutschland von der US-Lockerung der Russland-Sanktionen hält",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/usa-russland-reaktion-oel-sanktionen-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T19:15:12+01:00"
-    },
-    {
-      "title": "Marktbericht: Alle Augen auf die Straße von Hormus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-notenbanken-geldpolitik-oel-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T18:18:38+01:00"
     }
   ],
   "Food": []
