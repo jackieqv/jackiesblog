@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Max Richter ist für seine Filmmusik zu \"Hamnet\" für Oscar nominiert",
+      "link": "https://www.tagesschau.de/kultur/max-richter-oscar-nominierung-hamnet-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T07:38:25+01:00"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: US-Eskorte für Tanker beginnt \"bald\" ++",
       "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html",
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T05:15:13+01:00"
+      "sort_date": "2026-03-14T07:03:27+01:00"
+    },
+    {
+      "title": "Deutschlands Autoindustrie: Zulieferer orientieren sich um",
+      "link": "https://www.dw.com/de/deutschlands-autoindustrie-zulieferer-orientieren-sich-um/a-76058448?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-14T06:42:00+00:00"
     },
     {
       "title": "US-Angriffe auf iranische Öl-Insel Kharg",
@@ -131,20 +145,6 @@
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-14T03:14:40+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T23:37:12+01:00"
-    },
-    {
-      "title": "Interview: \"Russland ist einer der großen Profiteure\"",
-      "link": "https://www.tagesschau.de/ausland/europa/us-sanktionen-russland-oel-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T21:35:38+01:00"
     }
   ],
   "Food": []
