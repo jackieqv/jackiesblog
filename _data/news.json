@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Trump: US-Eskorte für Tanker beginnt \"bald\" ++",
+      "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T05:15:13+01:00"
+    },
+    {
       "title": "US-Angriffe auf iranische Öl-Insel Kharg",
       "link": "https://www.tagesschau.de/ausland/asien/kharg-us-angriff-100.html",
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T02:04:56+01:00"
+      "sort_date": "2026-03-14T04:31:23+01:00"
+    },
+    {
+      "title": "Schnieder will Comeback der Magnetschwebebahn",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/magnetschwebebahn-108.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T03:14:40+01:00"
     },
     {
       "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
@@ -131,20 +145,6 @@
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-13T21:35:38+01:00"
-    },
-    {
-      "title": "Vom Vermittler zum Zuschauer: Europas Problem mit Iran",
-      "link": "https://www.dw.com/de/vom-vermittler-zum-zuschauer-europas-problem-mit-iran/a-76349615?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "13 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-13T20:51:00+00:00"
-    },
-    {
-      "title": "Ukraine in Sorge über US-Entscheidung zu Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-sanktionen-oel-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T19:29:51+01:00"
     }
   ],
   "Food": []
