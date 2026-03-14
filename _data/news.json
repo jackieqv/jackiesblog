@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Bosnien und Herzegowina: Den Rundfunk lähmen, das Land spalten",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-rundfunk-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T17:44:34+01:00"
+    },
+    {
+      "title": "Brandmauer im Europaparlament: Bericht über Kooperation mit AfD",
+      "link": "https://www.tagesschau.de/ausland/europa/evp-europaparlament-afd-brandmauer-weber-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T17:01:50+01:00"
+    },
+    {
+      "title": "Iran: Welche Folgen könnte der Angriff auf Charg haben?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-charg-faq-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T16:43:32+01:00"
+    },
+    {
       "title": "Jürgen Habermas gestorben",
       "link": "https://www.tagesschau.de/inland/nachruf-habermas-100.html",
       "published": "14 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "14 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-03-14T15:19:00+00:00"
-    },
-    {
-      "title": "NATO-Partner Serbien kauft Raketen in China",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-waffen-ruestung-china-100.html",
-      "published": "14 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T15:13:33+01:00"
-    },
-    {
-      "title": "Der Philosoph Jürgen Habermas ist tot",
-      "link": "https://www.dw.com/de/der-philosoph-jürgen-habermas-ist-tot/a-76361543?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-14T14:24:00+00:00"
-    },
-    {
-      "title": "Der Weg für Rot-Schwarz in Brandenburg ist frei",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-102.html",
-      "published": "14 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T14:20:58+01:00"
     }
   ],
   "Food": []
