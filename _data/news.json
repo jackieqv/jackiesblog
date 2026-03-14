@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "75 Jahre BKA: Schwergewicht im Kampf gegen Kriminalität",
+      "link": "https://www.dw.com/de/75-jahre-bka-schwergewicht-im-kampf-gegen-kriminalität/a-76345337?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-14T19:32:00+00:00"
+    },
+    {
       "title": "Bosnien und Herzegowina: Den Rundfunk lähmen, das Land spalten",
       "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-rundfunk-100.html",
       "published": "14 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-14T15:23:46+01:00"
-    },
-    {
-      "title": "Deutschland hält 2025 Klimaziele ein - aber nur knapp",
-      "link": "https://www.dw.com/de/deutschland-hält-2025-klimaziele-ein-aber-nur-knapp/a-76361087?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-14T15:19:00+00:00"
     }
   ],
   "Food": []
