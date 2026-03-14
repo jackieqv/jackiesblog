@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 14)",
+      "link": "https://singularityhub.com/2026/03/14/this-weeks-awesome-tech-stories-from-around-the-web-through-march-14-2/",
+      "published": "14 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-14T14:00:00+00:00"
+    },
+    {
       "title": "These Genetically Engineered Brain Cells Devour Toxic Alzheimer’s Plaques",
       "link": "https://singularityhub.com/2026/03/13/these-genetically-engineered-brain-cells-devour-toxic-alzheimers-plaques/",
       "published": "13 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "11 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-11T14:07:28+00:00"
-    },
-    {
-      "title": "In a First, Researchers Use Stem Cells and Surgery to Treat Spina Bifida in the Womb",
-      "link": "https://singularityhub.com/2026/03/10/in-a-first-researchers-use-stem-cells-and-surgery-to-treat-spina-bifida-in-the-womb/",
-      "published": "10 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-10T21:09:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Krieg in Nahost: US-Botschaft in Bagdad getroffen - Tote im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-nahost-krieg-100.html",
+      "title": "Jürgen Habermas gestorben",
+      "link": "https://www.tagesschau.de/inland/nachruf-habermas-100.html",
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T13:50:05+01:00"
+      "sort_date": "2026-03-14T15:23:46+01:00"
     },
     {
-      "title": "Belarusische Aktivistin Kolesnikowa erhält Karlspreis nachträglich",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-nach-haftentlassung-buergerrechtlerin-kalesnikava-erhaelt-karlspreis-100.html",
-      "published": "14 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T13:36:33+01:00"
-    },
-    {
-      "title": "Iran-Krieg: Welche Rolle die iranisch-kurdischen Milizen im Irak spielen",
-      "link": "https://www.tagesschau.de/ausland/asien/milizen-irak-100.html",
-      "published": "14 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T12:58:24+01:00"
-    },
-    {
-      "title": "USA attackieren Irans \"Kronjuwel\" - Revolutionsgarde schäumt",
-      "link": "https://www.dw.com/de/usa-attackieren-irans-kronjuwel-revolutionsgarde-schäumt/a-76360683?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Deutschland hält 2025 Klimaziele ein - aber nur knapp",
+      "link": "https://www.dw.com/de/deutschland-hält-2025-klimaziele-ein-aber-nur-knapp/a-76361087?maca=de-rss-de-top-1016-xml-mrss",
       "published": "14 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-14T12:44:00+00:00"
+      "sort_date": "2026-03-14T15:19:00+00:00"
     },
     {
-      "title": "Einst sichere Anlage heute umstritten: Indexpolicen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/indexpolicen-100.html",
+      "title": "NATO-Partner Serbien kauft Raketen in China",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-waffen-ruestung-china-100.html",
       "published": "14 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-14T12:15:55+01:00"
+      "sort_date": "2026-03-14T15:13:33+01:00"
+    },
+    {
+      "title": "Der Philosoph Jürgen Habermas ist tot",
+      "link": "https://www.dw.com/de/der-philosoph-jürgen-habermas-ist-tot/a-76361543?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-14T14:24:00+00:00"
+    },
+    {
+      "title": "Der Weg für Rot-Schwarz in Brandenburg ist frei",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-102.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T14:20:58+01:00"
     }
   ],
   "Food": []
