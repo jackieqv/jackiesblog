@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "These Genetically Engineered Brain Cells Devour Toxic Alzheimer’s Plaques",
+      "link": "https://singularityhub.com/2026/03/13/these-genetically-engineered-brain-cells-devour-toxic-alzheimers-plaques/",
+      "published": "13 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-13T23:14:34+00:00"
+    },
+    {
       "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
       "link": "https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/",
       "published": "13 Mar 2026",
@@ -101,22 +108,22 @@
       "published": "10 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-10T21:09:00+00:00"
-    },
-    {
-      "title": "Hackers Are Automating Cyberattacks With AI. Defenders Are Using It to Fight Back.",
-      "link": "https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/",
-      "published": "09 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-09T23:07:57+00:00"
     }
   ],
   "News": [
+    {
+      "title": "US-Angriffe auf iranische Öl-Insel Kharg",
+      "link": "https://www.tagesschau.de/ausland/asien/kharg-us-angriff-100.html",
+      "published": "14 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-14T02:04:56+01:00"
+    },
     {
       "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html",
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T21:48:39+01:00"
+      "sort_date": "2026-03-13T23:37:12+01:00"
     },
     {
       "title": "Interview: \"Russland ist einer der großen Profiteure\"",
@@ -138,13 +145,6 @@
       "published": "13 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-13T19:29:51+01:00"
-    },
-    {
-      "title": "Reiche-Berater bringen heimisches Fracking ins Spiel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/energiekrise-strategien-100.html",
-      "published": "13 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-13T19:15:34+01:00"
     }
   ],
   "Food": []
