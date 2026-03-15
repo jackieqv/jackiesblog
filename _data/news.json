@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Nahost: Tote bei israelischen Angriffen in Palästinensergebieten",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-gaza-westjordanland-100.html",
+      "published": "15 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-15T21:36:43+01:00"
+    },
+    {
+      "title": "Großdemonstrationen läuten Wahlkampffinale in Ungarn ein",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlamentswahl-proteste-102.html",
+      "published": "15 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-15T20:43:40+01:00"
+    },
+    {
       "title": "Wie die Bundesregierung hohe Spritpreise bremsen will",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmenpaket-100.html",
       "published": "15 Mar 2026",
@@ -131,20 +145,6 @@
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-15T18:04:11+01:00"
-    },
-    {
-      "title": "Krieg in Nahost: Heftige gegenseitige Angriffe gehen weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-iran-libanon-krieg-102.html",
-      "published": "15 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T17:09:04+01:00"
-    },
-    {
-      "title": "Papst Leo XIV. bezieht Wohnung im Apostolischen Palast",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-umzug-apostolischer-palast-100.html",
-      "published": "15 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T17:06:39+01:00"
     }
   ],
   "Food": []
