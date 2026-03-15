@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Upload/Export Success Facors Employee Central Profile Photos through Job",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/upload-export-success-facors-employee-central-profile-photos-through-job/ba-p/14349132",
+      "published": "15 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-15T09:59:56+00:00"
+    },
+    {
       "title": "HCM Brasil: CNPJ Alfanumérico - Fase 1 Concluída!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cnpj-alfanum%C3%A9rico-fase-1-conclu%C3%ADda/ba-p/14348644",
       "published": "13 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "11 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-11T06:24:59+00:00"
-    },
-    {
-      "title": "Understanding how to retrieve only the right employee records in Variable Pay",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-how-to-retrieve-only-the-right-employee-records-in-variable/ba-p/14339797",
-      "published": "10 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-10T04:46:23+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++  Festnahmen in Iran wegen angeblicher Israel-Spionage  ++",
+      "title": "Iran-Liveblog: ++  Israel startet neue Angriffswelle im Westen Irans   ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T10:30:27+01:00"
+      "sort_date": "2026-03-15T13:31:18+01:00"
+    },
+    {
+      "title": "EU-Abgeordnete kritisieren EVP nach Medienbericht über Absprachen mit AfD",
+      "link": "https://www.tagesschau.de/ausland/europa/europaparlament-evp-brandmauer-100.html",
+      "published": "15 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-15T13:26:16+01:00"
+    },
+    {
+      "title": "Fluggast-Klagen belasten Gerichte zunehmend",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/luftverkehr-justiz-klagen-nehmen-zu-100.html",
+      "published": "15 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-15T11:56:13+01:00"
+    },
+    {
+      "title": "Trendwende bei Flüchtlingszahlen in Deutschland?",
+      "link": "https://www.dw.com/de/trendwende-bei-flüchtlingszahlen-in-deutschland/a-76365911?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "15 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-15T11:34:00+00:00"
     },
     {
       "title": "Sachsen-Anhalts Ministerpräsident Schulze fordert Senkung der Energiesteuer",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schulze-energiesteuer-100.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T09:37:42+01:00"
-    },
-    {
-      "title": "CSU-Chef Söder fordert Rückkehr zur Atomkraft mit Mini-AKW in Bayern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/atomkraft-bayern-soeder-csu-wirbt-fuer-mini-akw-100.html",
-      "published": "15 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T09:23:41+01:00"
-    },
-    {
-      "title": "Trump dringt auf Hilfe bei Absicherung von Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-iran-trump-100.html",
-      "published": "15 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T08:52:37+01:00"
-    },
-    {
-      "title": "Proteste wegen Versorgungsengpässen in Kuba eskalieren",
-      "link": "https://www.dw.com/de/proteste-wegen-versorgungsengpässen-in-kuba-eskalieren/a-76365343?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "15 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-15T08:09:00+00:00"
+      "sort_date": "2026-03-15T10:39:34+01:00"
     }
   ],
   "Food": []
