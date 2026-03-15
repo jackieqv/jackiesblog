@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Offer Approval in SmartRecruiters: Overview, Features, and Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/offer-approval-in-smartrecruiters-overview-features-and-configuration-guide/ba-p/14349264",
+      "published": "15 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-15T17:47:19+00:00"
+    },
+    {
+      "title": "Job Approval in SmartRecruiters: Overview, Features, and Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/job-approval-in-smartrecruiters-overview-features-and-configuration-guide/ba-p/14349246",
+      "published": "15 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-15T17:26:06+00:00"
+    },
+    {
       "title": "How to Launch Initial Skills Assessment in SAP SuccessFactors Without Overloading Managers",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-launch-initial-skills-assessment-in-sap-successfactors-without/ba-p/14349148",
       "published": "15 Mar 2026",
@@ -57,20 +71,6 @@
       "published": "13 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-13T21:17:19+00:00"
-    },
-    {
-      "title": "Understanding Work Schedule in SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-work-schedule-in-successfactors/ba-p/14347721",
-      "published": "12 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-12T22:54:07+00:00"
-    },
-    {
-      "title": "Campaigns in SmartRecruiters Talent Communities: A Complete Guide to Candidate Engagement",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/campaigns-in-smartrecruiters-talent-communities-a-complete-guide-to/ba-p/14347668",
-      "published": "12 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-12T20:25:49+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bodendrohnen in der Ukraine: Sie transportieren Munition und evakuieren Verletzte",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bodendrohnen-100.html",
+      "title": "Wie die Bundesregierung hohe Spritpreise bremsen will",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmenpaket-100.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T15:44:12+01:00"
+      "sort_date": "2026-03-15T19:23:20+01:00"
     },
     {
-      "title": "Zehntausende demonstrieren vor Parlamentswahl in Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlamentswahl-proteste-100.html",
+      "title": "Wadephul schließt deutsche Beteiligung an Hormus-Mission aus",
+      "link": "https://www.tagesschau.de/inland/wadephul-iran-hormus-100.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T15:22:13+01:00"
+      "sort_date": "2026-03-15T19:06:49+01:00"
     },
     {
-      "title": "Brandmauer zur AfD im Europaparlament scheint zu bröckeln",
-      "link": "https://www.dw.com/de/brandmauer-zur-afd-im-europaparlament-scheint-zu-bröckeln/a-76366657?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "15 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-15T14:24:00+00:00"
-    },
-    {
-      "title": "US-Medienaufsichtsbehörde droht Sendern wegen Iran-Berichterstattung",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-berichterstattung-druck-medienaufsicht-100.html",
+      "title": "Wie politisch werden die Oscars?",
+      "link": "https://www.tagesschau.de/ausland/usa-filmbranche-oscars-verleihung-politik-100.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T14:08:47+01:00"
+      "sort_date": "2026-03-15T18:04:11+01:00"
     },
     {
-      "title": "EU-Abgeordnete kritisieren EVP nach Medienbericht über Absprachen mit AfD",
-      "link": "https://www.tagesschau.de/ausland/europa/europaparlament-evp-brandmauer-100.html",
+      "title": "Krieg in Nahost: Heftige gegenseitige Angriffe gehen weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-iran-libanon-krieg-102.html",
       "published": "15 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-15T13:26:16+01:00"
+      "sort_date": "2026-03-15T17:09:04+01:00"
+    },
+    {
+      "title": "Papst Leo XIV. bezieht Wohnung im Apostolischen Palast",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-umzug-apostolischer-palast-100.html",
+      "published": "15 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-15T17:06:39+01:00"
     }
   ],
   "Food": []
