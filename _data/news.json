@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Math That Explains Why Bell Curves Are Everywhere",
+      "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "published": "16 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-16T13:51:37+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 14)",
       "link": "https://singularityhub.com/2026/03/14/this-weeks-awesome-tech-stories-from-around-the-web-through-march-14-2/",
       "published": "14 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "12 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-12T22:26:46+00:00"
-    },
-    {
-      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
-      "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "published": "11 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-11T14:07:28+00:00"
     }
   ],
   "News": [
     {
-      "title": "Spritpreise: Welche Ideen die Politik beim Tanken diskutiert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmen-100.html",
+      "title": "Ver.di ruft für Mittwoch zu Warnstreik am Flughafen BER auf",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-verdi-ruft-fuer-mittwoch-zu-warnstreik-am-flughafen-ber-auf-102.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T14:04:09+01:00"
+      "sort_date": "2026-03-16T15:53:06+01:00"
     },
     {
-      "title": "Katholische und evangelische Kirche verlieren weiter Mitglieder",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kirchen-verlieren-weiter-mitglieder-100.html",
+      "title": "Russland will offenbar keine Kenianer mehr rekrutieren",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenianer-krieg-gegen-ukraine-100.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T14:03:13+01:00"
+      "sort_date": "2026-03-16T15:48:51+01:00"
     },
     {
-      "title": "Trump droht NATO im Streit um Straße von Hormus",
-      "link": "https://www.dw.com/de/trump-droht-nato-im-streit-um-straße-von-hormus/a-76374001?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Tarifkonflikt: Jetzt könnten auch Eurowings-Piloten streiken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/streik-eurowings-tarifkonflikt-urabstimmung-100.html",
+      "published": "16 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-16T15:03:08+01:00"
+    },
+    {
+      "title": "Schrumpfen der Kirchen in Deutschland ist ungebrochen",
+      "link": "https://www.dw.com/de/schrumpfen-der-kirchen-in-deutschland-ist-ungebrochen/a-76381732?maca=de-rss-de-top-1016-xml-mrss",
       "published": "16 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-16T12:46:00+00:00"
+      "sort_date": "2026-03-16T14:38:00+00:00"
     },
     {
-      "title": "Thailand und Myanmar: Nach den seltenen Erden kommt das Gift",
-      "link": "https://www.tagesschau.de/ausland/vergiftete-fluesse-thailand-100.html",
+      "title": "Eiszeit zwischen UniCredit und Commerzbank",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-uebernahme-100.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T12:37:00+01:00"
-    },
-    {
-      "title": "Armut als Risikofaktor - auch für die Gesundheit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/armut-gesundheit-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T12:26:09+01:00"
+      "sort_date": "2026-03-16T14:23:50+01:00"
     }
   ],
   "Food": []
