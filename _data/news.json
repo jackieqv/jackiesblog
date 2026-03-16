@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "EU erteilt Hormus-Mission Absage - \"Das ist nicht unser Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/strasse-von-hormus-militaereinsatz-eu-usa-100.html",
+      "published": "16 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-16T21:40:26+01:00"
+    },
+    {
+      "title": "Merz kritisiert EVP-Absprachen mit Rechten im Europaparlament",
+      "link": "https://www.tagesschau.de/inland/merz-weber-evp-rechte-100.html",
+      "published": "16 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-16T21:07:38+01:00"
+    },
+    {
+      "title": "Freiwillige \"Chatkontrolle\" vor dem Aus - EU-Einigung gescheitert",
+      "link": "https://www.tagesschau.de/ausland/chatkontrolle-eu-kindesmissbrauch-104.html",
+      "published": "16 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-16T20:52:58+01:00"
+    },
+    {
       "title": "Neue Recherche: Wurde Banksys Identität endgültig enthüllt?",
       "link": "https://www.tagesschau.de/ausland/europa/banksy-name-herkunft-100.html",
       "published": "16 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-16T18:57:06+01:00"
-    },
-    {
-      "title": "Bahnhofsmission: Warum die Nachfrage stark steigt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahnhofsmission-muenchen-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T18:56:06+01:00"
-    },
-    {
-      "title": "Interview zu Iran: \"Trumps Forderung kommt bei vielen nicht gut an\"",
-      "link": "https://www.tagesschau.de/ausland/asien/groitl-iran-hormus-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T18:06:42+01:00"
-    },
-    {
-      "title": "Was Schülern zu mehr Finanzbildung verhelfen kann",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzbildung-wissen-lernen-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T17:16:29+01:00"
     }
   ],
   "Food": []
