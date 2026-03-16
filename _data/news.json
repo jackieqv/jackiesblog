@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "HCM Brasil: CNPJ Alfanumérico - Fase 1 Concluída!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cnpj-alfanum%C3%A9rico-fase-1-conclu%C3%ADda/ba-p/14348644",
+      "published": "16 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-16T12:28:39+00:00"
+    },
+    {
       "title": "The SmartRecruiters and SAP SuccessFactors Integration Roadmap",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-smartrecruiters-and-sap-successfactors-integration-roadmap/ba-p/14345532",
       "published": "16 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "15 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-15T17:26:06+00:00"
-    },
-    {
-      "title": "How to Launch Initial Skills Assessment in SAP SuccessFactors Without Overloading Managers",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-launch-initial-skills-assessment-in-sap-successfactors-without/ba-p/14349148",
-      "published": "15 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-15T14:34:49+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Neue Generation der türkischen Mafia in Deutschland",
-      "link": "https://www.tagesschau.de/investigativ/kontraste/organisierte-kriminalitaet-berlin-tuerkei-russland-100.html",
+      "title": "Spritpreise: Welche Ideen die Politik beim Tanken diskutiert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmen-100.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T10:44:51+01:00"
+      "sort_date": "2026-03-16T14:04:09+01:00"
     },
     {
-      "title": "Ver.di ruft für Donnerstag zu neuen Warnstreiks im Nahverkehr auf",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnstreik-oepnv-verdi-102.html",
+      "title": "Katholische und evangelische Kirche verlieren weiter Mitglieder",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kirchen-verlieren-weiter-mitglieder-100.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T10:44:40+01:00"
+      "sort_date": "2026-03-16T14:03:13+01:00"
     },
     {
-      "title": "Marktbericht: DAX versucht zu Wochenbeginn Stabilisierung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-iran-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T10:02:50+01:00"
-    },
-    {
-      "title": "Fußball-Bundesliga: Stuttgart besiegt Leipzig dank Undav",
-      "link": "https://www.dw.com/de/fußball-bundesliga-stuttgart-besiegt-leipzig-dank-undav/a-76349462?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Trump droht NATO im Streit um Straße von Hormus",
+      "link": "https://www.dw.com/de/trump-droht-nato-im-streit-um-straße-von-hormus/a-76374001?maca=de-rss-de-top-1016-xml-mrss",
       "published": "16 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-16T09:53:00+00:00"
+      "sort_date": "2026-03-16T12:46:00+00:00"
     },
     {
-      "title": "Politische Filme und politische Kommentare prägen die Oscar-Gala",
-      "link": "https://www.tagesschau.de/ausland/oscars-la-100.html",
+      "title": "Thailand und Myanmar: Nach den seltenen Erden kommt das Gift",
+      "link": "https://www.tagesschau.de/ausland/vergiftete-fluesse-thailand-100.html",
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T09:17:06+01:00"
+      "sort_date": "2026-03-16T12:37:00+01:00"
+    },
+    {
+      "title": "Armut als Risikofaktor - auch für die Gesundheit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/armut-gesundheit-100.html",
+      "published": "16 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-16T12:26:09+01:00"
     }
   ],
   "Food": []
