@@ -698,7 +698,7 @@ classes: wide
 
   function createNumberPad() {
     numberPadEl.innerHTML = '';
-    for (let i = 1; i <= 9; i++) {
+    for (let i = 1; i <= 10; i++) {
       const button = document.createElement('button');
       button.type = 'button';
       button.className = 'sudoku-btn';
