@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Digital Twin of a Cell Tracks Its Entire Life Cycle Down to the Nanoscale",
+      "link": "https://singularityhub.com/2026/03/16/digital-twin-of-a-cell-tracks-its-entire-life-cycle-down-to-the-nanoscale/",
+      "published": "16 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-16T23:20:21+00:00"
+    },
+    {
       "title": "The Math That Explains Why Bell Curves Are Everywhere",
       "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
       "published": "16 Mar 2026",
@@ -101,16 +108,30 @@
       "published": "13 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-13T14:37:02+00:00"
-    },
-    {
-      "title": "The US Plans to Break Ground on a Permanent Moon Base by 2030. Here’s What It Will Take.",
-      "link": "https://singularityhub.com/2026/03/12/nasa-is-planning-to-build-a-permanent-moon-base-by-2030-heres-what-it-will-take/",
-      "published": "12 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-12T22:26:46+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Dänemark: Entscheidet der Grönland-Effekt die Wahl?",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-wahl-120.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T02:58:05+01:00"
+    },
+    {
+      "title": "Totaler Stromausfall in Kuba - Trump deutet \"Übernahme\" des Landes an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-stromausfall-trump-100.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T02:57:21+01:00"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Angriff auf US-Botschaft im Irak abgewehrt ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T01:47:07+01:00"
+    },
     {
       "title": "EU erteilt Hormus-Mission Absage - \"Das ist nicht unser Krieg\"",
       "link": "https://www.tagesschau.de/ausland/strasse-von-hormus-militaereinsatz-eu-usa-100.html",
@@ -124,27 +145,6 @@
       "published": "16 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-16T21:07:38+01:00"
-    },
-    {
-      "title": "Freiwillige \"Chatkontrolle\" vor dem Aus - EU-Einigung gescheitert",
-      "link": "https://www.tagesschau.de/ausland/chatkontrolle-eu-kindesmissbrauch-104.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T20:52:58+01:00"
-    },
-    {
-      "title": "Neue Recherche: Wurde Banksys Identität endgültig enthüllt?",
-      "link": "https://www.tagesschau.de/ausland/europa/banksy-name-herkunft-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T19:43:02+01:00"
-    },
-    {
-      "title": "Mini-AKW - wie sinnvoll sind sie?",
-      "link": "https://www.tagesschau.de/wissen/technologie/mini-akw-atomkraft-kraftwerke-energiemix-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T18:57:06+01:00"
     }
   ],
   "Food": []
