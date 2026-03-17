@@ -5,158 +5,199 @@ permalink: /sudoku/
 
 <style>
   :root {
-    --sudoku-bg: #0f172a;
-    --sudoku-panel: #111827;
-    --sudoku-panel-2: #1f2937;
-    --sudoku-text: #e5e7eb;
-    --sudoku-muted: #94a3b8;
-    --sudoku-accent: #38bdf8;
-    --sudoku-accent-2: #22c55e;
-    --sudoku-danger: #ef4444;
-    --sudoku-cell: #0b1220;
-    --sudoku-cell-fixed: #172033;
-    --sudoku-cell-active: #1d4ed8;
-    --sudoku-cell-related: #1e293b;
-    --sudoku-cell-error: #7f1d1d;
-    --sudoku-border: #334155;
+    --sudoku-bg: #091225;
+    --sudoku-panel: rgba(10, 22, 46, 0.96);
+    --sudoku-panel-soft: rgba(20, 34, 61, 0.92);
+    --sudoku-cell: #1b2a45;
+    --sudoku-cell-active: #243a63;
+    --sudoku-cell-fixed: #13213b;
+    --sudoku-cell-error: #5f2330;
+    --sudoku-text: #edf2f7;
+    --sudoku-muted: #a9b6c9;
+    --sudoku-accent: #6dd3ff;
+    --sudoku-border: rgba(182, 198, 220, 0.18);
+    --sudoku-border-strong: rgba(226, 232, 240, 0.9);
+    --sudoku-shadow: 0 18px 42px rgba(0, 0, 0, 0.22);
   }
 
-  .sudoku-app,
-  .sudoku-app * { box-sizing: border-box; }
+  .sudoku-page,
+  .sudoku-page * {
+    box-sizing: border-box;
+  }
 
-  .sudoku-app {
-    max-width: 1100px;
-    margin: 1.5rem auto 0;
+  .sudoku-page {
+    max-width: 1180px;
+    margin: 0 auto;
     color: var(--sudoku-text);
   }
 
-  .sudoku-hero {
-    margin-bottom: 1.25rem;
+  .sudoku-page p {
+    margin-top: 0;
   }
 
-  .sudoku-hero h1 {
-    margin: 0 0 0.4rem;
-    font-size: clamp(2rem, 4vw, 2.8rem);
-  }
-
-  .sudoku-hero p {
-    margin: 0;
-    color: var(--sudoku-muted);
-    line-height: 1.6;
+  .sudoku-shell {
+    display: grid;
+    gap: 1rem;
   }
 
   .sudoku-panel {
-    background: rgba(17, 24, 39, 0.94);
-    border: 1px solid rgba(148, 163, 184, 0.16);
-    border-radius: 20px;
-    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.25);
+    background: var(--sudoku-panel);
+    border: 1px solid var(--sudoku-border);
+    border-radius: 24px;
+    box-shadow: var(--sudoku-shadow);
     overflow: hidden;
   }
 
   .sudoku-topbar {
+    padding: 1rem 1.1rem;
+  }
+
+  .sudoku-topbar-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: end;
+  }
+
+  .sudoku-controls {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem;
-    margin-bottom: 1rem;
+    align-items: end;
   }
 
-  .sudoku-controls,
-  .sudoku-status {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    align-items: center;
+  .sudoku-field {
+    display: grid;
+    gap: 0.35rem;
+    min-width: 160px;
   }
 
-  .sudoku-status {
-    color: var(--sudoku-muted);
+  .sudoku-field label {
     font-size: 0.95rem;
+    color: var(--sudoku-muted);
   }
 
-  .sudoku-app select,
-  .sudoku-app button {
+  .sudoku-status {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    justify-content: flex-end;
+    color: var(--sudoku-muted);
+    font-size: 1rem;
+  }
+
+  .sudoku-select,
+  .sudoku-btn {
+    appearance: none;
+    width: auto;
+    min-width: 0;
+    max-width: 100%;
     border: 1px solid var(--sudoku-border);
-    background: var(--sudoku-panel-2);
+    background: var(--sudoku-panel-soft);
     color: var(--sudoku-text);
-    border-radius: 12px;
-    padding: 0.7rem 0.95rem;
+    border-radius: 16px;
+    padding: 0.82rem 1rem;
     font: inherit;
+    line-height: 1.2;
   }
 
-  .sudoku-app button {
+  .sudoku-select {
+    min-width: 170px;
+  }
+
+  .sudoku-btn {
     cursor: pointer;
-    transition: transform 0.15s ease, border-color 0.15s ease;
+    transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
   }
 
-  .sudoku-app button:hover {
+  .sudoku-btn:hover {
     transform: translateY(-1px);
-    border-color: var(--sudoku-accent);
+    border-color: rgba(109, 211, 255, 0.5);
   }
 
-  .sudoku-app button.primary {
-    background: linear-gradient(135deg, #0369a1, #2563eb);
+  .sudoku-btn-primary {
+    background: linear-gradient(135deg, #1d6fd1, #2784f1);
     border-color: transparent;
   }
 
-  .sudoku-layout {
-  display: grid;
-  grid-template-columns: minmax(280px, 560px) minmax(0, 440px);
-  gap: 1rem;
-  align-items: start;
-  justify-content: space-between;
+  .sudoku-main {
+    display: grid;
+    grid-template-columns: minmax(320px, 760px) minmax(280px, 360px);
+    gap: 1rem;
+    align-items: start;
   }
 
-.sudoku-layout > * {
-  min-width: 0;
-  width: 100%;
-  max-width: 100%;
+  .sudoku-board-panel {
+    padding: 1rem;
   }
 
   .sudoku-board-wrap {
-    padding: 1rem;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    aspect-ratio: 1 / 1;
   }
 
   .sudoku-board {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     width: 100%;
-    aspect-ratio: 1 / 1;
-    border: 3px solid #cbd5e1;
-    border-radius: 16px;
+    height: 100%;
+    background: var(--sudoku-border-strong);
+    border: 4px solid var(--sudoku-border-strong);
+    border-radius: 24px;
     overflow: hidden;
-    background: #cbd5e1;
   }
 
   .sudoku-cell {
     position: relative;
+    border: 1px solid rgba(210, 221, 238, 0.8);
+    background: var(--sudoku-cell);
+    color: var(--sudoku-text);
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid var(--sudoku-border);
-    background: var(--sudoku-cell);
-    color: var(--sudoku-text);
-    font-size: clamp(1rem, 2.5vw, 1.6rem);
+    font-size: clamp(1.2rem, 2vw, 2rem);
     font-weight: 700;
-    user-select: none;
-    outline: none;
+    padding: 0;
     cursor: pointer;
     min-width: 0;
+    outline: none;
   }
 
-  .sudoku-cell.fixed { background: var(--sudoku-cell-fixed); color: #f8fafc; }
-  .sudoku-cell.active { background: var(--sudoku-cell-active); }
-  .sudoku-cell.related { background: var(--sudoku-cell-related); }
-  .sudoku-cell.same-number { color: #7dd3fc; }
-  .sudoku-cell.error { background: var(--sudoku-cell-error); color: #fecaca; }
+  .sudoku-cell.fixed {
+    background: var(--sudoku-cell-fixed);
+  }
 
-  .sudoku-cell:nth-child(3n) { border-right: 2px solid #cbd5e1; }
-  .sudoku-cell:nth-child(9n) { border-right: 1px solid var(--sudoku-border); }
-  .sudoku-cell:nth-child(n+19):nth-child(-n+27),
-  .sudoku-cell:nth-child(n+46):nth-child(-n+54) {
-    border-bottom: 2px solid #cbd5e1;
+  .sudoku-cell.related {
+    background: #20304d;
+  }
+
+  .sudoku-cell.active {
+    background: var(--sudoku-cell-active);
+  }
+
+  .sudoku-cell.same-number {
+    color: var(--sudoku-accent);
+  }
+
+  .sudoku-cell.error {
+    background: var(--sudoku-cell-error);
+    color: #ffd9df;
+  }
+
+  .sudoku-cell:nth-child(3n) {
+    border-right: 3px solid var(--sudoku-border-strong);
+  }
+
+  .sudoku-cell:nth-child(9n) {
+    border-right: 1px solid rgba(210, 221, 238, 0.8);
+  }
+
+  .sudoku-cell:nth-child(n + 19):nth-child(-n + 27),
+  .sudoku-cell:nth-child(n + 46):nth-child(-n + 54) {
+    border-bottom: 3px solid var(--sudoku-border-strong);
   }
 
   .sudoku-notes {
@@ -165,10 +206,10 @@ permalink: /sudoku/
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    padding: 0.1rem;
-    font-size: clamp(0.45rem, 1.1vw, 0.72rem);
-    color: #cbd5e1;
+    padding: 0.12rem;
+    font-size: clamp(0.45rem, 0.8vw, 0.75rem);
     font-weight: 500;
+    color: #cfd8e7;
   }
 
   .sudoku-notes span {
@@ -178,161 +219,225 @@ permalink: /sudoku/
   }
 
   .sudoku-sidebar {
-  padding: 1rem;
-  display: grid;
-  gap: 1rem;
-  align-content: start;
-  width: 100%;
-  max-width: 440px;
-  justify-self: stretch;
-  position: relative;
-  isolation: isolate;
-  }
-
-  .sudoku-sidebar > * {
-  min-width: 0;
-  max-width: 100%;
+    display: grid;
+    gap: 1rem;
+    min-width: 0;
   }
 
   .sudoku-card {
-  padding: 1rem;
-  border-radius: 16px;
-  background: rgba(30, 41, 59, 0.5);
-  border: 1px solid rgba(148, 163, 184, 0.12);
-  width: 100%;
-  max-width: 100%;
-  overflow: hidden;
-  }
-
-  @media (max-width: 860px) {
-  .sudoku-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .sudoku-sidebar {
-    max-width: 100%;
+    background: var(--sudoku-panel);
+    border: 1px solid var(--sudoku-border);
+    border-radius: 24px;
+    box-shadow: var(--sudoku-shadow);
+    padding: 1.15rem;
+    min-width: 0;
   }
 
   .sudoku-card h2,
   .sudoku-card h3 {
-    margin-top: 0;
+    margin: 0 0 0.9rem;
+    font-size: clamp(1.4rem, 2.4vw, 2rem);
+  }
+
+  .sudoku-divider {
+    height: 1px;
+    background: var(--sudoku-border);
+    margin-bottom: 1rem;
+  }
+
+  .sudoku-number-pad,
+  .sudoku-actions {
+    display: grid;
+    gap: 0.75rem;
+    min-width: 0;
   }
 
   .sudoku-number-pad {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 0.6rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .sudoku-number-pad button {
-    min-height: 52px;
+  .sudoku-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sudoku-number-pad .sudoku-btn,
+  .sudoku-actions .sudoku-btn,
+  .sudoku-mode-toggle .sudoku-btn {
+    width: 100%;
+    min-width: 0;
+    justify-content: center;
+    text-align: center;
+    padding-inline: 0.8rem;
+  }
+
+  .sudoku-number-pad .sudoku-btn {
+    min-height: 90px;
     font-size: 1.1rem;
     font-weight: 700;
   }
 
-  .sudoku-actions {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.6rem;
+  .sudoku-actions .sudoku-btn {
+    min-height: 68px;
   }
 
-  .sudoku-toggle {
-    display: flex;
+  .sudoku-mode-toggle {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
     gap: 0.75rem;
     align-items: center;
-    justify-content: space-between;
+    margin-bottom: 1rem;
   }
 
-  .sudoku-app button.active-toggle {
-    border-color: var(--sudoku-accent-2);
-    color: #dcfce7;
+  .sudoku-mode-toggle h3 {
+    margin: 0;
+    font-size: clamp(1.2rem, 2vw, 1.6rem);
+  }
+
+  .sudoku-btn.active-toggle {
+    border-color: rgba(109, 211, 255, 0.55);
+    color: #dff7ff;
   }
 
   .sudoku-message {
     min-height: 1.5rem;
-    color: #bfdbfe;
+    margin: 0;
+    color: #cae4ff;
+    line-height: 1.5;
   }
 
-  .sudoku-message.error { color: #fecaca; }
-  .sudoku-message.success { color: #bbf7d0; }
+  .sudoku-message.error {
+    color: #ffd2d8;
+  }
+
+  .sudoku-message.success {
+    color: #d8ffe3;
+  }
 
   .sudoku-legend {
     color: var(--sudoku-muted);
-    font-size: 0.95rem;
-    line-height: 1.6;
+    line-height: 1.7;
+    font-size: 0.96rem;
   }
 
-  @media (max-width: 860px) {
-    .sudoku-layout {
+  @media (max-width: 980px) {
+    .sudoku-topbar-inner {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+
+    .sudoku-status {
+      justify-content: flex-start;
+    }
+
+    .sudoku-main {
+      grid-template-columns: 1fr;
+    }
+
+    .sudoku-board-wrap {
+      max-width: 680px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .sudoku-topbar,
+    .sudoku-board-panel,
+    .sudoku-card {
+      padding: 0.9rem;
+    }
+
+    .sudoku-controls {
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+
+    .sudoku-field,
+    .sudoku-select,
+    .sudoku-controls .sudoku-btn {
+      width: 100%;
+    }
+
+    .sudoku-mode-toggle {
+      grid-template-columns: 1fr;
+    }
+
+    .sudoku-number-pad .sudoku-btn {
+      min-height: 74px;
+    }
+
+    .sudoku-actions {
       grid-template-columns: 1fr;
     }
   }
 </style>
 
-<div class="sudoku-app">
-  <section class="sudoku-hero">
-    <p>Dieses browserbasiertes Sudoku-Spiel läuft komplett ohne Backend, speichert den Fortschritt lokal und bietet Notizen, Tipps und drei Schwierigkeitsgrade.</p>
-  </section>
-
-  <section class="sudoku-panel sudoku-topbar">
-    <div class="sudoku-controls">
-      <label>
-        Schwierigkeit
-        <select id="difficulty">
-          <option value="easy">Leicht</option>
-          <option value="medium" selected>Mittel</option>
-          <option value="hard">Schwer</option>
-        </select>
-      </label>
-      <button id="new-game" class="primary">Neues Spiel</button>
-      <button id="check-board">Prüfen</button>
-      <button id="solve-board">Lösen</button>
-    </div>
-    <div class="sudoku-status">
-      <span>⏱ <strong id="timer">00:00</strong></span>
-      <span>❌ Fehler: <strong id="mistakes">0</strong></span>
-      <span>🏆 Bestzeit: <strong id="best-time">–</strong></span>
-    </div>
-  </section>
-
-  <section class="sudoku-layout">
-    <div class="sudoku-panel sudoku-board-wrap">
-      <div id="board" class="sudoku-board" aria-label="Sudoku Spielfeld"></div>
-    </div>
-
-    <aside class="sudoku-panel sudoku-sidebar">
-      <div class="sudoku-card">
-        <h2>Eingabe</h2>
-        <div class="sudoku-number-pad" id="number-pad"></div>
-      </div>
-
-      <div class="sudoku-card">
-        <div class="sudoku-toggle">
-          <h3>Modi</h3>
-          <button id="notes-toggle">Notizen: Aus</button>
+<div class="sudoku-page">
+  <div class="sudoku-shell">
+    <section class="sudoku-panel sudoku-topbar">
+      <div class="sudoku-topbar-inner">
+        <div class="sudoku-controls">
+          <div class="sudoku-field">
+            <label for="difficulty">Schwierigkeit</label>
+            <select id="difficulty" class="sudoku-select">
+              <option value="easy">Leicht</option>
+              <option value="medium" selected>Mittel</option>
+              <option value="hard">Schwer</option>
+            </select>
+          </div>
+          <button id="new-game" class="sudoku-btn sudoku-btn-primary">Neues Spiel</button>
+          <button id="check-board" class="sudoku-btn">Prüfen</button>
+          <button id="solve-board" class="sudoku-btn">Lösen</button>
         </div>
-        <div class="sudoku-actions" style="margin-top: 0.8rem;">
-          <button id="erase-cell">Feld leeren</button>
-          <button id="hint-btn">Tipp</button>
-          <button id="undo-btn">Rückgängig</button>
-          <button id="reset-btn">Zurücksetzen</button>
+
+        <div class="sudoku-status">
+          <span>⏱ <strong id="timer">00:00</strong></span>
+          <span>❌ Fehler: <strong id="mistakes">0</strong></span>
+          <span>🏆 Bestzeit: <strong id="best-time">–</strong></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="sudoku-main">
+      <div class="sudoku-panel sudoku-board-panel">
+        <div class="sudoku-board-wrap">
+          <div id="board" class="sudoku-board" aria-label="Sudoku Spielfeld"></div>
         </div>
       </div>
 
-      <div class="sudoku-card">
-        <h3>Status</h3>
-        <p id="message" class="sudoku-message">Wähle ein Feld aus und beginne.</p>
-      </div>
+      <aside class="sudoku-sidebar">
+        <section class="sudoku-card">
+          <h2>Eingabe</h2>
+          <div class="sudoku-divider"></div>
+          <div id="number-pad" class="sudoku-number-pad"></div>
+        </section>
 
-      <div class="sudoku-card sudoku-legend">
-        <strong>Hinweise:</strong><br>
-        • Zahlen mit Tastatur 1–9 eingeben<br>
-        • Backspace/Delete leert ein Feld<br>
-        • Mit N den Notizmodus umschalten<br>
-        • Fortschritt wird automatisch im Browser gespeichert
-      </div>
-    </aside>
-  </section>
+        <section class="sudoku-card">
+          <div class="sudoku-mode-toggle">
+            <h3>Modi</h3>
+            <button id="notes-toggle" class="sudoku-btn">Notizen: Aus</button>
+          </div>
+          <div class="sudoku-actions">
+            <button id="erase-cell" class="sudoku-btn">Feld leeren</button>
+            <button id="hint-btn" class="sudoku-btn">Tipp</button>
+            <button id="undo-btn" class="sudoku-btn">Rückgängig</button>
+            <button id="reset-btn" class="sudoku-btn">Zurücksetzen</button>
+          </div>
+        </section>
+
+        <section class="sudoku-card">
+          <h3>Status</h3>
+          <p id="message" class="sudoku-message">Wähle ein Feld aus und beginne.</p>
+        </section>
+
+        <section class="sudoku-card sudoku-legend">
+          <strong>Hinweise:</strong><br>
+          • Zahlen mit Tastatur 1–9 eingeben<br>
+          • Backspace/Delete leert ein Feld<br>
+          • Mit N den Notizmodus umschalten<br>
+          • Fortschritt wird automatisch im Browser gespeichert
+        </section>
+      </aside>
+    </section>
+  </div>
 </div>
 
 <script>
@@ -346,8 +451,8 @@ permalink: /sudoku/
   const messageEl = document.getElementById('message');
   const notesToggleEl = document.getElementById('notes-toggle');
 
-  const STORAGE_KEY = 'jackiesblog-sudoku-state-v1';
-  const BEST_KEY = 'jackiesblog-sudoku-best-times-v1';
+  const STORAGE_KEY = 'jackiesblog-sudoku-state-v2';
+  const BEST_KEY = 'jackiesblog-sudoku-best-times-v2';
 
   let solution = [];
   let puzzle = [];
@@ -372,7 +477,7 @@ permalink: /sudoku/
     return grid.map(row => [...row]);
   }
 
-  function emptyGrid() {
+  function createEmptyGrid() {
     return Array.from({ length: 9 }, () => Array(9).fill(0));
   }
 
@@ -389,6 +494,7 @@ permalink: /sudoku/
     for (let i = 0; i < 9; i++) {
       if (grid[row][i] === num || grid[i][col] === num) return false;
     }
+
     const startRow = Math.floor(row / 3) * 3;
     const startCol = Math.floor(col / 3) * 3;
     for (let r = startRow; r < startRow + 3; r++) {
@@ -396,24 +502,26 @@ permalink: /sudoku/
         if (grid[r][c] === num) return false;
       }
     }
+
     return true;
   }
 
   function fillGrid(grid) {
     for (let row = 0; row < 9; row++) {
       for (let col = 0; col < 9; col++) {
-        if (grid[row][col] === 0) {
-          for (const num of shuffle([1,2,3,4,5,6,7,8,9])) {
-            if (isValid(grid, row, col, num)) {
-              grid[row][col] = num;
-              if (fillGrid(grid)) return true;
-              grid[row][col] = 0;
-            }
-          }
-          return false;
+        if (grid[row][col] !== 0) continue;
+
+        for (const num of shuffle([1, 2, 3, 4, 5, 6, 7, 8, 9])) {
+          if (!isValid(grid, row, col, num)) continue;
+          grid[row][col] = num;
+          if (fillGrid(grid)) return true;
+          grid[row][col] = 0;
         }
+
+        return false;
       }
     }
+
     return true;
   }
 
@@ -423,19 +531,21 @@ permalink: /sudoku/
     function solve() {
       for (let row = 0; row < 9; row++) {
         for (let col = 0; col < 9; col++) {
-          if (grid[row][col] === 0) {
-            for (let num = 1; num <= 9; num++) {
-              if (isValid(grid, row, col, num)) {
-                grid[row][col] = num;
-                solve();
-                grid[row][col] = 0;
-              }
-            }
-            return;
+          if (grid[row][col] !== 0) continue;
+
+          for (let num = 1; num <= 9; num++) {
+            if (!isValid(grid, row, col, num)) continue;
+            grid[row][col] = num;
+            solve();
+            grid[row][col] = 0;
+            if (count > 1) return;
           }
+
+          return;
         }
       }
-      count++;
+
+      count += 1;
     }
 
     solve();
@@ -443,7 +553,7 @@ permalink: /sudoku/
   }
 
   function generatePuzzle(clues) {
-    const full = emptyGrid();
+    const full = createEmptyGrid();
     fillGrid(full);
     const puzzleGrid = deepCopyGrid(full);
     const cells = shuffle(Array.from({ length: 81 }, (_, i) => i));
@@ -455,15 +565,38 @@ permalink: /sudoku/
       const col = index % 9;
       const backup = puzzleGrid[row][col];
       puzzleGrid[row][col] = 0;
-      const copy = deepCopyGrid(puzzleGrid);
-      if (countSolutions(copy) !== 1) {
+
+      const probe = deepCopyGrid(puzzleGrid);
+      if (countSolutions(probe) !== 1) {
         puzzleGrid[row][col] = backup;
       } else {
-        remaining--;
+        remaining -= 1;
       }
     }
 
     return { puzzle: puzzleGrid, solution: full };
+  }
+
+  function loadBestTimes() {
+    try {
+      return JSON.parse(localStorage.getItem(BEST_KEY)) || {};
+    } catch {
+      return {};
+    }
+  }
+
+  function saveBestTime() {
+    const bestTimes = loadBestTimes();
+    if (typeof bestTimes[currentDifficulty] !== 'number' || timer < bestTimes[currentDifficulty]) {
+      bestTimes[currentDifficulty] = timer;
+      localStorage.setItem(BEST_KEY, JSON.stringify(bestTimes));
+    }
+  }
+
+  function updateBestTimeDisplay() {
+    const bestTimes = loadBestTimes();
+    const best = bestTimes[currentDifficulty];
+    bestTimeEl.textContent = typeof best === 'number' ? formatTime(best) : '–';
   }
 
   function saveState() {
@@ -480,6 +613,7 @@ permalink: /sudoku/
       difficulty: currentDifficulty,
       undoStack,
     };
+
     localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
   }
 
@@ -489,6 +623,7 @@ permalink: /sudoku/
       if (!raw) return false;
       const data = JSON.parse(raw);
       if (!data || !data.board || !data.solution) return false;
+
       solution = data.solution;
       puzzle = data.puzzle;
       board = data.board;
@@ -505,25 +640,6 @@ permalink: /sudoku/
     } catch {
       return false;
     }
-  }
-
-  function loadBestTimes() {
-    try {
-      return JSON.parse(localStorage.getItem(BEST_KEY)) || {};
-    } catch {
-      return {};
-    }
-  }
-
-  function updateBestTimeDisplay() {
-    const bestTimes = loadBestTimes();
-    const best = bestTimes[currentDifficulty];
-    bestTimeEl.textContent = typeof best === 'number' ? formatTime(best) : '–';
-  }
-
-  function setMessage(text, type = '') {
-    messageEl.textContent = text;
-    messageEl.className = `sudoku-message ${type}`.trim();
   }
 
   function formatTime(totalSeconds) {
@@ -548,15 +664,9 @@ permalink: /sudoku/
     }
   }
 
-  function createNumberPad() {
-    numberPadEl.innerHTML = '';
-    for (let i = 1; i <= 9; i++) {
-      const btn = document.createElement('button');
-      btn.type = 'button';
-      btn.textContent = i;
-      btn.addEventListener('click', () => handleInput(i));
-      numberPadEl.appendChild(btn);
-    }
+  function setMessage(text, type = '') {
+    messageEl.textContent = text;
+    messageEl.className = `sudoku-message ${type}`.trim();
   }
 
   function sameBox(aRow, aCol, bRow, bCol) {
@@ -565,10 +675,12 @@ permalink: /sudoku/
 
   function hasConflict(row, col, value) {
     if (!value) return false;
+
     for (let i = 0; i < 9; i++) {
       if (i !== col && board[row][i] === value) return true;
       if (i !== row && board[i][col] === value) return true;
     }
+
     const sr = Math.floor(row / 3) * 3;
     const sc = Math.floor(col / 3) * 3;
     for (let r = sr; r < sr + 3; r++) {
@@ -576,7 +688,20 @@ permalink: /sudoku/
         if ((r !== row || c !== col) && board[r][c] === value) return true;
       }
     }
+
     return false;
+  }
+
+  function createNumberPad() {
+    numberPadEl.innerHTML = '';
+    for (let i = 1; i <= 9; i++) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'sudoku-btn';
+      button.textContent = i;
+      button.addEventListener('click', () => handleInput(i));
+      numberPadEl.appendChild(button);
+    }
   }
 
   function renderBoard() {
@@ -585,40 +710,42 @@ permalink: /sudoku/
 
     for (let row = 0; row < 9; row++) {
       for (let col = 0; col < 9; col++) {
-        const cell = document.createElement('button');
-        cell.type = 'button';
-        cell.className = 'sudoku-cell';
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'sudoku-cell';
+        button.setAttribute('aria-label', `Zeile ${row + 1}, Spalte ${col + 1}`);
+
         const value = board[row][col];
         const isSelected = row === selected.row && col === selected.col;
         const isRelated = row === selected.row || col === selected.col || sameBox(row, col, selected.row, selected.col);
         const isSameNumber = activeValue && value === activeValue;
 
-        if (fixed[row][col]) cell.classList.add('fixed');
-        if (isRelated) cell.classList.add('related');
-        if (isSelected) cell.classList.add('active');
-        if (isSameNumber) cell.classList.add('same-number');
-        if (hasConflict(row, col, value)) cell.classList.add('error');
+        if (fixed[row][col]) button.classList.add('fixed');
+        if (isRelated) button.classList.add('related');
+        if (isSelected) button.classList.add('active');
+        if (isSameNumber) button.classList.add('same-number');
+        if (hasConflict(row, col, value)) button.classList.add('error');
 
         if (value !== 0) {
-          cell.textContent = value;
+          button.textContent = value;
         } else if (notes[row][col].size) {
           const notesWrap = document.createElement('div');
           notesWrap.className = 'sudoku-notes';
           for (let n = 1; n <= 9; n++) {
-            const span = document.createElement('span');
-            span.textContent = notes[row][col].has(n) ? String(n) : '';
-            notesWrap.appendChild(span);
+            const note = document.createElement('span');
+            note.textContent = notes[row][col].has(n) ? String(n) : '';
+            notesWrap.appendChild(note);
           }
-          cell.appendChild(notesWrap);
+          button.appendChild(notesWrap);
         }
 
-        cell.addEventListener('click', () => {
+        button.addEventListener('click', () => {
           selected = { row, col };
           renderBoard();
           saveState();
         });
 
-        boardEl.appendChild(cell);
+        boardEl.appendChild(button);
       }
     }
 
@@ -635,6 +762,7 @@ permalink: /sudoku/
       notes: notes.map(row => row.map(set => [...set])),
       mistakes,
     });
+
     if (undoStack.length > 100) undoStack.shift();
   }
 
@@ -651,6 +779,7 @@ permalink: /sudoku/
       notes[row][i].delete(value);
       notes[i][col].delete(value);
     }
+
     const sr = Math.floor(row / 3) * 3;
     const sc = Math.floor(col / 3) * 3;
     for (let r = sr; r < sr + 3; r++) {
@@ -709,8 +838,8 @@ permalink: /sudoku/
     board = deepCopyGrid(puzzle);
     notes = Array.from({ length: 9 }, () => Array.from({ length: 9 }, () => new Set()));
     mistakes = 0;
-    undoStack = [];
     timer = 0;
+    undoStack = [];
     setMessage('Das Sudoku wurde zurückgesetzt.');
     startTimer();
     renderBoard();
@@ -723,6 +852,7 @@ permalink: /sudoku/
       setMessage('Es gibt nichts zum Rückgängigmachen.');
       return;
     }
+
     board = previous.board;
     notes = previous.notes.map(row => row.map(items => new Set(items)));
     mistakes = previous.mistakes;
@@ -732,18 +862,20 @@ permalink: /sudoku/
   }
 
   function hint() {
-    const empties = [];
+    const emptyCells = [];
     for (let row = 0; row < 9; row++) {
       for (let col = 0; col < 9; col++) {
-        if (board[row][col] === 0) empties.push({ row, col });
+        if (board[row][col] === 0) emptyCells.push({ row, col });
       }
     }
-    if (!empties.length) {
-      setMessage('Es gibt keine leeren Felder mehr.');
+
+    if (!emptyCells.length) {
+      setMessage('Es gibt keine leeren Felder mehr.', 'error');
       return;
     }
+
     pushUndo();
-    const pick = empties[Math.floor(Math.random() * empties.length)];
+    const pick = emptyCells[Math.floor(Math.random() * emptyCells.length)];
     board[pick.row][pick.col] = solution[pick.row][pick.col];
     notes[pick.row][pick.col].clear();
     selected = pick;
@@ -763,6 +895,7 @@ permalink: /sudoku/
         }
       }
     }
+
     setMessage('Alle eingetragenen Zahlen sind aktuell korrekt.', 'success');
     renderBoard();
   }
@@ -781,15 +914,18 @@ permalink: /sudoku/
         if (board[row][col] !== solution[row][col]) return;
       }
     }
+
     stopTimer();
-    const bestTimes = loadBestTimes();
-    if (typeof bestTimes[currentDifficulty] !== 'number' || timer < bestTimes[currentDifficulty]) {
-      bestTimes[currentDifficulty] = timer;
-      localStorage.setItem(BEST_KEY, JSON.stringify(bestTimes));
-    }
+    saveBestTime();
     setMessage('Glückwunsch! Du hast das Sudoku gelöst. 🎉', 'success');
     renderBoard();
     saveState();
+  }
+
+  function difficultyLabel(value) {
+    if (value === 'easy') return 'leichtes';
+    if (value === 'hard') return 'schweres';
+    return 'mittleres';
   }
 
   function newGame(difficulty = difficultyEl.value) {
@@ -812,10 +948,6 @@ permalink: /sudoku/
     saveState();
   }
 
-  function difficultyLabel(key) {
-    return key === 'easy' ? 'leichtes' : key === 'hard' ? 'schweres' : 'mittleres';
-  }
-
   function moveSelection(dx, dy) {
     selected.row = (selected.row + dy + 9) % 9;
     selected.col = (selected.col + dx + 9) % 9;
@@ -830,6 +962,7 @@ permalink: /sudoku/
   document.getElementById('hint-btn').addEventListener('click', hint);
   document.getElementById('undo-btn').addEventListener('click', undoMove);
   document.getElementById('reset-btn').addEventListener('click', resetBoard);
+
   notesToggleEl.addEventListener('click', () => {
     notesMode = !notesMode;
     setMessage(`Notizmodus ist jetzt ${notesMode ? 'aktiv' : 'deaktiviert'}.`);
@@ -843,7 +976,7 @@ permalink: /sudoku/
     saveState();
   });
 
-  window.addEventListener('keydown', (event) => {
+  window.addEventListener('keydown', event => {
     if (/^[1-9]$/.test(event.key)) {
       handleInput(Number(event.key));
       return;
@@ -891,3 +1024,5 @@ permalink: /sudoku/
   }
 })();
 </script>
+
+
