@@ -380,22 +380,22 @@ classes: wide
       <div class="sudoku-topbar-inner">
         <div class="sudoku-controls">
           <div class="sudoku-field">
-            <label for="difficulty">Schwierigkeit</label>
+            <label for="difficulty">Difficulty</label>
             <select id="difficulty" class="sudoku-select">
-              <option value="easy">Leicht</option>
-              <option value="medium" selected>Mittel</option>
-              <option value="hard">Schwer</option>
+              <option value="easy">Easy</option>
+              <option value="medium" selected>Medium</option>
+              <option value="hard">Hard</option>
             </select>
           </div>
-          <button id="new-game" class="sudoku-btn sudoku-btn-primary">Neues Spiel</button>
-          <button id="check-board" class="sudoku-btn">Prüfen</button>
-          <button id="solve-board" class="sudoku-btn">Lösen</button>
+          <button id="new-game" class="sudoku-btn sudoku-btn-primary">New Game</button>
+          <button id="check-board" class="sudoku-btn">Check</button>
+          <button id="solve-board" class="sudoku-btn">Solve</button>
         </div>
 
         <div class="sudoku-status">
           <span>⏱ <strong id="timer">00:00</strong></span>
-          <span>❌ Fehler: <strong id="mistakes">0</strong></span>
-          <span>🏆 Bestzeit: <strong id="best-time">–</strong></span>
+          <span>❌ Mistakes: <strong id="mistakes">0</strong></span>
+          <span>🏆 Best time: <strong id="best-time">–</strong></span>
         </div>
       </div>
     </section>
@@ -403,41 +403,41 @@ classes: wide
     <section class="sudoku-main">
       <div class="sudoku-panel sudoku-board-panel">
         <div class="sudoku-board-wrap">
-          <div id="board" class="sudoku-board" aria-label="Sudoku Spielfeld"></div>
+          <div id="board" class="sudoku-board" aria-label="Sudoku board"></div>
         </div>
       </div>
 
       <aside class="sudoku-sidebar">
         <section class="sudoku-card">
-          <h2>Eingabe</h2>
+          <h2>Input</h2>
           <div class="sudoku-divider"></div>
           <div id="number-pad" class="sudoku-number-pad"></div>
         </section>
 
         <section class="sudoku-card">
           <div class="sudoku-mode-toggle">
-            <h3>Modi</h3>
-            <button id="notes-toggle" class="sudoku-btn">Notizen: Aus</button>
+            <h3>Modes</h3>
+            <button id="notes-toggle" class="sudoku-btn">Notes: Off</button>
           </div>
           <div class="sudoku-actions">
-            <button id="erase-cell" class="sudoku-btn">Feld leeren</button>
-            <button id="hint-btn" class="sudoku-btn">Tipp</button>
-            <button id="undo-btn" class="sudoku-btn">Rückgängig</button>
-            <button id="reset-btn" class="sudoku-btn">Zurücksetzen</button>
+            <button id="erase-cell" class="sudoku-btn">Clear Cell</button>
+            <button id="hint-btn" class="sudoku-btn">Hint</button>
+            <button id="undo-btn" class="sudoku-btn">Undo</button>
+            <button id="reset-btn" class="sudoku-btn">Reset</button>
           </div>
         </section>
 
         <section class="sudoku-card">
           <h3>Status</h3>
-          <p id="message" class="sudoku-message">Wähle ein Feld aus und beginne.</p>
+          <p id="message" class="sudoku-message">Select a cell and start playing.</p>
         </section>
 
         <section class="sudoku-card sudoku-legend">
-          <strong>Hinweise:</strong><br>
-          • Zahlen mit Tastatur 1–9 eingeben<br>
-          • Backspace/Delete leert ein Feld<br>
-          • Mit N den Notizmodus umschalten<br>
-          • Fortschritt wird automatisch im Browser gespeichert
+          <strong>Tips:</strong><br>
+          • Enter numbers with the keyboard using 1–9<br>
+          • Backspace/Delete clears a cell<br>
+          • Press N to toggle notes mode<br>
+          • Progress is automatically saved in your browser
         </section>
       </aside>
     </section>
@@ -455,8 +455,8 @@ classes: wide
   const messageEl = document.getElementById('message');
   const notesToggleEl = document.getElementById('notes-toggle');
 
-  const STORAGE_KEY = 'jackiesblog-sudoku-state-v2';
-  const BEST_KEY = 'jackiesblog-sudoku-best-times-v2';
+  const STORAGE_KEY = 'jackiesblog-sudoku-state-en-v1';
+  const BEST_KEY = 'jackiesblog-sudoku-best-times-en-v1';
 
   let solution = [];
   let puzzle = [];
@@ -717,7 +717,7 @@ classes: wide
         const button = document.createElement('button');
         button.type = 'button';
         button.className = 'sudoku-cell';
-        button.setAttribute('aria-label', `Zeile ${row + 1}, Spalte ${col + 1}`);
+        button.setAttribute('aria-label', `Row ${row + 1}, column ${col + 1}`);
 
         const value = board[row][col];
         const isSelected = row === selected.row && col === selected.col;
@@ -755,7 +755,7 @@ classes: wide
 
     timerEl.textContent = formatTime(timer);
     mistakesEl.textContent = String(mistakes);
-    notesToggleEl.textContent = `Notizen: ${notesMode ? 'An' : 'Aus'}`;
+    notesToggleEl.textContent = `Notes: ${notesMode ? 'On' : 'Off'}`;
     notesToggleEl.classList.toggle('active-toggle', notesMode);
     updateBestTimeDisplay();
   }
@@ -796,7 +796,7 @@ classes: wide
   function handleInput(num) {
     const { row, col } = selected;
     if (fixed[row][col]) {
-      setMessage('Dieses Feld ist vorgegeben und kann nicht geändert werden.', 'error');
+      setMessage('This cell is locked and cannot be changed.', 'error');
       return;
     }
 
@@ -804,11 +804,11 @@ classes: wide
 
     if (notesMode) {
       if (board[row][col] !== 0) {
-        setMessage('Notizen funktionieren nur in leeren Feldern.', 'error');
+        setMessage('Notes only work in empty cells.', 'error');
         return;
       }
       toggleNote(row, col, num);
-      setMessage(`Notiz ${num} ${notes[row][col].has(num) ? 'hinzugefügt' : 'entfernt'}.`);
+      setMessage(`Note ${num} ${notes[row][col].has(num) ? 'added' : 'removed'}.`);
     } else {
       board[row][col] = num;
       notes[row][col].clear();
@@ -816,9 +816,9 @@ classes: wide
 
       if (solution[row][col] !== num) {
         mistakes += 1;
-        setMessage(`Die ${num} passt dort noch nicht.`, 'error');
+        setMessage(`${num} does not fit there yet.`, 'error');
       } else {
-        setMessage(`Die ${num} wurde gesetzt.`);
+        setMessage(`${num} was placed.`);
       }
     }
 
@@ -833,7 +833,7 @@ classes: wide
     pushUndo();
     board[row][col] = 0;
     notes[row][col].clear();
-    setMessage('Feld geleert.');
+    setMessage('Cell cleared.');
     renderBoard();
     saveState();
   }
@@ -844,7 +844,7 @@ classes: wide
     mistakes = 0;
     timer = 0;
     undoStack = [];
-    setMessage('Das Sudoku wurde zurückgesetzt.');
+    setMessage('The Sudoku board was reset.');
     startTimer();
     renderBoard();
     saveState();
@@ -853,14 +853,14 @@ classes: wide
   function undoMove() {
     const previous = undoStack.pop();
     if (!previous) {
-      setMessage('Es gibt nichts zum Rückgängigmachen.');
+      setMessage('There is nothing to undo.');
       return;
     }
 
     board = previous.board;
     notes = previous.notes.map(row => row.map(items => new Set(items)));
     mistakes = previous.mistakes;
-    setMessage('Letzter Zug zurückgenommen.');
+    setMessage('Last move undone.');
     renderBoard();
     saveState();
   }
@@ -874,7 +874,7 @@ classes: wide
     }
 
     if (!emptyCells.length) {
-      setMessage('Es gibt keine leeren Felder mehr.', 'error');
+      setMessage('There are no empty cells left.', 'error');
       return;
     }
 
@@ -883,7 +883,7 @@ classes: wide
     board[pick.row][pick.col] = solution[pick.row][pick.col];
     notes[pick.row][pick.col].clear();
     selected = pick;
-    setMessage('Ein korrektes Feld wurde aufgedeckt.');
+    setMessage('A correct cell was revealed.');
     renderBoard();
     saveState();
     checkWin();
@@ -893,21 +893,21 @@ classes: wide
     for (let row = 0; row < 9; row++) {
       for (let col = 0; col < 9; col++) {
         if (board[row][col] !== 0 && board[row][col] !== solution[row][col]) {
-          setMessage('Es gibt noch mindestens einen Fehler im Spielfeld.', 'error');
+          setMessage('There is still at least one mistake on the board.', 'error');
           renderBoard();
           return;
         }
       }
     }
 
-    setMessage('Alle eingetragenen Zahlen sind aktuell korrekt.', 'success');
+    setMessage('All entered numbers are currently correct.', 'success');
     renderBoard();
   }
 
   function solveBoard() {
     board = deepCopyGrid(solution);
     stopTimer();
-    setMessage('Das Sudoku wurde vollständig gelöst.', 'success');
+    setMessage('The Sudoku puzzle was fully solved.', 'success');
     renderBoard();
     saveState();
   }
@@ -921,15 +921,15 @@ classes: wide
 
     stopTimer();
     saveBestTime();
-    setMessage('Glückwunsch! Du hast das Sudoku gelöst. 🎉', 'success');
+    setMessage('Congratulations! You solved the Sudoku puzzle. 🎉', 'success');
     renderBoard();
     saveState();
   }
 
   function difficultyLabel(value) {
-    if (value === 'easy') return 'leichtes';
-    if (value === 'hard') return 'schweres';
-    return 'mittleres';
+    if (value === 'easy') return 'easy';
+    if (value === 'hard') return 'hard';
+    return 'medium';
   }
 
   function newGame(difficulty = difficultyEl.value) {
@@ -946,7 +946,7 @@ classes: wide
     mistakes = 0;
     timer = 0;
     undoStack = [];
-    setMessage(`Neues ${difficultyLabel(currentDifficulty)}-Sudoku erstellt.`);
+    setMessage(`A new ${difficultyLabel(currentDifficulty)} Sudoku puzzle was created.`);
     startTimer();
     renderBoard();
     saveState();
@@ -969,7 +969,7 @@ classes: wide
 
   notesToggleEl.addEventListener('click', () => {
     notesMode = !notesMode;
-    setMessage(`Notizmodus ist jetzt ${notesMode ? 'aktiv' : 'deaktiviert'}.`);
+    setMessage(`Notes mode is now ${notesMode ? 'enabled' : 'disabled'}.`);
     renderBoard();
     saveState();
   });
@@ -1020,7 +1020,7 @@ classes: wide
   createNumberPad();
 
   if (loadState()) {
-    setMessage('Gespeichertes Sudoku geladen.');
+    setMessage('Saved Sudoku game loaded.');
     renderBoard();
     startTimer();
   } else {
