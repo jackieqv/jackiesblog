@@ -1,6 +1,7 @@
 ---
 title: "Sudoku"
 permalink: /sudoku/
+classes: wide
 ---
 
 <style>
