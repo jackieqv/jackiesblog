@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Designing the Hiring Process in SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/designing-the-hiring-process-in-smartrecruiters/ba-p/14350496",
+      "published": "17 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-17T08:37:49+00:00"
+    },
+    {
       "title": "HCM Brasil: CNPJ Alfanumérico - Fase 1 Concluída!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cnpj-alfanum%C3%A9rico-fase-1-conclu%C3%ADda/ba-p/14348644",
       "published": "16 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "15 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-15T17:47:19+00:00"
-    },
-    {
-      "title": "Job Approval in SmartRecruiters: Overview, Features, and Configuration Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/job-approval-in-smartrecruiters-overview-features-and-configuration-guide/ba-p/14349246",
-      "published": "15 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-15T17:26:06+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Fünf Staaten warnen Israel vor Bodenoffensive im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bodenoffensive-libanon-100.html",
+      "title": "Bundespräsident Steinmeier ruft zur Verteidigung der Demokratie auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-demokratie-stolz-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T07:43:43+01:00"
+      "sort_date": "2026-03-17T10:45:02+01:00"
     },
     {
-      "title": "Marktbericht: DAX kaum verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-gas-iran-100.html",
+      "title": "Trump deutet mögliche \"Übernahme\" Kubas an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-uebernahme-kubas-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T07:34:56+01:00"
+      "sort_date": "2026-03-17T10:21:49+01:00"
     },
     {
-      "title": "Zwei Menschen in Bistro in Hessen erschossen - Täter flieht",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/toetungsdelikt-hessen-100.html",
+      "title": "Sondervermögen wird laut Studien zweckentfremdet",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sondervermoegen-zweckentfremdung-studien-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T07:13:03+01:00"
+      "sort_date": "2026-03-17T10:17:06+01:00"
     },
     {
-      "title": "Trumps Ölstrategie: Wie die USA den Energiemarkt neu ordnen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-oelstrategie-geopolitik-iran-china-100.html",
+      "title": "Chile beginnt mit Bau von neuen Grenzanlagen nahe Peru und Bolivien",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-grenzanlagen-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T07:05:16+01:00"
+      "sort_date": "2026-03-17T10:02:45+01:00"
     },
     {
-      "title": "11KM-Podcast: Wie läuft das Verfahren gegen die Reichsbürger?",
-      "link": "https://www.tagesschau.de/podcast-11km-justiz-reichsbuerger-100.html",
+      "title": "Rechtsextremismus: Weitere Razzien bei der \"Letzten Verteidigungswelle\"",
+      "link": "https://www.tagesschau.de/investigativ/ndr/razzien-letzte-verteidigungswelle-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T06:22:32+01:00"
+      "sort_date": "2026-03-17T10:00:09+01:00"
     }
   ],
   "Food": []
