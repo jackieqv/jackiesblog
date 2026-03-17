@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Nahost-Liveblog: ++ Israel startet \"großangelegte\" Angriffswelle ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T05:18:20+01:00"
+    },
+    {
+      "title": "Taliban melden Hunderte Tote bei Angriff auf Klinik in Kabul",
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-angriff-108.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T04:52:53+01:00"
+    },
+    {
+      "title": "Prozess gegen \"Wegwerfagenten\": Sabotage im Auftrag Russlands?",
+      "link": "https://www.tagesschau.de/investigativ/swr/wegwerfagenten-prozess-100.html",
+      "published": "17 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T03:26:24+01:00"
+    },
+    {
       "title": "Dänemark: Entscheidet der Grönland-Effekt die Wahl?",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-wahl-120.html",
       "published": "17 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-17T02:57:21+01:00"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Angriff auf US-Botschaft im Irak abgewehrt ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html",
-      "published": "17 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T01:47:07+01:00"
-    },
-    {
-      "title": "EU erteilt Hormus-Mission Absage - \"Das ist nicht unser Krieg\"",
-      "link": "https://www.tagesschau.de/ausland/strasse-von-hormus-militaereinsatz-eu-usa-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T21:40:26+01:00"
-    },
-    {
-      "title": "Merz kritisiert EVP-Absprachen mit Rechten im Europaparlament",
-      "link": "https://www.tagesschau.de/inland/merz-weber-evp-rechte-100.html",
-      "published": "16 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-16T21:07:38+01:00"
     }
   ],
   "Food": []
