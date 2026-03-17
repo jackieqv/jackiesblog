@@ -250,7 +250,7 @@ permalink: /sudoku/
 
 <div class="sudoku-app">
   <section class="sudoku-hero">
-    <p>Ein browserbasiertes Sudoku für deinen Blog. Es läuft komplett ohne Backend, speichert den Fortschritt lokal und bietet Notizen, Tipps und drei Schwierigkeitsgrade.</p>
+    <p>Dieses browserbasiertes Sudoku-Spiel läuft komplett ohne Backend, speichert den Fortschritt lokal und bietet Notizen, Tipps und drei Schwierigkeitsgrade.</p>
   </section>
 
   <section class="sudoku-panel sudoku-topbar">
