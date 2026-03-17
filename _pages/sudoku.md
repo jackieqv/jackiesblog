@@ -1,69 +1,59 @@
 ---
-layout: default
-title: Sudoku
+title: "Sudoku"
 permalink: /sudoku/
 ---
 
 <style>
   :root {
-    --bg: #0f172a;
-    --panel: #111827;
-    --panel-2: #1f2937;
-    --text: #e5e7eb;
-    --muted: #94a3b8;
-    --accent: #38bdf8;
-    --accent-2: #22c55e;
-    --danger: #ef4444;
-    --warn: #f59e0b;
-    --cell: #0b1220;
-    --cell-fixed: #172033;
-    --cell-active: #1d4ed8;
-    --cell-related: #1e293b;
-    --cell-error: #7f1d1d;
-    --border: #334155;
+    --sudoku-bg: #0f172a;
+    --sudoku-panel: #111827;
+    --sudoku-panel-2: #1f2937;
+    --sudoku-text: #e5e7eb;
+    --sudoku-muted: #94a3b8;
+    --sudoku-accent: #38bdf8;
+    --sudoku-accent-2: #22c55e;
+    --sudoku-danger: #ef4444;
+    --sudoku-cell: #0b1220;
+    --sudoku-cell-fixed: #172033;
+    --sudoku-cell-active: #1d4ed8;
+    --sudoku-cell-related: #1e293b;
+    --sudoku-cell-error: #7f1d1d;
+    --sudoku-border: #334155;
   }
 
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    background: linear-gradient(180deg, #020617, #0f172a);
-    color: var(--text);
-  }
+  .sudoku-app,
+  .sudoku-app * { box-sizing: border-box; }
 
   .sudoku-app {
-    max-width: 980px;
-    margin: 2rem auto;
-    padding: 1rem;
+    max-width: 1100px;
+    margin: 1.5rem auto 0;
+    color: var(--sudoku-text);
   }
 
-  .hero {
-    display: grid;
-    gap: 1rem;
-    margin-bottom: 1.5rem;
+  .sudoku-hero {
+    margin-bottom: 1.25rem;
   }
 
-  .hero h1 {
+  .sudoku-hero h1 {
+    margin: 0 0 0.4rem;
+    font-size: clamp(2rem, 4vw, 2.8rem);
+  }
+
+  .sudoku-hero p {
     margin: 0;
-    font-size: clamp(2rem, 4vw, 3rem);
-  }
-
-  .hero p {
-    margin: 0;
-    color: var(--muted);
+    color: var(--sudoku-muted);
     line-height: 1.6;
-    max-width: 60ch;
   }
 
-  .panel {
-    background: rgba(17, 24, 39, 0.92);
-    border: 1px solid rgba(148, 163, 184, 0.18);
+  .sudoku-panel {
+    background: rgba(17, 24, 39, 0.94);
+    border: 1px solid rgba(148, 163, 184, 0.16);
     border-radius: 20px;
-    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(8px);
   }
 
-  .topbar {
+  .sudoku-topbar {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
@@ -73,59 +63,57 @@ permalink: /sudoku/
     margin-bottom: 1rem;
   }
 
-  .controls {
+  .sudoku-controls,
+  .sudoku-status {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
     align-items: center;
   }
 
-  .status {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    color: var(--muted);
+  .sudoku-status {
+    color: var(--sudoku-muted);
     font-size: 0.95rem;
   }
 
-  select, button {
-    border: 1px solid var(--border);
-    background: var(--panel-2);
-    color: var(--text);
+  .sudoku-app select,
+  .sudoku-app button {
+    border: 1px solid var(--sudoku-border);
+    background: var(--sudoku-panel-2);
+    color: var(--sudoku-text);
     border-radius: 12px;
     padding: 0.7rem 0.95rem;
     font: inherit;
   }
 
-  button {
+  .sudoku-app button {
     cursor: pointer;
-    transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+    transition: transform 0.15s ease, border-color 0.15s ease;
   }
 
-  button:hover {
+  .sudoku-app button:hover {
     transform: translateY(-1px);
-    border-color: var(--accent);
+    border-color: var(--sudoku-accent);
   }
 
-  button.primary {
+  .sudoku-app button.primary {
     background: linear-gradient(135deg, #0369a1, #2563eb);
     border-color: transparent;
   }
 
-  .game-layout {
+  .sudoku-layout {
     display: grid;
-    grid-template-columns: minmax(280px, 520px) minmax(250px, 1fr);
+    grid-template-columns: minmax(280px, 560px) minmax(260px, 1fr);
     gap: 1rem;
   }
 
-  .board-wrap {
+  .sudoku-board-wrap {
     padding: 1rem;
   }
 
-  .board {
+  .sudoku-board {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    gap: 0;
     width: 100%;
     aspect-ratio: 1 / 1;
     border: 3px solid #cbd5e1;
@@ -134,134 +122,130 @@ permalink: /sudoku/
     background: #cbd5e1;
   }
 
-  .cell {
+  .sudoku-cell {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid var(--border);
-    background: var(--cell);
-    color: var(--text);
-    font-size: clamp(1rem, 2.6vw, 1.6rem);
+    border: 1px solid var(--sudoku-border);
+    background: var(--sudoku-cell);
+    color: var(--sudoku-text);
+    font-size: clamp(1rem, 2.5vw, 1.6rem);
     font-weight: 700;
     user-select: none;
-    min-width: 0;
     outline: none;
     cursor: pointer;
+    min-width: 0;
   }
 
-  .cell.fixed { background: var(--cell-fixed); color: #f8fafc; }
-  .cell.active { background: var(--cell-active); }
-  .cell.related { background: var(--cell-related); }
-  .cell.same-number { color: #7dd3fc; }
-  .cell.error { background: var(--cell-error); color: #fecaca; }
+  .sudoku-cell.fixed { background: var(--sudoku-cell-fixed); color: #f8fafc; }
+  .sudoku-cell.active { background: var(--sudoku-cell-active); }
+  .sudoku-cell.related { background: var(--sudoku-cell-related); }
+  .sudoku-cell.same-number { color: #7dd3fc; }
+  .sudoku-cell.error { background: var(--sudoku-cell-error); color: #fecaca; }
 
-  .cell:nth-child(3n) { border-right: 2px solid #cbd5e1; }
-  .cell:nth-child(9n) { border-right: 1px solid var(--border); }
-  .cell:nth-child(n+19):nth-child(-n+27),
-  .cell:nth-child(n+46):nth-child(-n+54) {
+  .sudoku-cell:nth-child(3n) { border-right: 2px solid #cbd5e1; }
+  .sudoku-cell:nth-child(9n) { border-right: 1px solid var(--sudoku-border); }
+  .sudoku-cell:nth-child(n+19):nth-child(-n+27),
+  .sudoku-cell:nth-child(n+46):nth-child(-n+54) {
     border-bottom: 2px solid #cbd5e1;
   }
 
-  .notes {
+  .sudoku-notes {
     position: absolute;
     inset: 0;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     padding: 0.1rem;
-    font-size: clamp(0.45rem, 1.2vw, 0.72rem);
+    font-size: clamp(0.45rem, 1.1vw, 0.72rem);
     color: #cbd5e1;
     font-weight: 500;
   }
 
-  .notes span {
+  .sudoku-notes span {
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .sidebar {
+  .sudoku-sidebar {
     padding: 1rem;
     display: grid;
     gap: 1rem;
     align-content: start;
   }
 
-  .card {
+  .sudoku-card {
     padding: 1rem;
     border-radius: 16px;
     background: rgba(30, 41, 59, 0.5);
     border: 1px solid rgba(148, 163, 184, 0.12);
   }
 
-  .card h2,
-  .card h3 {
+  .sudoku-card h2,
+  .sudoku-card h3 {
     margin-top: 0;
   }
 
-  .number-pad {
+  .sudoku-number-pad {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 0.6rem;
   }
 
-  .number-pad button {
+  .sudoku-number-pad button {
     min-height: 52px;
     font-size: 1.1rem;
     font-weight: 700;
   }
 
-  .actions {
+  .sudoku-actions {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0.6rem;
   }
 
-  .toggle {
+  .sudoku-toggle {
     display: flex;
     gap: 0.75rem;
     align-items: center;
     justify-content: space-between;
   }
 
-  .toggle button.active-toggle {
-    border-color: var(--accent-2);
+  .sudoku-app button.active-toggle {
+    border-color: var(--sudoku-accent-2);
     color: #dcfce7;
   }
 
-  .message {
+  .sudoku-message {
     min-height: 1.5rem;
     color: #bfdbfe;
   }
 
-  .message.error { color: #fecaca; }
-  .message.success { color: #bbf7d0; }
+  .sudoku-message.error { color: #fecaca; }
+  .sudoku-message.success { color: #bbf7d0; }
 
-  .legend {
-    color: var(--muted);
+  .sudoku-legend {
+    color: var(--sudoku-muted);
     font-size: 0.95rem;
     line-height: 1.6;
   }
 
   @media (max-width: 860px) {
-    .game-layout {
+    .sudoku-layout {
       grid-template-columns: 1fr;
     }
   }
 </style>
 
 <div class="sudoku-app">
-  <section class="hero">
-    <h1>Sudoku</h1>
-    <p>
-      Ein browserbasiertes Sudoku für GitHub Pages und Jekyll. Es läuft komplett ohne Backend,
-      speichert deinen Fortschritt lokal im Browser und bietet Notizen, Fehlerprüfung und drei Schwierigkeitsgrade.
-    </p>
+  <section class="sudoku-hero">
+    <p>Ein browserbasiertes Sudoku für deinen Blog. Es läuft komplett ohne Backend, speichert den Fortschritt lokal und bietet Notizen, Tipps und drei Schwierigkeitsgrade.</p>
   </section>
 
-  <section class="panel topbar">
-    <div class="controls">
+  <section class="sudoku-panel sudoku-topbar">
+    <div class="sudoku-controls">
       <label>
         Schwierigkeit
         <select id="difficulty">
@@ -274,30 +258,30 @@ permalink: /sudoku/
       <button id="check-board">Prüfen</button>
       <button id="solve-board">Lösen</button>
     </div>
-    <div class="status">
+    <div class="sudoku-status">
       <span>⏱ <strong id="timer">00:00</strong></span>
       <span>❌ Fehler: <strong id="mistakes">0</strong></span>
       <span>🏆 Bestzeit: <strong id="best-time">–</strong></span>
     </div>
   </section>
 
-  <section class="game-layout">
-    <div class="panel board-wrap">
-      <div id="board" class="board" aria-label="Sudoku Spielfeld"></div>
+  <section class="sudoku-layout">
+    <div class="sudoku-panel sudoku-board-wrap">
+      <div id="board" class="sudoku-board" aria-label="Sudoku Spielfeld"></div>
     </div>
 
-    <aside class="panel sidebar">
-      <div class="card">
+    <aside class="sudoku-panel sudoku-sidebar">
+      <div class="sudoku-card">
         <h2>Eingabe</h2>
-        <div class="number-pad" id="number-pad"></div>
+        <div class="sudoku-number-pad" id="number-pad"></div>
       </div>
 
-      <div class="card">
-        <div class="toggle">
+      <div class="sudoku-card">
+        <div class="sudoku-toggle">
           <h3>Modi</h3>
           <button id="notes-toggle">Notizen: Aus</button>
         </div>
-        <div class="actions" style="margin-top: 0.8rem;">
+        <div class="sudoku-actions" style="margin-top: 0.8rem;">
           <button id="erase-cell">Feld leeren</button>
           <button id="hint-btn">Tipp</button>
           <button id="undo-btn">Rückgängig</button>
@@ -305,17 +289,17 @@ permalink: /sudoku/
         </div>
       </div>
 
-      <div class="card">
+      <div class="sudoku-card">
         <h3>Status</h3>
-        <p id="message" class="message">Wähle ein Feld aus und beginne.</p>
+        <p id="message" class="sudoku-message">Wähle ein Feld aus und beginne.</p>
       </div>
 
-      <div class="card legend">
+      <div class="sudoku-card sudoku-legend">
         <strong>Hinweise:</strong><br>
         • Zahlen mit Tastatur 1–9 eingeben<br>
         • Backspace/Delete leert ein Feld<br>
-        • Notizmodus speichert kleine Kandidatenzahlen<br>
-        • Fortschritt wird automatisch in deinem Browser gespeichert
+        • Mit N den Notizmodus umschalten<br>
+        • Fortschritt wird automatisch im Browser gespeichert
       </div>
     </aside>
   </section>
@@ -332,8 +316,8 @@ permalink: /sudoku/
   const messageEl = document.getElementById('message');
   const notesToggleEl = document.getElementById('notes-toggle');
 
-  const STORAGE_KEY = 'jekyll-sudoku-state-v1';
-  const BEST_KEY = 'jekyll-sudoku-best-times-v1';
+  const STORAGE_KEY = 'jackiesblog-sudoku-state-v1';
+  const BEST_KEY = 'jackiesblog-sudoku-best-times-v1';
 
   let solution = [];
   let puzzle = [];
@@ -432,7 +416,6 @@ permalink: /sudoku/
     const full = emptyGrid();
     fillGrid(full);
     const puzzleGrid = deepCopyGrid(full);
-
     const cells = shuffle(Array.from({ length: 81 }, (_, i) => i));
     let remaining = 81;
 
@@ -442,7 +425,6 @@ permalink: /sudoku/
       const col = index % 9;
       const backup = puzzleGrid[row][col];
       puzzleGrid[row][col] = 0;
-
       const copy = deepCopyGrid(puzzleGrid);
       if (countSolutions(copy) !== 1) {
         puzzleGrid[row][col] = backup;
@@ -511,7 +493,7 @@ permalink: /sudoku/
 
   function setMessage(text, type = '') {
     messageEl.textContent = text;
-    messageEl.className = `message ${type}`.trim();
+    messageEl.className = `sudoku-message ${type}`.trim();
   }
 
   function formatTime(totalSeconds) {
@@ -575,11 +557,7 @@ permalink: /sudoku/
       for (let col = 0; col < 9; col++) {
         const cell = document.createElement('button');
         cell.type = 'button';
-        cell.className = 'cell';
-        cell.dataset.row = row;
-        cell.dataset.col = col;
-        cell.setAttribute('aria-label', `Zeile ${row + 1}, Spalte ${col + 1}`);
-
+        cell.className = 'sudoku-cell';
         const value = board[row][col];
         const isSelected = row === selected.row && col === selected.col;
         const isRelated = row === selected.row || col === selected.col || sameBox(row, col, selected.row, selected.col);
@@ -595,7 +573,7 @@ permalink: /sudoku/
           cell.textContent = value;
         } else if (notes[row][col].size) {
           const notesWrap = document.createElement('div');
-          notesWrap.className = 'notes';
+          notesWrap.className = 'sudoku-notes';
           for (let n = 1; n <= 9; n++) {
             const span = document.createElement('span');
             span.textContent = notes[row][col].has(n) ? String(n) : '';
