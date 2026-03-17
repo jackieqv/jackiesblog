@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Experience Updates in SAP SuccessFactors: Improving Navigation and Consistency",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/experience-updates-in-sap-successfactors-improving-navigation-and/ba-p/14351557",
+      "published": "17 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-17T20:29:21+00:00"
+    },
+    {
       "title": "Upcoming Webinar | Turning Fair and Equitable Pay into Your Strategic Advantage",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-turning-fair-and-equitable-pay-into-your-strategic/ba-p/14351071",
       "published": "17 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "16 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-16T10:03:39+00:00"
-    },
-    {
-      "title": "'Level in Org' field in SuccessFactors via API/Integration Centre",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/level-in-org-field-in-successfactors-via-api-integration-centre/ba-p/14340977",
-      "published": "16 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-16T10:02:03+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Stromausfall in Berlin: Neue Vorwürfe gegen Bürgermeister Wegner",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromausfall-vorwuerfe-wegner-100.html",
+      "title": "Iran-Krieg: Trump wirft NATO \"sehr dummen Fehler\" vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-146.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T19:52:46+01:00"
+      "sort_date": "2026-03-17T21:26:16+01:00"
     },
     {
-      "title": "Kommentar: Eine verantwortungslose Trickserei beim Sondervermögen",
-      "link": "https://www.tagesschau.de/kommentar/sonderschulden-investitionen-100.html",
+      "title": "Iran-Krieg: Warum die Golfstaaten ihre Partner neu prüfen",
+      "link": "https://www.dw.com/de/iran-krieg-warum-die-golfstaaten-ihre-partner-neu-prüfen/a-76395322?maca=de-rss-de-top-1016-xml-mrss",
       "published": "17 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T19:27:38+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-17T20:35:00+00:00"
     },
     {
-      "title": "Scharfe Kritik am Einsatz des Sondervermögens",
-      "link": "https://www.tagesschau.de/wirtschaft/sondervermoegen-kritik-100.html",
+      "title": "Besuch in Großbritannien: Selenskyj ringt um Aufmerksamkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-london-108.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T18:46:18+01:00"
+      "sort_date": "2026-03-17T20:28:32+01:00"
     },
     {
-      "title": "Bauministerium will Kommunen Wohnungsbau erleichtern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bauministerium-kommunen-wohnungsbau-100.html",
+      "title": "Was bringt Österreichs neue Spritpreisregel?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreisbremse-oesterreich-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T18:25:25+01:00"
+      "sort_date": "2026-03-17T20:15:06+01:00"
     },
     {
-      "title": "Marktbericht: DAX erholt sich weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-gas-iran-100.html",
+      "title": "Wirtschaftsministerin Katherina Reiche: Kann sie Krisenmanagerin?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-krisenmanagement-vieweger-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T18:23:58+01:00"
+      "sort_date": "2026-03-17T20:14:27+01:00"
     }
   ],
   "Food": []
