@@ -102,15 +102,17 @@ permalink: /sudoku/
   }
 
   .sudoku-layout {
-    display: grid;
-    grid-template-columns: minmax(280px, 560px) minmax(260px, 1fr);
-    gap: 1rem;
-    align-items: start;
+  display: grid;
+  grid-template-columns: minmax(280px, 560px) minmax(0, 440px);
+  gap: 1rem;
+  align-items: start;
+  justify-content: space-between;
   }
-  
-  .sudoku-layout > * {
+
+.sudoku-layout > * {
   min-width: 0;
   width: 100%;
+  max-width: 100%;
   }
 
   .sudoku-board-wrap {
@@ -181,6 +183,15 @@ permalink: /sudoku/
   gap: 1rem;
   align-content: start;
   width: 100%;
+  max-width: 440px;
+  justify-self: stretch;
+  position: relative;
+  isolation: isolate;
+  }
+
+  .sudoku-sidebar > * {
+  min-width: 0;
+  max-width: 100%;
   }
 
   .sudoku-card {
@@ -189,7 +200,17 @@ permalink: /sudoku/
   background: rgba(30, 41, 59, 0.5);
   border: 1px solid rgba(148, 163, 184, 0.12);
   width: 100%;
+  max-width: 100%;
   overflow: hidden;
+  }
+
+  @media (max-width: 860px) {
+  .sudoku-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sudoku-sidebar {
+    max-width: 100%;
   }
 
   .sudoku-card h2,
