@@ -1,6 +1,7 @@
 ---
 title: "Sudoku"
 permalink: /sudoku/
+classes: wide
 ---
 
 <style>
@@ -26,7 +27,8 @@ permalink: /sudoku/
   }
 
   .sudoku-page {
-    max-width: 1180px;
+    width: 100%;
+    max-width: 1400px;
     margin: 0 auto;
     color: var(--sudoku-text);
   }
@@ -123,18 +125,18 @@ permalink: /sudoku/
 
   .sudoku-main {
     display: grid;
-    grid-template-columns: minmax(320px, 760px) minmax(280px, 360px);
-    gap: 1rem;
+    grid-template-columns: minmax(520px, 1.35fr) minmax(320px, 0.9fr);
+    gap: 1.25rem;
     align-items: start;
   }
 
   .sudoku-board-panel {
-    padding: 1rem;
+    padding: 1.1rem;
   }
 
   .sudoku-board-wrap {
     width: 100%;
-    max-width: 760px;
+    max-width: 920px;
     margin: 0 auto;
     aspect-ratio: 1 / 1;
   }
@@ -220,8 +222,9 @@ permalink: /sudoku/
 
   .sudoku-sidebar {
     display: grid;
-    gap: 1rem;
+    gap: 1.25rem;
     min-width: 0;
+    align-content: start;
   }
 
   .sudoku-card {
@@ -229,7 +232,7 @@ permalink: /sudoku/
     border: 1px solid var(--sudoku-border);
     border-radius: 24px;
     box-shadow: var(--sudoku-shadow);
-    padding: 1.15rem;
+    padding: 1.4rem;
     min-width: 0;
   }
 
@@ -271,13 +274,14 @@ permalink: /sudoku/
   }
 
   .sudoku-number-pad .sudoku-btn {
-    min-height: 90px;
-    font-size: 1.1rem;
+    min-height: 110px;
+    font-size: 1.45rem;
     font-weight: 700;
   }
 
   .sudoku-actions .sudoku-btn {
-    min-height: 68px;
+    min-height: 76px;
+    font-size: 1.15rem;
   }
 
   .sudoku-mode-toggle {
@@ -319,7 +323,7 @@ permalink: /sudoku/
     font-size: 0.96rem;
   }
 
-  @media (max-width: 980px) {
+  @media (max-width: 1100px) {
     .sudoku-topbar-inner {
       grid-template-columns: 1fr;
       align-items: start;
@@ -334,7 +338,7 @@ permalink: /sudoku/
     }
 
     .sudoku-board-wrap {
-      max-width: 680px;
+      max-width: 760px;
     }
   }
 
@@ -1024,5 +1028,3 @@ permalink: /sudoku/
   }
 })();
 </script>
-
-
