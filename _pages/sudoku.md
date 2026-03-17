@@ -1,7 +1,6 @@
 ---
 title: "Sudoku"
 permalink: /sudoku/
-classes: wide
 ---
 
 <style>
@@ -51,7 +50,7 @@ classes: wide
     border: 1px solid rgba(148, 163, 184, 0.16);
     border-radius: 20px;
     box-shadow: 0 18px 40px rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(8px);
+    overflow: hidden;
   }
 
   .sudoku-topbar {
@@ -106,6 +105,12 @@ classes: wide
     display: grid;
     grid-template-columns: minmax(280px, 560px) minmax(260px, 1fr);
     gap: 1rem;
+    align-items: start;
+  }
+  
+  .sudoku-layout > * {
+  min-width: 0;
+  width: 100%;
   }
 
   .sudoku-board-wrap {
@@ -171,17 +176,20 @@ classes: wide
   }
 
   .sudoku-sidebar {
-    padding: 1rem;
-    display: grid;
-    gap: 1rem;
-    align-content: start;
+  padding: 1rem;
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+  width: 100%;
   }
 
   .sudoku-card {
-    padding: 1rem;
-    border-radius: 16px;
-    background: rgba(30, 41, 59, 0.5);
-    border: 1px solid rgba(148, 163, 184, 0.12);
+  padding: 1rem;
+  border-radius: 16px;
+  background: rgba(30, 41, 59, 0.5);
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  width: 100%;
+  overflow: hidden;
   }
 
   .sudoku-card h2,
