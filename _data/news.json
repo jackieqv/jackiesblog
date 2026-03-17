@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Upcoming Webinar | Turning Fair and Equitable Pay into Your Strategic Advantage",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-turning-fair-and-equitable-pay-into-your-strategic/ba-p/14351071",
+      "published": "17 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-17T13:35:15+00:00"
+    },
+    {
       "title": "Designing the Hiring Process in SmartRecruiters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/designing-the-hiring-process-in-smartrecruiters/ba-p/14350496",
       "published": "17 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "16 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-16T10:02:03+00:00"
-    },
-    {
-      "title": "Offer Approval in SmartRecruiters: Overview, Features, and Configuration Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/offer-approval-in-smartrecruiters-overview-features-and-configuration-guide/ba-p/14349264",
-      "published": "15 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-15T17:47:19+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Israel meldet Tötung von Irans Sicherheitschef Laridschani",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-sicherheitschef-laridschani-100.html",
+      "title": "Einigung bei Arbeitsgruppe: Hebammen sollen ab April mehr Geld bekommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hebammen-entscheidung-geld-buerokratie-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T13:15:23+01:00"
+      "sort_date": "2026-03-17T16:56:23+01:00"
     },
     {
-      "title": "Die Tücken beim neuen Schufa-Score stecken in den Details",
-      "link": "https://www.tagesschau.de/kommentar/schufa-154.html",
+      "title": "Auch Kabinenpersonal bei der Lufthansa stimmt über Streik ab",
+      "link": "https://www.tagesschau.de/wirtschaft/ufo-urabstimmung-streik-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T12:55:52+01:00"
+      "sort_date": "2026-03-17T16:55:23+01:00"
     },
     {
-      "title": "Ein neuer Schufa-Score soll für mehr Transparenz sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-score-neuregelung-100.html",
+      "title": "Geschäfte des Iran-Regimes - Die Spur der Mullahs in Deutschland",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/mullah-geld-deutschland-100.html",
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T12:55:25+01:00"
+      "sort_date": "2026-03-17T16:34:05+01:00"
     },
     {
-      "title": "Taliban: Hunderte Tote bei pakistanischem Angriff in Kabul",
-      "link": "https://www.dw.com/de/taliban-hunderte-tote-bei-pakistanischem-angriff-in-kabul/a-76394443?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Studien: Bundesregierung zweckentfremdet \"Sondervermögen\"",
+      "link": "https://www.dw.com/de/studien-bundesregierung-zweckentfremdet-sondervermögen/a-76396387?maca=de-rss-de-top-1016-xml-mrss",
       "published": "17 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-17T11:52:00+00:00"
+      "sort_date": "2026-03-17T15:27:00+00:00"
     },
     {
-      "title": "Israel: Irans Spitzenfunktionär Laridschani getötet",
-      "link": "https://www.dw.com/de/israel-irans-spitzenfunktionär-laridschani-getötet/a-76392913?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Auslandsflughäfen bringen Fraport AG viel Geld ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/fraport-124.html",
       "published": "17 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-17T11:32:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-17T15:23:20+01:00"
     }
   ],
   "Food": []
