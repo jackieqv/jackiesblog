@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Quantum Cryptography Pioneers Win Turing Award",
+      "link": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
+      "published": "18 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-18T09:00:36+00:00"
+    },
+    {
       "title": "Brain Implants Let Paralyzed People Type Nearly as Fast as Smartphone Users",
       "link": "https://singularityhub.com/2026/03/17/brain-implants-let-paralyzed-people-type-with-thought-alone-nearly-as-fast-as-smartphone-users/",
       "published": "17 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "14 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-14T14:00:00+00:00"
-    },
-    {
-      "title": "These Genetically Engineered Brain Cells Devour Toxic Alzheimer’s Plaques",
-      "link": "https://singularityhub.com/2026/03/13/these-genetically-engineered-brain-cells-devour-toxic-alzheimers-plaques/",
-      "published": "13 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-13T23:14:34+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ USA setzen bunkerbrechende Bomben ein ++",
+      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T07:07:08+01:00"
+      "sort_date": "2026-03-18T10:47:42+01:00"
     },
     {
-      "title": "Sorge um den Buchmarkt auf der Leipziger Buchmesse",
-      "link": "https://www.tagesschau.de/kultur/leipziger-buchmesse-2026-100.html",
+      "title": "Wofür Forschende 2026 den Leibniz-Preis bekommen",
+      "link": "https://www.tagesschau.de/wissen/forschung/leibniz-preis-2026-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T07:00:32+01:00"
+      "sort_date": "2026-03-18T10:47:14+01:00"
     },
     {
-      "title": "Trumps Medikamentenpreise weiter höher als in Deutschland",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/medikamente-preise-usa-100.html",
+      "title": "Neue Kursgewinne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-boerse-dow-jones-oel-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T06:19:22+01:00"
+      "sort_date": "2026-03-18T10:34:30+01:00"
     },
     {
-      "title": "WDR-Umfrage: Jeder sechste Schüler berichtet von Mobbing im Klassenchat",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/digitale-gewalt-klassenchats-100.html",
+      "title": "Nach Hisbollah-Angriff: Israel bombardiert erneut Beirut",
+      "link": "https://www.tagesschau.de/ausland/beirut-angriff-libanon-israel-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T06:12:02+01:00"
+      "sort_date": "2026-03-18T10:11:54+01:00"
     },
     {
-      "title": "Pete Hegseth: Wer ist Trumps \"Kriegsminister\"?",
-      "link": "https://www.dw.com/de/pete-hegseth-wer-ist-trumps-kriegsminister/a-76398821?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Ver.di-Warnstreiks: BER, München und Köln betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verdi-warnstreiks-ber-muenchen-koeln-100.html",
       "published": "18 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-18T06:02:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-18T09:26:42+01:00"
     }
   ],
   "Food": []
