@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Brain Implants Let Paralyzed People Type Nearly as Fast as Smartphone Users",
+      "link": "https://singularityhub.com/2026/03/17/brain-implants-let-paralyzed-people-type-with-thought-alone-nearly-as-fast-as-smartphone-users/",
+      "published": "17 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-17T21:54:35+00:00"
+    },
+    {
       "title": "Digital Twin of a Cell Tracks Its Entire Life Cycle Down to the Nanoscale",
       "link": "https://singularityhub.com/2026/03/16/digital-twin-of-a-cell-tracks-its-entire-life-cycle-down-to-the-nanoscale/",
       "published": "16 Mar 2026",
@@ -101,16 +108,23 @@
       "published": "13 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-13T23:14:34+00:00"
-    },
-    {
-      "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
-      "link": "https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/",
-      "published": "13 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-13T14:37:02+00:00"
     }
   ],
   "News": [
+    {
+      "title": "EU-Kommission stellt Plan zur Förderung von Start-ups vor",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-kommission-start-ups-100.html",
+      "published": "18 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-18T00:27:47+01:00"
+    },
+    {
+      "title": "Iran bestätigt Tod von Sicherheitschef Laridschani",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-tod-lardidschani-100.html",
+      "published": "18 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-18T00:23:35+01:00"
+    },
     {
       "title": "Iran-Krieg: Trump wirft NATO \"sehr dummen Fehler\" vor",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-146.html",
@@ -131,20 +145,6 @@
       "published": "17 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-17T20:28:32+01:00"
-    },
-    {
-      "title": "Was bringt Österreichs neue Spritpreisregel?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreisbremse-oesterreich-100.html",
-      "published": "17 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T20:15:06+01:00"
-    },
-    {
-      "title": "Wirtschaftsministerin Katherina Reiche: Kann sie Krisenmanagerin?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-krisenmanagement-vieweger-100.html",
-      "published": "17 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-17T20:14:27+01:00"
     }
   ],
   "Food": []
