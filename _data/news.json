@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Understanding the different ways to initiate the internal hire process in Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-the-different-ways-to-initiate-the-internal-hire-process-in/ba-p/14351505",
+      "published": "18 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-18T10:54:14+00:00"
+    },
+    {
       "title": "Experience Updates in SAP SuccessFactors: Improving Navigation and Consistency",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/experience-updates-in-sap-successfactors-improving-navigation-and/ba-p/14351557",
       "published": "17 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "16 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-16T12:28:39+00:00"
-    },
-    {
-      "title": "The SmartRecruiters and SAP SuccessFactors Integration Roadmap",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-smartrecruiters-and-sap-successfactors-integration-roadmap/ba-p/14345532",
-      "published": "16 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-16T10:03:39+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
+      "title": "Liveblog zum Iran-Krieg: ++ Iran meldet Angriff auf Gasanlagen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T10:47:42+01:00"
+      "sort_date": "2026-03-18T14:08:06+01:00"
     },
     {
-      "title": "Wofür Forschende 2026 den Leibniz-Preis bekommen",
-      "link": "https://www.tagesschau.de/wissen/forschung/leibniz-preis-2026-100.html",
+      "title": "BGH-Urteil: Einbeziehung von Olearius' Cum-Ex-Gewinnen möglich",
+      "link": "https://www.tagesschau.de/wirtschaft/olearius-cum-ex-vermoegen-bgh-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T10:47:14+01:00"
+      "sort_date": "2026-03-18T14:02:38+01:00"
     },
     {
-      "title": "Neue Kursgewinne",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-boerse-dow-jones-oel-100.html",
+      "title": "Norwegen: Staatsanwalt fordert mehr als sieben Jahre Haft für Høiby",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-staatsanwaltschaft-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T10:34:30+01:00"
+      "sort_date": "2026-03-18T13:49:54+01:00"
     },
     {
-      "title": "Nach Hisbollah-Angriff: Israel bombardiert erneut Beirut",
-      "link": "https://www.tagesschau.de/ausland/beirut-angriff-libanon-israel-100.html",
+      "title": "Marktbericht: HelloFresh rechnet auch 2026 mit Umsatzminus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/aktie-des-tages-hellofresh-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T10:11:54+01:00"
+      "sort_date": "2026-03-18T13:19:55+01:00"
     },
     {
-      "title": "Ver.di-Warnstreiks: BER, München und Köln betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verdi-warnstreiks-ber-muenchen-koeln-100.html",
+      "title": "Zentralrat kritisiert Anti-Zionismus-Beschluss der Linken in Hannover",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-vorwuefer-zentralrat-der-juden-100.html",
       "published": "18 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-18T09:26:42+01:00"
+      "sort_date": "2026-03-18T12:10:37+01:00"
     }
   ],
   "Food": []
