@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "What’s New, Now Relevant: Introducing Release Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-now-relevant-introducing-release-center/ba-p/14353843",
+      "published": "19 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-19T21:19:08+00:00"
+    },
+    {
       "title": "1H 2026 Experience Updates in SAP SuccessFactors: Improving Navigation and Consistency",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-experience-updates-in-sap-successfactors-improving-navigation-and/ba-p/14351557",
       "published": "18 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "17 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-17T13:35:15+00:00"
-    },
-    {
-      "title": "Designing the Hiring Process in SmartRecruiters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/designing-the-hiring-process-in-smartrecruiters/ba-p/14350496",
-      "published": "17 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-17T08:37:49+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Im Hinterhof der USA: Was hat Kuba Trump entgegenzusetzen?",
+      "link": "https://www.dw.com/de/im-hinterhof-der-usa-was-hat-kuba-trump-entgegenzusetzen/a-76435023?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-19T21:04:00+00:00"
+    },
+    {
+      "title": "USA erreichen in Belarus die Freilassung politischer Gefangener",
+      "link": "https://www.tagesschau.de/ausland/europa/belarus-gefangene-freilassung-104.html",
+      "published": "19 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-19T20:28:23+01:00"
+    },
+    {
+      "title": "NRW-Bauministerin Scharrenbach räumt nach Spiegel-Bericht Fehler ein",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/vorwuerfe-machtmissbrauchs-ina-scharrenbach-100.html",
+      "published": "19 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-19T20:25:26+01:00"
+    },
+    {
+      "title": "Prozess gegen Marius Borg Høiby beendet - Urteil steht noch aus",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-prozess-hoiby-beendet-100.html",
+      "published": "19 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-19T20:06:07+01:00"
+    },
+    {
       "title": "Schriftstellerin Poladjan gewinnt Preis der Leipziger Buchmesse",
       "link": "https://www.tagesschau.de/kultur/buchmesse-leipzig-poladjan-100.html",
       "published": "19 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-19T19:28:18+01:00"
-    },
-    {
-      "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T18:17:24+01:00"
-    },
-    {
-      "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
-      "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T18:04:36+01:00"
-    },
-    {
-      "title": "Falsche Gerüchte über den Tod Netanjahus",
-      "link": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T17:44:23+01:00"
-    },
-    {
-      "title": "Saudi-Arabien und Irak suchen Alternativen zur Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/hormus-iran-alternativen-erdoel-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T17:27:32+01:00"
     }
   ],
   "Food": []
