@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Trump droht Iran mit Zerstörung von Gasfeld ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html",
+      "published": "19 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-19T05:08:16+01:00"
+    },
+    {
       "title": "EU-Gipfel in Brüssel berät über Iran-Krieg",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-bruessel-krieg-iran-100.html",
       "published": "19 Mar 2026",
@@ -124,13 +131,6 @@
       "published": "19 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-19T02:58:41+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ VAE verurteilen iranische Angriffe auf Gasanlagen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T02:45:37+01:00"
     },
     {
       "title": "Finnen zum neunten Mal in Folge am glücklichsten",
