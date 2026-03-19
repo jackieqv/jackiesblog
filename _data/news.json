@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Tech Companies Are Blaming Massive Layoffs on AI. What’s Really Going On?",
+      "link": "https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/",
+      "published": "19 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-19T14:00:00+00:00"
+    },
+    {
       "title": "Quantum Cryptography Pioneers Win Turing Award",
       "link": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
       "published": "18 Mar 2026",
@@ -101,22 +108,29 @@
       "published": "16 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-16T13:51:37+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 14)",
-      "link": "https://singularityhub.com/2026/03/14/this-weeks-awesome-tech-stories-from-around-the-web-through-march-14-2/",
-      "published": "14 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-14T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Schienen-Nahverkehr: EuGH kippt deutsche Trassenpreisbremse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/trassenpreisbremse-eugh-infrago-100.html",
+      "title": "EZB lässt Leitzins trotz Ölpreisschock unverändert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheid-leitzinsen-100.html",
       "published": "19 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T13:59:40+01:00"
+      "sort_date": "2026-03-19T14:53:20+01:00"
+    },
+    {
+      "title": "Verfassungsschutz-Präsident setzt auf mehr Unabhängigkeit von US-Diensten",
+      "link": "https://www.tagesschau.de/inland/verfassungsschutz-unabhaenigkeit-selen-praesident-100.html",
+      "published": "19 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-19T14:48:29+01:00"
+    },
+    {
+      "title": "Medien: Dänische Elitesoldaten hätten Grönland verteidigt",
+      "link": "https://www.dw.com/de/medien-dänische-elitesoldaten-hätten-grönland-verteidigt/a-76434804?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-19T14:17:00+00:00"
     },
     {
       "title": "EU-Gipfel beginnt mit Kritik an Orban wegen Ukraine-Blockade",
@@ -126,25 +140,11 @@
       "sort_date": "2026-03-19T13:46:30+01:00"
     },
     {
-      "title": "Marktbericht: Iran-Krieg lässt auch dienDüngerpreise stiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-duenger-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T13:11:51+01:00"
-    },
-    {
-      "title": "DFB-Team: Bayern-Youngster Urbig und Karl nominiert",
-      "link": "https://www.dw.com/de/dfb-team-bayern-youngster-urbig-und-karl-nominiert/a-76430794?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Finanzminister weist Kritik an \"Sondervermögen\" zurück",
+      "link": "https://www.dw.com/de/finanzminister-weist-kritik-an-sondervermögen-zurück/a-76431383?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-19T13:00:00+00:00"
-    },
-    {
-      "title": "\"Nobelpreis der Mathematik\": Abelpreis geht erstmals an Deutschen",
-      "link": "https://www.tagesschau.de/wissen/forschung/bonner-professor-abelpreis-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T12:43:00+01:00"
+      "sort_date": "2026-03-19T13:34:00+00:00"
     }
   ],
   "Food": []
