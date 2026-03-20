@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Collien Fernandes in den tagesthemen: \"Deutschland ist ein absolutes Täterparadies\"",
+      "link": "https://www.tagesschau.de/inland/collien-fernandes-interview-ulmen-100.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T21:09:53+01:00"
+    },
+    {
+      "title": "Rassismus in Deutschland: Weniger sichtbar, weit verbreitet",
+      "link": "https://www.dw.com/de/rassismus-in-deutschland-weniger-sichtbar-weit-verbreitet/a-76444762?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "20 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-20T20:17:00+00:00"
+    },
+    {
+      "title": "Wie kann die Ukraine trotz Ungarns Blockade finanziert werden?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzierung-ukraine-100.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T20:16:51+01:00"
+    },
+    {
       "title": "Debatte um Weimer - Kulturstaatsminister unter Druck",
       "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-aktuelle-stunde-bundestag-100.html",
       "published": "20 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-20T19:24:44+01:00"
-    },
-    {
-      "title": "Sonderurlaub für Beamte: Was steckt hinter den Vorwürfen gegen die SPD?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-vorwuerfe-landtagswahl-rheinland-pfalz-100.html",
-      "published": "20 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T18:25:07+01:00"
-    },
-    {
-      "title": "Marktbericht: Ernüchterung an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-gas-inflation-100.html",
-      "published": "20 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T18:13:14+01:00"
-    },
-    {
-      "title": "\"Jokergleise\" und Puffer sollen die Bahn pünktlicher machen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutsche-bahn-massnahmen-puenktlichkeit-100.html",
-      "published": "20 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T17:43:15+01:00"
     }
   ],
   "Food": []
