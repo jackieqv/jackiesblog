@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Wie das Referendum über eine Justizreform Italien spaltet",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-justizreform-104.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T05:03:12+01:00"
+    },
+    {
+      "title": "Landeskriminalämter: Angriffe auf Verkehrsinfrastruktur meist von links",
+      "link": "https://www.tagesschau.de/investigativ/angriffe-verkehrsinfrastruktur-100.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T05:00:55+01:00"
+    },
+    {
+      "title": "Iran-Liveblog: US-Kampfjet laut Medien von Beschuss getroffen",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T04:58:37+01:00"
+    },
+    {
+      "title": "Wie die Ukrainer fürchten, über den Iran-Krieg vergessen zu werden",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-folgen-iran-krieg-100.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T04:47:40+01:00"
+    },
+    {
       "title": "Scharfe Kritik aus der EU nach Orbans \"Nein\" zu Ukraine-Kredit",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-102.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-20T01:25:03+01:00"
-    },
-    {
-      "title": "Im Hinterhof der USA: Was hat Kuba Trump entgegenzusetzen?",
-      "link": "https://www.dw.com/de/im-hinterhof-der-usa-was-hat-kuba-trump-entgegenzusetzen/a-76435023?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-19T21:04:00+00:00"
-    },
-    {
-      "title": "USA erreichen in Belarus die Freilassung politischer Gefangener",
-      "link": "https://www.tagesschau.de/ausland/europa/belarus-gefangene-freilassung-104.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T20:28:23+01:00"
-    },
-    {
-      "title": "NRW-Bauministerin Scharrenbach räumt nach Spiegel-Bericht Fehler ein",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/vorwuerfe-machtmissbrauchs-ina-scharrenbach-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T20:25:26+01:00"
-    },
-    {
-      "title": "Prozess gegen Marius Borg Høiby beendet - Urteil steht noch aus",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-prozess-hoiby-beendet-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T20:06:07+01:00"
     }
   ],
   "Food": []
