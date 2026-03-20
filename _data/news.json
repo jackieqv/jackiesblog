@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Scharfe Kritik aus der EU nach Orbans \"Nein\" zu Ukraine-Kredit",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-102.html",
+      "published": "20 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-20T01:25:03+01:00"
+    },
+    {
       "title": "Im Hinterhof der USA: Was hat Kuba Trump entgegenzusetzen?",
       "link": "https://www.dw.com/de/im-hinterhof-der-usa-was-hat-kuba-trump-entgegenzusetzen/a-76435023?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "19 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-19T20:06:07+01:00"
-    },
-    {
-      "title": "Schriftstellerin Poladjan gewinnt Preis der Leipziger Buchmesse",
-      "link": "https://www.tagesschau.de/kultur/buchmesse-leipzig-poladjan-100.html",
-      "published": "19 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-19T19:28:18+01:00"
     }
   ],
   "Food": []
