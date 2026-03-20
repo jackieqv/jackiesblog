@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "The Jellies That Evolved a Different Way To Keep Time",
+      "link": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
+      "published": "20 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-20T14:25:33+00:00"
+    },
+    {
+      "title": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence",
+      "link": "https://singularityhub.com/2026/03/20/google-deepmind-plans-to-track-agi-progress-with-these-10-traits-of-general-intelligence/",
+      "published": "20 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-20T14:00:00+00:00"
+    },
+    {
       "title": "Tech Companies Are Blaming Massive Layoffs on AI. What’s Really Going On?",
       "link": "https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/",
       "published": "19 Mar 2026",
@@ -94,57 +108,43 @@
       "published": "17 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-17T21:54:35+00:00"
-    },
-    {
-      "title": "Digital Twin of a Cell Tracks Its Entire Life Cycle Down to the Nanoscale",
-      "link": "https://singularityhub.com/2026/03/16/digital-twin-of-a-cell-tracks-its-entire-life-cycle-down-to-the-nanoscale/",
-      "published": "16 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-16T23:20:21+00:00"
-    },
-    {
-      "title": "The Math That Explains Why Bell Curves Are Everywhere",
-      "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "published": "16 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-16T13:51:37+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Infineon auf Erholungskurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/infineon-mb-100.html",
+      "title": "\"Operation Alice\": Polizei gelingt Schlag gegen Darknet-Seiten",
+      "link": "https://www.tagesschau.de/inland/operation-alice-darknet-ermittlungen-100.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T13:56:09+01:00"
+      "sort_date": "2026-03-20T16:39:10+01:00"
     },
     {
-      "title": "\"Wahllose Angriffe Irans\" - Bundesregierung erleichtert Rüstungsexporte in Golfregion",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-golfregion-waffenexporte-100.html",
+      "title": "So geht es Pflanzen und Tieren zum Frühlingsanfang",
+      "link": "https://www.tagesschau.de/wissen/fruehlingsanfang-pflanzen-tiere-100.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T13:48:07+01:00"
+      "sort_date": "2026-03-20T16:23:21+01:00"
     },
     {
-      "title": "Behörden legen zwei der weltweit größten IT-Schadnetzwerke lahm",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cyberangriffe-botnetze-lahmgelegt-100.html",
+      "title": "US-Schauspieler Chuck Norris ist tot",
+      "link": "https://www.tagesschau.de/kultur/chuck-norris-gestorben-100.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T13:43:15+01:00"
+      "sort_date": "2026-03-20T15:48:52+01:00"
     },
     {
-      "title": "\"\"Natürlich wünschte ich, ihn nie getroffen zu haben\"",
-      "link": "https://www.tagesschau.de/ausland/europa/epstein-norwegen-mette-marit-100.html",
+      "title": "Lamu statt Dubai - Tausende Luxusautos in Kenia gestrandet",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-lamu-krieg-luxusautos-100.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T13:19:05+01:00"
+      "sort_date": "2026-03-20T15:43:39+01:00"
     },
     {
-      "title": "Zahl der Meningitis-Fälle in England steigt",
-      "link": "https://www.tagesschau.de/ausland/europa/meningitis-england-100.html",
+      "title": "Erstmals mehr Autoimporte aus China als EU-Exporte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autoimporte-china-eu-exporte-deutschland-100.html",
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T13:18:33+01:00"
+      "sort_date": "2026-03-20T15:32:13+01:00"
     }
   ],
   "Food": []
