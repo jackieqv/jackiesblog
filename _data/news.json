@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T05:47:13+01:00"
+    },
+    {
       "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
       "link": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html",
       "published": "21 Mar 2026",
@@ -124,13 +131,6 @@
       "published": "21 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-21T04:55:05+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T03:24:18+01:00"
     },
     {
       "title": "Großbritannien erlaubt USA im Iran-Krieg Nutzung von Militärbasen",
