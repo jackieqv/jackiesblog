@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
+      "link": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T04:58:08+01:00"
+    },
+    {
+      "title": "Sicherheit, Rüstung, Iran-Krieg: Pistorius besucht Japan",
+      "link": "https://www.tagesschau.de/ausland/asien/pistorius-asien-reise-100.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T04:55:05+01:00"
+    },
+    {
+      "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T03:24:18+01:00"
+    },
+    {
       "title": "Großbritannien erlaubt USA im Iran-Krieg Nutzung von Militärbasen",
       "link": "https://www.tagesschau.de/ausland/europa/uk-usa-nutzung-militaerbasen-100.html",
       "published": "20 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "20 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-20T21:09:53+01:00"
-    },
-    {
-      "title": "Rassismus in Deutschland: Weniger sichtbar, weit verbreitet",
-      "link": "https://www.dw.com/de/rassismus-in-deutschland-weniger-sichtbar-weit-verbreitet/a-76444762?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "20 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-20T20:17:00+00:00"
-    },
-    {
-      "title": "Wie kann die Ukraine trotz Ungarns Blockade finanziert werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzierung-ukraine-100.html",
-      "published": "20 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T20:16:51+01:00"
-    },
-    {
-      "title": "Debatte um Weimer - Kulturstaatsminister unter Druck",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-aktuelle-stunde-bundestag-100.html",
-      "published": "20 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-20T19:25:36+01:00"
     }
   ],
   "Food": []
