@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 21)",
+      "link": "https://singularityhub.com/2026/03/21/this-weeks-awesome-tech-stories-from-around-the-web-through-march-21-2/",
+      "published": "21 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-21T14:00:00+00:00"
+    },
+    {
       "title": "The Jellies That Evolved a Different Way To Keep Time",
       "link": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
       "published": "20 Mar 2026",
@@ -101,16 +108,30 @@
       "published": "18 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-18T09:00:36+00:00"
-    },
-    {
-      "title": "Brain Implants Let Paralyzed People Type Nearly as Fast as Smartphone Users",
-      "link": "https://singularityhub.com/2026/03/17/brain-implants-let-paralyzed-people-type-with-thought-alone-nearly-as-fast-as-smartphone-users/",
-      "published": "17 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-17T21:54:35+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Norwegens \"Folkehøgskole\": Erwachsenwerden in Krisenzeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-jugendliche-training-natur-100.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T15:16:18+01:00"
+    },
+    {
+      "title": "Ukraine Krieg: Drohnenangriffe sowie Gefechte im Donbass",
+      "link": "https://www.dw.com/de/ukraine-krieg-drohnenangriffe-sowie-gefechte-im-donbass/a-76468962?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "21 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-21T15:12:00+00:00"
+    },
+    {
+      "title": "Iran meldet Angriff auf Atomanlage Natans",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-luftangriffe-atomanlage-natans-100.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T14:06:41+01:00"
+    },
     {
       "title": "Mit Downsyndrom im Parlament: \"Wir sind nur eine Sekunde langsamer\"",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-parlamentarierin-down-syndrom-100.html",
@@ -119,32 +140,11 @@
       "sort_date": "2026-03-21T13:41:54+01:00"
     },
     {
-      "title": "Linke will gegen Antisemitismus in der Partei vorgehen",
-      "link": "https://www.tagesschau.de/inland/antisemitismus-linke-parteichefs-antrag-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T12:43:37+01:00"
-    },
-    {
-      "title": "Wo Wälder die Erde kühlen - und wo nicht",
-      "link": "https://www.tagesschau.de/wissen/klima/studie-aufforstung-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T12:37:51+01:00"
-    },
-    {
-      "title": "Iran meldet Angriff auf Atomanlage Natans",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-luftangriffe-atomanlage-natans-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T12:30:02+01:00"
-    },
-    {
-      "title": "US-Justiz weist Pentagon in die Schranken",
-      "link": "https://www.dw.com/de/us-justiz-weist-pentagon-in-die-schranken/a-76465562?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Landunter auf Hawaii",
+      "link": "https://www.dw.com/de/landunter-auf-hawaii/a-76467047?maca=de-rss-de-top-1016-xml-mrss",
       "published": "21 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-21T11:12:00+00:00"
+      "sort_date": "2026-03-21T13:16:00+00:00"
     }
   ],
   "Food": []
