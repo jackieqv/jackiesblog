@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Tote bei gegenseitigen Luftangriffen in der Ukraine und Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-146.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T21:51:30+01:00"
+    },
+    {
+      "title": "US-britischer Stützpunkt: Was ist über Irans Angriff auf Diego Garcia bekannt?",
+      "link": "https://www.tagesschau.de/ausland/asien/diego-garcia-angriff-100.html",
+      "published": "21 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-21T21:22:26+01:00"
+    },
+    {
       "title": "Zehntausende demonstrieren gegen Regierung in Prag",
       "link": "https://www.tagesschau.de/ausland/europa/prag-proteste-102.html",
       "published": "21 Mar 2026",
@@ -131,20 +145,6 @@
       "published": "21 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-21T18:45:06+01:00"
-    },
-    {
-      "title": "Italien: Anstieg von Hepatitis-A-Fällen in Region Neapel",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-hepatitis-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T17:30:09+01:00"
-    },
-    {
-      "title": "Konflikt mit Intendanten: Salzburger Festspiele vor ungewisser Zukunft",
-      "link": "https://www.tagesschau.de/kultur/salzburger-festspiele-konflikt-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T17:28:36+01:00"
     }
   ],
   "Food": []
