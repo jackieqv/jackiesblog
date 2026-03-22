@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How SAP's AI copilot is moving from helper to agentic layer that reasons and acts inside HR workflow",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-sap-s-ai-copilot-is-moving-from-helper-to-agentic-layer-that-reasons/ba-p/14355002",
+      "published": "22 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-22T00:44:20+00:00"
+    },
+    {
       "title": "What’s New, Now Relevant: Introducing Release Center",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-now-relevant-introducing-release-center/ba-p/14353843",
       "published": "19 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "18 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-18T10:54:14+00:00"
-    },
-    {
-      "title": "Upcoming Webinar | Turning Fair and Equitable Pay into Your Strategic Advantage",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-turning-fair-and-equitable-pay-into-your-strategic/ba-p/14351071",
-      "published": "17 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-17T13:35:15+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Zweite Runde der Kommunalwahl: Gewinnt Le Pens Partei in Marseille?",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-kommunalwahl-marseille-100.html",
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Wahlbeteiligung bis zum Mittag bei 50 Prozent ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html",
       "published": "22 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-22T10:01:29+01:00"
+      "sort_date": "2026-03-22T13:38:23+01:00"
     },
     {
-      "title": "Wieder landesweiter Stromausfall in Kuba",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-stromausfall-122.html",
+      "title": "Knappes Rennen in Italien bei Abstimmung über Justizreform erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-justiz-reform-meloni-100.html",
       "published": "22 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-22T09:46:50+01:00"
+      "sort_date": "2026-03-22T13:28:27+01:00"
     },
     {
-      "title": "Angriffe auf Gedenkstätten: Wenn Antisemitismus sichtbar wird",
-      "link": "https://www.tagesschau.de/inland/antisemitismus-angriffe-gedenkstaetten-100.html",
+      "title": "Wahl in Rheinland-Pfalz: Zweikampf an der Spitze",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-108.html",
       "published": "22 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-22T09:31:01+01:00"
+      "sort_date": "2026-03-22T12:32:16+01:00"
     },
     {
-      "title": "Trump stellt Iran Ultimatum zur Straße von Hormus",
-      "link": "https://www.dw.com/de/trump-stellt-iran-ultimatum-zur-straße-von-hormus/a-76472343?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Dobrindt fordert angesichts von Krisen Zivilschutz-Schulunterricht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zivilschutz-schulen-minister-dobrindt-100.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T11:28:35+01:00"
+    },
+    {
+      "title": "Härtetest für Meloni: Italiener stimmen über Justizreform ab",
+      "link": "https://www.dw.com/de/härtetest-für-meloni-italiener-stimmen-über-justizreform-ab/a-76473361?maca=de-rss-de-top-1016-xml-mrss",
       "published": "22 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-22T08:48:00+00:00"
-    },
-    {
-      "title": "So gesund sind schon wenige Minuten Spaziergang",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-bewegung-spazieren-100.html",
-      "published": "22 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-22T08:27:53+01:00"
+      "sort_date": "2026-03-22T11:04:00+00:00"
     }
   ],
   "Food": []
