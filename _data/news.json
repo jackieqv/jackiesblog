@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Krieg gegen Iran: Viele Verletzte bei Angriffen in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/verletzte-angriffe-israel-100.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T03:05:44+01:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump setzt Iran Ultimatum ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T02:25:00+01:00"
+    },
+    {
+      "title": "Ex-FBI-Direktor Mueller im Alter von 81 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/ex-fbi-direktor-mueller-tot-100.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T02:04:18+01:00"
+    },
+    {
       "title": "Tote bei gegenseitigen Luftangriffen in der Ukraine und Russland",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-146.html",
       "published": "21 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "21 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-21T21:22:26+01:00"
-    },
-    {
-      "title": "Zehntausende demonstrieren gegen Regierung in Prag",
-      "link": "https://www.tagesschau.de/ausland/europa/prag-proteste-102.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T19:22:06+01:00"
-    },
-    {
-      "title": "Wie steht es um die Ernährungssicherheit in Deutschland?",
-      "link": "https://www.tagesschau.de/wissen/klima/ernaehrungssicherheit-deutschland-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T18:46:06+01:00"
-    },
-    {
-      "title": "Beschaffungsamt der Bundeswehr will innovativer werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-beschaffung-ruestung-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T18:45:06+01:00"
     }
   ],
   "Food": []
