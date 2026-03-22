@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Was zur Wahl in Rheinland-Pfalz wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-104.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T05:29:47+01:00"
+    },
+    {
       "title": "Krieg gegen Iran: Viele Verletzte bei Angriffen in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/verletzte-angriffe-israel-100.html",
       "published": "22 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "21 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-21T21:51:30+01:00"
-    },
-    {
-      "title": "US-britischer Stützpunkt: Was ist über Irans Angriff auf Diego Garcia bekannt?",
-      "link": "https://www.tagesschau.de/ausland/asien/diego-garcia-angriff-100.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T21:22:26+01:00"
     }
   ],
   "Food": []
