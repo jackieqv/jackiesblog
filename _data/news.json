@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Wie sich der Dschihadismus in Brüssel ausbreiten konnte",
+      "link": "https://www.tagesschau.de/ausland/europa/jahrestag-anschlaege-bruessel-100.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T07:18:49+01:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump setzt Iran Ultimatum ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html",
+      "published": "22 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-22T06:43:35+01:00"
+    },
+    {
       "title": "Was zur Wahl in Rheinland-Pfalz wichtig ist",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-104.html",
       "published": "22 Mar 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-03-22T03:05:44+01:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Trump setzt Iran Ultimatum ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html",
-      "published": "22 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-22T02:25:00+01:00"
-    },
-    {
       "title": "Ex-FBI-Direktor Mueller im Alter von 81 Jahren gestorben",
       "link": "https://www.tagesschau.de/ausland/amerika/ex-fbi-direktor-mueller-tot-100.html",
       "published": "22 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-22T02:04:18+01:00"
-    },
-    {
-      "title": "Tote bei gegenseitigen Luftangriffen in der Ukraine und Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-146.html",
-      "published": "21 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-21T21:51:30+01:00"
     }
   ],
   "Food": []
