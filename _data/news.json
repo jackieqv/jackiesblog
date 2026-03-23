@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Reviving Brain Activity After ‘Cryosleep’ Inches Closer in Pioneering Study",
+      "link": "https://singularityhub.com/2026/03/23/reviving-brain-activity-after-cryosleep-inches-closer-in-pioneering-study/",
+      "published": "23 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-23T21:15:01+00:00"
+    },
+    {
       "title": "Are Strings Still Our Best Hope for a Theory of Everything?",
       "link": "https://www.quantamagazine.org/are-strings-still-our-best-hope-for-a-theory-of-everything-20260323/",
       "published": "23 Mar 2026",
@@ -101,16 +108,23 @@
       "published": "20 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-20T14:00:00+00:00"
-    },
-    {
-      "title": "Tech Companies Are Blaming Massive Layoffs on AI. What’s Really Going On?",
-      "link": "https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/",
-      "published": "19 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-19T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Frankreich: Eine Kommunalwahl mit beschränktem Erkenntnisgewinn",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-kommunalwahl-108.html",
+      "published": "23 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-23T20:52:13+01:00"
+    },
+    {
+      "title": "Rheinland-Pfalz: Schwierige Gespräche trotz großer Schnittmengen",
+      "link": "https://www.tagesschau.de/inland/sondierungen-rlp-100.html",
+      "published": "23 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-23T20:06:02+01:00"
+    },
     {
       "title": "AfD-Rekord in Rheinland-Pfalz: \"Der kleine Osten im Westen\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-erfolg-pfalz-100.html",
@@ -119,7 +133,7 @@
       "sort_date": "2026-03-23T19:41:45+01:00"
     },
     {
-      "title": "Erste ICE-Beamte patrouillieren an US-Flughäfen",
+      "title": "Erste ICE-Mitarbeiter patrouillieren an US-Flughäfen",
       "link": "https://www.tagesschau.de/ausland/amerika/ice-flughaefen-usa-100.html",
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -131,20 +145,6 @@
       "published": "23 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-03-23T18:31:00+00:00"
-    },
-    {
-      "title": "Iran-Drohungen ausgesetzt: Wechselbad à la Trump",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html",
-      "published": "23 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T18:20:10+01:00"
-    },
-    {
-      "title": "Bundesinnenministerium stoppt Fördergelder für Anti-Extremismusprojekt",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html",
-      "published": "23 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T18:01:01+01:00"
     }
   ],
   "Food": []
