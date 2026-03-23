@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Troubleshooting Guide: \"To Be Hired\" Status Not Updating in SAP SuccessFactors Manage Positions",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/troubleshooting-guide-quot-to-be-hired-quot-status-not-updating-in-sap/ba-p/14355610",
+      "published": "23 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-23T08:44:23+00:00"
+    },
+    {
       "title": "1H 2026 Release Alert: New Granular Permissions for TIH & GP Import/Export using Integration Center",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-alert-new-granular-permissions-for-tih-amp-gp-import-export/ba-p/14355359",
       "published": "23 Mar 2026",
@@ -57,13 +64,6 @@
       "published": "19 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-19T21:19:08+00:00"
-    },
-    {
-      "title": "1H 2026 Experience Updates in SAP SuccessFactors: Improving Navigation and Consistency",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-experience-updates-in-sap-successfactors-improving-navigation-and/ba-p/14351557",
-      "published": "18 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-18T21:29:26+00:00"
     },
     {
       "title": "On Demand Webinar: The Future of Intelligent Hiring with SmartRecruiters for SAP SuccessFactors",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Israel fliegt Angriffe auf Teheran ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html",
+      "title": "Trumps Ultimatum - Iran droht mit Verminung des Persischen Golfs",
+      "link": "https://www.tagesschau.de/ausland/iran-usa-israel-krieg-104.html",
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T08:04:27+01:00"
+      "sort_date": "2026-03-23T11:00:48+01:00"
     },
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Korrespondent: Probleme haben Wahl entschieden ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html",
+      "title": "Früherer französischer Regierungschef Jospin mit 88 gestorben",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ex-premier-jospin-tot-100.html",
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T07:49:54+01:00"
+      "sort_date": "2026-03-23T10:55:33+01:00"
     },
     {
-      "title": "Marktbericht: Anleger befürchten Zinserhöhungen",
+      "title": "Gold- und Silberpreise sinken drastisch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-silber-edelmetalle-einbruch-100.html",
+      "published": "23 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-23T10:46:04+01:00"
+    },
+    {
+      "title": "Marktbericht: DAX stürzt unter 22.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html",
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T07:49:39+01:00"
+      "sort_date": "2026-03-23T10:40:16+01:00"
     },
     {
-      "title": "IEA befürchtet schwerste Energiekrise seit Jahrzehnten",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-energie-iea-100.html",
+      "title": "Prozess nach Zugunglück in Griechenland: 57 Tote, viele Vorwürfe und noch mehr Wut",
+      "link": "https://www.tagesschau.de/ausland/europa/prozessauftakt-zugunglueck-griechenland-100.html",
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-23T07:49:10+01:00"
-    },
-    {
-      "title": "Im Ungleichgewicht: Weltwetterbehörde warnt vor Rekordhitze",
-      "link": "https://www.dw.com/de/im-ungleichgewicht-weltwetterbehörde-warnt-vor-rekordhitze/a-76454924?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-23T06:37:00+00:00"
+      "sort_date": "2026-03-23T08:56:33+01:00"
     }
   ],
   "Food": []
