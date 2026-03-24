@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "These Mini Brains Just Learned to Solve a Classic Engineering Problem",
+      "link": "https://singularityhub.com/2026/03/24/these-mini-brains-just-learned-to-solve-a-classic-engineering-problem/",
+      "published": "24 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-24T19:38:32+00:00"
+    },
+    {
       "title": "Reviving Brain Activity After ‘Cryosleep’ Inches Closer in Pioneering Study",
       "link": "https://singularityhub.com/2026/03/23/reviving-brain-activity-after-cryosleep-inches-closer-in-pioneering-study/",
       "published": "23 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "20 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-20T14:25:33+00:00"
-    },
-    {
-      "title": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence",
-      "link": "https://singularityhub.com/2026/03/20/google-deepmind-plans-to-track-agi-progress-with-these-10-traits-of-general-intelligence/",
-      "published": "20 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-20T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bis zu 25 Prozent: ADAC plant deutlich höhere Mitgliedsbeiträge",
-      "link": "https://www.tagesschau.de/wirtschaft/adac-beitragserhoehung-100.html",
+      "title": "Dänische Sozialdemokraten trotz Verlusten wohl stärkste Kraft",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahlen-daenemark-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T19:06:55+01:00"
+      "sort_date": "2026-03-24T22:36:27+01:00"
     },
     {
-      "title": "Was über mögliche Friedensgespräche bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-verhandlungen-108.html",
+      "title": "Die wichtigsten Antworten zur Riester-Nachfolge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/riesterrente-nachfolge-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T18:51:39+01:00"
+      "sort_date": "2026-03-24T22:13:50+01:00"
     },
     {
-      "title": "Marktbericht: Anleger zögern vor neuen Nachrichten aus Nahost",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-trump-oelpreis-dax-dow-iran-100.html",
+      "title": "Wie stark ist Irans Raketenarsenal?",
+      "link": "https://www.dw.com/de/wie-stark-ist-irans-raketenarsenal/a-76513969?maca=de-rss-de-top-1016-xml-mrss",
       "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T18:23:38+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-24T20:51:00+00:00"
     },
     {
-      "title": "Die koreanische Boyband BTS feiert ihr Comeback in Seoul",
-      "link": "https://www.tagesschau.de/kultur/bts-boyband-korea-k-pop-100.html",
+      "title": "Bremen, Hamburg und Mecklenburg-Vorpommern wollen Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/inland/uebergewinnsteuer-mineraloelkonzerne-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T18:17:35+01:00"
+      "sort_date": "2026-03-24T20:15:13+01:00"
     },
     {
-      "title": "Stromausfall in Berlin: Wegner entschuldigt sich für Fehler",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/stromausfall-in-berlin-wegner-100.html",
+      "title": "Weltpremiere am CERN - Erfolgreicher Antimaterie-Transport per Lkw",
+      "link": "https://www.tagesschau.de/ausland/antimaterie-transport-lkw-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T17:40:52+01:00"
+      "sort_date": "2026-03-24T20:10:17+01:00"
     }
   ],
   "Food": []
