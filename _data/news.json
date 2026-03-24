@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: DAX-Tendenz zeigt wieder abwärts",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-trump-oelpreis-dax-dow-iran-100.html",
-      "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T07:45:01+01:00"
-    },
-    {
-      "title": "EU-Parlament: Festigkeits-Prüfung an der Brandmauer",
-      "link": "https://www.tagesschau.de/ausland/europa/evp-weber-brandmauer-100.html",
-      "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T07:40:26+01:00"
-    },
-    {
-      "title": "Europas Hotspot: Der lange Kampf gegen die Masern in Rumänien",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/masern-rumaenien-100.html",
-      "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T07:13:00+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran startet neue Angriffe auf Israel ++",
+      "title": "Iran-Liveblog: ++ Steinmeier nennt Krieg \"völkerrechtswidrig\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T07:10:26+01:00"
+      "sort_date": "2026-03-24T10:50:59+01:00"
     },
     {
-      "title": "Wahl in Dänemark: Frederiksen hofft auf gutes Ergebnis dank Grönland-Kurs",
-      "link": "https://www.tagesschau.de/ausland/europa/wahl-daenemark-106.html",
+      "title": "Pentagon verschärft Restriktionen für Journalisten trotz Gerichtsurteils",
+      "link": "https://www.tagesschau.de/ausland/usa-pentagon-medien-auflagen-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T06:56:26+01:00"
+      "sort_date": "2026-03-24T10:39:41+01:00"
+    },
+    {
+      "title": "Juso-Chef Türmer: \"Die Doppelrolle funktioniert überhaupt nicht\"",
+      "link": "https://www.tagesschau.de/inland/spd-krise-debatte-personal-100.html",
+      "published": "24 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-24T10:28:16+01:00"
+    },
+    {
+      "title": "Discounter KiK schließt Hunderte Filialen - auch in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kik-discounter-filialschliessungen-europaweit-100.html",
+      "published": "24 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-24T10:05:19+01:00"
+    },
+    {
+      "title": "TV-Star Cosby muss Frau wegen Missbrauchs 60 Millionen Dollar zahlen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-gericht-cosby-urteil-klage-frau-100.html",
+      "published": "24 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-24T09:18:37+01:00"
     }
   ],
   "Food": []
