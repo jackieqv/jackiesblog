@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Militärflugzeug in Kolumbien abgestürzt - Tote und Verletzte",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-militaerflugzeug-absturz-100.html",
+      "published": "24 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-24T02:08:44+01:00"
+    },
+    {
       "title": "Frankreich: Eine Kommunalwahl mit beschränktem Erkenntnisgewinn",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-kommunalwahl-108.html",
       "published": "23 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "23 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-23T19:18:42+01:00"
-    },
-    {
-      "title": "Iran-Krieg kann zu globaler Preis-Krise führen",
-      "link": "https://www.dw.com/de/iran-krieg-kann-zu-globaler-preis-krise-führen/a-76494164?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-23T18:31:00+00:00"
     }
   ],
   "Food": []
