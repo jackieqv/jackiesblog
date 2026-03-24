@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How SAP's AI copilot is moving from helper to agentic layer that reasons and acts inside HR workflow",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-sap-s-ai-copilot-is-moving-from-helper-to-agentic-layer-that-reasons/ba-p/14355002",
+      "published": "24 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-24T12:34:39+00:00"
+    },
+    {
       "title": "Troubleshooting Guide: \"To Be Hired\" Status Not Updating in SAP SuccessFactors Manage Positions",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/troubleshooting-guide-quot-to-be-hired-quot-status-not-updating-in-sap/ba-p/14355610",
       "published": "23 Mar 2026",
@@ -50,13 +57,6 @@
       "published": "23 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-23T04:26:41+00:00"
-    },
-    {
-      "title": "How SAP's AI copilot is moving from helper to agentic layer that reasons and acts inside HR workflow",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-sap-s-ai-copilot-is-moving-from-helper-to-agentic-layer-that-reasons/ba-p/14355002",
-      "published": "22 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-22T00:44:20+00:00"
     },
     {
       "title": "What’s New, Now Relevant: Introducing Release Center",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Steinmeier nennt Krieg \"völkerrechtswidrig\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html",
+      "title": "Steinmeier kritisiert Iran-Krieg als Völkerrechtsbruch",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-iran-krieg-102.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T10:50:59+01:00"
+      "sort_date": "2026-03-24T14:08:10+01:00"
     },
     {
-      "title": "Pentagon verschärft Restriktionen für Journalisten trotz Gerichtsurteils",
-      "link": "https://www.tagesschau.de/ausland/usa-pentagon-medien-auflagen-100.html",
+      "title": "Kurswende am Montag: Spekulationen um Insiderhandel",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-trump-oel-spekulation-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T10:39:41+01:00"
+      "sort_date": "2026-03-24T14:01:08+01:00"
     },
     {
-      "title": "Juso-Chef Türmer: \"Die Doppelrolle funktioniert überhaupt nicht\"",
-      "link": "https://www.tagesschau.de/inland/spd-krise-debatte-personal-100.html",
+      "title": "Statistik: Jeder zehnte Erwerbstätige arbeitet teilweise nachts",
+      "link": "https://www.tagesschau.de/wirtschaft/statistik-nachtarbeit-deutschland-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T10:28:16+01:00"
+      "sort_date": "2026-03-24T13:45:16+01:00"
     },
     {
-      "title": "Discounter KiK schließt Hunderte Filialen - auch in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kik-discounter-filialschliessungen-europaweit-100.html",
+      "title": "Betreiben die Taliban in der Berliner Botschaft Etikettenschwindel?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-taliban-botschaft-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T10:05:19+01:00"
+      "sort_date": "2026-03-24T13:16:15+01:00"
     },
     {
-      "title": "TV-Star Cosby muss Frau wegen Missbrauchs 60 Millionen Dollar zahlen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-gericht-cosby-urteil-klage-frau-100.html",
+      "title": "Krieg im Nahen Osten: Israel will Libanon bis Litani-Fluss kontrollieren",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-litani-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T09:18:37+01:00"
+      "sort_date": "2026-03-24T13:13:06+01:00"
     }
   ],
   "Food": []
