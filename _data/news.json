@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "eSocial - Nota Técnica Nº 06/2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-n%C2%BA-06-2026/ba-p/14357116",
+      "published": "24 Mar 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-03-24T14:28:26+00:00"
+    },
+    {
       "title": "How SAP's AI copilot is moving from helper to agentic layer that reasons and acts inside HR workflow",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-sap-s-ai-copilot-is-moving-from-helper-to-agentic-layer-that-reasons/ba-p/14355002",
       "published": "24 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "19 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-19T21:19:08+00:00"
-    },
-    {
-      "title": "On Demand Webinar: The Future of Intelligent Hiring with SmartRecruiters for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/on-demand-webinar-the-future-of-intelligent-hiring-with-smartrecruiters-for/ba-p/14352795",
-      "published": "18 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-18T19:49:43+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Steinmeier kritisiert Iran-Krieg als Völkerrechtsbruch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-iran-krieg-102.html",
+      "title": "DNA-Analyse zeigt: Spätburgunder gab es schon vor 500 Jahren",
+      "link": "https://www.tagesschau.de/wissen/forschung/weinanbau-dna-analyse-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T14:08:10+01:00"
+      "sort_date": "2026-03-24T17:02:12+01:00"
     },
     {
-      "title": "Kurswende am Montag: Spekulationen um Insiderhandel",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-trump-oel-spekulation-100.html",
+      "title": "Schwarz-Rot einigt sich auf neue private Altersvorsorge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-nachfolger-riester-rente-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T14:01:08+01:00"
+      "sort_date": "2026-03-24T16:14:51+01:00"
     },
     {
-      "title": "Statistik: Jeder zehnte Erwerbstätige arbeitet teilweise nachts",
-      "link": "https://www.tagesschau.de/wirtschaft/statistik-nachtarbeit-deutschland-100.html",
+      "title": "Mit welchen Ländern die EU Handelsabkommen hat",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/handelsabkommen-eu-ueberblick-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T13:45:16+01:00"
+      "sort_date": "2026-03-24T15:42:41+01:00"
     },
     {
-      "title": "Betreiben die Taliban in der Berliner Botschaft Etikettenschwindel?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-taliban-botschaft-100.html",
+      "title": "Was das Handelsabkommen zwischen der EU und Australien bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/faq-handelsabkommen-eu-australien-100.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T13:16:15+01:00"
+      "sort_date": "2026-03-24T15:42:14+01:00"
     },
     {
-      "title": "Krieg im Nahen Osten: Israel will Libanon bis Litani-Fluss kontrollieren",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-litani-100.html",
+      "title": "Krieg gegen die Ukraine: Mehrere Tote bei russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-kiew-102.html",
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T13:13:06+01:00"
+      "sort_date": "2026-03-24T14:37:31+01:00"
     }
   ],
   "Food": []
