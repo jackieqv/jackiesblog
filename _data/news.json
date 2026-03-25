@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Dänische Sozialdemokraten trotz Verlusten wohl stärkste Kraft",
-      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahlen-daenemark-100.html",
-      "published": "24 Mar 2026",
+      "title": "Brasiliens Ex-Präsident Bolsonaro künftig im Hausarrest statt im Gefängnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-hausarrest-102.html",
+      "published": "25 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T22:36:27+01:00"
+      "sort_date": "2026-03-25T05:33:55+01:00"
+    },
+    {
+      "title": "Frist für Klimaschutzprogramm setzt Bundesregierung unter Zugzwang",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-klimaschutzprogramm-100.html",
+      "published": "25 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-25T05:22:57+01:00"
+    },
+    {
+      "title": "Faktenfinder: Entwicklungshilfe im Fokus von Desinformation",
+      "link": "https://www.tagesschau.de/faktenfinder/entwicklungshilfe-usaid-100.html",
+      "published": "25 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-25T05:11:57+01:00"
+    },
+    {
+      "title": "Nachschub für den Donbass: Unten Schlaglöcher, oben Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-nachschub-donbass-100.html",
+      "published": "25 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-25T05:05:20+01:00"
     },
     {
       "title": "Die wichtigsten Antworten zur Riester-Nachfolge",
@@ -124,27 +145,6 @@
       "published": "24 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-24T22:13:50+01:00"
-    },
-    {
-      "title": "Wie stark ist Irans Raketenarsenal?",
-      "link": "https://www.dw.com/de/wie-stark-ist-irans-raketenarsenal/a-76513969?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-24T20:51:00+00:00"
-    },
-    {
-      "title": "Bremen, Hamburg und Mecklenburg-Vorpommern wollen Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/inland/uebergewinnsteuer-mineraloelkonzerne-100.html",
-      "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T20:15:13+01:00"
-    },
-    {
-      "title": "Weltpremiere am CERN - Erfolgreicher Antimaterie-Transport per Lkw",
-      "link": "https://www.tagesschau.de/ausland/antimaterie-transport-lkw-100.html",
-      "published": "24 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-24T20:10:17+01:00"
     }
   ],
   "Food": []
