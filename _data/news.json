@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Recruiting and Eightfold Integration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-recruiting-and-eightfold-integration/ba-p/14342103",
+      "published": "25 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-25T10:35:15+00:00"
+    },
+    {
       "title": "eSocial - Nota Técnica Nº 06/2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-n%C2%BA-06-2026/ba-p/14357116",
       "published": "24 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "23 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-23T04:26:41+00:00"
-    },
-    {
-      "title": "What’s New, Now Relevant: Introducing Release Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-now-relevant-introducing-release-center/ba-p/14353843",
-      "published": "19 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-19T21:19:08+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Hoffnung auf Waffenruhe in Nahost: DAX startet deutlich im Plus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-ifo-100.html",
+      "title": "Vergleichsportal: Strompreise steigen für Neukunden um 16 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/strompreise-neukunden-gestiegen-100.html",
       "published": "25 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-25T10:50:34+01:00"
+      "sort_date": "2026-03-25T13:46:56+01:00"
     },
     {
-      "title": "Psychologie: Wie Träume den Schlaf beeinflussen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/schlaf-traeume-100.html",
+      "title": "Marktbericht: Warum Konzerne gerade so viele eigene Aktien kaufen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-aktienrueckkaeufe-100.html",
       "published": "25 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-25T10:33:44+01:00"
+      "sort_date": "2026-03-25T13:46:35+01:00"
     },
     {
-      "title": "OpenAI stellt KI-Video-App Sora ein - keine Kooperation mit Disney",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-sora-disney-100.html",
+      "title": "Kabinett verabschiedet neues Klimaschutzprogramm",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutzprogramm-bundesregierung-100.html",
       "published": "25 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-25T10:08:02+01:00"
+      "sort_date": "2026-03-25T13:23:38+01:00"
     },
     {
-      "title": "Alkoholverbot in Syrien: Es geht um mehr als nur Bier",
-      "link": "https://www.dw.com/de/alkoholverbot-in-syrien-es-geht-um-mehr-als-nur-bier/a-76492402?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "25 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-25T09:10:00+00:00"
-    },
-    {
-      "title": "Castor-Transport in NRW: Atommüll am Zielort Ahaus angekommen",
-      "link": "https://www.tagesschau.de/inland/castor-transport-atommuell-nrw-100.html",
+      "title": "Nach Wahl in Rheinland-Pfalz: AfD-Spitzenkandidat als Fraktionschef abgewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz--bollinger-afd-100.html",
       "published": "25 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-25T09:06:56+01:00"
+      "sort_date": "2026-03-25T13:07:00+01:00"
+    },
+    {
+      "title": "Angriffe in Tel Aviv: Israel wird kriegsmüde",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-kriegsmuedigkeit-100.html",
+      "published": "25 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-25T13:05:40+01:00"
     }
   ],
   "Food": []
