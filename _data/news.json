@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "What We Actually See—and Don’t See—Shows Consciousness Is Only the Tip of the Iceberg",
+      "link": "https://singularityhub.com/2026/03/26/what-we-actually-see-and-dont-see-shows-consciousness-is-only-the-tip-of-the-iceberg/",
+      "published": "26 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-26T14:00:00+00:00"
+    },
+    {
       "title": "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
       "link": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
       "published": "25 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "23 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-23T21:15:01+00:00"
-    },
-    {
-      "title": "Are Strings Still Our Best Hope for a Theory of Everything?",
-      "link": "https://www.quantamagazine.org/are-strings-still-our-best-hope-for-a-theory-of-everything-20260323/",
-      "published": "23 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-23T15:00:14+00:00"
     }
   ],
   "News": [
     {
-      "title": "Filmemacher und Autor Alexander Kluge gestorben",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-kluge-tot-100.html",
+      "title": "Iran-Liveblog: ++ Iran übermittelt laut Agentur Antwort auf US-Plan ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html",
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T14:00:31+01:00"
+      "sort_date": "2026-03-26T16:50:53+01:00"
     },
     {
-      "title": "EU-Parlament stimmt für Handelsdeal mit den USA",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-parlament-usa-handelsdeal-100.html",
+      "title": "Queere Kunst in der DDR - gab es die?",
+      "link": "https://www.tagesschau.de/kultur/queere-kunst-ddr-100.html",
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T13:14:52+01:00"
+      "sort_date": "2026-03-26T16:45:16+01:00"
     },
     {
-      "title": "Marktbericht: Wie Trumps Politik und der Ölpreis zusammenhängen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-thema-des-tages-oelpreise-trump-100.html",
+      "title": "EU-Parlament will KI für Nacktbilder verbieten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ki-nacktbilder-verbot-100.html",
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T13:10:55+01:00"
+      "sort_date": "2026-03-26T16:19:34+01:00"
     },
     {
-      "title": "Kommentar: Klingbeils Reformrede hätte vom Kanzler kommen müssen",
-      "link": "https://www.tagesschau.de/kommentar/klingbeil-reformrede-100.html",
+      "title": "AfD zwischen Friedensrhetorik und Trump-Nähe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-maga-usa-bundestag-100.html",
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T13:04:35+01:00"
+      "sort_date": "2026-03-26T16:08:46+01:00"
     },
     {
-      "title": "EU-Parlament stimmt für Verbot von Fake-Porno-Software",
-      "link": "https://www.dw.com/de/eu-parlament-stimmt-für-verbot-von-fake-porno-software/a-76542186?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Wie die ukrainischen Museen ihre Kulturschätze im Krieg retten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-museumskonferenz-100.html",
       "published": "26 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-26T12:27:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-26T15:10:13+01:00"
     }
   ],
   "Food": []
