@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How We Built an Efficient Contingent Data Management Solution for SAP SuccessFactors HCM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-an-efficient-contingent-data-management-solution-for-sap/ba-p/14355742",
+      "published": "26 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-26T05:57:05+00:00"
+    },
+    {
       "title": "Option to Delete Scheduled Jobs from the My Jobs Page in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/option-to-delete-scheduled-jobs-from-the-my-jobs-page-in-sap-successfactors/ba-p/14353270",
       "published": "25 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "24 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-24T12:34:39+00:00"
-    },
-    {
-      "title": "Troubleshooting Guide: \"To Be Hired\" Status Not Updating in SAP SuccessFactors Manage Positions",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/troubleshooting-guide-quot-to-be-hired-quot-status-not-updating-in-sap/ba-p/14355610",
-      "published": "23 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-23T08:44:23+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "\"Kaum noch Puffer\" - wo mit steigenden Preisen zu rechnen ist",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-verbraucherpreise-energiekrise-100.html",
+      "published": "26 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-26T07:49:16+01:00"
+    },
+    {
+      "title": "UN nennen Sklavenhandel \"schwerstes Verbrechen gegen Menschlichkeit\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-resolution-sklavenhandel-100.html",
+      "published": "26 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-26T07:13:38+01:00"
+    },
+    {
+      "title": "Zweiter Testflug der deutschen Isar-Aerospace-Rakete abgebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/raktenstart-isar-aerospace-100.html",
+      "published": "26 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-26T06:50:53+01:00"
+    },
+    {
       "title": "Neues Abwehrzentrum - Warum die Drohnenabwehr bislang kaum Erfolge zeigt",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-abwehr-zentrum-100.html",
       "published": "26 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-26T05:54:35+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Pistorius stellt Hilfe bei Waffenruhe in Aussicht ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T05:14:37+01:00"
-    },
-    {
-      "title": "Bundestag stimmt über Spritpreispaket ab",
-      "link": "https://www.tagesschau.de/inland/bundestag-spritpreispaket-100.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T04:12:02+01:00"
-    },
-    {
-      "title": "Strafen für Meta und Google: Schadensersatz wegen Social-Media-Sucht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-meta-urteil-100.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T03:48:46+01:00"
     }
   ],
   "Food": []
