@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Option to Delete Scheduled Jobs from the My Jobs Page in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/option-to-delete-scheduled-jobs-from-the-my-jobs-page-in-sap-successfactors/ba-p/14353270",
+      "published": "25 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-25T22:53:54+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Recruiting and Eightfold Integration",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-recruiting-and-eightfold-integration/ba-p/14342103",
       "published": "25 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "23 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-23T08:44:23+00:00"
-    },
-    {
-      "title": "1H 2026 Release Alert: New Granular Permissions for TIH & GP Import/Export using Integration Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-alert-new-granular-permissions-for-tih-amp-gp-import-export/ba-p/14355359",
-      "published": "23 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-23T04:26:41+00:00"
     }
   ],
   "Science": [
