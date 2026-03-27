@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Textilhersteller sollen für Entsorgung zahlen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-textilgesetz-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T06:01:22+01:00"
+    },
+    {
       "title": "Iran-Liveblog: ++ WSJ: USA erwägen Entsendung 10.000 weiterer Soldaten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T02:27:11+01:00"
+      "sort_date": "2026-03-27T05:36:05+01:00"
+    },
+    {
+      "title": "SPD berät bei Krisengipfel über Zukunft",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krisengipfel-spd-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T05:05:32+01:00"
     },
     {
       "title": "Trump verlängert Ultimatum an Iran erneut",
@@ -126,25 +140,11 @@
       "sort_date": "2026-03-27T01:29:40+01:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Trump verlängert Ultimatum an Iran bis 6. April ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T00:06:08+01:00"
-    },
-    {
       "title": "Verkehrsministerkonferenz: Führerschein, Deutschlandticket und Schutz in Bahnen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-fuehrerschein-reform-100.html",
       "published": "26 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-26T21:51:20+01:00"
-    },
-    {
-      "title": "Wie Staaten weltweit die globale Energiekrise bewältigen",
-      "link": "https://www.dw.com/de/wie-staaten-weltweit-die-globale-energiekrise-bewältigen/a-76533253?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "26 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-26T20:15:00+00:00"
     }
   ],
   "Food": []
