@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How Agentic AI Slashes Parallel Payroll Reconciliation from Weeks to Days",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-agentic-ai-slashes-parallel-payroll-reconciliation-from-weeks-to-days/ba-p/14358332",
+      "published": "27 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-27T07:10:57+00:00"
+    },
+    {
       "title": "Useful steps for admins when migrating from SuccessFactors Legacy People Profile to Full Profile",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/useful-steps-for-admins-when-migrating-from-successfactors-legacy-people/ba-p/14359502",
       "published": "27 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "25 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-25T10:35:15+00:00"
-    },
-    {
-      "title": "eSocial - Nota Técnica Nº 06/2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-n%C2%BA-06-2026/ba-p/14357116",
-      "published": "24 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-24T14:28:26+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "11KM-Podcast: Hendrik Holt - Aufstieg und Fall des Windpark-Betrügers",
-      "link": "https://www.tagesschau.de/podcast-11km-windpark-betrug-holt-100.html",
+      "title": "Marktbericht: Ölpreis bleibt der entscheidende Faktor",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-390.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T07:57:34+01:00"
+      "sort_date": "2026-03-27T10:53:22+01:00"
     },
     {
-      "title": "Pistorius stärkt auf Reise durch Indopazifik Beziehungen",
-      "link": "https://www.tagesschau.de/ausland/pistorius-singapur-australien-100.html",
+      "title": "Belarusischer Staatschef Lukaschenko zu Besuch in Nordkorea",
+      "link": "https://www.tagesschau.de/ausland/asien/belarus-nordkorea-lukaschenko-kimjongun-100.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T07:57:06+01:00"
+      "sort_date": "2026-03-27T10:25:21+01:00"
     },
     {
-      "title": "Mehrwertsteuer erhöhen? Das würde Preise und Konsum treffen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/mehrwertsteuer-preise-konjunktur-inflation-100.html",
+      "title": "Miersch fordert Anspruch auf raschen Facharzttermin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/facharzttermine-gesetzlicher-anspruch-100.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T06:57:03+01:00"
+      "sort_date": "2026-03-27T09:22:17+01:00"
     },
     {
-      "title": "Wie Simbabwes Regierungspartei die Macht ausbauen will",
-      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-regierungspartei-machterhalt-100.html",
+      "title": "Trump verlängert Frist an Iran - und erwägt mehr Soldaten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-trump-us-soldaten-100.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T06:37:14+01:00"
+      "sort_date": "2026-03-27T09:14:31+01:00"
     },
     {
-      "title": "Textilhersteller sollen für Entsorgung zahlen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-textilgesetz-100.html",
+      "title": "Krieg gegen Ukraine: \"Anzeichen für Frühjahrsoffensive der Russen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-fruehjahrsoffensive-100.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T06:01:22+01:00"
+      "sort_date": "2026-03-27T09:09:03+01:00"
     }
   ],
   "Food": []
