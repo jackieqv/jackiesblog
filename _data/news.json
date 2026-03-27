@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Useful steps for admins when migrating from SuccessFactors Legacy People Profile to Full Profile",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/useful-steps-for-admins-when-migrating-from-successfactors-legacy-people/ba-p/14359502",
+      "published": "27 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-27T06:52:00+00:00"
+    },
+    {
       "title": "How We Built an Efficient Contingent Data Management Solution for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-an-efficient-contingent-data-management-solution-for-sap/ba-p/14355742",
       "published": "26 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "24 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-24T14:28:26+00:00"
-    },
-    {
-      "title": "How SAP's AI copilot is moving from helper to agentic layer that reasons and acts inside HR workflow",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-sap-s-ai-copilot-is-moving-from-helper-to-agentic-layer-that-reasons/ba-p/14355002",
-      "published": "24 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-24T12:34:39+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "11KM-Podcast: Hendrik Holt - Aufstieg und Fall des Windpark-Betrügers",
+      "link": "https://www.tagesschau.de/podcast-11km-windpark-betrug-holt-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T07:57:34+01:00"
+    },
+    {
+      "title": "Pistorius stärkt auf Reise durch Indopazifik Beziehungen",
+      "link": "https://www.tagesschau.de/ausland/pistorius-singapur-australien-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T07:57:06+01:00"
+    },
+    {
+      "title": "Mehrwertsteuer erhöhen? Das würde Preise und Konsum treffen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/mehrwertsteuer-preise-konjunktur-inflation-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T06:57:03+01:00"
+    },
+    {
+      "title": "Wie Simbabwes Regierungspartei die Macht ausbauen will",
+      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-regierungspartei-machterhalt-100.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T06:37:14+01:00"
+    },
+    {
       "title": "Textilhersteller sollen für Entsorgung zahlen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-textilgesetz-100.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-27T06:01:22+01:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ WSJ: USA erwägen Entsendung 10.000 weiterer Soldaten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T05:36:05+01:00"
-    },
-    {
-      "title": "SPD berät bei Krisengipfel über Zukunft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krisengipfel-spd-100.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T05:05:32+01:00"
-    },
-    {
-      "title": "Trump verlängert Ultimatum an Iran erneut",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-ultimatum-iran-104.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T01:29:40+01:00"
-    },
-    {
-      "title": "Verkehrsministerkonferenz: Führerschein, Deutschlandticket und Schutz in Bahnen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-fuehrerschein-reform-100.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T21:51:20+01:00"
     }
   ],
   "Food": []
