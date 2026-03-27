@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ WSJ: USA erwägen Entsendung 10.000 weiterer Soldaten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T02:27:11+01:00"
+    },
+    {
+      "title": "Trump verlängert Ultimatum an Iran erneut",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ultimatum-iran-104.html",
+      "published": "27 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-27T01:29:40+01:00"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump verlängert Ultimatum an Iran bis 6. April ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html",
-      "published": "26 Mar 2026",
+      "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T22:17:22+01:00"
+      "sort_date": "2026-03-27T00:06:08+01:00"
     },
     {
       "title": "Verkehrsministerkonferenz: Führerschein, Deutschlandticket und Schutz in Bahnen",
@@ -131,20 +145,6 @@
       "published": "26 Mar 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-03-26T20:15:00+00:00"
-    },
-    {
-      "title": "Welche Reformen die Bundesregierung bis zum Sommer umsetzen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-spd-cdu-klingbeil-100.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T20:13:43+01:00"
-    },
-    {
-      "title": "Instagram und YouTube: Was das US-Urteil gegen Online-Plattformen bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-meta-google-sucht-100.html",
-      "published": "26 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-26T20:13:16+01:00"
     }
   ],
   "Food": []
