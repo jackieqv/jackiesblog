@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Telefonat mit Iran: Pakistan bemüht sich um Deeskalation in Nahost",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-verhandlungen-114.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T21:40:33+01:00"
+    },
+    {
       "title": "Berliner Schüler testen den digitalen Verzicht",
       "link": "https://www.tagesschau.de/inland/gesellschaft/handyverzicht-schule-100.html",
       "published": "28 Mar 2026",
@@ -138,13 +145,6 @@
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-28T16:12:34+01:00"
-    },
-    {
-      "title": "Arbeitgeber fordern Ausgabenmoratorium bei gesetzlichen Krankenkassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenversicherung-leistungskuerzungen-gesundheitswesen-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T16:08:57+01:00"
     }
   ],
   "Food": []
