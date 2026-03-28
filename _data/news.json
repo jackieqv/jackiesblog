@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Trump stellt Beistand für NATO-Partner infrage ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T03:05:29+01:00"
-    },
-    {
       "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
       "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T00:09:06+01:00"
+      "sort_date": "2026-03-28T05:38:38+01:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Merz wirft Trump \"massive Eskalation\" im Krieg vor ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html",
-      "published": "27 Mar 2026",
+      "title": "Iran-Liveblog: ++ Trump stellt Beistand für NATO-Partner infrage ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html",
+      "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T23:16:14+01:00"
+      "sort_date": "2026-03-28T05:36:38+01:00"
     },
     {
-      "title": "Wadephul: Spannungen mit den USA \"konnten ausgeräumt werden\"",
-      "link": "https://www.tagesschau.de/inland/wadephul-interview-nahost-100.html",
-      "published": "27 Mar 2026",
+      "title": "Israelisch-libanesische Grenze: Leben in der Eskalationszone",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-110.html",
+      "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T21:48:56+01:00"
+      "sort_date": "2026-03-28T05:32:34+01:00"
     },
     {
-      "title": "Krisentreffen: SPD will Bürger bei Spritpreisen entlasten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reformen-uebergewinnsteuer-100.html",
-      "published": "27 Mar 2026",
+      "title": "Angriffe auf Iran treffen Zivilbevölkerung",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-zivilisten-100.html",
+      "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T20:03:03+01:00"
+      "sort_date": "2026-03-28T05:32:12+01:00"
+    },
+    {
+      "title": "Vier Wochen nach Kriegsbeginn: Unmut am Golf",
+      "link": "https://www.tagesschau.de/ausland/afrika/iran-krieg-golfstaaten-100.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T05:30:52+01:00"
     }
   ],
   "Food": []
