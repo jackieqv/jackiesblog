@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 28)",
+      "link": "https://singularityhub.com/2026/03/28/this-weeks-awesome-tech-stories-from-around-the-web-through-march-28-2/",
+      "published": "28 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-28T14:00:00+00:00"
+    },
+    {
       "title": "NASA Unveils Its $20 Billion Moon Base Plan—and a Nuclear Spacecraft for Mars",
       "link": "https://singularityhub.com/2026/03/27/nasa-unveils-its-20-billion-moon-base-plan-and-a-nuclear-spacecraft-for-mars/",
       "published": "27 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "25 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-25T14:53:34+00:00"
-    },
-    {
-      "title": "How Writing Changes Mathematical Thought",
-      "link": "https://www.quantamagazine.org/how-writing-changes-mathematical-thought-20260325/",
-      "published": "25 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-25T14:52:06+00:00"
     }
   ],
   "News": [
     {
-      "title": "Besuch in Monaco: Papst Leo XIV. prangert Kluft zwischen Arm und Reich an",
-      "link": "https://www.tagesschau.de/ausland/monaco-papst-besuch-100.html",
+      "title": "Iran-Liveblog: ++ Israel tötet Reporter im Südlibanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T13:29:48+01:00"
+      "sort_date": "2026-03-28T16:26:06+01:00"
     },
     {
-      "title": "Vier Wochen Iran-Krieg: Wechsel zwischen Diplomatie und Drohkulissen",
-      "link": "https://www.tagesschau.de/ausland/amerika/bilanz-monat-krieg-iran-100.html",
+      "title": "AfD-Fraktionschef: Abwahl nach Rekordergebnis in Rheinland-Pfalz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-rheinland-pfalz-fraktionsvorsitz-bollinger-100.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T13:22:51+01:00"
+      "sort_date": "2026-03-28T16:12:34+01:00"
     },
     {
-      "title": "Myanmar ein Jahr nach dem Erdbeben",
-      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-myanmar-jahrestag-100.html",
+      "title": "Arbeitgeber fordern Ausgabenmoratorium bei gesetzlichen Krankenkassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenversicherung-leistungskuerzungen-gesundheitswesen-100.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T13:17:17+01:00"
+      "sort_date": "2026-03-28T16:08:57+01:00"
     },
     {
-      "title": "Mehrere Tote bei gegenseitigen Angriffen zwischen Ukraine und Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-tote-100.html",
+      "title": "AfD-Jugend in Hessen: \"Generation Deutschland\" in Fulda gegründet",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/afd-jugend-hessen-100.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T12:52:00+01:00"
+      "sort_date": "2026-03-28T14:08:21+01:00"
     },
     {
-      "title": "Papst: Wohlstand verpflichtet zum Einsatz für Gerechtigkeit",
-      "link": "https://www.dw.com/de/papst-wohlstand-verpflichtet-zum-einsatz-für-gerechtigkeit/a-76577591?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Polens Rechte forciert Debatte über Polexit",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-debatte-eu-austritt-100.html",
       "published": "28 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-28T11:59:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T14:02:51+01:00"
     }
   ],
   "Food": []
