@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "NASA Unveils Its $20 Billion Moon Base Plan—and a Nuclear Spacecraft for Mars",
+      "link": "https://singularityhub.com/2026/03/27/nasa-unveils-its-20-billion-moon-base-plan-and-a-nuclear-spacecraft-for-mars/",
+      "published": "27 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-27T22:27:50+00:00"
+    },
+    {
       "title": "When Coupled Volcanoes Talk, These Researchers Listen",
       "link": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
       "published": "27 Mar 2026",
@@ -101,22 +108,29 @@
       "published": "25 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-25T14:52:06+00:00"
-    },
-    {
-      "title": "These Mini Brains Just Learned to Solve a Classic Engineering Problem",
-      "link": "https://singularityhub.com/2026/03/24/these-mini-brains-just-learned-to-solve-a-classic-engineering-problem/",
-      "published": "24 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-24T19:38:32+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Iran-Liveblog: ++ Trump stellt Beistand für NATO-Partner infrage ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T03:05:29+01:00"
+    },
+    {
+      "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T00:09:06+01:00"
+    },
     {
       "title": "Iran-Liveblog: ++ Merz wirft Trump \"massive Eskalation\" im Krieg vor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html",
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T22:13:09+01:00"
+      "sort_date": "2026-03-27T23:16:14+01:00"
     },
     {
       "title": "Wadephul: Spannungen mit den USA \"konnten ausgeräumt werden\"",
@@ -131,20 +145,6 @@
       "published": "27 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-27T20:03:03+01:00"
-    },
-    {
-      "title": "Marktbericht: Ölpreis treibt DAX ins Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-390.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T19:35:01+01:00"
-    },
-    {
-      "title": "Betrugsverdacht: Durchsuchung bei dauerkranker Lehrerin aus Duisburg",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/duisburg-lehrerin-betrugsverdacht-100.html",
-      "published": "27 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-27T17:40:00+01:00"
     }
   ],
   "Food": []
