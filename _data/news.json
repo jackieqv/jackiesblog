@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Israel tötet Reporter im Südlibanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html",
+      "title": "Berliner Schüler testen den digitalen Verzicht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/handyverzicht-schule-100.html",
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T16:26:06+01:00"
+      "sort_date": "2026-03-28T18:55:53+01:00"
+    },
+    {
+      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T18:10:44+01:00"
+    },
+    {
+      "title": "Tausende bei Demo gegen sexualisierte Gewalt in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demonstration-koeln-sexualisierte-gewalt-100.html",
+      "published": "28 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-28T17:46:00+01:00"
     },
     {
       "title": "AfD-Fraktionschef: Abwahl nach Rekordergebnis in Rheinland-Pfalz",
@@ -131,20 +145,6 @@
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-28T16:08:57+01:00"
-    },
-    {
-      "title": "AfD-Jugend in Hessen: \"Generation Deutschland\" in Fulda gegründet",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/afd-jugend-hessen-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T14:08:21+01:00"
-    },
-    {
-      "title": "Polens Rechte forciert Debatte über Polexit",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-debatte-eu-austritt-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T14:02:51+01:00"
     }
   ],
   "Food": []
