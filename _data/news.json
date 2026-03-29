@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP RPT-1 Meets Employee Attrition: A Hands-On Test with SuccessFactors Data",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-rpt-1-meets-employee-attrition-a-hands-on-test-with-successfactors-data/ba-p/14360467",
+      "published": "29 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-29T01:50:48+00:00"
+    },
+    {
       "title": "CNPJ Alfanumérico – Fase 2 Concluída!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/cnpj-alfanum%C3%A9rico-fase-2-conclu%C3%ADda/ba-p/14360208",
       "published": "27 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "27 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-27T07:10:57+00:00"
-    },
-    {
-      "title": "Useful steps for admins when migrating from SuccessFactors Legacy People Profile to Full Profile",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/useful-steps-for-admins-when-migrating-from-successfactors-legacy-people/ba-p/14359502",
-      "published": "27 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-27T06:52:00+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Iran droht mit Angriffen auf Universitäten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T03:47:24+02:00"
+    },
+    {
+      "title": "Landesweite \"No Kings\"-Proteste gegen US-Präsident Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/nokings-proteste-trump-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T03:25:58+02:00"
+    },
+    {
+      "title": "Brandenburger Tor im Dunkeln - \"Earth Hour\" für mehr Klimaschutz",
+      "link": "https://www.tagesschau.de/inland/earth-hour-190.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T00:30:20+01:00"
+    },
+    {
       "title": "Telefonat mit Iran: Pakistan bemüht sich um Deeskalation in Nahost",
       "link": "https://www.tagesschau.de/ausland/asien/iran-verhandlungen-114.html",
       "published": "28 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "28 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-28T18:55:53+01:00"
-    },
-    {
-      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T18:10:44+01:00"
-    },
-    {
-      "title": "Tausende bei Demo gegen sexualisierte Gewalt in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demonstration-koeln-sexualisierte-gewalt-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T17:46:00+01:00"
-    },
-    {
-      "title": "AfD-Fraktionschef: Abwahl nach Rekordergebnis in Rheinland-Pfalz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-rheinland-pfalz-fraktionsvorsitz-bollinger-100.html",
-      "published": "28 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-28T16:12:34+01:00"
     }
   ],
   "Food": []
