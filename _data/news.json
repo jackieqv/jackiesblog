@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-bodenoffensive-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T13:46:32+02:00"
+    },
+    {
+      "title": "Social-Media-Verbot für Kinder: Hohe rechtliche Hürden",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/social-media-verbot-gutachten-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T12:45:27+02:00"
+    },
+    {
+      "title": "Autofahrer in England rammt Gruppe von Fußgängern",
+      "link": "https://www.dw.com/de/autofahrer-in-england-rammt-gruppe-von-fußgängern/a-76583753?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "29 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-29T11:57:00+00:00"
+    },
+    {
       "title": "Tourismus in Russland: Dann eben nach Nordkorea",
       "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-sanktionen-100.html",
       "published": "29 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-29T09:18:33+02:00"
-    },
-    {
-      "title": "\"No Kings\": Millionen Menschen demonstrieren gegen Trump",
-      "link": "https://www.dw.com/de/no-kings-millionen-menschen-demonstrieren-gegen-trump/a-76582959?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "29 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-29T09:09:00+00:00"
-    },
-    {
-      "title": "Was sich mit Wärmepumpen an Heizkosten einsparen lässt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpen-heizung-energieverbrauch-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T08:18:08+02:00"
-    },
-    {
-      "title": "Huthi-Miliz greift Israel an - und in den Nahost-Krieg ein",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-iran-krieg-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T05:19:18+02:00"
     }
   ],
   "Food": []
