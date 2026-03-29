@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Schwesig fordert Spritpreis-Senkung durch Regierung",
+      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-schwesig-chrupalla-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T19:44:46+02:00"
+    },
+    {
+      "title": "Iran-Krieg und die Auswirkungen: Geht das Thailand das Öl aus?",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-oel-gas-iran-hormus-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T18:01:23+02:00"
+    },
+    {
+      "title": "Jerusalem: Kirchenvertreter an Zugang zu Grabeskirche gehindert",
+      "link": "https://www.tagesschau.de/ausland/asien/pizzaballa-jerusalem-grabeskirche-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T17:43:29+02:00"
+    },
+    {
       "title": "Iran-Krieg laut Bundestags-Experten völkerrechtswidrig",
       "link": "https://www.tagesschau.de/inland/bundestag-wissenschaftlicher-dienst-iran-krieg-voelkerrecht-100.html",
       "published": "29 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-29T16:05:40+02:00"
-    },
-    {
-      "title": "Fahrradsaison-Start mit Hindernissen wegen Personalmangel",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fachkraeftemangel-fahrradwerkstaetten-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T15:03:35+02:00"
-    },
-    {
-      "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-bodenoffensive-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T13:46:32+02:00"
-    },
-    {
-      "title": "Social-Media-Verbot für Kinder: Hohe rechtliche Hürden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/social-media-verbot-gutachten-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T12:45:27+02:00"
     }
   ],
   "Food": []
