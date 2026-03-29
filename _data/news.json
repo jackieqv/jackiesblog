@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Iran droht mit Angriffen auf Universitäten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html",
+      "title": "Tourismus in Russland: Dann eben nach Nordkorea",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-sanktionen-100.html",
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T08:27:35+02:00"
+      "sort_date": "2026-03-29T11:09:01+02:00"
+    },
+    {
+      "title": "Digitalminister Wildberger warnt vor Jobverlust durch KI",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-ki-jobs-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T09:18:33+02:00"
+    },
+    {
+      "title": "\"No Kings\": Millionen Menschen demonstrieren gegen Trump",
+      "link": "https://www.dw.com/de/no-kings-millionen-menschen-demonstrieren-gegen-trump/a-76582959?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "29 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-29T09:09:00+00:00"
     },
     {
       "title": "Was sich mit Wärmepumpen an Heizkosten einsparen lässt",
@@ -131,20 +145,6 @@
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-29T05:19:18+02:00"
-    },
-    {
-      "title": "Vier Wochen Krieg: \"Für Irans Bevölkerung ist das eine desaströse Situation\"",
-      "link": "https://www.tagesschau.de/iran-krieg-bevoelkerung-opposition-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T05:16:39+02:00"
-    },
-    {
-      "title": "Nein zur Bundeswehr: Zahl der Kriegsdienstverweigerer steigt",
-      "link": "https://www.dw.com/de/nein-zur-bundeswehr-zahl-der-kriegsdienstverweigerer-steigt/a-76530667?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "29 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-29T04:52:00+00:00"
     }
   ],
   "Food": []
