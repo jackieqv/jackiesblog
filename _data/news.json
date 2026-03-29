@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Krieg laut Bundestags-Experten völkerrechtswidrig",
+      "link": "https://www.tagesschau.de/inland/bundestag-wissenschaftlicher-dienst-iran-krieg-voelkerrecht-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T16:31:50+02:00"
+    },
+    {
+      "title": "Reform der Krankenversicherung: GKV gegen Einsparungen bei Patienten",
+      "link": "https://www.tagesschau.de/inland/gkv-gesundheitsreform-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T16:05:40+02:00"
+    },
+    {
+      "title": "Fahrradsaison-Start mit Hindernissen wegen Personalmangel",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fachkraeftemangel-fahrradwerkstaetten-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T15:03:35+02:00"
+    },
+    {
       "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-bodenoffensive-100.html",
       "published": "29 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-29T12:45:27+02:00"
-    },
-    {
-      "title": "Autofahrer in England rammt Gruppe von Fußgängern",
-      "link": "https://www.dw.com/de/autofahrer-in-england-rammt-gruppe-von-fußgängern/a-76583753?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "29 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-29T11:57:00+00:00"
-    },
-    {
-      "title": "Tourismus in Russland: Dann eben nach Nordkorea",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-sanktionen-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T11:09:01+02:00"
-    },
-    {
-      "title": "Digitalminister Wildberger warnt vor Jobverlust durch KI",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-ki-jobs-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T09:18:33+02:00"
     }
   ],
   "Food": []
