@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Pakistan kündigt baldige US-iranische Gespräche an",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-gespraeche-iran-usa-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T21:57:52+02:00"
+    },
+    {
+      "title": "Analyse: Ist die AfD eine Arbeiterpartei?",
+      "link": "https://www.tagesschau.de/inland/afd-vermeintliche-arbeiterpartei-analyse-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T21:38:55+02:00"
+    },
+    {
+      "title": "München: Tausende zeigen auf Demo Solidarität mit Fernandes",
+      "link": "https://www.tagesschau.de/inland/regional/fernandes-demo-muenchen-100.html",
+      "published": "29 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-29T21:14:17+02:00"
+    },
+    {
       "title": "Schwesig fordert Spritpreis-Senkung durch Regierung",
       "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-schwesig-chrupalla-100.html",
       "published": "29 Mar 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-03-29T19:44:46+02:00"
     },
     {
-      "title": "Iran-Krieg und die Auswirkungen: Geht das Thailand das Öl aus?",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-oel-gas-iran-hormus-100.html",
+      "title": "Russland will Zulassung gestohlener EU-Autos ermöglichen",
+      "link": "https://www.dw.com/de/russland-will-zulassung-gestohlener-eu-autos-ermöglichen/a-76570307?maca=de-rss-de-top-1016-xml-mrss",
       "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T18:01:23+02:00"
-    },
-    {
-      "title": "Jerusalem: Kirchenvertreter an Zugang zu Grabeskirche gehindert",
-      "link": "https://www.tagesschau.de/ausland/asien/pizzaballa-jerusalem-grabeskirche-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T17:43:29+02:00"
-    },
-    {
-      "title": "Iran-Krieg laut Bundestags-Experten völkerrechtswidrig",
-      "link": "https://www.tagesschau.de/inland/bundestag-wissenschaftlicher-dienst-iran-krieg-voelkerrecht-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T16:31:50+02:00"
-    },
-    {
-      "title": "Reform der Krankenversicherung: GKV gegen Einsparungen bei Patienten",
-      "link": "https://www.tagesschau.de/inland/gkv-gesundheitsreform-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T16:05:40+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-29T19:14:00+00:00"
     }
   ],
   "Food": []
