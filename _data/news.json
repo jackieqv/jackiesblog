@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Trump heizt Spekulationen um Bodenoffensive in Iran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T09:23:36+02:00"
+    },
+    {
+      "title": "CPAC 2026: Iran-Krieg sorgt für Uneinigkeit bei Republikanern",
+      "link": "https://www.tagesschau.de/ausland/amerika/cpac-iran-krieg-republikaner-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T09:23:29+02:00"
+    },
+    {
+      "title": "UN-Konferenz beschließt strengeren Schutz für mehr als 40 wandernde Tierarten",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-un-artenschutz-konferenz-beschluss-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T09:06:28+02:00"
+    },
+    {
       "title": "Marktbericht: Nahost-Krieg schickt Börsen auf Talfahrt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
       "published": "30 Mar 2026",
@@ -124,27 +145,6 @@
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-30T07:14:21+02:00"
-    },
-    {
-      "title": "11KM-Podcast: Jung und rechtsextrem - Die \"Letzte Verteidigungswelle\"",
-      "link": "https://www.tagesschau.de/podcast-11km-letzte-verteidigungswelle-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T07:05:36+02:00"
-    },
-    {
-      "title": "USA lassen offenbar russischen Öltanker nach Kuba",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-schiff-russland-oel-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T05:37:16+02:00"
-    },
-    {
-      "title": "Weltweiter Solarboom: Ausbau noch schneller als gedacht",
-      "link": "https://www.dw.com/de/weltweiter-solarboom-ausbau-noch-schneller-als-gedacht/a-76493916?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "30 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-30T05:13:00+00:00"
     }
   ],
   "Food": []
