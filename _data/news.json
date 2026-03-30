@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 - Release highlights of SAP SuccessFactors Performance and Goals Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-performance-and-goals/ba-p/14362126",
+      "published": "30 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-30T17:46:08+00:00"
+    },
+    {
       "title": "New Overwrite Option for Story Template Imports in Content Store",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/new-overwrite-option-for-story-template-imports-in-content-store/ba-p/14359738",
       "published": "30 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "29 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-29T01:50:48+00:00"
-    },
-    {
-      "title": "CNPJ Alfanumérico – Fase 2 Concluída!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/cnpj-alfanum%C3%A9rico-fase-2-conclu%C3%ADda/ba-p/14360208",
-      "published": "27 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-27T20:41:24+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Spanien sperrt Luftraum für US-Jets im Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-uberflugverbot-irankrieg-100.html",
+      "title": "Israels Parlament billigt Todesstrafe für Terroristen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-todesstrafe-102.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T17:44:20+02:00"
+      "sort_date": "2026-03-30T20:56:39+02:00"
     },
     {
-      "title": "Lebenshaltungskosten in den USA: Der Schwachpunkt des Präsidenten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-affordability-trump-lebenshaltungskosten-100.html",
+      "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T17:35:12+02:00"
+      "sort_date": "2026-03-30T20:45:58+02:00"
     },
     {
-      "title": "Mann in Hagen wegen Spionageverdachts für Russland festgenommen",
-      "link": "https://www.tagesschau.de/inland/mutmasslicher-spion-fuer-russland-festgenommen-100.html",
+      "title": "Interview zu Pakistan als Vermittler: Mehr als nur ein Imagegewinn",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-vermittlung-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T17:05:23+02:00"
+      "sort_date": "2026-03-30T19:41:00+02:00"
     },
     {
-      "title": "Merz will Rückkehr syrischer Geflüchteter vorantreiben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html",
+      "title": "Besuch des umstrittenen Präsidenten al-Scharaa",
+      "link": "https://www.tagesschau.de/inland/analyse-besuch-al-scharaa-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T15:39:17+02:00"
+      "sort_date": "2026-03-30T19:28:21+02:00"
     },
     {
-      "title": "Colonia Dignidad: Chiles Regierung stoppt Gedenkstätte für Opfer",
-      "link": "https://www.tagesschau.de/ausland/amerika/chile-colonia-dignidad-102.html",
+      "title": "Marktbericht: Trump treibt die Kurse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T15:20:50+02:00"
+      "sort_date": "2026-03-30T18:19:19+02:00"
     }
   ],
   "Food": []
