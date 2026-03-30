@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "New Overwrite Option for Story Template Imports in Content Store",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/new-overwrite-option-for-story-template-imports-in-content-store/ba-p/14359738",
+      "published": "30 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-30T10:30:53+00:00"
+    },
+    {
       "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
       "published": "30 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "27 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-27T20:41:24+00:00"
-    },
-    {
-      "title": "List of Employee Central & Employee Central Payroll Guide Updates for the 1H 2026 Release",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/list-of-employee-central-amp-employee-central-payroll-guide-updates-for-the/ba-p/14359821",
-      "published": "27 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-27T12:46:58+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Viele unbelegte Ernährungsmythen für Krebserkrankte im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/krebs-ernaehrung-100.html",
+      "title": "Expertenkommission sieht Milliarden-Sparpotenzial bei Krankenkassen",
+      "link": "https://www.tagesschau.de/inland/kommission-krankenversicherung-empfehlungen-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T11:24:26+02:00"
+      "sort_date": "2026-03-30T15:10:50+02:00"
     },
     {
-      "title": "Marktbericht: Mit fallenden Kursen in die Karwoche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
+      "title": "Energiepreise lassen März-Inflation in die Höhe schnellen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-maerz-102.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T10:25:18+02:00"
+      "sort_date": "2026-03-30T15:02:25+02:00"
     },
     {
-      "title": "Australien: Gesuchter Polizistenmörder Freeman erschossen",
-      "link": "https://www.dw.com/de/australien-gesuchter-polizistenmörder-freeman-erschossen/a-76589538?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "30 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-30T09:39:00+00:00"
-    },
-    {
-      "title": "Trump heizt Spekulationen über Bodenoffensive in Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-100.html",
+      "title": "Statistisches Bundesamt: Campingurlaub so beliebt wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/camping-boom-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T09:23:36+02:00"
+      "sort_date": "2026-03-30T14:54:51+02:00"
     },
     {
-      "title": "CPAC 2026: Iran-Krieg sorgt für Uneinigkeit bei Republikanern",
-      "link": "https://www.tagesschau.de/ausland/amerika/cpac-iran-krieg-republikaner-100.html",
+      "title": "Kleinere Brote backen - wie Bäcker auf die teure Energie reagieren",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baeckereien-inflation-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T09:23:29+02:00"
+      "sort_date": "2026-03-30T14:20:13+02:00"
+    },
+    {
+      "title": "Iran-Krieg: Auch Aluminium wird knapper",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-iran-aluminium-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T14:09:48+02:00"
     }
   ],
   "Food": []
