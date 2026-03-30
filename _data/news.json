@@ -112,18 +112,32 @@
   ],
   "News": [
     {
-      "title": "Israels Parlament billigt Todesstrafe für Terroristen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-todesstrafe-102.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T20:56:39+02:00"
-    },
-    {
       "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
       "link": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T20:45:58+02:00"
+      "sort_date": "2026-03-30T22:18:51+02:00"
+    },
+    {
+      "title": "Israels Parlament billigt Todesstrafe für Terroristen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-todesstrafe-102.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T22:08:25+02:00"
+    },
+    {
+      "title": "Wadephul setzt in Polen Zeichen der Verbundenheit",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-polen-treffen-sikorski-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T21:43:14+02:00"
+    },
+    {
+      "title": "Vorschläge für eine Reform der gesetzlichen Krankenversicherung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vorschlaege-reform-gesetzliche-krankenversicherung-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T21:32:21+02:00"
     },
     {
       "title": "Interview zu Pakistan als Vermittler: Mehr als nur ein Imagegewinn",
@@ -131,20 +145,6 @@
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-30T19:41:00+02:00"
-    },
-    {
-      "title": "Besuch des umstrittenen Präsidenten al-Scharaa",
-      "link": "https://www.tagesschau.de/inland/analyse-besuch-al-scharaa-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T19:28:21+02:00"
-    },
-    {
-      "title": "Marktbericht: Trump treibt die Kurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T18:19:19+02:00"
     }
   ],
   "Food": []
