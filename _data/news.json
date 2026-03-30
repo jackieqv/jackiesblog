@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
+      "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
+      "published": "30 Mar 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-03-30T15:16:35+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 28)",
       "link": "https://singularityhub.com/2026/03/28/this-weeks-awesome-tech-stories-from-around-the-web-through-march-28-2/",
       "published": "28 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "26 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-26T14:00:00+00:00"
-    },
-    {
-      "title": "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
-      "link": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
-      "published": "25 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-25T14:53:34+00:00"
     }
   ],
   "News": [
     {
-      "title": "Expertenkommission sieht Milliarden-Sparpotenzial bei Krankenkassen",
-      "link": "https://www.tagesschau.de/inland/kommission-krankenversicherung-empfehlungen-100.html",
+      "title": "Spanien sperrt Luftraum für US-Jets im Iran-Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-uberflugverbot-irankrieg-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T15:10:50+02:00"
+      "sort_date": "2026-03-30T17:44:20+02:00"
     },
     {
-      "title": "Energiepreise lassen März-Inflation in die Höhe schnellen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-maerz-102.html",
+      "title": "Lebenshaltungskosten in den USA: Der Schwachpunkt des Präsidenten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-affordability-trump-lebenshaltungskosten-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T15:02:25+02:00"
+      "sort_date": "2026-03-30T17:35:12+02:00"
     },
     {
-      "title": "Statistisches Bundesamt: Campingurlaub so beliebt wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/camping-boom-100.html",
+      "title": "Mann in Hagen wegen Spionageverdachts für Russland festgenommen",
+      "link": "https://www.tagesschau.de/inland/mutmasslicher-spion-fuer-russland-festgenommen-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T14:54:51+02:00"
+      "sort_date": "2026-03-30T17:05:23+02:00"
     },
     {
-      "title": "Kleinere Brote backen - wie Bäcker auf die teure Energie reagieren",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baeckereien-inflation-100.html",
+      "title": "Merz will Rückkehr syrischer Geflüchteter vorantreiben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T14:20:13+02:00"
+      "sort_date": "2026-03-30T15:39:17+02:00"
     },
     {
-      "title": "Iran-Krieg: Auch Aluminium wird knapper",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-iran-aluminium-100.html",
+      "title": "Colonia Dignidad: Chiles Regierung stoppt Gedenkstätte für Opfer",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-colonia-dignidad-102.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T14:09:48+02:00"
+      "sort_date": "2026-03-30T15:20:50+02:00"
     }
   ],
   "Food": []
