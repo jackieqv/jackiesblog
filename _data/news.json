@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
+      "published": "30 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-30T09:53:30+00:00"
+    },
+    {
+      "title": "1H 2026 - Release highlights of SuccessFactors Succession",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-succession/ba-p/14361523",
+      "published": "30 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-30T09:47:39+00:00"
+    },
+    {
       "title": "SAP RPT-1 Meets Employee Attrition: A Hands-On Test with SuccessFactors Data",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-rpt-1-meets-employee-attrition-a-hands-on-test-with-successfactors-data/ba-p/14360467",
       "published": "29 Mar 2026",
@@ -57,20 +71,6 @@
       "published": "27 Mar 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-03-27T12:46:58+00:00"
-    },
-    {
-      "title": "New ABAP program no analyze payroll performance",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-abap-program-no-analyze-payroll-performance/ba-p/14359733",
-      "published": "27 Mar 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-03-27T10:36:42+00:00"
-    },
-    {
-      "title": "How Agentic AI Slashes Parallel Payroll Reconciliation from Weeks to Days",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-agentic-ai-slashes-parallel-payroll-reconciliation-from-weeks-to-days/ba-p/14358332",
-      "published": "27 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-27T07:10:57+00:00"
     }
   ],
   "Science": [
@@ -112,7 +112,28 @@
   ],
   "News": [
     {
-      "title": "Trump heizt Spekulationen um Bodenoffensive in Iran an",
+      "title": "Viele unbelegte Ernährungsmythen für Krebserkrankte im Umlauf",
+      "link": "https://www.tagesschau.de/faktenfinder/krebs-ernaehrung-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T11:24:26+02:00"
+    },
+    {
+      "title": "Marktbericht: Mit fallenden Kursen in die Karwoche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T10:25:18+02:00"
+    },
+    {
+      "title": "Australien: Gesuchter Polizistenmörder Freeman erschossen",
+      "link": "https://www.dw.com/de/australien-gesuchter-polizistenmörder-freeman-erschossen/a-76589538?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "30 Mar 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-30T09:39:00+00:00"
+    },
+    {
+      "title": "Trump heizt Spekulationen über Bodenoffensive in Iran an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -124,27 +145,6 @@
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-30T09:23:29+02:00"
-    },
-    {
-      "title": "UN-Konferenz beschließt strengeren Schutz für mehr als 40 wandernde Tierarten",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-un-artenschutz-konferenz-beschluss-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T09:06:28+02:00"
-    },
-    {
-      "title": "Marktbericht: Nahost-Krieg schickt Börsen auf Talfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T07:19:57+02:00"
-    },
-    {
-      "title": "Finanzlage der Krankenkassen: Worauf setzt die Kommission?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-finanzierung-kgv-finanzen-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T07:14:21+02:00"
     }
   ],
   "Food": []
