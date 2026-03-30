@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Syrien - plötzlich friedlicher als der Rest der Region?",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-nahost-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T04:14:29+02:00"
+    },
+    {
+      "title": "Al-Scharaa in Berlin: Ein umstrittener Gast aus Syrien",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-al-scharaa-berlin-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T04:11:43+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ UN melden getöteten Blauhelmsoldaten im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T04:01:06+02:00"
+    },
+    {
+      "title": "Bei Caren Miosga: Fernandes fordert schärfere Gesetze zu digitaler Gewalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fernandes-hubig-miosga-100.html",
+      "published": "30 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-30T02:06:33+02:00"
+    },
+    {
       "title": "Pakistan kündigt baldige US-iranische Gespräche an",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-gespraeche-iran-usa-100.html",
       "published": "29 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-29T21:57:52+02:00"
-    },
-    {
-      "title": "Analyse: Ist die AfD eine Arbeiterpartei?",
-      "link": "https://www.tagesschau.de/inland/afd-vermeintliche-arbeiterpartei-analyse-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T21:38:55+02:00"
-    },
-    {
-      "title": "München: Tausende zeigen auf Demo Solidarität mit Fernandes",
-      "link": "https://www.tagesschau.de/inland/regional/fernandes-demo-muenchen-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T21:14:17+02:00"
-    },
-    {
-      "title": "Schwesig fordert Spritpreis-Senkung durch Regierung",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-schwesig-chrupalla-100.html",
-      "published": "29 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-29T19:44:46+02:00"
-    },
-    {
-      "title": "Russland will Zulassung gestohlener EU-Autos ermöglichen",
-      "link": "https://www.dw.com/de/russland-will-zulassung-gestohlener-eu-autos-ermöglichen/a-76570307?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "29 Mar 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-03-29T19:14:00+00:00"
     }
   ],
   "Food": []
