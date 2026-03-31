@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Forget Antibiotics: These Killer Cells Wipe Out Deadly Superbugs in a Day",
+      "link": "https://singularityhub.com/2026/03/30/forget-antibiotics-these-killer-cells-are-programmed-to-wipe-out-deadly-superbugs-in-a-day/",
+      "published": "30 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-30T23:38:44+00:00"
+    },
+    {
       "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
       "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
       "published": "30 Mar 2026",
@@ -101,29 +108,29 @@
       "published": "27 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-27T14:38:32+00:00"
-    },
-    {
-      "title": "What We Actually See—and Don’t See—Shows Consciousness Is Only the Tip of the Iceberg",
-      "link": "https://singularityhub.com/2026/03/26/what-we-actually-see-and-dont-see-shows-consciousness-is-only-the-tip-of-the-iceberg/",
-      "published": "26 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-26T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Iran-Liveblog: ++ Tanker vor der Küste von Dubai beschossen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T03:32:20+02:00"
+    },
+    {
+      "title": "Ägypten und Jordanien spüren die indirekten Folgen des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-folgen-aegypten-jordanien-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T01:58:11+02:00"
+    },
     {
       "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
       "link": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-30T22:18:51+02:00"
-    },
-    {
-      "title": "Israels Parlament billigt Todesstrafe für Terroristen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-todesstrafe-102.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T22:08:25+02:00"
     },
     {
       "title": "Wadephul setzt in Polen Zeichen der Verbundenheit",
@@ -138,13 +145,6 @@
       "published": "30 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-30T21:32:21+02:00"
-    },
-    {
-      "title": "Interview zu Pakistan als Vermittler: Mehr als nur ein Imagegewinn",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-vermittlung-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T19:41:00+02:00"
     }
   ],
   "Food": []
