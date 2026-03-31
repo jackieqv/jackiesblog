@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
+      "published": "31 Mar 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-03-31T10:21:56+00:00"
+    },
+    {
       "title": "1H 2026 - Release highlights of SAP SuccessFactors Performance and Goals Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-performance-and-goals/ba-p/14362126",
       "published": "30 Mar 2026",
@@ -50,13 +57,6 @@
       "published": "30 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-30T10:30:53+00:00"
-    },
-    {
-      "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
-      "published": "30 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-30T09:53:30+00:00"
     },
     {
       "title": "1H 2026 - Release highlights of SuccessFactors Succession",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Acht Verletzte durch Angriffe auf Tel Aviv ++",
+      "title": "Iran-Liveblog: ++ 200.000 Menschen aus dem Libanon nach Syrien geflohen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T11:29:14+02:00"
+      "sort_date": "2026-03-31T15:16:00+02:00"
     },
     {
-      "title": "Anleger in Frankfurt widerstehen dem Ausverkauf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-122.html",
+      "title": "Marktbericht: Führende Institute senken Konjunkturprognosen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/konjunktur-wachstumsprognosen-100.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T11:06:34+02:00"
+      "sort_date": "2026-03-31T15:11:13+02:00"
     },
     {
-      "title": "Iran-Krieg: USA greifen offenbar Munitionsdepot in Isfahan an",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-krieg-iran-usa-israel-100.html",
+      "title": "Wadephul über Massaker in Butscha: \"Hölle auf Erden\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gedenken-butscha-102.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T10:23:00+02:00"
+      "sort_date": "2026-03-31T14:44:32+02:00"
     },
     {
-      "title": "Personalmangel in Stellwerken soll behoben sein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-stellwerke-100.html",
+      "title": "Nachwuchswerbung bei Tesla: Die \"geheime Fabrik\" öffnet die Türen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-nachwuchs-100.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T10:18:39+02:00"
+      "sort_date": "2026-03-31T14:27:23+02:00"
     },
     {
-      "title": "Warnung vor \"Super-El Niño\": Droht ein globaler Hitzeschub?",
-      "link": "https://www.tagesschau.de/wissen/klima/super-el-nino-100.html",
+      "title": "Eiffelturm bekommt vorübergehend eine Hängebrücke",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-eiffelturm-haengebruecke-102.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T10:02:38+02:00"
+      "sort_date": "2026-03-31T13:26:27+02:00"
     }
   ],
   "Food": []
