@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Tanker vor der Küste von Dubai beschossen ++",
+      "title": "Iran-Liveblog: ++ Israel meldet vier tote Soldaten im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T03:32:20+02:00"
+      "sort_date": "2026-03-31T06:59:03+02:00"
+    },
+    {
+      "title": "Sprit, Grenzen, Lachgas: Was sich im April ändert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/neu-april-2026-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T06:34:03+02:00"
+    },
+    {
+      "title": "Vier Jahre Befreiung von Butscha: \"Augen öffnen für die Gräueltaten\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-butscha-jahrestag-befreiung-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T05:20:49+02:00"
+    },
+    {
+      "title": "Kritik an Merz-Ansage zur Ausreise von Syrern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-syrer-102.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T04:43:41+02:00"
     },
     {
       "title": "Ägypten und Jordanien spüren die indirekten Folgen des Iran-Kriegs",
@@ -124,27 +145,6 @@
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-31T01:58:11+02:00"
-    },
-    {
-      "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T22:18:51+02:00"
-    },
-    {
-      "title": "Wadephul setzt in Polen Zeichen der Verbundenheit",
-      "link": "https://www.tagesschau.de/ausland/europa/wadephul-polen-treffen-sikorski-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T21:43:14+02:00"
-    },
-    {
-      "title": "Vorschläge für eine Reform der gesetzlichen Krankenversicherung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/vorschlaege-reform-gesetzliche-krankenversicherung-100.html",
-      "published": "30 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-30T21:32:21+02:00"
     }
   ],
   "Food": []
