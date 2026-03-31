@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Chatbots ‘Optimized to Please’ Make Us Less Likely to Admit When We’re Wrong",
+      "link": "https://singularityhub.com/2026/03/31/chatbots-optimized-to-please-make-us-less-likely-to-admit-when-were-wrong/",
+      "published": "31 Mar 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-03-31T19:40:58+00:00"
+    },
+    {
       "title": "Forget Antibiotics: These Killer Cells Wipe Out Deadly Superbugs in a Day",
       "link": "https://singularityhub.com/2026/03/30/forget-antibiotics-these-killer-cells-are-programmed-to-wipe-out-deadly-superbugs-in-a-day/",
       "published": "30 Mar 2026",
@@ -101,22 +108,22 @@
       "published": "27 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-27T22:27:50+00:00"
-    },
-    {
-      "title": "When Coupled Volcanoes Talk, These Researchers Listen",
-      "link": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
-      "published": "27 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-27T14:38:32+00:00"
     }
   ],
   "News": [
     {
-      "title": "Trumps äußert offen Ärger über Verbündete",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-oel-strasse-von-hormus-100.html",
+      "title": "UN-Sicherheitsrat verurteilt Tod von UN-Soldaten im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/un-blauhelme-libanon-102.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T20:13:32+02:00"
+      "sort_date": "2026-03-31T22:40:11+02:00"
+    },
+    {
+      "title": "Was über den Wolfsangriff auf eine Frau in Hamburg bekannt ist",
+      "link": "https://www.tagesschau.de/inland/regional/wolf-beisst-frau-hamburg-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T21:10:17+02:00"
     },
     {
       "title": "Frankfurt ehrt Frauenrechtlerin Masih Alinejad mit Europäischem Paulskirchenpreis",
@@ -133,18 +140,11 @@
       "sort_date": "2026-03-31T19:57:22+02:00"
     },
     {
-      "title": "Was über den Wolfsangriff auf eine Frau in Hamburg bekannt ist",
-      "link": "https://www.tagesschau.de/inland/regional/wolf-beisst-frau-hamburg-100.html",
+      "title": "UNIFIL - Das tragische Ende der Blauhelme im Libanon",
+      "link": "https://www.dw.com/de/unifil-das-tragische-ende-der-blauhelme-im-libanon/a-76607793?maca=de-rss-de-top-1016-xml-mrss",
       "published": "31 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T19:43:46+02:00"
-    },
-    {
-      "title": "Marktbericht: Vage Hoffnungen auf Entspannung in Nahost",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-122.html",
-      "published": "31 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T18:25:05+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-03-31T19:45:00+00:00"
     }
   ],
   "Food": []
