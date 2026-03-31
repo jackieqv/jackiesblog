@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ 200.000 Menschen aus dem Libanon nach Syrien geflohen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html",
+      "title": "Trumps äußert offen Ärger über Verbündete",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-oel-strasse-von-hormus-100.html",
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T15:16:00+02:00"
+      "sort_date": "2026-03-31T17:40:13+02:00"
+    },
+    {
+      "title": "Ukrainische Angriffe auf Ölanlagen treffen Russland hart",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-oelanlagen-braende-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T17:19:57+02:00"
+    },
+    {
+      "title": "80-Prozent-Ziel - worum geht es in der Syrien-Debatte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-deutschland-merz-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T16:52:28+02:00"
+    },
+    {
+      "title": "DWD erwartet mehr Hitzewellen - vor allem im Süden und Osten",
+      "link": "https://www.tagesschau.de/wissen/klima/klima-projektion-deutschland-100.html",
+      "published": "31 Mar 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-03-31T16:34:29+02:00"
     },
     {
       "title": "Marktbericht: Führende Institute senken Konjunkturprognosen",
@@ -124,27 +145,6 @@
       "published": "31 Mar 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-03-31T15:11:13+02:00"
-    },
-    {
-      "title": "Wadephul über Massaker in Butscha: \"Hölle auf Erden\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gedenken-butscha-102.html",
-      "published": "31 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T14:44:32+02:00"
-    },
-    {
-      "title": "Nachwuchswerbung bei Tesla: Die \"geheime Fabrik\" öffnet die Türen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-nachwuchs-100.html",
-      "published": "31 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T14:27:23+02:00"
-    },
-    {
-      "title": "Eiffelturm bekommt vorübergehend eine Hängebrücke",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-eiffelturm-haengebruecke-102.html",
-      "published": "31 Mar 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-03-31T13:26:27+02:00"
     }
   ],
   "Food": []
