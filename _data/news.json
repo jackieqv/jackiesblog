@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "19 tote Migranten im Mittelmeer geborgen",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T20:53:05+02:00"
+    },
+    {
+      "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T20:37:03+02:00"
+    },
+    {
+      "title": "Kommentar: Und wieder verstolpert sich der Kanzler",
+      "link": "https://www.tagesschau.de/kommentar/merz-syrer-quote-100.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T20:03:20+02:00"
+    },
+    {
+      "title": "Marktbericht: Trumps Aussagen zu Iran-Krieg lösen Börsenrally aus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-392.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T18:08:28+02:00"
+    },
+    {
       "title": "ARD-DeutschlandTrend: Zufriedenheit mit Schwarz-Rot auf Rekordtief",
       "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-april-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-01T18:02:06+02:00"
-    },
-    {
-      "title": "Subventionen gestrichen: China verteuert Solarmodule",
-      "link": "https://www.tagesschau.de/wirtschaft/solarbranche-china-subventionen-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T17:13:18+02:00"
-    },
-    {
-      "title": "Syrer in Deutschland: Weiter Verwirrung um Rückkehrziel von 80 Prozent",
-      "link": "https://www.tagesschau.de/inland/rueckkehr-syrer-merz-al-scharaa-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T16:52:04+02:00"
-    },
-    {
-      "title": "Warum der \"Trump-Trade\" im Iran-Krieg riskanter wird",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-boersen-iran-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T16:15:10+02:00"
-    },
-    {
-      "title": "US-Zölle: Ein Jahr nach dem \"Liberation Day\"",
-      "link": "https://www.dw.com/de/us-zölle-ein-jahr-nach-dem-liberation-day/a-76594446?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-01T16:01:00+00:00"
     }
   ],
   "Food": []
