@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A Through-The-Lens Look at the World’s Particle Physics Labs",
+      "link": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
+      "published": "01 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-01T14:58:31+00:00"
+    },
+    {
       "title": "Chatbots ‘Optimized to Please’ Make Us Less Likely to Admit When We’re Wrong",
       "link": "https://singularityhub.com/2026/03/31/chatbots-optimized-to-please-make-us-less-likely-to-admit-when-were-wrong/",
       "published": "31 Mar 2026",
@@ -101,50 +108,43 @@
       "published": "28 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-28T14:00:00+00:00"
-    },
-    {
-      "title": "NASA Unveils Its $20 Billion Moon Base Plan—and a Nuclear Spacecraft for Mars",
-      "link": "https://singularityhub.com/2026/03/27/nasa-unveils-its-20-billion-moon-base-plan-and-a-nuclear-spacecraft-for-mars/",
-      "published": "27 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-27T22:27:50+00:00"
     }
   ],
   "News": [
     {
-      "title": "Benzinpreise springen auf Jahreshoch",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-regelung-100.html",
+      "title": "ARD-DeutschlandTrend: Zufriedenheit mit Schwarz-Rot auf Rekordtief",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-april-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T15:08:39+02:00"
+      "sort_date": "2026-04-01T18:02:06+02:00"
     },
     {
-      "title": "Südasien leidet besonders unter der Energiekrise infolge des Iran-Kriegs",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-krieg-energiekrise-suedasien-100.html",
+      "title": "Subventionen gestrichen: China verteuert Solarmodule",
+      "link": "https://www.tagesschau.de/wirtschaft/solarbranche-china-subventionen-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T15:05:11+02:00"
+      "sort_date": "2026-04-01T17:13:18+02:00"
     },
     {
-      "title": "Zwei Jahre Cannabisgesetz: Unions-Minister fordern Nachbesserung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/studie-cannabis-teillegalisierung-union-100.html",
+      "title": "Syrer in Deutschland: Weiter Verwirrung um Rückkehrziel von 80 Prozent",
+      "link": "https://www.tagesschau.de/inland/rueckkehr-syrer-merz-al-scharaa-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T14:56:30+02:00"
+      "sort_date": "2026-04-01T16:52:04+02:00"
     },
     {
-      "title": "Marktbericht: Nahost-Krieg bremst Börsengänge",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-thema-des-tages-boersengaenge-100.html",
+      "title": "Warum der \"Trump-Trade\" im Iran-Krieg riskanter wird",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-boersen-iran-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T13:47:54+02:00"
+      "sort_date": "2026-04-01T16:15:10+02:00"
     },
     {
-      "title": "Pessach in Israel: Fest der Freiheit zwischen Sirenen und Bunkern",
-      "link": "https://www.tagesschau.de/ausland/asien/pessach-israel-krieg-100.html",
+      "title": "US-Zölle: Ein Jahr nach dem \"Liberation Day\"",
+      "link": "https://www.dw.com/de/us-zölle-ein-jahr-nach-dem-liberation-day/a-76594446?maca=de-rss-de-top-1016-xml-mrss",
       "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T12:52:03+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-01T16:01:00+00:00"
     }
   ],
   "Food": []
