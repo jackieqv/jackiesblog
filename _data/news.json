@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Brand an Kuwaits Flughafen nach Drohnenangriffen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html",
+      "title": "US-Präsident Trump verschärft Regeln für Briefwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-briefwahl-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T06:55:11+02:00"
+      "sort_date": "2026-04-01T09:14:57+02:00"
+    },
+    {
+      "title": "Was die neue Spritpreis-Regelung für Verbraucher bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-regeleung-faq-100.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T08:45:03+02:00"
+    },
+    {
+      "title": "Kino-Hype und Konsolen-Dilemma: Wohin steuert Nintendo?",
+      "link": "https://www.tagesschau.de/kultur/super-mario-nostalgischer-kinohype-100.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T07:27:19+02:00"
+    },
+    {
+      "title": "News kompakt: 29 Tote bei Flugzeugunglück auf der Krim",
+      "link": "https://www.dw.com/de/news-kompakt-29-tote-bei-flugzeugunglück-auf-der-krim/a-76616423?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "01 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-01T07:01:00+00:00"
     },
     {
       "title": "Zwei Jahre Teillegalisierung Cannabis: Etwa fünf Millionen Menschen kiffen",
@@ -124,27 +145,6 @@
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-01T06:01:07+02:00"
-    },
-    {
-      "title": "Gefälschte Paket-SMS: Wie ein Betrugs-Netzwerk in China Schutz findet",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/smishing-china-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T06:00:36+02:00"
-    },
-    {
-      "title": "Neuregelung in Kraft: Spritpreiserhöhung nur noch einmal täglich",
-      "link": "https://www.tagesschau.de/wirtschaft/spritpreis-regelung-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T02:50:29+02:00"
-    },
-    {
-      "title": "US-Gericht stoppt Bau von Trumps umstrittenem Ballsaal",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-weisses-haus-trump-ballsaal-gericht-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T01:41:21+02:00"
     }
   ],
   "Food": []
