@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T22:07:51+02:00"
+    },
+    {
       "title": "19 tote Migranten im Mittelmeer geborgen",
       "link": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
       "published": "01 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-01T18:08:28+02:00"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Zufriedenheit mit Schwarz-Rot auf Rekordtief",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-april-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T18:02:06+02:00"
     }
   ],
   "Food": []
