@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "New ABAP program to analyze payroll performance",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-abap-program-to-analyze-payroll-performance/ba-p/14359733",
+      "published": "01 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-01T09:51:42+00:00"
+    },
+    {
       "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
       "published": "31 Mar 2026",
@@ -64,13 +71,6 @@
       "published": "30 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-30T09:47:39+00:00"
-    },
-    {
-      "title": "SAP RPT-1 Meets Employee Attrition: A Hands-On Test with SuccessFactors Data",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-rpt-1-meets-employee-attrition-a-hands-on-test-with-successfactors-data/ba-p/14360467",
-      "published": "29 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-29T01:50:48+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "US-Präsident Trump verschärft Regeln für Briefwahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-briefwahl-100.html",
+      "title": "Hintermänner russischer Sabotage: Wo ist \"Lucky Strike\"?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-sabotage-wegwerfagenten-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T09:14:57+02:00"
+      "sort_date": "2026-04-01T11:54:19+02:00"
     },
     {
-      "title": "Was die neue Spritpreis-Regelung für Verbraucher bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-regeleung-faq-100.html",
+      "title": "Viele Tote bei Absturz von russischem Flugzeug über der Krim",
+      "link": "https://www.tagesschau.de/ausland/europa/russisches-flugzeug-absturz-krim-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T08:45:03+02:00"
+      "sort_date": "2026-04-01T11:39:11+02:00"
     },
     {
-      "title": "Kino-Hype und Konsolen-Dilemma: Wohin steuert Nintendo?",
-      "link": "https://www.tagesschau.de/kultur/super-mario-nostalgischer-kinohype-100.html",
+      "title": "Friedenshoffnungen treiben den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-392.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T07:27:19+02:00"
+      "sort_date": "2026-04-01T10:50:18+02:00"
     },
     {
-      "title": "News kompakt: 29 Tote bei Flugzeugunglück auf der Krim",
-      "link": "https://www.dw.com/de/news-kompakt-29-tote-bei-flugzeugunglück-auf-der-krim/a-76616423?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-01T07:01:00+00:00"
-    },
-    {
-      "title": "Zwei Jahre Teillegalisierung Cannabis: Etwa fünf Millionen Menschen kiffen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zwei-jahre-teillegalisierung-cannabis-100.html",
+      "title": "Wachstumsprognose für 2026 mehr als halbiert",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsprognose-institute-100.html",
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T06:01:07+02:00"
+      "sort_date": "2026-04-01T10:33:58+02:00"
+    },
+    {
+      "title": "EU-Beistandsklausel - \"Noch nicht in geopolitischer Realität angekommen\"",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-beistandsklausel-100.html",
+      "published": "01 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-01T10:01:13+02:00"
     }
   ],
   "Food": []
