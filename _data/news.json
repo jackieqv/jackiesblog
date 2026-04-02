@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Erdbeben der Stärke 7,4 in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-indonesien-154.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T05:30:12+02:00"
+    },
+    {
+      "title": "Geflügelpest und hohe Nachfrage: Reichen die Eier für alle?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eier-ostern-gefluegelpest-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T04:25:05+02:00"
+    },
+    {
+      "title": "Rede an die Nation: Trump sieht US-Ziele in Iran fast erreicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-nation-102.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T04:21:52+02:00"
+    },
+    {
       "title": "NASA-Mondmission Artemis 2 ins All gestartet",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html",
       "published": "02 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-01T22:07:51+02:00"
-    },
-    {
-      "title": "19 tote Migranten im Mittelmeer geborgen",
-      "link": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T20:53:05+02:00"
-    },
-    {
-      "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T20:37:03+02:00"
-    },
-    {
-      "title": "Kommentar: Und wieder verstolpert sich der Kanzler",
-      "link": "https://www.tagesschau.de/kommentar/merz-syrer-quote-100.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T20:03:20+02:00"
     }
   ],
   "Food": []
