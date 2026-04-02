@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Early Adopter Care - Central, Unified View of HR Documents in Latest People Profile for all Roles",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/early-adopter-care-central-unified-view-of-hr-documents-in-latest-people/ba-p/14363040",
+      "published": "02 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-02T09:58:33+00:00"
+    },
+    {
       "title": "Employee Central Core Value Drivers – Your Self-Guided Journey to Unlock Hidden Potential",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/employee-central-core-value-drivers-your-self-guided-journey-to-unlock/ba-p/14364274",
       "published": "02 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "31 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-31T10:21:56+00:00"
-    },
-    {
-      "title": "1H 2026 - Release highlights of SAP SuccessFactors Performance and Goals Management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-performance-and-goals/ba-p/14362126",
-      "published": "30 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-30T17:46:08+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Iran droht mit \"vernichtenden Angriffen\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html",
+      "title": "Bilanz nach einem Jahr: Trumps Zollkrieg entlarvt sich als Eigentor",
+      "link": "https://www.tagesschau.de/wirtschaft/liberation-day-trump-zoelle-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T08:31:29+02:00"
+      "sort_date": "2026-04-02T11:11:30+02:00"
     },
     {
-      "title": "Trumps Ansprache zum Iran-Krieg: Viele Worte, wenig Klarheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ansprache-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T08:01:38+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX-Erholung wohl von kurzer Dauer",
+      "title": "Marktbericht: DAX fällt unter 23.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T07:42:31+02:00"
+      "sort_date": "2026-04-02T10:45:18+02:00"
     },
     {
-      "title": "Artemis 2: NASA jubelt über erfolgreichen Raketenstart",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-start-102.html",
+      "title": "Griechenland: Unwetter und Saharastaub sorgen für Probleme",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-unwetter-saharastaub-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T07:39:39+02:00"
+      "sort_date": "2026-04-02T10:29:45+02:00"
     },
     {
-      "title": "Nachfolge von UN-Generalsekretär: Wer folgt auf Guterres?",
-      "link": "https://www.tagesschau.de/ausland/amerika/guterres-nachfolge-100.html",
+      "title": "Ernährungsscreening in Krankenhäusern kann Leben retten",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/mangelernaehrung-screening-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T07:19:32+02:00"
+      "sort_date": "2026-04-02T09:25:52+02:00"
+    },
+    {
+      "title": "USA streichen Sanktionen gegen Venezuelas Präsidentin Rodríguez",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-lockerung-sanktionen-venezuela-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T09:19:37+02:00"
     }
   ],
   "Food": []
