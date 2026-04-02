@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Top 5 Mistakes I’ve Seen in SAP SuccessFactors Story Reports (and How We Fixed Them)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/top-5-mistakes-i-ve-seen-in-sap-successfactors-story-reports-and-how-we/ba-p/14358375",
+      "published": "01 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-01T21:51:07+00:00"
+    },
+    {
       "title": "New ABAP program to analyze payroll performance",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-abap-program-to-analyze-payroll-performance/ba-p/14359733",
       "published": "01 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "30 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-30T10:30:53+00:00"
-    },
-    {
-      "title": "1H 2026 - Release highlights of SuccessFactors Succession",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-succession/ba-p/14361523",
-      "published": "30 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-30T09:47:39+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "NASA-Mondmission Artemis 2 ins All gestartet",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T01:26:54+02:00"
+    },
+    {
       "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
       "published": "01 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "01 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-01T20:03:20+02:00"
-    },
-    {
-      "title": "Marktbericht: Trumps Aussagen zu Iran-Krieg lösen Börsenrally aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-392.html",
-      "published": "01 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T18:08:28+02:00"
     }
   ],
   "Food": []
