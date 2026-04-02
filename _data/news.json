@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Long Covid: Krankenkassen übernehmen bald einzelne Medikamente",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/long-covid-medikamente-kostenuebernahme-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T16:04:58+02:00"
+    },
+    {
+      "title": "Straße von Hormus: Macron setzt auf Gespräche mit Iran",
+      "link": "https://www.tagesschau.de/ausland/europa/irankrieg-macron-strasse-von-hormus-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T15:46:06+02:00"
+    },
+    {
+      "title": "Bissig-satirische Mottowagen: Karnevalist Tilly in Moskau verurteilt",
+      "link": "https://www.tagesschau.de/ausland/asien/tilly-urteil-moskau-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T15:45:06+02:00"
+    },
+    {
+      "title": "Früherkennung soll Leben retten - Screening für Raucher gestartet",
+      "link": "https://www.tagesschau.de/inland/lungenkrebs-raucher-screening-100.html",
+      "published": "02 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-02T15:19:20+02:00"
+    },
+    {
       "title": "Camping-Urlaub: Mit Wohnwagen und Zelt am liebsten nach Frankreich",
       "link": "https://www.tagesschau.de/ausland/europa/beliebte-campingplaetze-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-02T14:55:46+02:00"
-    },
-    {
-      "title": "Elon Musk plant wohl Mega-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-spacex-boersengang-ipo-musk-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T14:15:49+02:00"
-    },
-    {
-      "title": "Papst Leo XIV. begeht sein erstes Osterfest",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-vatikan-papst-leo-ostern-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T13:29:39+02:00"
-    },
-    {
-      "title": "Expertin zur Trump-Rede: \"Täuscht den Amerikanern falsche Tatsachen vor\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-politikwissenschaftlerin-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T11:54:40+02:00"
-    },
-    {
-      "title": "Wie Desinformation zu erkennen ist",
-      "link": "https://www.tagesschau.de/faktenfinder/desinformation-108.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T11:37:54+02:00"
     }
   ],
   "Food": []
