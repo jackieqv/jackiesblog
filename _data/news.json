@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "AURA Joule HR Agent for SAP SuccessFactors HCM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/aura-joule-hr-agent-for-sap-successfactors-hcm/ba-p/14363511",
+      "published": "02 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-02T19:29:47+00:00"
+    },
+    {
       "title": "Why Performance Is Won (or Lost) After Goals Are Set",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-performance-is-won-or-lost-after-goals-are-set/ba-p/14364853",
       "published": "02 Apr 2026",
@@ -64,16 +71,16 @@
       "published": "01 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-01T21:51:07+00:00"
-    },
-    {
-      "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-successfactors-calibration/ba-p/14361547",
-      "published": "31 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-31T10:21:56+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "The Mad Scramble to Power AI Is Rewiring the US Grid",
+      "link": "https://singularityhub.com/2026/04/02/the-mad-scramble-to-power-ai-is-rewiring-the-us-grid/",
+      "published": "02 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-02T20:33:32+00:00"
+    },
     {
       "title": "A Through-The-Lens Look at the World’s Particle Physics Labs",
       "link": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
@@ -101,13 +108,6 @@
       "published": "30 Mar 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-03-30T15:16:35+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through March 28)",
-      "link": "https://singularityhub.com/2026/03/28/this-weeks-awesome-tech-stories-from-around-the-web-through-march-28-2/",
-      "published": "28 Mar 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-03-28T14:00:00+00:00"
     }
   ],
   "News": [
@@ -126,6 +126,13 @@
       "sort_date": "2026-04-02T20:34:08+02:00"
     },
     {
+      "title": "Türkei und Armenien: Wann öffnen die Grenzübergänge?",
+      "link": "https://www.dw.com/de/türkei-und-armenien-wann-öffnen-die-grenzübergänge/a-76622347?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "02 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-02T19:50:00+00:00"
+    },
+    {
       "title": "Finanzminister Klingbeil will Ehegattensplittung ersetzen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzminsterium-ersatz-ehegattensplitting-100.html",
       "published": "02 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-02T18:33:20+02:00"
-    },
-    {
-      "title": "Rund 40 Länder beraten über Öffnung der Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/konferenz-strasse-hormus-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T18:23:28+02:00"
     }
   ],
   "Food": []
