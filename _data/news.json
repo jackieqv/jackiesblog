@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Why Performance Is Won (or Lost) After Goals Are Set",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-performance-is-won-or-lost-after-goals-are-set/ba-p/14364853",
+      "published": "02 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-02T16:13:10+00:00"
+    },
+    {
       "title": "Early Adopter Care - Central, Unified View of HR Documents in Latest People Profile for all Roles",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/early-adopter-care-central-unified-view-of-hr-documents-in-latest-people/ba-p/14363040",
       "published": "02 Apr 2026",
@@ -57,13 +64,6 @@
       "published": "01 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-01T21:51:07+00:00"
-    },
-    {
-      "title": "New ABAP program to analyze payroll performance",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-abap-program-to-analyze-payroll-performance/ba-p/14359733",
-      "published": "01 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-01T09:51:42+00:00"
     },
     {
       "title": "1H 2026 - Release highlights of SuccessFactors Calibration",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Long Covid: Krankenkassen übernehmen bald einzelne Medikamente",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/long-covid-medikamente-kostenuebernahme-100.html",
+      "title": "Trump entlässt Justizministerin Pam Bondi",
+      "link": "https://www.tagesschau.de/ausland/amerika/bondi-justizministerin-trump-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T16:04:58+02:00"
+      "sort_date": "2026-04-02T20:47:38+02:00"
     },
     {
-      "title": "Straße von Hormus: Macron setzt auf Gespräche mit Iran",
-      "link": "https://www.tagesschau.de/ausland/europa/irankrieg-macron-strasse-von-hormus-100.html",
+      "title": "Wo es auf deutschen Straßen zu Ostern voll wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/verkehr-ostern-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T15:46:06+02:00"
+      "sort_date": "2026-04-02T20:34:08+02:00"
     },
     {
-      "title": "Bissig-satirische Mottowagen: Karnevalist Tilly in Moskau verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/tilly-urteil-moskau-100.html",
+      "title": "Finanzminister Klingbeil will Ehegattensplittung ersetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzminsterium-ersatz-ehegattensplitting-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T15:45:06+02:00"
+      "sort_date": "2026-04-02T19:01:00+02:00"
     },
     {
-      "title": "Früherkennung soll Leben retten - Screening für Raucher gestartet",
-      "link": "https://www.tagesschau.de/inland/lungenkrebs-raucher-screening-100.html",
+      "title": "Marktbericht: ein Funken Hoffnung bei Hormus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T15:19:20+02:00"
+      "sort_date": "2026-04-02T18:33:20+02:00"
     },
     {
-      "title": "Camping-Urlaub: Mit Wohnwagen und Zelt am liebsten nach Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/beliebte-campingplaetze-100.html",
+      "title": "Rund 40 Länder beraten über Öffnung der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/konferenz-strasse-hormus-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T14:55:46+02:00"
+      "sort_date": "2026-04-02T18:23:28+02:00"
     }
   ],
   "Food": []
