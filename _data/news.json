@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Employee Central Core Value Drivers – Your Self-Guided Journey to Unlock Hidden Potential",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/employee-central-core-value-drivers-your-self-guided-journey-to-unlock/ba-p/14364274",
+      "published": "02 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-02T05:04:56+00:00"
+    },
+    {
       "title": "Top 5 Mistakes I’ve Seen in SAP SuccessFactors Story Reports (and How We Fixed Them)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/top-5-mistakes-i-ve-seen-in-sap-successfactors-story-reports-and-how-we/ba-p/14358375",
       "published": "01 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "30 Mar 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-03-30T17:46:08+00:00"
-    },
-    {
-      "title": "New Overwrite Option for Story Template Imports in Content Store",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/new-overwrite-option-for-story-template-imports-in-content-store/ba-p/14359738",
-      "published": "30 Mar 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-03-30T10:30:53+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Erdbeben der Stärke 7,4 in Indonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-indonesien-154.html",
+      "title": "Iran-Liveblog: ++ Iran droht mit \"vernichtenden Angriffen\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T05:30:12+02:00"
+      "sort_date": "2026-04-02T08:31:29+02:00"
     },
     {
-      "title": "Geflügelpest und hohe Nachfrage: Reichen die Eier für alle?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eier-ostern-gefluegelpest-100.html",
+      "title": "Trumps Ansprache zum Iran-Krieg: Viele Worte, wenig Klarheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ansprache-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T04:25:05+02:00"
+      "sort_date": "2026-04-02T08:01:38+02:00"
     },
     {
-      "title": "Rede an die Nation: Trump sieht US-Ziele in Iran fast erreicht",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-nation-102.html",
+      "title": "Marktbericht: DAX-Erholung wohl von kurzer Dauer",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T04:21:52+02:00"
+      "sort_date": "2026-04-02T07:42:31+02:00"
     },
     {
-      "title": "NASA-Mondmission Artemis 2 ins All gestartet",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html",
+      "title": "Artemis 2: NASA jubelt über erfolgreichen Raketenstart",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-start-102.html",
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T01:26:54+02:00"
+      "sort_date": "2026-04-02T07:39:39+02:00"
     },
     {
-      "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
-      "published": "01 Apr 2026",
+      "title": "Nachfolge von UN-Generalsekretär: Wer folgt auf Guterres?",
+      "link": "https://www.tagesschau.de/ausland/amerika/guterres-nachfolge-100.html",
+      "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-01T22:07:51+02:00"
+      "sort_date": "2026-04-02T07:19:32+02:00"
     }
   ],
   "Food": []
