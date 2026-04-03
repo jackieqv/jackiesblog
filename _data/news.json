@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Israel und Kuwait melden Beschuss aus Iran ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T04:19:48+02:00"
+    },
+    {
+      "title": "Hegseth drängt wichtigen US-General George zum Rücktritt",
+      "link": "https://www.tagesschau.de/ausland/amerika/generalstabschef-army-george-entlassen-100.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T03:42:04+02:00"
+    },
+    {
+      "title": "Hohe Spritpreise: Wirtschaftsweise Grimm bringt Tempolimit ins Spiel",
+      "link": "https://www.tagesschau.de/inland/wirtschaftsweise-grimm-tempolimit-100.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T02:40:51+02:00"
+    },
+    {
       "title": "Trump entlässt Justizministerin Pam Bondi",
       "link": "https://www.tagesschau.de/ausland/amerika/bondi-justizministerin-trump-100.html",
       "published": "02 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "02 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-02T20:34:08+02:00"
-    },
-    {
-      "title": "Türkei und Armenien: Wann öffnen die Grenzübergänge?",
-      "link": "https://www.dw.com/de/türkei-und-armenien-wann-öffnen-die-grenzübergänge/a-76622347?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-02T19:50:00+00:00"
-    },
-    {
-      "title": "Finanzminister Klingbeil will Ehegattensplittung ersetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzminsterium-ersatz-ehegattensplitting-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T19:01:00+02:00"
-    },
-    {
-      "title": "Marktbericht: ein Funken Hoffnung bei Hormus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T18:33:20+02:00"
     }
   ],
   "Food": []
