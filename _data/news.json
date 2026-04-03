@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Managing Multiple Employments in SAP SuccessFactors Learning: Person-Centric Experience",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-multiple-employments-in-sap-successfactors-learning-person-centric/ba-p/14351500",
+      "published": "03 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-03T13:27:13+00:00"
+    },
+    {
       "title": "From ‘What Is’ to ‘What If’ :  Building a Dual-Model Payroll Impact Simulator for SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-what-is-to-what-if-building-a-dual-model-payroll-impact-simulator-for/ba-p/14365064",
       "published": "03 Apr 2026",
@@ -64,16 +71,16 @@
       "published": "02 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-02T16:13:10+00:00"
-    },
-    {
-      "title": "Introducing Custom Events in SAP Cloud ALM Health Monitoring",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-custom-events-in-sap-cloud-alm-health-monitoring/ba-p/14364730",
-      "published": "02 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-02T13:28:54+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
+      "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
+      "published": "03 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-03T15:19:16+00:00"
+    },
     {
       "title": "The Mad Scramble to Power AI Is Rewiring the US Grid",
       "link": "https://singularityhub.com/2026/04/02/the-mad-scramble-to-power-ai-is-rewiring-the-us-grid/",
@@ -101,50 +108,43 @@
       "published": "30 Mar 2026",
       "source": "SingularityHub",
       "sort_date": "2026-03-30T23:38:44+00:00"
-    },
-    {
-      "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
-      "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
-      "published": "30 Mar 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-03-30T15:16:35+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Papst ruft zu Dialog über Kriegsende auf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html",
+      "title": "Warum US-Präsident Trump sein Kabinett umbaut",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-kabinett-umbau-faq-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T14:49:11+02:00"
+      "sort_date": "2026-04-03T17:26:23+02:00"
     },
     {
-      "title": "Vor zehn Jahren kam der Skandal um die Panama Papers ins Rollen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/10-jahre-panama-papers-100.html",
+      "title": "Wenn ein Offizier im Klassenzimmer steht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendoffizier-bundeswehr-schule-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T13:11:27+02:00"
+      "sort_date": "2026-04-03T17:14:03+02:00"
     },
     {
-      "title": "Reaktion auf Sparvorschläge: Warken gegen Einschnitte bei Familienversicherung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/warken-krankenkassen-sparvorschlaege-100.html",
+      "title": "Versehrtensport in Butscha: Zurück ins Leben",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-versehrtensport-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T13:06:52+02:00"
+      "sort_date": "2026-04-03T16:59:08+02:00"
     },
     {
-      "title": "Explosionen im ICE: Ermittler prüfen politisches Motiv",
-      "link": "https://www.dw.com/de/explosionen-im-ice-ermittler-prüfen-politisches-motiv/a-76653838?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "03 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-03T12:44:00+00:00"
-    },
-    {
-      "title": "Was feiern Christen eigentlich an Ostern?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ostern-feiertage-100.html",
+      "title": "Mythos \"Geisterschiff\": Der lange Schatten der \"Mary Celeste\"",
+      "link": "https://www.tagesschau.de/kultur/geisterschiff-mythos-mary-celeste-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T11:54:09+02:00"
+      "sort_date": "2026-04-03T16:10:50+02:00"
+    },
+    {
+      "title": "Studie zeigt neue Erkenntnisse zum Aussterben der Neandertaler",
+      "link": "https://www.tagesschau.de/wissen/forschung/neandertaler-europa-aussterben-100.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T16:08:21+02:00"
     }
   ],
   "Food": []
