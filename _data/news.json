@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Let's Talk: Transformation (Webinar Series)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/let-s-talk-transformation-webinar-series/ba-p/14364933",
+      "published": "03 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-03T09:04:03+00:00"
+    },
+    {
       "title": "AURA Joule HR Agent for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/aura-joule-hr-agent-for-sap-successfactors-hcm/ba-p/14363511",
       "published": "02 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "02 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-02T09:58:33+00:00"
-    },
-    {
-      "title": "Employee Central Core Value Drivers – Your Self-Guided Journey to Unlock Hidden Potential",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/employee-central-core-value-drivers-your-self-guided-journey-to-unlock/ba-p/14364274",
-      "published": "02 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-02T05:04:56+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Hohe Spritpreise: Wirtschaftsweise Grimm bringt Tempolimit ins Spiel",
-      "link": "https://www.tagesschau.de/inland/wirtschaftsweise-grimm-tempolimit-100.html",
+      "title": "USA zerstören iranische Brücke - und Trump droht",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-israel-usa-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T09:03:46+02:00"
+      "sort_date": "2026-04-03T11:11:55+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Ölraffinerie in Kuwait von iranischen Drohnen getroffen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html",
+      "title": "Spargelbauern fordern Ausnahmen beim Mindestlohn",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spargelsaison-start-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T08:54:18+02:00"
+      "sort_date": "2026-04-03T11:11:42+02:00"
     },
     {
-      "title": "Pyrotechnik in ICE gezündet: Polizei nimmt Mann bei Siegburg fest",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-ice-in-siegburg-gestoppt-polizei-nimmt-vermummten-mann-fest-100.html",
+      "title": "Flugverbot für US-Militär: Der \"Anti-Trump\" aus Madrid",
+      "link": "https://www.tagesschau.de/ausland/spanien-sanchez-trump-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T07:29:00+02:00"
+      "sort_date": "2026-04-03T11:07:28+02:00"
     },
     {
-      "title": "News kompakt: Trump feuert Justizministerin Pam Bondi",
-      "link": "https://www.dw.com/de/news-kompakt-trump-feuert-justizministerin-pam-bondi/a-76650102?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "03 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-03T07:00:00+00:00"
-    },
-    {
-      "title": "Artemis-Crew verlässt Erdumlaufbahn Richtung Mond",
-      "link": "https://www.tagesschau.de/wissen/artemis-erdumlaufbahn-verlassen-100.html",
+      "title": "Friedensbewegungen für mehr Diplomatie - wie sagt die Bundespolitik dazu?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ostermaersche-friedensbewegungen-100.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T05:27:11+02:00"
+      "sort_date": "2026-04-03T10:53:51+02:00"
+    },
+    {
+      "title": "Ex-Junta-Chef wird Präsident in Myanmar",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-junta-praesident-100.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T09:40:30+02:00"
     }
   ],
   "Food": []
