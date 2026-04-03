@@ -52,6 +52,13 @@
       "sort_date": "2026-04-02T16:13:10+00:00"
     },
     {
+      "title": "Introducing Custom Events in SAP Cloud ALM Health Monitoring",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-custom-events-in-sap-cloud-alm-health-monitoring/ba-p/14364730",
+      "published": "02 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-02T13:28:54+00:00"
+    },
+    {
       "title": "Early Adopter Care - Central, Unified View of HR Documents in Latest People Profile for all Roles",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/early-adopter-care-central-unified-view-of-hr-documents-in-latest-people/ba-p/14363040",
       "published": "02 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "02 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-02T05:04:56+00:00"
-    },
-    {
-      "title": "Top 5 Mistakes I’ve Seen in SAP SuccessFactors Story Reports (and How We Fixed Them)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/top-5-mistakes-i-ve-seen-in-sap-successfactors-story-reports-and-how-we/ba-p/14358375",
-      "published": "01 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-01T21:51:07+00:00"
     }
   ],
   "Science": [
@@ -116,7 +116,14 @@
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html",
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T04:19:48+02:00"
+      "sort_date": "2026-04-03T05:37:49+02:00"
+    },
+    {
+      "title": "Artemis-Crew verlässt Erdumlaufbahn Richtung Mond",
+      "link": "https://www.tagesschau.de/wissen/artemis-erdumlaufbahn-verlassen-100.html",
+      "published": "03 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-03T05:27:11+02:00"
     },
     {
       "title": "Hegseth drängt wichtigen US-General George zum Rücktritt",
@@ -131,13 +138,6 @@
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-03T02:40:51+02:00"
-    },
-    {
-      "title": "Trump entlässt Justizministerin Pam Bondi",
-      "link": "https://www.tagesschau.de/ausland/amerika/bondi-justizministerin-trump-100.html",
-      "published": "02 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-02T20:47:38+02:00"
     },
     {
       "title": "Wo es auf deutschen Straßen zu Ostern voll wird",
