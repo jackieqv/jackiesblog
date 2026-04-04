@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Diese Maßnahmen gegen hohe Spritpreise werden diskutiert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-massnahmen-102.html",
+      "title": "Debatte um ostdeutsche Moped-Traditionsmarke Simson",
+      "link": "https://www.tagesschau.de/kultur/simson-mopeds-104.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T06:14:32+02:00"
+      "sort_date": "2026-04-04T08:27:21+02:00"
+    },
+    {
+      "title": "Wadephul dringt auf Ende des EU-Einstimmigkeitsprinzips",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-eu-einstimmigkeit-102.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T07:43:37+02:00"
+    },
+    {
+      "title": "Artemis 2-Crew fängt Schönheit der Erde ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-bilder-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T07:06:40+02:00"
     },
     {
       "title": "Iran-Liveblog: ++ Israel greift Ziele in Beirut an ++",
@@ -131,20 +145,6 @@
       "published": "04 Apr 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-04-04T04:27:00+00:00"
-    },
-    {
-      "title": "Papst Leo geht seinen ersten Kreuzweg",
-      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T01:01:17+02:00"
-    },
-    {
-      "title": "Medienberichte: US-Kampfjet in Iran abgeschossen - Crewmitglied gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-kampfjet-iran-100.html",
-      "published": "03 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T22:45:43+02:00"
     }
   ],
   "Food": []
