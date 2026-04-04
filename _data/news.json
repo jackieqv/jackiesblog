@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Expertin: Iran wird nicht von Druckmittel Hormus abrücken ++",
+      "title": "Iran-Liveblog: ++ Iran meldet Angriff nahe Atomanlage Buschehr ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T11:27:46+02:00"
+      "sort_date": "2026-04-04T14:53:02+02:00"
+    },
+    {
+      "title": "US-Vizepräsident Vance kündigt Besuch in Ungarn an",
+      "link": "https://www.tagesschau.de/ausland/europa/vance-ungarn-besuch-parlamentswahl-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T14:45:46+02:00"
+    },
+    {
+      "title": "Iran-Krieg: Abgeschossener Jet setzt Trump innenpolitisch unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-kampfjet-iran-102.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T13:19:25+02:00"
+    },
+    {
+      "title": "Ostermärsche im Wandel: \"Die Bewegung ist alt geworden\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ostermaersche-friedensbewegung-bedeutung-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T12:15:04+02:00"
     },
     {
       "title": "Mehrere Tote bei russischer Angriffswelle auf Ukraine",
@@ -124,27 +145,6 @@
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-04T11:26:43+02:00"
-    },
-    {
-      "title": "Wirtschaftsministerin Reiche gegen Tankrabatt und Tempolimit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-reiche-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T09:37:30+02:00"
-    },
-    {
-      "title": "Wadephul dringt auf Ende des EU-Einstimmigkeitsprinzips",
-      "link": "https://www.tagesschau.de/ausland/europa/wadephul-eu-einstimmigkeit-102.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T09:15:35+02:00"
-    },
-    {
-      "title": "Debatte um ostdeutsche Moped-Traditionsmarke Simson",
-      "link": "https://www.tagesschau.de/kultur/simson-mopeds-104.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T08:27:21+02:00"
     }
   ],
   "Food": []
