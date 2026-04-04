@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 - Release highlights of SAP SuccessFactors Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-onboarding/ba-p/14365728",
+      "published": "04 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-04T08:02:42+00:00"
+    },
+    {
       "title": "Connect SuccessFactors through Oauth using Postman",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/connect-successfactors-through-oauth-using-postman/ba-p/14365320",
       "published": "03 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "03 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-03T09:04:03+00:00"
-    },
-    {
-      "title": "AURA Joule HR Agent for SAP SuccessFactors HCM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/aura-joule-hr-agent-for-sap-successfactors-hcm/ba-p/14363511",
-      "published": "02 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-02T19:29:47+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Debatte um ostdeutsche Moped-Traditionsmarke Simson",
-      "link": "https://www.tagesschau.de/kultur/simson-mopeds-104.html",
+      "title": "Iran-Liveblog: ++ Expertin: Iran wird nicht von Druckmittel Hormus abrücken ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T08:27:21+02:00"
+      "sort_date": "2026-04-04T11:27:46+02:00"
+    },
+    {
+      "title": "Mehrere Tote bei russischer Angriffswelle auf Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-148.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T11:26:43+02:00"
+    },
+    {
+      "title": "Wirtschaftsministerin Reiche gegen Tankrabatt und Tempolimit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-reiche-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T09:37:30+02:00"
     },
     {
       "title": "Wadephul dringt auf Ende des EU-Einstimmigkeitsprinzips",
       "link": "https://www.tagesschau.de/ausland/europa/wadephul-eu-einstimmigkeit-102.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T07:43:37+02:00"
+      "sort_date": "2026-04-04T09:15:35+02:00"
     },
     {
-      "title": "Artemis 2-Crew fängt Schönheit der Erde ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-bilder-100.html",
+      "title": "Debatte um ostdeutsche Moped-Traditionsmarke Simson",
+      "link": "https://www.tagesschau.de/kultur/simson-mopeds-104.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T07:06:40+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Israel greift Ziele in Beirut an ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T05:49:17+02:00"
-    },
-    {
-      "title": "Libanon: Flucht vor Bomben in Beirut",
-      "link": "https://www.dw.com/de/libanon-flucht-vor-bomben-in-beirut/a-76643756?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "04 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-04T04:27:00+00:00"
+      "sort_date": "2026-04-04T08:27:21+02:00"
     }
   ],
   "Food": []
