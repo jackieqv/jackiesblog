@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Selenskyj zu Treffen mit Erdoğan: Ukraine und Türkei bauen Sicherheitskooperation aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tuerkei-treffen-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T21:34:08+02:00"
+    },
+    {
       "title": "Rückkehr nach Syrien: \"Jeder, einfach jeder muss zurückkommen\"",
       "link": "https://www.tagesschau.de/ausland/asien/syrien-fluechtlinge-rueckkehrer-100.html",
       "published": "04 Apr 2026",
@@ -137,14 +144,7 @@
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/20-jahre-nsu-mord-100.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T17:35:12+02:00"
-    },
-    {
-      "title": "Wegen hoher Spritpreise boomen gebrauchte E-Autos",
-      "link": "https://www.tagesschau.de/wirtschaft/elektroauto-boom-gebrauchtwagen-hohe-spritpreise-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T16:58:58+02:00"
+      "sort_date": "2026-04-04T17:06:00+02:00"
     }
   ],
   "Food": []
