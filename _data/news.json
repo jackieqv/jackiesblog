@@ -112,18 +112,32 @@
   ],
   "News": [
     {
-      "title": "Papst leitet erstmals Karfreitags-Prozession",
-      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T01:01:17+02:00"
-    },
-    {
       "title": "Diese Maßnahmen gegen hohe Spritpreise werden diskutiert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-massnahmen-102.html",
       "published": "04 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T00:36:16+02:00"
+      "sort_date": "2026-04-04T06:14:32+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel greift Ziele in Beirut an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T05:49:17+02:00"
+    },
+    {
+      "title": "Libanon: Flucht vor Bomben in Beirut",
+      "link": "https://www.dw.com/de/libanon-flucht-vor-bomben-in-beirut/a-76643756?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "04 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-04T04:27:00+00:00"
+    },
+    {
+      "title": "Papst Leo geht seinen ersten Kreuzweg",
+      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html",
+      "published": "04 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-04T01:01:17+02:00"
     },
     {
       "title": "Medienberichte: US-Kampfjet in Iran abgeschossen - Crewmitglied gerettet",
@@ -131,20 +145,6 @@
       "published": "03 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-03T22:45:43+02:00"
-    },
-    {
-      "title": "Wenn ein Offizier im Klassenzimmer steht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendoffizier-bundeswehr-schule-100.html",
-      "published": "03 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T21:58:32+02:00"
-    },
-    {
-      "title": "Warum US-Präsident Trump sein Kabinett umbaut",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-kabinett-umbau-faq-100.html",
-      "published": "03 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-03T17:26:23+02:00"
     }
   ],
   "Food": []
