@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Kuwait wirft Iran Angriff auf Regierungskomplex vor ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-106.html",
+      "published": "05 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-05T04:01:16+02:00"
+    },
+    {
+      "title": "Erste Osternacht als Papst: Leo XIV. ruft zu Frieden auf",
+      "link": "https://www.tagesschau.de/ausland/europa/osternachtfeier-petersdom-ausblick-ostermesse-100.html",
+      "published": "05 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-05T00:50:18+02:00"
+    },
+    {
       "title": "Selenskyj zu Treffen mit Erdoğan: Ukraine und Türkei bauen Sicherheitskooperation aus",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-tuerkei-treffen-100.html",
       "published": "04 Apr 2026",
@@ -131,20 +145,6 @@
       "published": "04 Apr 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-04-04T17:51:00+00:00"
-    },
-    {
-      "title": "Altherren in Schweden: Gemeinsam Wandern gegen die Einsamkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-einsamkeit-altherren-wandergruppe-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T17:49:05+02:00"
-    },
-    {
-      "title": "20 Jahre nach Mord: Hunderte erinnern an Dortmunder NSU-Opfer Kubaşık",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/20-jahre-nsu-mord-100.html",
-      "published": "04 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-04T17:06:00+02:00"
     }
   ],
   "Food": []
