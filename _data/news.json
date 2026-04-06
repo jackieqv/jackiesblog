@@ -40,9 +40,23 @@
     {
       "title": "1H 2026 - Release highlights of SAP SuccessFactors Onboarding",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-onboarding/ba-p/14365728",
-      "published": "04 Apr 2026",
+      "published": "06 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-04T08:02:42+00:00"
+      "sort_date": "2026-04-06T09:58:32+00:00"
+    },
+    {
+      "title": "Import of Attachments in HRIS Elements",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/import-of-attachments-in-hris-elements/ba-p/14365636",
+      "published": "06 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-06T08:26:53+00:00"
+    },
+    {
+      "title": "Options to create artificial hire record in ECP for the initial PTP run",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/options-to-create-artificial-hire-record-in-ecp-for-the-initial-ptp-run/ba-p/14365128",
+      "published": "06 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-06T08:25:54+00:00"
     },
     {
       "title": "Connect SuccessFactors through Oauth using Postman",
@@ -57,20 +71,6 @@
       "published": "03 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-03T13:27:13+00:00"
-    },
-    {
-      "title": "From ‘What Is’ to ‘What If’ :  Building a Dual-Model Payroll Impact Simulator for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-what-is-to-what-if-building-a-dual-model-payroll-impact-simulator-for/ba-p/14365064",
-      "published": "03 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-03T12:32:05+00:00"
-    },
-    {
-      "title": "Let's Talk: Transformation (Webinar Series)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/let-s-talk-transformation-webinar-series/ba-p/14364933",
-      "published": "03 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-03T09:04:03+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "NASA-Raumkapsel erreicht Einflusssphäre des Mondes",
-      "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondmission-mondphase-100.html",
-      "published": "06 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T09:36:46+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Tote durch Angriffe in Iran und Israel ++",
+      "title": "Iran-Liveblog: ++ Revolutionsgarde meldet Tod von Geheimdienstchef ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html",
       "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T09:32:36+02:00"
+      "sort_date": "2026-04-06T11:49:26+02:00"
     },
     {
-      "title": "Iran reagiert auf Trumps Drohung mit Gegendrohungen",
-      "link": "https://www.tagesschau.de/ausland/iran-usa-trump-102.html",
+      "title": "Ärztemangel in Rumänien: Wie eine Ärztin ein Dorf versorgt",
+      "link": "https://www.tagesschau.de/ausland/europa/aerztemangel-rumaenien-100.html",
       "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T09:04:36+02:00"
+      "sort_date": "2026-04-06T11:04:45+02:00"
     },
     {
-      "title": "Schule in der Ukraine: Zum Unterricht unter die Erde",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schule-bunker-100.html",
+      "title": "CDU-Kritik an Reiches Vorschlag zur Pendlerpauschale",
+      "link": "https://www.tagesschau.de/inland/spritpreise-entlastung-pendlerpauschale-cdu-kritik-reiche-100.html",
       "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T08:26:24+02:00"
+      "sort_date": "2026-04-06T10:40:28+02:00"
     },
     {
-      "title": "News kompakt: Selenskyj setzt auf Kooperation mit Syrien",
-      "link": "https://www.dw.com/de/news-kompakt-selenskyj-setzt-auf-kooperation-mit-syrien/a-76676164?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Drei Tote bei russischen Drohnenangriffen auf Odessa",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-odessa-tote-100.html",
       "published": "06 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-06T07:07:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-06T10:10:08+02:00"
+    },
+    {
+      "title": "Wie viel Vermögen man durch Provisionen verliert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/berater-provisionen-verlust-100.html",
+      "published": "06 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-06T09:45:55+02:00"
     }
   ],
   "Food": []
