@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Iran fordert Entschädigung für Krieg ++",
+      "title": "NASA-Raumkapsel erreicht Einflusssphäre des Mondes",
+      "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondmission-mondphase-100.html",
+      "published": "06 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-06T09:36:46+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Tote durch Angriffe in Iran und Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html",
       "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T07:22:55+02:00"
+      "sort_date": "2026-04-06T09:32:36+02:00"
     },
     {
-      "title": "Städtetag will Nachtfahrverbot für Mähroboter",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/igel-staedtetag-nachtverbot-maehroboter-100.html",
+      "title": "Iran reagiert auf Trumps Drohung mit Gegendrohungen",
+      "link": "https://www.tagesschau.de/ausland/iran-usa-trump-102.html",
       "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-06T04:57:23+02:00"
+      "sort_date": "2026-04-06T09:04:36+02:00"
     },
     {
-      "title": "Trump verlängert Ultimatum für Iran bis Dienstag",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-104.html",
-      "published": "05 Apr 2026",
+      "title": "Schule in der Ukraine: Zum Unterricht unter die Erde",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schule-bunker-100.html",
+      "published": "06 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-05T21:45:51+02:00"
+      "sort_date": "2026-04-06T08:26:24+02:00"
     },
     {
-      "title": "Reisen nur mit Genehmigung - Kritik an Wehrdienstregeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-auslandsreise-genehmigung-100.html",
-      "published": "05 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-05T20:04:01+02:00"
-    },
-    {
-      "title": "Bomben an Ostern - Tote und Verletzte im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/beirut-suedlibanon-angriffe-israel-100.html",
-      "published": "05 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-05T19:40:55+02:00"
+      "title": "News kompakt: Selenskyj setzt auf Kooperation mit Syrien",
+      "link": "https://www.dw.com/de/news-kompakt-selenskyj-setzt-auf-kooperation-mit-syrien/a-76676164?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "06 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-06T07:07:00+00:00"
     }
   ],
   "Food": []
