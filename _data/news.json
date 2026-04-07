@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Britische Regierung verweigert Rapper Kanye West Einreise zu Musikfestival",
+      "link": "https://www.tagesschau.de/ausland/europa/kanye-west-einreise-100.html",
+      "published": "07 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-07T22:03:51+02:00"
+    },
+    {
+      "title": "Politikwissenschaftlerin: \"US-Regierung hat sich komplett verspekuliert\"",
+      "link": "https://www.tagesschau.de/ausland/trump-iran-interview-cluever-100.html",
+      "published": "07 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-07T21:34:18+02:00"
+    },
+    {
       "title": "Kommentar: Deutschlands Verbündete brauchen Klartext",
       "link": "https://www.tagesschau.de/kommentar/deutschland-aussenpolitik-iran-krieg-100.html",
       "published": "07 Apr 2026",
@@ -131,20 +145,6 @@
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-07T18:46:39+02:00"
-    },
-    {
-      "title": "Fahren ohne Ticket - was könnte sich ändern?",
-      "link": "https://www.tagesschau.de/inland/fahren-ohne-ticket-debatte-100.html",
-      "published": "07 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T18:44:40+02:00"
-    },
-    {
-      "title": "100 Jahre Lufthansa: Schwieriger Umgang mit eigener Geschichte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/100-jahre-lufthansa-100.html",
-      "published": "07 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T18:27:59+02:00"
     }
   ],
   "Food": []
