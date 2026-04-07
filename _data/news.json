@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "MIT Mined Bacteria for the Next CRISPR—and Found Hundreds of Potential New Tools",
+      "link": "https://singularityhub.com/2026/04/07/mit-mined-bacteria-for-the-next-crispr-and-found-hundreds-of-potential-new-tools/",
+      "published": "07 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-07T14:00:00+00:00"
+    },
+    {
       "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
       "link": "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/",
       "published": "06 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "03 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-03T20:20:23+00:00"
-    },
-    {
-      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
-      "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
-      "published": "03 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-03T15:19:16+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ \"Heute Nacht wird eine ganze Zivilisation untergehen\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html",
+      "title": "Iran meldet landesweite Angriffe auf Verkehrsinfrastruktur",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-ultimatum-100.html",
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T15:17:27+02:00"
+      "sort_date": "2026-04-07T17:32:55+02:00"
     },
     {
-      "title": "EU-Länder greifen mit mehreren Maßnahmen bei Spritpreisen ein",
-      "link": "https://www.tagesschau.de/wirtschaft/diesel-rekordhoch-benzin-spritpreise-europa-100.html",
+      "title": "Wie die Politik auf den Preisschub reagiert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-bundesregierung-preisschub-100.html",
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T14:49:16+02:00"
+      "sort_date": "2026-04-07T16:18:05+02:00"
     },
     {
-      "title": "Reform der Krankenversicherung: GKV-Chef für höhere Tabak- und Alkoholsteuern",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gkv-krankenversicherung-steuern-alkohol-tabak-100.html",
+      "title": "Tote bei Drohnenangriff auf Bus in ukrainischem Nikopol",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriff-nikopol-100.html",
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T14:15:43+02:00"
+      "sort_date": "2026-04-07T16:17:53+02:00"
     },
     {
-      "title": "Artemis-2-Crew beginnt Rückflug zur Erde",
-      "link": "https://www.tagesschau.de/ausland/artemis-mission-rueckflug-100.html",
+      "title": "Ein Jahr US-Zölle: Alles halb so schlimm?",
+      "link": "https://www.tagesschau.de/wirtschaft/us-zoelle-bilanz-donald-trump-100.html",
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T13:51:33+02:00"
+      "sort_date": "2026-04-07T16:02:19+02:00"
     },
     {
-      "title": "DAX unter Druck - Dividendenrekord in schwierigen Zeiten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-dividenden-100.html",
+      "title": "Wider Willen an die Front? Ethnische Ungarn im Ukrainekrieg",
+      "link": "https://www.dw.com/de/wider-willen-an-die-front-ethnische-ungarn-im-ukrainekrieg/a-76696814?maca=de-rss-de-top-1016-xml-mrss",
       "published": "07 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T13:45:21+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-07T15:46:00+00:00"
     }
   ],
   "Food": []
