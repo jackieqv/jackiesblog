@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "The Importance of Choosing the Right Data Type in Object Definitions",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-importance-of-choosing-the-right-data-type-in-object-definitions/ba-p/14366292",
+      "published": "08 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-08T15:36:10+00:00"
+    },
+    {
+      "title": "Managing Pre-approvals using Attendance Quota in  SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-pre-approvals-using-attendance-quota-in-sap-successfactors/ba-p/14359208",
+      "published": "08 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-08T15:13:33+00:00"
+    },
+    {
       "title": "HRFORM - Sending Payslips to Individual Employees from SAP to Outlook or Mails - for all countries",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/hrform-sending-payslips-to-individual-employees-from-sap-to-outlook-or/ba-p/14366425",
       "published": "07 Apr 2026",
@@ -57,23 +71,16 @@
       "published": "06 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-06T21:46:56+00:00"
-    },
-    {
-      "title": "SuccessFactors Business Rules: Now it's time for a deep dive in the format() function!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-business-rules-now-it-s-time-for-a-deep-dive-in-the-format/ba-p/14366734",
-      "published": "06 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-06T17:56:02+00:00"
-    },
-    {
-      "title": "1H 2026 - Release highlights of SAP SuccessFactors Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/1h-2026-release-highlights-of-sap-successfactors-onboarding/ba-p/14365728",
-      "published": "06 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-06T09:58:32+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Experiments Ring the ‘Death Knell’ for Sterile Neutrinos",
+      "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
+      "published": "08 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-08T14:20:38+00:00"
+    },
     {
       "title": "MIT Mined Bacteria for the Next CRISPR—and Found Hundreds of Potential New Tools",
       "link": "https://singularityhub.com/2026/04/07/mit-mined-bacteria-for-the-next-crispr-and-found-hundreds-of-potential-new-tools/",
@@ -101,50 +108,43 @@
       "published": "04 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-04T14:00:00+00:00"
-    },
-    {
-      "title": "Five Ways Quantum Technology Could Shape Everyday Life",
-      "link": "https://singularityhub.com/2026/04/03/five-ways-quantum-technology-could-shape-everyday-life/",
-      "published": "03 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-03T20:20:23+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Beauftragter Brand fordert mehr Anerkennung für Sinti und Roma",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/tag-der-roma-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T18:01:17+02:00"
+    },
+    {
+      "title": "Waffenruhe im Iran-Krieg: \"Das ist keine Erfolgsbilanz\"",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-waffenruhe-experte-adebahr-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T16:56:49+02:00"
+    },
+    {
+      "title": "Trotz Waffenruhe melden Kuwait, Bahrain und VAE weiter Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/kuwait-vae-angriffe-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T16:12:02+02:00"
+    },
+    {
+      "title": "Spritpreise steigen weiter, aber nicht mehr so stark wie zuvor",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-oelpreis-adac-tankstellen-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T15:23:23+02:00"
+    },
     {
       "title": "Griechenland plant Social-Media-Verbot für unter 15-Jährige",
       "link": "https://www.tagesschau.de/ausland/europa/social-media-griechenland-100.html",
       "published": "08 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-08T14:53:55+02:00"
-    },
-    {
-      "title": "Waffenruhe am Persischen Golf: euphorische Reaktionen der Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-reaktionen-iran-102.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T13:57:00+02:00"
-    },
-    {
-      "title": "Waffenruhe mit den USA: Iran spricht von \"großem Erfolg\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-reaktionen-waffenruhe-100.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T13:20:29+02:00"
-    },
-    {
-      "title": "Iran-Krieg-Feuerpause: Ölpreis fällt unter 100-Dollar-Marke",
-      "link": "https://www.dw.com/de/iran-krieg-feuerpause-ölpreis-fällt-unter-100-dollar-marke/a-76703508?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "08 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-08T13:16:00+00:00"
-    },
-    {
-      "title": "Krieg in Nahost: Netanjahus Kurs führt zu Kritik und Enttäuschung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-iran-100.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T13:15:11+02:00"
     }
   ],
   "Food": []
