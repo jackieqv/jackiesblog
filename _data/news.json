@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "11KM-Podcast: Russifizierung einer Stadt - Warum Putin Mariupol umbaut",
+      "link": "https://www.tagesschau.de/podcast-11km-putin-mariupol-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T06:38:48+02:00"
+    },
+    {
+      "title": "USA und Iran einigen sich auf zweiwöchige Waffenruhe",
+      "link": "https://www.dw.com/de/usa-und-iran-einigen-sich-auf-zweiwöchige-waffenruhe/a-76701125?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "08 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-08T05:05:00+00:00"
+    },
+    {
       "title": "Britische Regierung verweigert Rapper Kanye West Einreise zu Musikfestival",
       "link": "https://www.tagesschau.de/ausland/europa/kanye-west-einreise-100.html",
       "published": "07 Apr 2026",
@@ -131,20 +145,6 @@
       "published": "07 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-07T20:46:13+02:00"
-    },
-    {
-      "title": "Wie Deutschland auf Trumps Iran-Drohungen reagieren könnte",
-      "link": "https://www.tagesschau.de/inland/trump-drohungen-deutschland-100.html",
-      "published": "07 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T20:45:37+02:00"
-    },
-    {
-      "title": "US-Vize in Ungarn: Kann Vance Orban vor der Wahl noch helfen?",
-      "link": "https://www.tagesschau.de/ausland/europa/vance-orban-usa-ungarn-100.html",
-      "published": "07 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-07T18:46:39+02:00"
     }
   ],
   "Food": []
