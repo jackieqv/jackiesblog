@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Capri geht gegen aufdringliches Ansprechen von Touristen vor",
+      "link": "https://www.tagesschau.de/ausland/europa/capri-touristen-aufdringlich-100.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T23:29:15+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
+      "published": "08 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-08T22:55:45+02:00"
+    },
+    {
       "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
       "published": "08 Apr 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-04-08T20:33:27+02:00"
     },
     {
-      "title": "Israel weitet Angriffe auf Hisbollah-Ziele im Libanon aus",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-trotz-waffenruhe-iran-krieg-100.html",
+      "title": "Ukraine und Syrien: Spielt Kyjiw auf Moskaus Feld?",
+      "link": "https://www.dw.com/de/ukraine-und-syrien-spielt-kyjiw-auf-moskaus-feld/a-76711929?maca=de-rss-de-top-1016-xml-mrss",
       "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T19:17:59+02:00"
-    },
-    {
-      "title": "Kommentar: US-Präsident Trump ist mit seinen Zielen in Iran gescheitert",
-      "link": "https://www.tagesschau.de/kommentar/trump-iran-192.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T18:58:12+02:00"
-    },
-    {
-      "title": "Kabinenpersonal der Lufthansa streikt am Freitag",
-      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-streik-332.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T18:49:58+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-08T19:24:00+00:00"
     }
   ],
   "Food": []
