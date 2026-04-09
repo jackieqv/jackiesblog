@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Trump kritisiert NATO-Partner erneut scharf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html",
+      "title": "11KM-Podcast: Ein Jahr Koalitionsvertrag - Warten auf großen Wurf",
+      "link": "https://www.tagesschau.de/podcast-11km-ein-jahr-koalitionsvertrag-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T03:59:35+02:00"
+      "sort_date": "2026-04-09T06:54:13+02:00"
+    },
+    {
+      "title": "Iran-Krieg: Trump kritisiert NATO nach Rutte-Besuch erneut scharf",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rutte-nato-100.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T06:28:24+02:00"
+    },
+    {
+      "title": "Bilanz nach einer Woche: Warum die 12-Uhr-Regel an Tankstellen nicht wirkt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankstellen-spritpreis-12-uhr-regel-bilanz-100.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T06:25:52+02:00"
+    },
+    {
+      "title": "Kampagne gegen Orbán-Konkurrent Magyar vor Wahl in Ungarn",
+      "link": "https://www.tagesschau.de/faktenfinder/ungarn-wahl-104.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T06:23:47+02:00"
     },
     {
       "title": "Straße von Hormus: Keine Anzeichen für ein Ende der Blockade",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-waffenruhe-hormus-100.html",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-hormus-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-09T03:42:34+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
-      "published": "09 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T00:02:46+02:00"
-    },
-    {
-      "title": "Capri geht gegen aufdringliches Ansprechen von Touristen vor",
-      "link": "https://www.tagesschau.de/ausland/europa/capri-touristen-aufdringlich-100.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T23:29:15+02:00"
-    },
-    {
-      "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T20:34:08+02:00"
     }
   ],
   "Food": []
