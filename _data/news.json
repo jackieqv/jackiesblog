@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Trump kritisiert NATO-Partner erneut scharf ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T03:59:35+02:00"
+    },
+    {
+      "title": "Straße von Hormus: Keine Anzeichen für ein Ende der Blockade",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-waffenruhe-hormus-100.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T03:42:34+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T00:02:46+02:00"
+    },
+    {
       "title": "Capri geht gegen aufdringliches Ansprechen von Touristen vor",
       "link": "https://www.tagesschau.de/ausland/europa/capri-touristen-aufdringlich-100.html",
       "published": "08 Apr 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-04-08T23:29:15+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T22:55:45+02:00"
-    },
-    {
       "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
       "published": "08 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-08T20:34:08+02:00"
-    },
-    {
-      "title": "Kommentar: Das Verteidigungsministerium hat die Sprengkraft unterschätzt",
-      "link": "https://www.tagesschau.de/kommentar/pistorius-meldepflicht-auslandsreisen-100.html",
-      "published": "08 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-08T20:33:27+02:00"
-    },
-    {
-      "title": "Ukraine und Syrien: Spielt Kyjiw auf Moskaus Feld?",
-      "link": "https://www.dw.com/de/ukraine-und-syrien-spielt-kyjiw-auf-moskaus-feld/a-76711929?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "08 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-08T19:24:00+00:00"
     }
   ],
   "Food": []
