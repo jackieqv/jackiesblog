@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Register Now: SAP SuccessFactors Roadmap Update | 1H 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/register-now-sap-successfactors-roadmap-update-1h-2026/ba-p/14369845",
+      "published": "09 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-09T12:23:55+00:00"
+    },
+    {
       "title": "The Importance of Choosing the Right Data Type in Object Definitions",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-importance-of-choosing-the-right-data-type-in-object-definitions/ba-p/14366292",
       "published": "08 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "07 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-07T11:21:41+00:00"
-    },
-    {
-      "title": "Turning AI Ideas into Reality at SAP: What to Do Next?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/turning-ai-ideas-into-reality-at-sap-what-to-do-next/ba-p/14366789",
-      "published": "06 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-06T21:46:56+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Jesidische Schwestern aus Hannover kämpfen für Menschenrechte",
-      "link": "https://www.tagesschau.de/kultur/tekkal-schwestern-menschenrechte-jesiden-100.html",
+      "title": "Welche Folgen Trumps Treffen mit Rutte für die NATO haben könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-nato-trump-rutte-treffen-analyse-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T11:43:18+02:00"
+      "sort_date": "2026-04-09T15:18:20+02:00"
     },
     {
-      "title": "Wie kann Deutschland in der Straße von Hormus helfen?",
-      "link": "https://www.tagesschau.de/inland/deutscher-beitrag-strasse-von-hormus-100.html",
+      "title": "Artenschutz: Kaiserpinguine gelten jetzt als gefährdete Art",
+      "link": "https://www.tagesschau.de/wissen/umweltschutz-klimawandel-kaiserpinguin-bedroht-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T11:23:58+02:00"
+      "sort_date": "2026-04-09T14:59:05+02:00"
     },
     {
-      "title": "Marktbericht: Zweifel an Waffenruhe drücken die Kurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html",
+      "title": "Marktbericht: Hoher Ölpreis, neue Unsicherheit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T10:41:24+02:00"
+      "sort_date": "2026-04-09T14:47:35+02:00"
     },
     {
-      "title": "Besuch in heiklen Zeiten: Taiwans Oppositionsführerin reist nach China",
-      "link": "https://www.tagesschau.de/ausland/taiwan-oppositionsfuehrerin-china-100.html",
+      "title": "Israels Angriffe im Libanon: \"Geduld der Amerikaner ist fast am Ende\"",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-israel-hisbollah-libanon-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T10:32:48+02:00"
+      "sort_date": "2026-04-09T14:27:15+02:00"
     },
     {
-      "title": "EU-Preisvergleich: Benzinpreis steigt in Deutschland stärker",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/benzinpreis-deutschland-preisvergleich-merz-100.html",
+      "title": "Ein Jahr Koalitionsvertrag: Von Liebe, Brücken und Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-koalitionsvertrag-schwarz-rot-100.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T10:31:15+02:00"
+      "sort_date": "2026-04-09T14:19:24+02:00"
     }
   ],
   "Food": []
