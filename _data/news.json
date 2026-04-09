@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "AI for HR: Top Blogs (2026)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-for-hr-top-blogs-2026/ba-p/14370281",
+      "published": "09 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-09T19:56:41+00:00"
+    },
+    {
+      "title": "Top Joule Q&A Answers (HR perspective) 2025-2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/top-joule-q-amp-a-answers-hr-perspective-2025-2026/ba-p/14370276",
+      "published": "09 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-09T19:51:24+00:00"
+    },
+    {
       "title": "Register Now: SAP SuccessFactors Roadmap Update | 1H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/register-now-sap-successfactors-roadmap-update-1h-2026/ba-p/14369845",
       "published": "09 Apr 2026",
@@ -57,20 +71,6 @@
       "published": "08 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-08T15:13:33+00:00"
-    },
-    {
-      "title": "HRFORM - Sending Payslips to Individual Employees from SAP to Outlook or Mails - for all countries",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/hrform-sending-payslips-to-individual-employees-from-sap-to-outlook-or/ba-p/14366425",
-      "published": "07 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-07T11:23:33+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Latest People Profile: Workaround for Error 400 Caused by Child Object References",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-latest-people-profile-workaround-for-error-400-caused-by/ba-p/14365914",
-      "published": "07 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-07T11:21:41+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T23:42:35+02:00"
+    },
+    {
+      "title": "Brüssel will Aufklärung der Spionage-Vorwürfe gegen Ungarn",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aufklaerung-spionage-ungarn-russland-100.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T23:28:40+02:00"
+    },
+    {
+      "title": "Israel will mit Libanon direkt über Hisbollah-Entwaffnung verhandeln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-190.html",
+      "published": "09 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-09T21:06:15+02:00"
+    },
+    {
       "title": "Marktbericht: Anleger werden wieder skeptischer",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html",
       "published": "09 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-09T19:45:44+02:00"
-    },
-    {
-      "title": "Brüssel will Aufklärung über Spionage-Vorwürfe gegen Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aufklaerung-spionage-ungarn-russland-100.html",
-      "published": "09 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T18:40:05+02:00"
-    },
-    {
-      "title": "Untergetauchte Rechtsextremistin Liebich in Tschechien gefasst",
-      "link": "https://www.tagesschau.de/inland/rechtsextremismus-liebich-in-tschechien-gefasst-100.html",
-      "published": "09 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T18:35:05+02:00"
-    },
-    {
-      "title": "Merz: Deutschland will wieder Kontakt zum Iran suchen",
-      "link": "https://www.dw.com/de/merz-deutschland-will-wieder-kontakt-zum-iran-suchen/a-76726267?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "09 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-09T18:24:00+00:00"
     }
   ],
   "Food": []
