@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Ungarn-Wahl: US-Republikaner in Sorge um Orbans Zukunft",
-      "link": "https://www.tagesschau.de/ausland/usa-ungarn-100.html",
+      "title": "Klimawandel: Zweitwärmster März seit Aufzeichnungsbeginn",
+      "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimabilanz-maerz-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T09:24:27+02:00"
+      "sort_date": "2026-04-10T12:01:27+02:00"
     },
     {
-      "title": "Hip-Hop-Pionier Afrika Bambaataa gestorben",
-      "link": "https://www.tagesschau.de/kultur/us-musiker-bambaataa-gestorben-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T08:10:47+02:00"
-    },
-    {
-      "title": "Iran hält sich laut Trump nicht an den Waffenruhe-Deal",
-      "link": "https://www.tagesschau.de/ausland/asien/abkommen-hormus-iran-trump-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T07:49:26+02:00"
-    },
-    {
-      "title": "Marktbericht: Die Kurse steigen, die Öl-Angst bleibt",
+      "title": "Marktbericht: Verhaltener DAX-Start",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-verhandlungen-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T07:35:53+02:00"
+      "sort_date": "2026-04-10T10:41:57+02:00"
     },
     {
-      "title": "Energiepreise unter Druck: Was das Kartellamt jetzt leisten kann",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-bundesregierung-bundeskartellamt-100.html",
+      "title": "Daten der Polizeistatistik: Gewalt gegen Lehrkräfte nimmt zu",
+      "link": "https://www.tagesschau.de/inland/gewalt-gegen-lehrkraefte-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T07:12:35+02:00"
+      "sort_date": "2026-04-10T10:32:47+02:00"
+    },
+    {
+      "title": "Inflation in Deutschland: Preissprünge bei Kraftstoffen und Heizöl",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizoel-kraftstoffe-inflation-energie-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T10:08:33+02:00"
+    },
+    {
+      "title": "Unerwartetes Statement: Melania Trump bestreitet Epstein-Verbindung",
+      "link": "https://www.tagesschau.de/ausland/amerika/melania-trump-epstein-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T10:03:38+02:00"
     }
   ],
   "Food": []
