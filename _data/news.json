@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Warum die Artemis-2-Mission kein Fake ist",
+      "link": "https://www.tagesschau.de/faktenfinder/artemis-2-mondmission-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T21:45:54+02:00"
+    },
+    {
+      "title": "Artemis 2: Rückkehr unter extremen Bedingungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-rueckkehr-landung-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T21:44:56+02:00"
+    },
+    {
+      "title": "Vor Verhandlungen in Pakistan: Trump droht - Iran stellt Bedingungen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-110.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T21:36:23+02:00"
+    },
+    {
       "title": "Krieg im Nahen Osten: Wie Israel den Siedlungsbau fortsetzt",
       "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungsbau-westjordanland-106.html",
       "published": "10 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-10T20:06:16+02:00"
-    },
-    {
-      "title": "Ein Toter bei schwerem Busunglück auf Kanareninsel La Gomera",
-      "link": "https://www.tagesschau.de/ausland/europa/la-gomera-busunglueck-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T18:50:44+02:00"
-    },
-    {
-      "title": "Marktbericht: Warten auf die Friedensverhandlungen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-verhandlungen-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T18:32:12+02:00"
-    },
-    {
-      "title": "Wie aus Entlastungsplänen offener Koalitionsstreit wurde",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-merz-klingbeil-entlastungen-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T17:45:32+02:00"
     }
   ],
   "Food": []
