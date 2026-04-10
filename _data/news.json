@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "2H 2025 First Release of SAP Best Practices for SAP SuccessFactors Employee Central Payroll for USA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2025-first-release-of-sap-best-practices-for-sap-successfactors-employee/ba-p/14369580",
+      "published": "10 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-10T06:19:32+00:00"
+    },
+    {
+      "title": "Story Reporting – Reporting for SAP SF ONB 2.0. Enable and understand standard onboarding reports",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/story-reporting-reporting-for-sap-sf-onb-2-0-enable-and-understand-standard/ba-p/14368599",
+      "published": "10 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-10T05:48:26+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 1H 2026 Release: What’s New & What Matters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-1h-2026-release-what-s-new-amp-what-matters/ba-p/14368686",
       "published": "10 Apr 2026",
@@ -57,20 +71,6 @@
       "published": "09 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-09T19:56:41+00:00"
-    },
-    {
-      "title": "Top Joule Q&A Answers (HR perspective) 2025-2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/top-joule-q-amp-a-answers-hr-perspective-2025-2026/ba-p/14370276",
-      "published": "09 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-09T19:51:24+00:00"
-    },
-    {
-      "title": "Register Now: SAP SuccessFactors Roadmap Update | 1H 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/register-now-sap-successfactors-roadmap-update-1h-2026/ba-p/14369845",
-      "published": "09 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-09T12:23:55+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Ungarn-Wahl: US-Republikaner in Sorge um Orbans Zukunft",
+      "link": "https://www.tagesschau.de/ausland/usa-ungarn-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T09:24:27+02:00"
+    },
+    {
+      "title": "Hip-Hop-Pionier Afrika Bambaataa gestorben",
+      "link": "https://www.tagesschau.de/kultur/us-musiker-bambaataa-gestorben-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T08:10:47+02:00"
+    },
+    {
+      "title": "Iran hält sich laut Trump nicht an den Waffenruhe-Deal",
+      "link": "https://www.tagesschau.de/ausland/asien/abkommen-hormus-iran-trump-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T07:49:26+02:00"
+    },
+    {
+      "title": "Marktbericht: Die Kurse steigen, die Öl-Angst bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-verhandlungen-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T07:35:53+02:00"
+    },
+    {
       "title": "Energiepreise unter Druck: Was das Kartellamt jetzt leisten kann",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-bundesregierung-bundeskartellamt-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-10T07:12:35+02:00"
-    },
-    {
-      "title": "Vor Energie-Krisentreffen: Rehlinger für Spritpreisdeckel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krisentreffen-energiepreise-forderungen-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T07:05:10+02:00"
-    },
-    {
-      "title": "Liveblog: ++ Trump kritisiert Iran wegen Straße von Hormus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-108.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T06:54:15+02:00"
-    },
-    {
-      "title": "11KM-Podcast: Machtkampf in Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-wahl-ungarn-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T06:43:55+02:00"
-    },
-    {
-      "title": "Vermittler Pakistan: Was über die geplanten Friedensgespräche bekannt ist",
-      "link": "https://www.tagesschau.de/pakistan-gespraeche-nahost-faq-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T05:32:27+02:00"
     }
   ],
   "Food": []
