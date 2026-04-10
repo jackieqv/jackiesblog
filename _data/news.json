@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Why Do We Tell Ourselves Scary Stories About AI?",
+      "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+      "published": "10 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-10T14:25:09+00:00"
+    },
+    {
       "title": "Experiments Ring the ‘Death Knell’ for Sterile Neutrinos",
       "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
       "published": "08 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "06 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-06T14:00:00+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through April 4)",
-      "link": "https://singularityhub.com/2026/04/04/this-weeks-awesome-tech-stories-from-around-the-web-through-april-4-2/",
-      "published": "04 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-04T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Analyse von Verbraucherschützern: Stromkosten-Entlastung nur gering",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherschuetzer-zu-stromkosten-102.html",
+      "title": "Wie aus Entlastungsplänen offener Koalitionsstreit wurde",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-merz-klingbeil-entlastungen-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T14:39:51+02:00"
+      "sort_date": "2026-04-10T17:45:32+02:00"
+    },
+    {
+      "title": "Kommentar: Netanjahu stellt dem Libanon ein vergiftetes Ultimatum",
+      "link": "https://www.tagesschau.de/kommentar/israel-libanon-verhandlungen-100.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T17:36:59+02:00"
     },
     {
       "title": "Reiche teilt gegen SPD-Vorschläge für Entlastungen aus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-energiepreise-koalition-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T14:02:43+02:00"
+      "sort_date": "2026-04-10T17:09:11+02:00"
     },
     {
-      "title": "Wenn das Öl knapper wird",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oel-preise-marktbericht-100.html",
+      "title": "Tankstellen: Spritpreise sinken weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-update-100.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T13:59:53+02:00"
+      "sort_date": "2026-04-10T16:03:43+02:00"
     },
     {
-      "title": "Dolce&Gabbana: Stefano Gabbana tritt als Unternehmenschef zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dolce-rueckzug-gabbana-100.html",
+      "title": "Analyse von Verbraucherschützern: Stromkosten-Entlastung nur gering",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherschuetzer-zu-stromkosten-102.html",
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T13:43:18+02:00"
-    },
-    {
-      "title": "Netanjahu will mit dem Libanon verhandeln - und dabei weiter kämpfen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-verhandlungen-kaempfe-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T13:34:32+02:00"
+      "sort_date": "2026-04-10T14:39:51+02:00"
     }
   ],
   "Food": []
