@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 1H 2026 Release: What’s New & What Matters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-1h-2026-release-what-s-new-amp-what-matters/ba-p/14368686",
+      "published": "10 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-10T00:30:00+00:00"
+    },
+    {
       "title": "AI for HR: Top Blogs (2026)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-for-hr-top-blogs-2026/ba-p/14370281",
       "published": "09 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "08 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-08T15:36:10+00:00"
-    },
-    {
-      "title": "Managing Pre-approvals using Attendance Quota in  SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-pre-approvals-using-attendance-quota-in-sap-successfactors/ba-p/14359208",
-      "published": "08 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-08T15:13:33+00:00"
     }
   ],
   "Science": [
@@ -112,18 +112,25 @@
   ],
   "News": [
     {
+      "title": "Liveblog: ++ Trump kritisiert Iran wegen Straße von Hormus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-108.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T04:04:59+02:00"
+    },
+    {
+      "title": "Lufthansa-Streik um Mitternacht begonnen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-338.html",
+      "published": "10 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-10T03:19:03+02:00"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
       "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html",
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-09T23:42:35+02:00"
-    },
-    {
-      "title": "Brüssel will Aufklärung der Spionage-Vorwürfe gegen Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aufklaerung-spionage-ungarn-russland-100.html",
-      "published": "09 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T23:28:40+02:00"
     },
     {
       "title": "Israel will mit Libanon direkt über Hisbollah-Entwaffnung verhandeln",
@@ -138,13 +145,6 @@
       "published": "09 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-09T19:53:35+02:00"
-    },
-    {
-      "title": "Merz zum Iran-Krieg: Ein offenkundig ratloser Bundeskanzler",
-      "link": "https://www.tagesschau.de/kommentar/irankrieg-bundeskanzler-merz-statement-100.html",
-      "published": "09 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-09T19:45:44+02:00"
     }
   ],
   "Food": []
