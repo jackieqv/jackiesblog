@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How to Build Better Digital Twins of the Human Brain",
+      "link": "https://singularityhub.com/2026/04/11/how-to-build-better-digital-twins-of-the-human-brain/",
+      "published": "11 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-11T14:00:00+00:00"
+    },
+    {
       "title": "Anthropic’s Mythos AI Uncovered Serious Security Holes in Every Major OS and Browser",
       "link": "https://singularityhub.com/2026/04/10/anthropics-mythos-ai-uncovered-serious-security-holes-in-every-major-os-and-browser/",
       "published": "10 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "07 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-07T14:00:00+00:00"
-    },
-    {
-      "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
-      "link": "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/",
-      "published": "06 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-06T15:08:33+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Lufthansa-Piloten streiken am Montag und Dienstag",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/pilotenstreik-lufthansa-102.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T17:32:18+02:00"
+    },
+    {
+      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T17:20:26+02:00"
+    },
+    {
+      "title": "Verhandlungen zwischen Iran und USA haben begonnen",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-verhandlungen-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T16:51:57+02:00"
+    },
+    {
+      "title": "Neuseeland bereitet sich mit Evakuierungen auf Zyklon \"Vaianu\" vor",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-zyklon-102.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T15:42:58+02:00"
+    },
     {
       "title": "Spritpreis-Debatte: Koalitionsspitzen treffen sich in Berlin",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreis-koalition-streit-klingbeil-reiche-100.html",
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T14:23:34+02:00"
-    },
-    {
-      "title": "AfD Sachsen-Anhalt will Wahlprogramm beschließen",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/afd-sachsen-anhalt-wahlprogramm-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T13:54:47+02:00"
-    },
-    {
-      "title": "Bayern: Ganztägige Warnstreiks im Nahverkehr am Dienstag",
-      "link": "https://www.tagesschau.de/inland/bayern-streik-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T13:48:20+02:00"
-    },
-    {
-      "title": "Russland und Ukraine fliegen Drohnenangriffe: Tote und Verletzte",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-196.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T13:19:24+02:00"
-    },
-    {
-      "title": "Vor Wahl in Ungarn: Mehr als 100.000 Besucher bei Konzert gegen Orban",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-konzert-opposition-orban-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T11:46:48+02:00"
+      "sort_date": "2026-04-11T15:28:10+02:00"
     }
   ],
   "Food": []
