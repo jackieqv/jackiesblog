@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ US-Delegation in Pakistan gelandet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-102.html",
+      "title": "Spritpreis-Debatte: Klingbeil pocht auf staatliche Eingriffe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreis-koalition-streit-klingbeil-reiche-100.html",
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T08:42:03+02:00"
+      "sort_date": "2026-04-11T11:25:53+02:00"
+    },
+    {
+      "title": "US-Demokraten vor Präsidentschaftswahl: Kehrt Kamala Harris zurück?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-demokraten-kamala-harris-kandidatur-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T10:42:02+02:00"
+    },
+    {
+      "title": "Der Verteilungskampf ums griechische Wasser",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-wassernot-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T09:28:11+02:00"
     },
     {
       "title": "Iran-Gespräche in Islamabad: Verhandlungen mit vielen Hürden",
@@ -126,25 +140,11 @@
       "sort_date": "2026-04-11T08:40:04+02:00"
     },
     {
-      "title": "Wie Lachgas und K.o.-Tropfen jetzt eingeschränkt werden",
+      "title": "Lachgas und K.o.-Tropfen sollen zurückgedrängt werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/lachgas-ko-tropfen-gesetz-100.html",
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-11T08:16:58+02:00"
-    },
-    {
-      "title": "Forderungen und Drohungen vor Iran-Gesprächen - News kompakt: Das Wichtigste kurz gefasst",
-      "link": "https://www.dw.com/de/forderungen-und-drohungen-vor-iran-gesprächen-news-kompakt-das-wichtigste-kurz-gefasst/a-76745664?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "11 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-11T06:58:00+00:00"
-    },
-    {
-      "title": "Gegen hohe Spritpreise - Blockaden halten Irland in Atem",
-      "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-spritpreise-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T03:45:01+02:00"
     }
   ],
   "Food": []
