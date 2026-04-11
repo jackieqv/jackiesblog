@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026: Skills & Insights in SAP SuccessFactors Onboarding to Fuel New Hire Productivity from Day 1",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-skills-amp-insights-in-sap-successfactors-onboarding-to-fuel-new/ba-p/14371217",
+      "published": "11 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-11T00:05:45+00:00"
+    },
+    {
       "title": "IPS (Identity Provisioning) to the IAS mirgation",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ips-identity-provisioning-to-the-ias-mirgation/ba-p/14371112",
       "published": "10 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "10 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-10T00:30:00+00:00"
-    },
-    {
-      "title": "Explore AI for HR Use Cases in the SAP Discovery Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/explore-ai-for-hr-use-cases-in-the-sap-discovery-center/ba-p/14370289",
-      "published": "09 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-09T20:14:14+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Gegen hohe Spritpreise - Blockaden halten Irland in Atem",
+      "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-spritpreise-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T03:45:01+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Friedensbemühungen in Pakistan ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-102.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T03:37:38+02:00"
+    },
+    {
       "title": "Warum die Artemis-2-Mission kein Fake ist",
       "link": "https://www.tagesschau.de/faktenfinder/artemis-2-mondmission-100.html",
       "published": "10 Apr 2026",
@@ -131,20 +145,6 @@
       "published": "10 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-10T21:36:23+02:00"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Wie Israel den Siedlungsbau fortsetzt",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungsbau-westjordanland-106.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T20:41:25+02:00"
-    },
-    {
-      "title": "Vor der Wahl in Ungarn: Warum Orban so lange an der Macht ist",
-      "link": "https://www.tagesschau.de/ausland/europa/orban-ungarn-120.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T20:06:16+02:00"
     }
   ],
   "Food": []
