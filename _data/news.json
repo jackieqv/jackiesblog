@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Lufthansa-Piloten streiken am Montag und Dienstag",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/pilotenstreik-lufthansa-102.html",
+      "title": "Wie die AfD Sachsen-Anhalt umbauen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-128.html",
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T17:32:18+02:00"
+      "sort_date": "2026-04-11T20:21:49+02:00"
+    },
+    {
+      "title": "Wahl in Ungarn: Orbans größter Konkurrent - wer ist Peter Magyar?",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-peter-magyar-104.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T18:47:59+02:00"
+    },
+    {
+      "title": "Nach Flug um den Mond: Jubel über erfolgreiche Artemis-2-Mission",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-raumfahrt-artemis-104.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T17:37:15+02:00"
     },
     {
       "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
@@ -131,20 +145,6 @@
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-11T16:51:57+02:00"
-    },
-    {
-      "title": "Neuseeland bereitet sich mit Evakuierungen auf Zyklon \"Vaianu\" vor",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-zyklon-102.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T15:42:58+02:00"
-    },
-    {
-      "title": "Spritpreis-Debatte: Koalitionsspitzen treffen sich in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreis-koalition-streit-klingbeil-reiche-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T15:28:10+02:00"
     }
   ],
   "Food": []
