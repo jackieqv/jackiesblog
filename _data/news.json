@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Friedensbemühungen in Pakistan ++",
+      "title": "Iran-Liveblog: ++ US-Delegation in Pakistan gelandet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-102.html",
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T05:25:12+02:00"
+      "sort_date": "2026-04-11T08:42:03+02:00"
+    },
+    {
+      "title": "Iran-Gespräche in Islamabad: Verhandlungen mit vielen Hürden",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-verhandlungen-iran-usa-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T08:40:04+02:00"
+    },
+    {
+      "title": "Wie Lachgas und K.o.-Tropfen jetzt eingeschränkt werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lachgas-ko-tropfen-gesetz-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T08:16:58+02:00"
+    },
+    {
+      "title": "Forderungen und Drohungen vor Iran-Gesprächen - News kompakt: Das Wichtigste kurz gefasst",
+      "link": "https://www.dw.com/de/forderungen-und-drohungen-vor-iran-gesprächen-news-kompakt-das-wichtigste-kurz-gefasst/a-76745664?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "11 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-11T06:58:00+00:00"
     },
     {
       "title": "Gegen hohe Spritpreise - Blockaden halten Irland in Atem",
@@ -124,27 +145,6 @@
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-11T03:45:01+02:00"
-    },
-    {
-      "title": "Warum die Artemis-2-Mission kein Fake ist",
-      "link": "https://www.tagesschau.de/faktenfinder/artemis-2-mondmission-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T21:45:54+02:00"
-    },
-    {
-      "title": "Artemis 2: Rückkehr unter extremen Bedingungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-rueckkehr-landung-100.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T21:44:56+02:00"
-    },
-    {
-      "title": "Vor Verhandlungen in Pakistan: Trump droht - Iran stellt Bedingungen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-110.html",
-      "published": "10 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-10T21:36:23+02:00"
     }
   ],
   "Food": []
