@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Straße von Hormus im Fokus von Krieg und Gesprächen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-hormus-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T23:05:02+02:00"
+    },
+    {
+      "title": "Ukraine und Russland melden Verstöße gegen Feuerpause",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-verstoesse-feuerpause-100.html",
+      "published": "11 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-11T22:44:01+02:00"
+    },
+    {
       "title": "Wie die AfD Sachsen-Anhalt umbauen will",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-128.html",
       "published": "11 Apr 2026",
@@ -131,20 +145,6 @@
       "published": "11 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-11T17:37:15+02:00"
-    },
-    {
-      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T17:20:26+02:00"
-    },
-    {
-      "title": "Verhandlungen zwischen Iran und USA haben begonnen",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-verhandlungen-100.html",
-      "published": "11 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-11T16:51:57+02:00"
     }
   ],
   "Food": []
