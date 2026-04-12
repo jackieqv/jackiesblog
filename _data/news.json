@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Ungarn: Magyar siegt deutlich - Orban räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T23:03:22+02:00"
+    },
+    {
       "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
       "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html",
       "published": "12 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-12T18:35:24+02:00"
-    },
-    {
-      "title": "AfD spricht bei Fraktionsklausur kaum über strittige Themen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-fraktionsklausur-100.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T17:27:55+02:00"
     }
   ],
   "Food": []
