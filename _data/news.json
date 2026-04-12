@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
+      "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T20:46:28+02:00"
+    },
+    {
+      "title": "25 Jahre Guantánamo - und noch kein Prozess für 9/11-Verdächtige",
+      "link": "https://www.tagesschau.de/ausland/amerika/guantanamo-25-jahre-100.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T20:46:11+02:00"
+    },
+    {
+      "title": "Energiepreise: Sachsen-Anhalts Ministerpräsident warnt vor Streit im Bund",
+      "link": "https://www.tagesschau.de/inland/energiepreise-bericht-aus-berlin-100.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T19:25:04+02:00"
+    },
+    {
+      "title": "USA und Iran: Verhandlungen gescheitert - wie geht es weiter?",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gescheiterte-verhandlungen-100.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T18:35:24+02:00"
+    },
+    {
       "title": "AfD spricht bei Fraktionsklausur kaum über strittige Themen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-fraktionsklausur-100.html",
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-12T17:27:55+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Heftige Kämpfe im Südlibanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-108.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T16:57:54+02:00"
-    },
-    {
-      "title": "Wie Archäologen auf Vitruvs Basilika stießen",
-      "link": "https://www.tagesschau.de/wissen/forschung/basilika-aus-roemerzeit-entdeckt-100.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T16:15:04+02:00"
-    },
-    {
-      "title": "US-Präsident Trump kündigt Blockade der Straße von Hormus an",
-      "link": "https://www.tagesschau.de/ausland/us-blockade-hormus-100.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T16:06:26+02:00"
-    },
-    {
-      "title": "Waffenruhe in der Ukraine: Osternacht ohne Luftalarm",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-ostern-104.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T15:55:46+02:00"
     }
   ],
   "Food": []
