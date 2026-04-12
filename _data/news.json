@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Deutsche Händler entdecken Temu",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html",
+      "title": "Neuseeland: Zyklon \"Vaianu\" richtet Schäden an",
+      "link": "https://www.tagesschau.de/ausland/zyklon-vaianu-100.html",
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T11:27:34+02:00"
+      "sort_date": "2026-04-12T14:40:31+02:00"
     },
     {
-      "title": "Mehr als 500 Festnahmen bei pro-palästinensischer Demo in London",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-festnahmen-demonstration-100.html",
+      "title": "Ungarn am Tag der Wahl: Wandel oder weiter mit Orban?",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-110.html",
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T10:05:43+02:00"
+      "sort_date": "2026-04-12T13:27:35+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Pakistan ruft zur Einhaltung der Waffenruhe auf++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-108.html",
+      "title": "Ukraine und Russland melden gegenseitige Verstöße der Osterwaffenruhe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-feuerpause-russland-100.html",
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T10:01:17+02:00"
+      "sort_date": "2026-04-12T12:52:25+02:00"
     },
     {
-      "title": "Parlamentswahl in Ungarn: Ein Land am Scheideweg",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-108.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T09:37:42+02:00"
-    },
-    {
-      "title": "Ukraine-Krieg: Verstöße gegen Osterwaffenruhe",
-      "link": "https://www.dw.com/de/ukraine-krieg-verstöße-gegen-osterwaffenruhe/a-76752264?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Haiti: Viele Tote nach Massenpanik an Ausflugsziel",
+      "link": "https://www.dw.com/de/haiti-viele-tote-nach-massenpanik-an-ausflugsziel/a-76754236?maca=de-rss-de-top-1016-xml-mrss",
       "published": "12 Apr 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-12T08:42:00+00:00"
+      "sort_date": "2026-04-12T12:46:00+00:00"
+    },
+    {
+      "title": "Gedenkstätte Buchenwald: \"Das Ende der Zeitzeugenschaft ist gekommen\"",
+      "link": "https://www.tagesschau.de/kultur/leiter-gedenkstaette-buchenwald-erinnerungskultur-100.html",
+      "published": "12 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-12T12:44:43+02:00"
     }
   ],
   "Food": []
