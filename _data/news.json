@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The AI Revolution in Math Has Arrived",
+      "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "published": "13 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-13T14:54:41+00:00"
+    },
+    {
       "title": "How to Build Better Digital Twins of the Human Brain",
       "link": "https://singularityhub.com/2026/04/11/how-to-build-better-digital-twins-of-the-human-brain/",
       "published": "11 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "08 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-08T14:20:38+00:00"
-    },
-    {
-      "title": "MIT Mined Bacteria for the Next CRISPR—and Found Hundreds of Potential New Tools",
-      "link": "https://singularityhub.com/2026/04/07/mit-mined-bacteria-for-the-next-crispr-and-found-hundreds-of-potential-new-tools/",
-      "published": "07 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-07T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Rolling Stones veröffentlichen Single unter falschem Namen",
-      "link": "https://www.tagesschau.de/ausland/europa/rolling-stones-cockroaches-vinyl-100.html",
+      "title": "\"Soziale Schieflage\": Deutliche Kritik an Entlastungsplänen der Koalition",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-kritik-koalitionsausschuss-entlastungsplaene-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T15:06:41+02:00"
+      "sort_date": "2026-04-13T17:45:40+02:00"
     },
     {
-      "title": "Ungarn-Wahl: Orbans Sturz beflügelt die Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wahl-ungarn-boerse-orban-magyar-100.html",
+      "title": "Nach Wahl in Ungarn: \"Magyar muss zerstörtes Vertrauen aufbauen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-magyar-erwartungen-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T15:03:25+02:00"
+      "sort_date": "2026-04-13T17:20:03+02:00"
     },
     {
-      "title": "Was der Wahlsieg von Magyar in Ungarn für die EU bedeutet",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-eu-100.html",
+      "title": "Wahlsieger Magyar kündigt neue Ära für Ungarn an",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-neue-area-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T14:50:35+02:00"
+      "sort_date": "2026-04-13T17:11:09+02:00"
     },
     {
-      "title": "Vor US-Blockade: Ölmarkt erneut in Aufruhr",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-blockade-100.html",
+      "title": "Zahl der Hinrichtungen in Iran laut Menschenrechtlern deutlich gestiegen",
+      "link": "https://www.tagesschau.de/ausland/asien/hinrichtungen-iran-menschenrechte-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T14:14:32+02:00"
+      "sort_date": "2026-04-13T16:31:17+02:00"
     },
     {
-      "title": "Pilotenstreik bei Lufthansa und Eurowings sorgt für viele Flugausfälle",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-piloten-streik-106.html",
+      "title": "Präsidentenwahl in Peru: Stichwahl zeichnet sich ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-praesidentenwahl-106.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T13:55:17+02:00"
+      "sort_date": "2026-04-13T16:19:14+02:00"
     }
   ],
   "Food": []
