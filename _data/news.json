@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Enable UI Integration Card of SAP Business Application Studio as custom card in SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
+      "published": "13 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-13T10:00:56+00:00"
+    },
+    {
       "title": "What's New in Succession Planning: SAP SuccessFactors 1H 2026 Release.",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/what-s-new-in-succession-planning-sap-successfactors-1h-2026-release/ba-p/14366838",
       "published": "12 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "10 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-10T06:19:32+00:00"
-    },
-    {
-      "title": "Story Reporting – Reporting for SAP SF ONB 2.0. Enable and understand standard onboarding reports",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/story-reporting-reporting-for-sap-sf-onb-2-0-enable-and-understand-standard/ba-p/14368599",
-      "published": "10 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-10T05:48:26+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Koalition will Autofahrer durch Steuersenkung entlasten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-ergebnisse-mineraloelsteuer-100.html",
+      "title": "Warum die US-Seeblockade an der Straße von Hormus nicht ohne Risiko ist",
+      "link": "https://www.tagesschau.de/ausland/asien/seeblockade-persischer-golf-strasse-hormus-usa-iran-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T09:57:10+02:00"
+      "sort_date": "2026-04-13T12:36:44+02:00"
     },
     {
-      "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-afrikareise-100.html",
+      "title": "Iran-Liveblog: ++ Paris und London planen Hormus-Konferenz ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T08:52:14+02:00"
+      "sort_date": "2026-04-13T12:20:44+02:00"
     },
     {
-      "title": "Marktbericht: US-Seeblockade macht Anleger nervös",
+      "title": "Blitzermarathon: Polizei verstärkt Radarkontrollen in Deutschland",
+      "link": "https://www.tagesschau.de/inland/kontrollwoche-strassenverkehr-100.html",
+      "published": "13 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-13T12:15:52+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T08:38:27+02:00"
+      "sort_date": "2026-04-13T10:55:57+02:00"
     },
     {
-      "title": "Kommentar zur Wahl in Ungarn: Das System Orban ist zerplatzt",
-      "link": "https://www.tagesschau.de/kommentar/ungarn-wahl-kommentar-100.html",
+      "title": "Faktenfinder: Falschbehauptungen rund ums Tanken verbreitet",
+      "link": "https://www.tagesschau.de/faktenfinder/gestreckter-kraftstoff-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T08:24:47+02:00"
-    },
-    {
-      "title": "Orban in Ungarn abgewählt: Budapest feiert Wahlsieger Magyar",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-114.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T07:52:13+02:00"
+      "sort_date": "2026-04-13T10:31:13+02:00"
     }
   ],
   "Food": []
