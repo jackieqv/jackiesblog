@@ -112,18 +112,25 @@
   ],
   "News": [
     {
-      "title": "Ungarn: Magyar siegt deutlich - Orban räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html",
-      "published": "12 Apr 2026",
+      "title": "Aufatmen in Berlin und Brüssel nach Magyars Wahlsieg in Ungarn",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-102.html",
+      "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T23:03:22+02:00"
+      "sort_date": "2026-04-13T02:44:24+02:00"
     },
     {
-      "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
-      "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html",
-      "published": "12 Apr 2026",
+      "title": "Zweitägiger Streik beginnt: Lufthansa-Piloten legen Arbeit nieder",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-108.html",
+      "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T20:46:28+02:00"
+      "sort_date": "2026-04-13T02:18:04+02:00"
+    },
+    {
+      "title": "Ungarn: Magyar siegt deutlich - Orban räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html",
+      "published": "13 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-13T02:11:51+02:00"
     },
     {
       "title": "25 Jahre Guantánamo - und noch kein Prozess für 9/11-Verdächtige",
@@ -138,13 +145,6 @@
       "published": "12 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-12T19:25:04+02:00"
-    },
-    {
-      "title": "USA und Iran: Verhandlungen gescheitert - wie geht es weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gescheiterte-verhandlungen-100.html",
-      "published": "12 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-12T18:35:24+02:00"
     }
   ],
   "Food": []
