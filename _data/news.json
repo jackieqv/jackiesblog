@@ -42,7 +42,14 @@
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
       "published": "13 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-13T10:00:56+00:00"
+      "sort_date": "2026-04-13T13:04:16+00:00"
+    },
+    {
+      "title": "First Half 2026 Release: What’s New for SAP SuccessFactors Performance & Goals",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-for-sap-successfactors-performance-amp/ba-p/14368825",
+      "published": "13 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-13T13:00:00+00:00"
     },
     {
       "title": "What's New in Succession Planning: SAP SuccessFactors 1H 2026 Release.",
@@ -64,13 +71,6 @@
       "published": "10 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-10T17:26:53+00:00"
-    },
-    {
-      "title": "2H 2025 First Release of SAP Best Practices for SAP SuccessFactors Employee Central Payroll for USA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2025-first-release-of-sap-best-practices-for-sap-successfactors-employee/ba-p/14369580",
-      "published": "10 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-10T06:19:32+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Warum die US-Seeblockade an der Straße von Hormus nicht ohne Risiko ist",
-      "link": "https://www.tagesschau.de/ausland/asien/seeblockade-persischer-golf-strasse-hormus-usa-iran-100.html",
+      "title": "Rolling Stones veröffentlichen Single unter falschem Namen",
+      "link": "https://www.tagesschau.de/ausland/europa/rolling-stones-cockroaches-vinyl-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T12:36:44+02:00"
+      "sort_date": "2026-04-13T15:06:41+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Paris und London planen Hormus-Konferenz ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html",
+      "title": "Ungarn-Wahl: Orbans Sturz beflügelt die Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wahl-ungarn-boerse-orban-magyar-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T12:20:44+02:00"
+      "sort_date": "2026-04-13T15:03:25+02:00"
     },
     {
-      "title": "Blitzermarathon: Polizei verstärkt Radarkontrollen in Deutschland",
-      "link": "https://www.tagesschau.de/inland/kontrollwoche-strassenverkehr-100.html",
+      "title": "Was der Wahlsieg von Magyar in Ungarn für die EU bedeutet",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-eu-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T12:15:52+02:00"
+      "sort_date": "2026-04-13T14:50:35+02:00"
     },
     {
-      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html",
+      "title": "Vor US-Blockade: Ölmarkt erneut in Aufruhr",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-blockade-100.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T10:55:57+02:00"
+      "sort_date": "2026-04-13T14:14:32+02:00"
     },
     {
-      "title": "Faktenfinder: Falschbehauptungen rund ums Tanken verbreitet",
-      "link": "https://www.tagesschau.de/faktenfinder/gestreckter-kraftstoff-100.html",
+      "title": "Pilotenstreik bei Lufthansa und Eurowings sorgt für viele Flugausfälle",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-piloten-streik-106.html",
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T10:31:13+02:00"
+      "sort_date": "2026-04-13T13:55:17+02:00"
     }
   ],
   "Food": []
