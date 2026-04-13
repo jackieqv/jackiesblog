@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trump scheitert vorerst mit Klage gegen Wall Street Journal",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-klage-abgewiesen-100.html",
+      "published": "13 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-13T21:31:55+02:00"
+    },
+    {
       "title": "Papst weist Kritik von US-Präsident Trump zurück",
       "link": "https://www.tagesschau.de/ausland/europa/konflikt-papst-leo-xiv-us-regierung-trump-100.html",
       "published": "13 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-13T18:29:09+02:00"
-    },
-    {
-      "title": "Teure Energie: Findet Deutschland einen Ausweg?",
-      "link": "https://www.dw.com/de/teure-energie-findet-deutschland-einen-ausweg/a-76766345?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "13 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-13T18:21:00+00:00"
     }
   ],
   "Food": []
