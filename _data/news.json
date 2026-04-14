@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Beginner's Guide to Payroll Personnel Calculation Rules (PCR) - II",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/beginner-s-guide-to-payroll-personnel-calculation-rules-pcr-ii/ba-p/14370343",
+      "published": "14 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-14T10:07:31+00:00"
+    },
+    {
       "title": "Collision Handling between Absences and Attendances in SAP SuccessFactors Time Tracking - 1H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/collision-handling-between-absences-and-attendances-in-sap-successfactors/ba-p/14371653",
       "published": "14 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "12 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-12T02:05:17+00:00"
-    },
-    {
-      "title": "1H 2026: Skills & Insights in SAP SuccessFactors Onboarding to Fuel New Hire Productivity from Day 1",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-skills-amp-insights-in-sap-successfactors-onboarding-to-fuel-new/ba-p/14371217",
-      "published": "11 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-11T00:05:45+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "KI-Bild und Papst-Kritik: Trump auf Konfrontationskurs",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-trump-106.html",
+      "title": "Liebich lehnt Auslieferung nach Deutschland ab",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/liebich-auslieferung-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T09:29:16+02:00"
+      "sort_date": "2026-04-14T12:01:32+02:00"
     },
     {
-      "title": "Deutsch-ukrainische Regierungskonsultationen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-100.html",
+      "title": "Warnstreiks bremsen Nahverkehr in Bayern",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/warnstreiks-bayern-nahverkehr-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T09:28:29+02:00"
+      "sort_date": "2026-04-14T11:50:39+02:00"
     },
     {
-      "title": "Was die Ungarn-Wahl für die AfD bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ungarn-wahl-afd-100.html",
+      "title": "Iran-Krieg: Was kann die US-Blockade bewirken?",
+      "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-iran-usa-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T09:12:54+02:00"
+      "sort_date": "2026-04-14T10:44:56+02:00"
     },
     {
-      "title": "Entlastungen sollen laut Klingbeil \"Anfang Mai\" kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-zeitplan-100.html",
+      "title": "Interview: \"Tsunami an Material von Kindesmissbrauch\" durch Live-Streaming",
+      "link": "https://www.tagesschau.de/ausland/amerika/online-missbrauch-kinder-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T08:56:20+02:00"
+      "sort_date": "2026-04-14T10:44:08+02:00"
     },
     {
-      "title": "Sprit-Engpass durch Golf-Krieg: Thailands Wirtschaft unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/versorgungsengpaesse-thailand-100.html",
+      "title": "Marktbericht: Friedenshoffnungen treiben DAX auf 24.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dow-jones-nikkei-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T08:26:27+02:00"
+      "sort_date": "2026-04-14T10:40:23+02:00"
     }
   ],
   "Food": []
