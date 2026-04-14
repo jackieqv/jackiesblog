@@ -112,11 +112,18 @@
   ],
   "News": [
     {
+      "title": "Erstes Gespräch beendet - Israel und Libanon wollen weiter verhandeln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-gespraeche-krieg-100.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T22:18:43+02:00"
+    },
+    {
       "title": "Lufthansa: Piloten sollen auch am Donnerstag und Freitag streiken",
       "link": "https://www.tagesschau.de/wirtschaft/lufthansa-piloten-streik-108.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T21:01:24+02:00"
+      "sort_date": "2026-04-14T21:41:53+02:00"
     },
     {
       "title": "Loskäufer aus Paris gewinnt Picasso im Wert von 850.000 Euro",
@@ -124,13 +131,6 @@
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-14T20:53:09+02:00"
-    },
-    {
-      "title": "Zwei Tote bei Flugzeugabsturz in Nordrhein-Westfalen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flugzeugabsturz-bei-aachen-100.html",
-      "published": "14 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T20:48:00+02:00"
     },
     {
       "title": "IWF-Prognose: Iran-Krieg dämpft die Weltwirtschaft",
