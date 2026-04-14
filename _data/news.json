@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Scientists Grow Electronics Inside the Brains of Living Mice",
+      "link": "https://singularityhub.com/2026/04/13/scientists-grow-electronics-inside-the-brains-of-living-mice/",
+      "published": "13 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-13T22:33:30+00:00"
+    },
+    {
       "title": "The AI Revolution in Math Has Arrived",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
       "published": "13 Apr 2026",
@@ -101,16 +108,23 @@
       "published": "10 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-10T14:25:09+00:00"
-    },
-    {
-      "title": "Experiments Ring the ‘Death Knell’ for Sterile Neutrinos",
-      "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
-      "published": "08 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-08T14:20:38+00:00"
     }
   ],
   "News": [
+    {
+      "title": "US-Blockade der Straße von Hormus hat begonnen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-usa-hormus-100.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T03:52:47+02:00"
+    },
+    {
+      "title": "EU beschließt Schutzmaßnahmen für Stahlindustrie",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-stahlimporte-zoll-100.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T03:03:56+02:00"
+    },
     {
       "title": "Trump scheitert vorerst mit Klage gegen Wall Street Journal",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-klage-abgewiesen-100.html",
@@ -131,20 +145,6 @@
       "published": "13 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-13T20:01:58+02:00"
-    },
-    {
-      "title": "Zuspitzung am Persischen Golf: Nur leichte Verluste im DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T18:32:00+02:00"
-    },
-    {
-      "title": "Wie die EU aus der Energiekrise kommen will",
-      "link": "https://www.tagesschau.de/ausland/europa/energiekrise-eu-100.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T18:29:09+02:00"
     }
   ],
   "Food": []
