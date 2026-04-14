@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Holocaust-Überlebende führen \"Marsch der Lebenden\" in Auschwitz an",
+      "link": "https://www.tagesschau.de/ausland/europa/holocaust-marsch-der-lebenden-100.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T05:36:38+02:00"
+    },
+    {
+      "title": "Holocaust-Gedenktag in Israel: \"Wohin man auch ging - dieser Geruch des Todes\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-holocaust-gedenktag-108.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T05:34:38+02:00"
+    },
+    {
+      "title": "Israel und Libanon verhandeln erstmals miteinander",
+      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-libanon-israel-100.html",
+      "published": "14 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-14T05:01:05+02:00"
+    },
+    {
       "title": "US-Blockade der Straße von Hormus hat begonnen",
       "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-usa-hormus-100.html",
       "published": "14 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-14T03:03:56+02:00"
-    },
-    {
-      "title": "Trump scheitert vorerst mit Klage gegen Wall Street Journal",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-klage-abgewiesen-100.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T21:31:55+02:00"
-    },
-    {
-      "title": "Papst weist Kritik von US-Präsident Trump zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/konflikt-papst-leo-xiv-us-regierung-trump-100.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T20:07:07+02:00"
-    },
-    {
-      "title": "Spritpreis-Paket der Koalition: Ist das der Start in ein Reformjahr?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-spd-energiepreise-reformen-100.html",
-      "published": "13 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-13T20:01:58+02:00"
     }
   ],
   "Food": []
