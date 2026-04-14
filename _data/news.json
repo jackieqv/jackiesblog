@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "One Shot Just Crushed Three Deadly Autoimmune Diseases",
+      "link": "https://singularityhub.com/2026/04/14/one-shot-just-crushed-three-deadly-autoimmune-diseases/",
+      "published": "14 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-14T18:41:54+00:00"
+    },
+    {
       "title": "Scientists Grow Electronics Inside the Brains of Living Mice",
       "link": "https://singularityhub.com/2026/04/13/scientists-grow-electronics-inside-the-brains-of-living-mice/",
       "published": "13 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "10 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-10T18:33:01+00:00"
-    },
-    {
-      "title": "Why Do We Tell Ourselves Scary Stories About AI?",
-      "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
-      "published": "10 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-10T14:25:09+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Gespräche zwischen Israel und Libanon gestartet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-110.html",
+      "title": "Lufthansa: Piloten sollen auch am Donnerstag und Freitag streiken",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-piloten-streik-108.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T17:50:28+02:00"
+      "sort_date": "2026-04-14T21:01:24+02:00"
     },
     {
-      "title": "Start der Zeckensaison: 2024 starben 24 Menschen an FSME und Borreliose",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zecken-borreliose-fsme-todeszahlen-100.html",
+      "title": "Loskäufer aus Paris gewinnt Picasso im Wert von 850.000 Euro",
+      "link": "https://www.tagesschau.de/ausland/europa/auktion-picasso-gewinn-paris-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T17:29:41+02:00"
+      "sort_date": "2026-04-14T20:53:09+02:00"
     },
     {
-      "title": "München: Haftstrafe für Vergewaltigung betäubter Frau",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/vergewaltigung-betaeubung-urteil-100.html",
+      "title": "Zwei Tote bei Flugzeugabsturz in Nordrhein-Westfalen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flugzeugabsturz-bei-aachen-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T17:19:54+02:00"
+      "sort_date": "2026-04-14T20:48:00+02:00"
     },
     {
-      "title": "Wie sich der Spritpreis zusammensetzt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-diesel-benzin-preiszusammensetzung-100.html",
+      "title": "IWF-Prognose: Iran-Krieg dämpft die Weltwirtschaft",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-tagung-ausblick-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T17:18:06+02:00"
+      "sort_date": "2026-04-14T20:31:20+02:00"
     },
     {
-      "title": "Spanisches Gericht: Fall Fernandes gegen Ulmen geht an deutsche Justiz",
-      "link": "https://www.tagesschau.de/ausland/europa/fernandes-ulmen-spanische-justiz-100.html",
+      "title": "Was vom deutsch-ukrainischen Spitzentreffen bleibt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-ukraine-regierungskonsultationen-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T16:56:27+02:00"
+      "sort_date": "2026-04-14T20:27:25+02:00"
     }
   ],
   "Food": []
