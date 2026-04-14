@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Collision Handling between Absences and Attendances in SAP SuccessFactors Time Tracking - 1H 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/collision-handling-between-absences-and-attendances-in-sap-successfactors/ba-p/14371653",
+      "published": "14 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-14T06:37:19+00:00"
+    },
+    {
       "title": "Enable UI Integration Card of SAP Business Application Studio as custom card in SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
       "published": "13 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "11 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-11T00:05:45+00:00"
-    },
-    {
-      "title": "IPS (Identity Provisioning) to the IAS mirgation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ips-identity-provisioning-to-the-ias-mirgation/ba-p/14371112",
-      "published": "10 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-10T17:26:53+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Holocaust-Überlebende führen \"Marsch der Lebenden\" in Auschwitz an",
-      "link": "https://www.tagesschau.de/ausland/europa/holocaust-marsch-der-lebenden-100.html",
+      "title": "KI-Bild und Papst-Kritik: Trump auf Konfrontationskurs",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-trump-106.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T05:36:38+02:00"
+      "sort_date": "2026-04-14T09:29:16+02:00"
     },
     {
-      "title": "Holocaust-Gedenktag in Israel: \"Wohin man auch ging - dieser Geruch des Todes\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-holocaust-gedenktag-108.html",
+      "title": "Deutsch-ukrainische Regierungskonsultationen in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T05:34:38+02:00"
+      "sort_date": "2026-04-14T09:28:29+02:00"
     },
     {
-      "title": "Israel und Libanon verhandeln erstmals miteinander",
-      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-libanon-israel-100.html",
+      "title": "Was die Ungarn-Wahl für die AfD bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ungarn-wahl-afd-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T05:01:05+02:00"
+      "sort_date": "2026-04-14T09:12:54+02:00"
     },
     {
-      "title": "US-Blockade der Straße von Hormus hat begonnen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-usa-hormus-100.html",
+      "title": "Entlastungen sollen laut Klingbeil \"Anfang Mai\" kommen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-zeitplan-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T03:52:47+02:00"
+      "sort_date": "2026-04-14T08:56:20+02:00"
     },
     {
-      "title": "EU beschließt Schutzmaßnahmen für Stahlindustrie",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-stahlimporte-zoll-100.html",
+      "title": "Sprit-Engpass durch Golf-Krieg: Thailands Wirtschaft unter Druck",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/versorgungsengpaesse-thailand-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T03:03:56+02:00"
+      "sort_date": "2026-04-14T08:26:27+02:00"
     }
   ],
   "Food": []
