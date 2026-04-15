@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Ancient Weapons Active in Your Immune System Today",
+      "link": "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/",
+      "published": "15 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-15T14:47:25+00:00"
+    },
+    {
       "title": "One Shot Just Crushed Three Deadly Autoimmune Diseases",
       "link": "https://singularityhub.com/2026/04/14/one-shot-just-crushed-three-deadly-autoimmune-diseases/",
       "published": "14 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "11 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-11T14:00:00+00:00"
-    },
-    {
-      "title": "Anthropic’s Mythos AI Uncovered Serious Security Holes in Every Major OS and Browser",
-      "link": "https://singularityhub.com/2026/04/10/anthropics-mythos-ai-uncovered-serious-security-holes-in-every-major-os-and-browser/",
-      "published": "10 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-10T18:33:01+00:00"
     }
   ],
   "News": [
     {
-      "title": "Gewalttat in der Türkei: Achtklässler tötet vier Menschen an Schule in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-gewalt-schule-tote-100.html",
+      "title": "Van Aken tritt nicht erneut als Linken-Chef an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-van-aken-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T14:53:06+02:00"
+      "sort_date": "2026-04-15T17:26:26+02:00"
     },
     {
-      "title": "Kriegsfolgen: Was gibt es zu feiern für die Lufthansa?",
-      "link": "https://www.tagesschau.de/wirtschaft/luftverkehr-krieg-iran-lufthansa-100.html",
+      "title": "Ungarischer Wahlsieger Magyar fordert Präsidenten zum Rücktritt auf",
+      "link": "https://www.tagesschau.de/ausland/ungarn-magyar-reformen-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T14:34:11+02:00"
+      "sort_date": "2026-04-15T16:44:01+02:00"
     },
     {
-      "title": "Finanzspritze vom Bund: Eine Milliarde Euro für Länder und Kommunen",
-      "link": "https://www.tagesschau.de/wirtschaft/milliarde-finanzspritze-laender-kommunen-100.html",
+      "title": "Wie die Blockade der Straße von Hormus Asiens Lebensader trifft",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oel-forderung-singapur-australien-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T14:30:44+02:00"
+      "sort_date": "2026-04-15T16:39:01+02:00"
     },
     {
-      "title": "Schutz für Kinder und Jugendliche: EU-App zur Altersprüfung im Internet ist fertig",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-app-altersueberpruefung-100.html",
+      "title": "Bund fördert E-Ladepunkte in Mehrparteienhäusern",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-ladeinfrastruktur-foerderung-mehrparteienhaeuser-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T13:24:21+02:00"
+      "sort_date": "2026-04-15T16:37:24+02:00"
     },
     {
-      "title": "Bund plant höhere Beamtenbesoldung - Milliardenkosten trotz Spardruck",
-      "link": "https://www.tagesschau.de/inland/dobrindt-besoldung-beamte-100.html",
+      "title": "Asylmissbrauch in Großbritannien - Fake-Identitäten und falsche Asylgründe",
+      "link": "https://www.tagesschau.de/ausland/bbc-recherche-asylantraege-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T11:59:23+02:00"
+      "sort_date": "2026-04-15T16:37:00+02:00"
     }
   ],
   "Food": []
