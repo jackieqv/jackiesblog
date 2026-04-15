@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "BBC will bis zu 2.000 Stellen streichen",
+      "link": "https://www.tagesschau.de/ausland/europa/bbc-entlassungen-100.html",
+      "published": "15 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-15T21:23:55+02:00"
+    },
+    {
       "title": "Kommentar zu Entlastungen: Es muss Schluss sein mit der Vollkasko-Mentalität",
       "link": "https://www.tagesschau.de/kommentar/regierung-entlastung-spritpreise-100.html",
       "published": "15 Apr 2026",
@@ -126,25 +133,18 @@
       "sort_date": "2026-04-15T20:17:46+02:00"
     },
     {
+      "title": "Ausländerkriminalität: Ein Vergleich von Äpfeln mit Birnen?",
+      "link": "https://www.dw.com/de/ausländerkriminalität-ein-vergleich-von-äpfeln-mit-birnen/a-76797991?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "15 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-15T19:51:00+00:00"
+    },
+    {
       "title": "Pistorius ruft zur weiteren Unterstützung der Ukraine auf",
       "link": "https://www.tagesschau.de/inland/pistorius-ukraine-hilfen-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-15T19:45:15+02:00"
-    },
-    {
-      "title": "Mehr als 1,5 Milliarden Euro Hilfe auf Sudan-Konferenz zugesagt",
-      "link": "https://www.tagesschau.de/inland/sudankonferenz-milliardenzusage-wadephul-100.html",
-      "published": "15 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T19:38:56+02:00"
-    },
-    {
-      "title": "EU nach Abwahl Orbans: Tschechien und Slowakei als neue Blockierer?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-slowakei-tschechien-ungarn-blockade-100.html",
-      "published": "15 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T19:03:13+02:00"
     }
   ],
   "Food": []
