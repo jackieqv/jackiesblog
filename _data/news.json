@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "US-Vizepräsident Vance sieht Fortschritte bei Verhandlungen mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/vance-iran-fortschritte-100.html",
+      "published": "15 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-15T03:48:19+02:00"
+    },
+    {
+      "title": "Präsident Trump gegen Papst Leo: Ein ungleicher Machtkampf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-vatikan-trump-papst-leo-100.html",
+      "published": "15 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-15T02:39:08+02:00"
+    },
+    {
+      "title": "Bürgerkrieg im Sudan: Drei Jahre Schrecken und kein Ende in Sicht",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-jahrestag-kriegsbeginn-100.html",
+      "published": "15 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-15T02:37:46+02:00"
+    },
+    {
       "title": "Erstes Gespräch beendet - Israel und Libanon wollen weiter verhandeln",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-gespraeche-krieg-100.html",
       "published": "14 Apr 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-04-14T22:18:43+02:00"
     },
     {
-      "title": "Lufthansa: Piloten sollen auch am Donnerstag und Freitag streiken",
-      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-piloten-streik-108.html",
-      "published": "14 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T21:41:53+02:00"
-    },
-    {
       "title": "Loskäufer aus Paris gewinnt Picasso im Wert von 850.000 Euro",
       "link": "https://www.tagesschau.de/ausland/europa/auktion-picasso-gewinn-paris-100.html",
       "published": "14 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-14T20:53:09+02:00"
-    },
-    {
-      "title": "IWF-Prognose: Iran-Krieg dämpft die Weltwirtschaft",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-tagung-ausblick-100.html",
-      "published": "14 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T20:31:20+02:00"
-    },
-    {
-      "title": "Was vom deutsch-ukrainischen Spitzentreffen bleibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-ukraine-regierungskonsultationen-100.html",
-      "published": "14 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-14T20:27:25+02:00"
     }
   ],
   "Food": []
