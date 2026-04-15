@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 Release: Streamlining Data after Employment Terminations in SuccessFactors Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-streamlining-data-after-employment-terminations-in/ba-p/14374875",
+      "published": "15 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-15T10:06:44+00:00"
+    },
+    {
       "title": "Collision Handling between Absences and Attendances in SAP SuccessFactors Time Tracking - 1H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/collision-handling-between-absences-and-attendances-in-sap-successfactors/ba-p/14371653",
       "published": "14 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "14 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-14T10:07:31+00:00"
-    },
-    {
-      "title": "Enable UI Integration Card of SAP Business Application Studio as custom card in SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
-      "published": "13 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-13T13:04:16+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Warkens Sparpaket: Was auf Patienten zukommen könnte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/warken-gesundheit-faq-100.html",
+      "title": "Bund plant höhere Beamtenbesoldung - Milliardenkosten trotz Spardruck",
+      "link": "https://www.tagesschau.de/inland/dobrindt-besoldung-beamte-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T09:28:47+02:00"
+      "sort_date": "2026-04-15T11:59:23+02:00"
     },
     {
-      "title": "Kritik an Sparplänen der Gesundheitsministerin - Patienten übermäßig belastet?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-krankenkassen-warken-reax-100.html",
+      "title": "Tote bei erneutem US-Angriff auf Boot im Ostpazifik",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-angriff-drogenboote-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T09:28:43+02:00"
+      "sort_date": "2026-04-15T11:52:51+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Trump legt gegen Papst Leo XIV. nach ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-110.html",
+      "title": "Deaf Performing - Musikdolmetschen für eine taube Community",
+      "link": "https://www.tagesschau.de/kultur/deaf-performing-gebaerdensprache-fuer-musik-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T09:22:01+02:00"
+      "sort_date": "2026-04-15T11:35:26+02:00"
     },
     {
-      "title": "Flucht aus dem Sudan in eines der gefährlichsten Länder Afrikas",
-      "link": "https://www.tagesschau.de/ausland/afrika/sudan-krieg-108.html",
+      "title": "Folgen des Iran-Kriegs: Zunehmende Belastung für Wirtschaft und Verbraucher",
+      "link": "https://www.tagesschau.de/wirtschaft/wirtschaftskrise-energiepreise-inflation-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T08:52:28+02:00"
+      "sort_date": "2026-04-15T11:28:59+02:00"
     },
     {
-      "title": "Marktbericht: Optimismus an weltweiten Börsen hält an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dax-nikkei-100.html",
+      "title": "Trump und Vance optimistisch: Neue Iran-Gespräche noch in dieser Woche?",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-vance-iran-100.html",
       "published": "15 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-15T07:45:21+02:00"
+      "sort_date": "2026-04-15T11:28:33+02:00"
     }
   ],
   "Food": []
