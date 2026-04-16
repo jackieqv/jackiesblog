@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Lufthansa stellt Betrieb der Tochtergesellschaft CityLine ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-stilllegung-100.html",
+      "published": "16 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-16T16:15:15+02:00"
+    },
+    {
+      "title": "Teure Energie: Iran-Krieg befeuert Inflation in der Eurozone",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-energiepreise-iran-krieg-100.html",
+      "published": "16 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-16T15:56:47+02:00"
+    },
+    {
       "title": "Bilanz 2025: Bosch schreibt das erst Mal seit 2009 Verluste",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-verluste-100.html",
       "published": "16 Apr 2026",
@@ -127,24 +141,10 @@
     },
     {
       "title": "Urteil: Klage gegen App-Rabatte bei Discounter Penny abgewiesen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-penny-app-rabatte-100.html",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-penny-app-rabatte-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-16T14:09:50+02:00"
-    },
-    {
-      "title": "Glücksspiel-Verluste: EuGH ebnet Weg für Rückforderungen",
-      "link": "https://www.tagesschau.de/wirtschaft/gluecksspiel-verluste-eugh-100.html",
-      "published": "16 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T13:05:51+02:00"
-    },
-    {
-      "title": "Eine Streichliste im Auftrag des Kanzleramtes",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-streichliste-jugendhilfe-100.html",
-      "published": "16 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T13:00:10+02:00"
     }
   ],
   "Food": []
