@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Recurring Deduction Integration in SAP EC: Challenges, Limitations & Workaround",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/recurring-deduction-integration-in-sap-ec-challenges-limitations-amp/ba-p/14373973",
+      "published": "16 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-16T10:58:39+00:00"
+    },
+    {
       "title": "Enable UI Integration Card of SAP Business Application Studio as custom card in SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
       "published": "16 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "14 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-14T15:28:35+00:00"
-    },
-    {
-      "title": "How to: Create Job Information Records Based on a Custom  Date Field",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-create-job-information-records-based-on-a-custom-date-field/ba-p/14373980",
-      "published": "14 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-14T12:55:38+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bundestag zum Tankrabatt: \"Gerechte Maßnahme\" oder \"Schnapsidee\"?",
-      "link": "https://www.tagesschau.de/inland/bundestag-debatte-entlastungen-100.html",
+      "title": "Bilanz 2025: Bosch schreibt das erst Mal seit 2009 Verluste",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-verluste-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T11:51:49+02:00"
+      "sort_date": "2026-04-16T15:31:42+02:00"
     },
     {
-      "title": "Wirtschaftsministerin Reiche zwischen Kritik und Unterstützung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wirtschaftsministerin-reiche-kritik-unterstuetzung-100.html",
+      "title": "Marktbericht:  Chip-Supermacht Taiwan - TSMC ist nicht zu bremsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-16-4-26-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T11:28:51+02:00"
+      "sort_date": "2026-04-16T14:21:54+02:00"
     },
     {
-      "title": "Arbeitgeber kritisieren geplante 1.000-Euro-Prämie scharf",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/arbeitgeber-kritik-1000-euro-praemie-100.html",
+      "title": "Urteil: Klage gegen App-Rabatte bei Discounter Penny abgewiesen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-penny-app-rabatte-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T11:06:43+02:00"
+      "sort_date": "2026-04-16T14:09:50+02:00"
     },
     {
-      "title": "Marktbericht: US-Rekorde stützen den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-102.html",
+      "title": "Glücksspiel-Verluste: EuGH ebnet Weg für Rückforderungen",
+      "link": "https://www.tagesschau.de/wirtschaft/gluecksspiel-verluste-eugh-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T10:46:14+02:00"
+      "sort_date": "2026-04-16T13:05:51+02:00"
     },
     {
-      "title": "Human Rights Watch: China verstärkt Druck auf Katholiken",
-      "link": "https://www.tagesschau.de/ausland/asien/china-katholiken-100.html",
+      "title": "Eine Streichliste im Auftrag des Kanzleramtes",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-streichliste-jugendhilfe-100.html",
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T10:36:09+02:00"
+      "sort_date": "2026-04-16T13:00:10+02:00"
     }
   ],
   "Food": []
