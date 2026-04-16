@@ -38,18 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 SuccessFactors Onboarding Enhancement: Predelivered Custom Task Template Objects",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-successfactors-onboarding-enhancement-predelivered-custom-task/ba-p/14376396",
+      "published": "16 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-16T20:47:04+00:00"
+    },
+    {
       "title": "Recurring Deduction Integration in SAP EC: Challenges, Limitations & Workaround",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/recurring-deduction-integration-in-sap-ec-challenges-limitations-amp/ba-p/14373973",
       "published": "16 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-16T10:58:39+00:00"
-    },
-    {
-      "title": "Enable UI Integration Card of SAP Business Application Studio as custom card in SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enable-ui-integration-card-of-sap-business-application-studio-as-custom/ba-p/14353952",
-      "published": "16 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-16T06:05:58+00:00"
     },
     {
       "title": "SAP SuccessFactors 1H 2026: What's New in Employee Central Payroll",
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Gutverdiener sollen mehr für Krankenkasse zahlen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-beitraege-106.html",
+      "published": "16 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-16T22:04:24+02:00"
+    },
+    {
       "title": "Hormus-Mission: Deutschland will offenbar Minenjagdboote anbieten",
       "link": "https://www.tagesschau.de/ausland/asien/deutschland-hormus-mission-100.html",
       "published": "16 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "16 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-16T19:02:48+02:00"
-    },
-    {
-      "title": "Wie Busbetreiber mit dem Spritpreis-Schock umgehen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bus-branche-lage-100.html",
-      "published": "16 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T18:50:10+02:00"
     }
   ],
   "Food": []
