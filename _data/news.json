@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
+      "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
+      "published": "17 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-17T14:25:21+00:00"
+    },
+    {
       "title": "Industries Most Exposed to AI Are Not Only Seeing Productivity Gains but Jobs and Wage Growth Too",
       "link": "https://singularityhub.com/2026/04/16/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too/",
       "published": "16 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "13 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-13T22:33:30+00:00"
-    },
-    {
-      "title": "The AI Revolution in Math Has Arrived",
-      "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-      "published": "13 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-13T14:54:41+00:00"
     }
   ],
   "News": [
     {
-      "title": "Wie Krankengeld und Krankschreibungen reformiert werden sollen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankengeld-krankschreibungen-gesundheitsreform-100.html",
+      "title": "Experten warnen vor Zahnstochern mit Geschmack und Nikotin",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gefahr-durch-zahnstocher-100.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T15:03:21+02:00"
+      "sort_date": "2026-04-17T17:37:47+02:00"
     },
     {
-      "title": "65 Jahre Angriff auf Kuba: \"Zu Ende bringen, was wir begonnen haben\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-schweinebucht-100.html",
+      "title": "Wie ein Gericht sein \"Correctiv\"-Urteil begründet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/landgericht-berlin-correctiv-100.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T14:32:02+02:00"
+      "sort_date": "2026-04-17T17:36:29+02:00"
     },
     {
-      "title": "Marktbericht: Sind die Anleger zu sorglos?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-17-04-26-100.html",
+      "title": "Trendumkehr auf dem Wohnungsmarkt durch Folgen Iran-Krieg gefährdet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wohnungsmarkt-baugenehmigungen-bauwirtschaft-wohnungsmangel-100.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T14:22:47+02:00"
+      "sort_date": "2026-04-17T17:26:28+02:00"
     },
     {
-      "title": "Der schwierige Umbau des ungarischen Mediensystems",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-mediensystem-102.html",
+      "title": "FAQ: Was bedeutet der Kerosinmangel für die Flugpreise?",
+      "link": "https://www.tagesschau.de/kerosinmangel-moegliche-folgen-100.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T13:57:59+02:00"
+      "sort_date": "2026-04-17T17:24:09+02:00"
     },
     {
-      "title": "Debatte über Atom-Wiedereinstieg: \"Es wäre ein kompletter Neueinstieg\"",
-      "link": "https://www.tagesschau.de/wissen/technologie/hintergrund-wiedereinstieg-atomkraft-100.html",
+      "title": "Iran will Straße von Hormus während Waffenruhe im Libanon öffnen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-strasse-von-hormus-100.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T13:20:21+02:00"
+      "sort_date": "2026-04-17T17:16:08+02:00"
     }
   ],
   "Food": []
