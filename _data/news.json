@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "1.000-Euro-Prämie: Druck der Wirtschaft auf die Union wächst",
-      "link": "https://www.tagesschau.de/wirtschaft/entlastungspraemie-kritik-wirtschaft-100.html",
-      "published": "17 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T04:29:22+02:00"
-    },
-    {
       "title": "Iran-Liveblog: ++ Libanon: Israel verstößt gegen Waffenruhe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T04:19:50+02:00"
+      "sort_date": "2026-04-17T07:11:24+02:00"
     },
     {
-      "title": "Waffenruhe im Libanon: Vertriebene bangen und hoffen auf Rückkehr",
-      "link": "https://www.tagesschau.de/ausland/waffenruhe-libanon-106.html",
+      "title": "Nach Erfolg im Libanon: Trump hofft auf Durchbruch mit Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-waffenruhe-libanon-102.html",
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T02:45:43+02:00"
+      "sort_date": "2026-04-17T06:50:48+02:00"
     },
     {
-      "title": "Gutverdiener sollen mehr für Krankenkasse zahlen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-beitraege-106.html",
-      "published": "16 Apr 2026",
+      "title": "Drei Tote bei Arbeitsunfall in Gerberei in Hessen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/arbeitsunfall-hessen-lederfabrik-100.html",
+      "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T22:04:24+02:00"
+      "sort_date": "2026-04-17T06:00:01+02:00"
     },
     {
-      "title": "Hormus-Mission: Deutschland will offenbar Minenjagdboote anbieten",
-      "link": "https://www.tagesschau.de/ausland/asien/deutschland-hormus-mission-100.html",
-      "published": "16 Apr 2026",
+      "title": "Jubel im Libanon: Zehntägige Waffenruhe tritt in Kraft",
+      "link": "https://www.dw.com/de/jubel-im-libanon-zehntägige-waffenruhe-tritt-in-kraft/a-76817233?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "17 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-17T05:22:00+00:00"
+    },
+    {
+      "title": "Warum immer mehr Menschen allergisch reagieren",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/eindaemmung-allergien-100.html",
+      "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-16T21:05:32+02:00"
+      "sort_date": "2026-04-17T04:33:44+02:00"
     }
   ],
   "Food": []
