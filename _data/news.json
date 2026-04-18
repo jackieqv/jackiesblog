@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Norwegian Man Cured of HIV by His Brother’s Stem Cells",
+      "link": "https://singularityhub.com/2026/04/17/norwegian-man-cured-of-hiv-by-his-brothers-stem-cells/",
+      "published": "17 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-17T22:44:39+00:00"
+    },
+    {
       "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
       "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "published": "17 Apr 2026",
@@ -101,16 +108,16 @@
       "published": "14 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-14T18:41:54+00:00"
-    },
-    {
-      "title": "Scientists Grow Electronics Inside the Brains of Living Mice",
-      "link": "https://singularityhub.com/2026/04/13/scientists-grow-electronics-inside-the-brains-of-living-mice/",
-      "published": "13 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-13T22:33:30+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Trump rechnet mit baldiger Einigung - Iran kritisiert US-Blockade",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-198.html",
+      "published": "18 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T00:24:27+02:00"
+    },
     {
       "title": "Berichte über Siedlergewalt: \"Wir sollen Angst haben\"",
       "link": "https://www.tagesschau.de/ausland/israel-siedlergewalt-106.html",
@@ -138,13 +145,6 @@
       "published": "17 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-17T18:57:07+02:00"
-    },
-    {
-      "title": "Fragile Waffenruhe: Menschen kehren in den Süden des Libanon zurück",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-rueckkehrer-100.html",
-      "published": "17 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-17T18:49:16+02:00"
     }
   ],
   "Food": []
