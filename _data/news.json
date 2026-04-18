@@ -112,18 +112,25 @@
   ],
   "News": [
     {
-      "title": "Zehntausende protestieren für rasche Energiewende",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/energiewende-proteste-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T20:37:41+02:00"
-    },
-    {
       "title": "Mann erschießt mehrere Menschen in Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/schusswaffenangriff-kiew-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T20:00:39+02:00"
+      "sort_date": "2026-04-18T22:49:03+02:00"
+    },
+    {
+      "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
+      "link": "https://www.tagesschau.de/ausland/krieg-iran-strasse-von-hormus-treffen-paris-102.html",
+      "published": "18 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T22:20:46+02:00"
+    },
+    {
+      "title": "Papst Leo XIV. will Streit mit US-Präsident Trump beilegen",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-trump-streit-100.html",
+      "published": "18 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T21:17:24+02:00"
     },
     {
       "title": "Mehr als eine Million Zugriffe auf NSDAP-Mitgliederkartei",
@@ -138,13 +145,6 @@
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-18T18:17:06+02:00"
-    },
-    {
-      "title": "Französischer Blauhelmsoldat im Libanon getötet - Angriff der Hisbollah vermutet",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-angriff-blauhelme-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T16:35:16+02:00"
     }
   ],
   "Food": []
