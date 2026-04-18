@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Frida Kahlo: Warum ihre Kunst mehr Menschen berührt denn je",
-      "link": "https://www.tagesschau.de/kultur/frida-kahlo-globale-ikone-der-kunst-100.html",
+      "title": "Iran: Straße von Hormus bleibt doch gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T08:04:05+02:00"
+      "sort_date": "2026-04-18T10:42:11+02:00"
     },
     {
-      "title": "Fleischwerbeverbot in Amsterdam: Notwendig oder Bevormundung?",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-amsterdam-werbeverbot-fleisch-co2-100.html",
+      "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/demokratie-leben-umburch-projekte-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T08:02:16+02:00"
+      "sort_date": "2026-04-18T10:08:00+02:00"
     },
     {
-      "title": "USA erlauben weiterhin Kauf von russischem Öl",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-russisches-oel-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T07:50:19+02:00"
-    },
-    {
-      "title": "Armut in Deutschland: Wenn das Geld trotz Arbeit nicht reicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/armut-in-deutschland-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T07:36:25+02:00"
-    },
-    {
-      "title": "News kompakt: USA verbieten Israel Angriffe auf den Libanon",
-      "link": "https://www.dw.com/de/news-kompakt-usa-verbieten-israel-angriffe-auf-den-libanon/a-76839949?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "USA lockern weiter Sanktionen gegen russisches Öl",
+      "link": "https://www.dw.com/de/usa-lockern-weiter-sanktionen-gegen-russisches-öl/a-76841076?maca=de-rss-de-top-1016-xml-mrss",
       "published": "18 Apr 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-18T07:04:00+00:00"
+      "sort_date": "2026-04-18T09:43:00+00:00"
+    },
+    {
+      "title": "Ver.di plant Proteste gegen geplante Gesundheitsreform",
+      "link": "https://www.tagesschau.de/inland/verdi-protest-gesundheitsreform-100.html",
+      "published": "18 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T09:39:52+02:00"
+    },
+    {
+      "title": "Iran-Krieg: Die Straße von Hormus ist erneut blockiert",
+      "link": "https://www.dw.com/de/iran-krieg-die-straße-von-hormus-ist-erneut-blockiert/a-76840970?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "18 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-18T09:32:00+00:00"
     }
   ],
   "Food": []
