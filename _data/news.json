@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Hohe Benzin- und Dieselpreise: So einfach lässt sich Sprit sparen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-spritsparen-100.html",
+      "published": "18 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T14:18:41+02:00"
+    },
+    {
       "title": "Iran: Straße von Hormus bleibt doch gesperrt",
       "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T10:42:11+02:00"
+      "sort_date": "2026-04-18T13:56:43+02:00"
     },
     {
-      "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/demokratie-leben-umburch-projekte-100.html",
+      "title": "Präsidentenwahl 2027: Was bedeutet die Orban-Niederlage für Frankreich?",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rechtsnationale-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T10:08:00+02:00"
+      "sort_date": "2026-04-18T13:32:15+02:00"
     },
     {
-      "title": "USA lockern weiter Sanktionen gegen russisches Öl",
-      "link": "https://www.dw.com/de/usa-lockern-weiter-sanktionen-gegen-russisches-öl/a-76841076?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-18T09:43:00+00:00"
-    },
-    {
-      "title": "Ver.di plant Proteste gegen geplante Gesundheitsreform",
-      "link": "https://www.tagesschau.de/inland/verdi-protest-gesundheitsreform-100.html",
+      "title": "Klingbeil fordert Vorbereitungen auf Kerosinmangel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-warnung-kerosinmangel-100.html",
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T09:39:52+02:00"
+      "sort_date": "2026-04-18T13:19:58+02:00"
     },
     {
-      "title": "Iran-Krieg: Die Straße von Hormus ist erneut blockiert",
-      "link": "https://www.dw.com/de/iran-krieg-die-straße-von-hormus-ist-erneut-blockiert/a-76840970?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Völklingen im Saarland: Ein Toter bei Explosion in Unterführung",
+      "link": "https://www.tagesschau.de/inland/regional/saarland/explosion-voelklingen-toter-100.html",
       "published": "18 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-18T09:32:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-18T13:08:00+02:00"
     }
   ],
   "Food": []
