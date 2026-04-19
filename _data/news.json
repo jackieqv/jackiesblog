@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Prognose: Bündnis von Ex-Präsident Radev bei Wahl in Bulgarien vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-wahl-prognose-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T21:49:36+02:00"
+    },
+    {
+      "title": "Acht Kinder bei Gewalttat in den USA getötet",
+      "link": "https://www.tagesschau.de/ausland/amerika/shreveport-usa-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T21:36:40+02:00"
+    },
+    {
       "title": "Ministerin Warken verteidigt Pläne für Gesundheitsreform",
       "link": "https://www.tagesschau.de/inland/gesellschaft/gesundheitsreform-warken-bab-100.html",
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T20:41:28+02:00"
+      "sort_date": "2026-04-19T21:21:44+02:00"
     },
     {
       "title": "FC Bayern ist vorzeitig deutscher Fußball-Meister",
@@ -131,20 +145,6 @@
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-19T19:24:28+02:00"
-    },
-    {
-      "title": "Ukraine: Untersuchung nach Schusswaffenangriff in Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/kiew-schusswaffenangriff-untersuchung-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T17:55:50+02:00"
-    },
-    {
-      "title": "Partner & Pragmatiker: Lula da Silva eröffnet Hannover Messe",
-      "link": "https://www.dw.com/de/partner-pragmatiker-lula-da-silva-eröffnet-hannover-messe/a-76807135?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-19T17:20:00+00:00"
     }
   ],
   "Food": []
