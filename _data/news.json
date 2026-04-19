@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Rattengift in Babynahrung in Österreich entdeckt",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-hipp-erpressung-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T01:47:43+02:00"
+    },
+    {
       "title": "Mann erschießt mehrere Menschen in Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/schusswaffenangriff-kiew-100.html",
       "published": "18 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "18 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-18T18:37:18+02:00"
-    },
-    {
-      "title": "Wie die Energiewende gelingen soll",
-      "link": "https://www.tagesschau.de/wissen/klima/hintergrund-energiewende-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T18:17:06+02:00"
     }
   ],
   "Food": []
