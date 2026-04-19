@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "From Tracking to Acting: Strategic Insights from the SAP SuccessFactors Learning 1H 2026 Release",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-tracking-to-acting-strategic-insights-from-the-sap-successfactors/ba-p/14377565",
+      "published": "19 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-19T12:16:24+00:00"
+    },
+    {
       "title": "Assignment UUID for Deep Links in SAP SuccessFactors Latest People Profile",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/assignment-uuid-for-deep-links-in-sap-successfactors-latest-people-profile/ba-p/14374724",
       "published": "17 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "17 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-17T05:59:10+00:00"
-    },
-    {
-      "title": "1H 2026 SuccessFactors Onboarding Enhancement: Predelivered Custom Task Template Objects",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-successfactors-onboarding-enhancement-predelivered-custom-task/ba-p/14376396",
-      "published": "16 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-16T20:47:04+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Trump kündigt neue Iran-Verhandlungen in Pakistan an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T14:35:00+02:00"
+    },
+    {
+      "title": "Warkens Pläne: GKV kritisiert \"Druck\" der Interessenverbände",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-krankenkassen-debatte-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T13:27:02+02:00"
+    },
+    {
+      "title": "Iran: Weit von endgültiger Einigung mit den USA entfernt",
+      "link": "https://www.dw.com/de/iran-weit-von-endgültiger-einigung-mit-den-usa-entfernt/a-76846650?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-19T12:43:00+00:00"
+    },
+    {
+      "title": "Asylanträge in Deutschland auf historischem Tiefstand",
+      "link": "https://www.dw.com/de/asylanträge-in-deutschland-auf-historischem-tiefstand/a-76847801?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-19T12:17:00+00:00"
+    },
+    {
       "title": "Halbmarathon in China: Roboter laufen den Menschen erstmals davon",
       "link": "https://www.tagesschau.de/ausland/asien/peking-halbmarathon-roboter-100.html",
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-19T11:40:14+02:00"
-    },
-    {
-      "title": "Gouverneur Cox: Der etwas andere Republikaner aus Utah",
-      "link": "https://www.tagesschau.de/ausland/amerika/utah-gouverneur-spencer-cox-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T11:12:20+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Israelis protestieren gegen Waffenruhe mit Hisbollah ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T10:49:55+02:00"
-    },
-    {
-      "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-strasse-von-hormus-treffen-paris-104.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T10:36:58+02:00"
-    },
-    {
-      "title": "Verhandlungen mit den USA: Iran sieht noch \"viele Diskrepanzen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-usa-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T09:37:30+02:00"
     }
   ],
   "Food": []
