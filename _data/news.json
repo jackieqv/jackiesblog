@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Was hinter den Plänen für einen digitalen Euro steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/euro-digitale-waehrung-wero-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T06:39:37+02:00"
+    },
+    {
+      "title": "Nordkorea feuert erneut ballistische Raketen ab",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-154.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T06:26:46+02:00"
+    },
+    {
+      "title": "Wie Nordrhein-Westfalen auf Olympia blickt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/olympia-bewerbung-nrw-102.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T05:44:25+02:00"
+    },
+    {
+      "title": "Bulgarien wählt - zum achten Mal in fünf Jahren",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-bulgarien-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T05:21:32+02:00"
+    },
+    {
       "title": "Rattengift in Babynahrung in Österreich entdeckt",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-hipp-erpressung-100.html",
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-19T01:47:43+02:00"
-    },
-    {
-      "title": "Mann erschießt mehrere Menschen in Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/schusswaffenangriff-kiew-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T22:49:03+02:00"
-    },
-    {
-      "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
-      "link": "https://www.tagesschau.de/ausland/krieg-iran-strasse-von-hormus-treffen-paris-102.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T22:20:46+02:00"
-    },
-    {
-      "title": "Papst Leo XIV. will Streit mit US-Präsident Trump beilegen",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-trump-streit-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T21:17:24+02:00"
-    },
-    {
-      "title": "Mehr als eine Million Zugriffe auf NSDAP-Mitgliederkartei",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-nationalarchiv-suche-nsdap-100.html",
-      "published": "18 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-18T18:37:18+02:00"
     }
   ],
   "Food": []
