@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Trump kündigt neue Iran-Verhandlungen in Pakistan an ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html",
+      "title": "Trump kündigt für Montag neue Gespräche an - Iran zurückhaltend",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-verhandlungen-islamabad-100.html",
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T14:35:00+02:00"
+      "sort_date": "2026-04-19T16:27:31+02:00"
+    },
+    {
+      "title": "Helfer ohne Hilfe - die UN in der Finanzkrise",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-finanzkrise-102.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T16:21:34+02:00"
+    },
+    {
+      "title": "Worauf es bei der Geldanlage in Krisenzeiten ankommt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/geldanlage-106.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T15:11:49+02:00"
+    },
+    {
+      "title": "New Yorker Bürgermeister Mamdani will Steuern auf Luxus-Zweitwohnungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-zweitwohnung-steuer-100.html",
+      "published": "19 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-19T15:05:27+02:00"
     },
     {
       "title": "Warkens Pläne: GKV kritisiert \"Druck\" der Interessenverbände",
@@ -124,27 +145,6 @@
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-19T13:27:02+02:00"
-    },
-    {
-      "title": "Iran: Weit von endgültiger Einigung mit den USA entfernt",
-      "link": "https://www.dw.com/de/iran-weit-von-endgültiger-einigung-mit-den-usa-entfernt/a-76846650?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-19T12:43:00+00:00"
-    },
-    {
-      "title": "Asylanträge in Deutschland auf historischem Tiefstand",
-      "link": "https://www.dw.com/de/asylanträge-in-deutschland-auf-historischem-tiefstand/a-76847801?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-19T12:17:00+00:00"
-    },
-    {
-      "title": "Halbmarathon in China: Roboter laufen den Menschen erstmals davon",
-      "link": "https://www.tagesschau.de/ausland/asien/peking-halbmarathon-roboter-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T11:40:14+02:00"
     }
   ],
   "Food": []
