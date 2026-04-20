@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: Die Euphorie ist wieder verflogen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T07:25:32+02:00"
+    },
+    {
+      "title": "Papier aus dem Bundesumweltministerium - Kritik an EU-Atomstrategie",
+      "link": "https://www.tagesschau.de/investigativ/mini-akw-umweltministerium-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T06:00:18+02:00"
+    },
+    {
+      "title": "Ex-Präsident Radev klarer Wahlsieger in Bulgarien",
+      "link": "https://www.tagesschau.de/ausland/europa/wahl-bulgarien-102.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T05:46:29+02:00"
+    },
+    {
+      "title": "Warum die Türkei die Ölreserven Somalias anzapfen darf",
+      "link": "https://www.dw.com/de/warum-die-türkei-die-ölreserven-somalias-anzapfen-darf/a-76806267?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "20 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-20T04:34:00+00:00"
+    },
+    {
       "title": "Energiekrise wird Thema im Nationalen Sicherheitsrat",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sicherheitsrat-energiekrise-100.html",
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-20T04:17:14+02:00"
-    },
-    {
-      "title": "Drohnen und Roboter: Wie Technik den Krieg in der Ukraine verändert",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-roboter-drohnen-102.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T03:35:31+02:00"
-    },
-    {
-      "title": "Mehrheit in Nordrhein-Westfalen für Olympia-Bewerbung",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/olympia-entscheidung-nrw-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T03:21:00+02:00"
-    },
-    {
-      "title": "Golf von Oman: US-Militär entert iranisches Frachtschiff",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T02:09:41+02:00"
-    },
-    {
-      "title": "Prognose: Bündnis von Ex-Präsident Radev bei Wahl in Bulgarien vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-wahl-prognose-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T21:49:36+02:00"
     }
   ],
   "Food": []
