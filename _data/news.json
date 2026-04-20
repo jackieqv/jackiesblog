@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Energiekrise wird Thema im Nationalen Sicherheitsrat",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sicherheitsrat-energiekrise-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T04:17:14+02:00"
+    },
+    {
+      "title": "Drohnen und Roboter: Wie Technik den Krieg in der Ukraine verändert",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-roboter-drohnen-102.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T03:35:31+02:00"
+    },
+    {
+      "title": "Mehrheit in Nordrhein-Westfalen für Olympia-Bewerbung",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/olympia-entscheidung-nrw-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T03:21:00+02:00"
+    },
+    {
+      "title": "Golf von Oman: US-Militär entert iranisches Frachtschiff",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T02:09:41+02:00"
+    },
+    {
       "title": "Prognose: Bündnis von Ex-Präsident Radev bei Wahl in Bulgarien vorn",
       "link": "https://www.tagesschau.de/ausland/europa/bulgarien-wahl-prognose-100.html",
       "published": "19 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-19T21:49:36+02:00"
-    },
-    {
-      "title": "Acht Kinder bei Gewalttat in den USA getötet",
-      "link": "https://www.tagesschau.de/ausland/amerika/shreveport-usa-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T21:36:40+02:00"
-    },
-    {
-      "title": "Ministerin Warken verteidigt Pläne für Gesundheitsreform",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gesundheitsreform-warken-bab-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T21:21:44+02:00"
-    },
-    {
-      "title": "FC Bayern ist vorzeitig deutscher Fußball-Meister",
-      "link": "https://www.tagesschau.de/sport/sportschau/bayern-muenchen-deutscher-meister-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T19:46:48+02:00"
-    },
-    {
-      "title": "Pistorius bekräftigt Bereitschaft zu Beteiligung an Hormus-Mission",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-pistorius-strasse-von-hormus-100.html",
-      "published": "19 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-19T19:24:28+02:00"
     }
   ],
   "Food": []
