@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Deep Dive: SAP SuccessFactors Employee Central Payroll für den Öffentlichen Dienst in Deutschland",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deep-dive-sap-successfactors-employee-central-payroll-f%C3%BCr-den-%C3%B6ffentlichen/ba-p/14352520",
+      "published": "20 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-20T12:53:21+00:00"
+    },
+    {
       "title": "From Tracking to Acting: Strategic Insights from the SAP SuccessFactors Learning 1H 2026 Release",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-tracking-to-acting-strategic-insights-from-the-sap-successfactors/ba-p/14377565",
       "published": "19 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "17 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-17T07:10:49+00:00"
-    },
-    {
-      "title": "How to Display Position Code in Latest People Profile Header – SAP SuccessFactors EC Workaround",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-display-position-code-in-latest-people-profile-header-sap/ba-p/14373647",
-      "published": "17 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-17T05:59:10+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Erdbeben der Stärke 7,5 erschüttert Norden Japans - Warnung vor Tsunami",
+      "title": "Radew gewinnt Wahl in Bulgarien - EU hofft auf gute Zusammenarbeit",
+      "link": "https://www.tagesschau.de/ausland/europa/wahl-bulgarien-104.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T15:13:27+02:00"
+    },
+    {
+      "title": "UniCredit kritisiert Geschäftsmodell der Commerzbank",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-gewinnsteigerung-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T14:55:15+02:00"
+    },
+    {
+      "title": "Tsunami-Warnung im Norden Japans nach Erdbeben der Stärke 7,7 aufgehoben",
       "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-154.html",
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T11:59:03+02:00"
+      "sort_date": "2026-04-20T14:50:50+02:00"
     },
     {
-      "title": "Russland meldet Festnahme einer Deutschen wegen Terrorverdachts",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-festnahme-deutschland-100.html",
+      "title": "Iran lässt Teilnahme an neuen Verhandlungen offen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-verhandlungen-islamabad-100.html",
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T11:49:46+02:00"
+      "sort_date": "2026-04-20T14:35:59+02:00"
     },
     {
-      "title": "USA starten Rückzahlung illegaler Trump-Zölle",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-usa-100.html",
+      "title": "Krieg, Zölle und hohe Kosten - Industrieverband BDI kappt Prognose",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/bdi-wachstumsprognose-100.html",
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T11:32:37+02:00"
-    },
-    {
-      "title": "Klage zum Abgasskandal: Millionen Dieselmotoren vor dem Aus?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-motor-klage-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T11:03:44+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger nehmen wieder Reißaus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T10:56:10+02:00"
+      "sort_date": "2026-04-20T14:22:53+02:00"
     }
   ],
   "Food": []
