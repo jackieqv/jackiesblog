@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "First Half 2026 Release: What’s New in SAP SuccessFactors Employee Central Global Benefits?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14378809",
+      "published": "20 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-20T21:34:10+00:00"
+    },
+    {
+      "title": "First Half 2026 Release: What’s New in SAP SuccessFactors Compensation?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-compensation/ba-p/14378821",
+      "published": "20 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-20T21:27:47+00:00"
+    },
+    {
       "title": "Deep Dive: SAP SuccessFactors Employee Central Payroll für den Öffentlichen Dienst in Deutschland",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deep-dive-sap-successfactors-employee-central-payroll-f%C3%BCr-den-%C3%B6ffentlichen/ba-p/14352520",
       "published": "20 Apr 2026",
@@ -57,23 +71,16 @@
       "published": "17 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-17T10:11:35+00:00"
-    },
-    {
-      "title": "CSV Validator App Is Now Open Source",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/csv-validator-app-is-now-open-source/ba-p/14376711",
-      "published": "17 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-17T08:06:11+00:00"
-    },
-    {
-      "title": "1H 2026 Release: Streamlining Data after Employment Terminations in SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-streamlining-data-after-employment-terminations-in/ba-p/14374875",
-      "published": "17 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-17T07:10:49+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Printed Neurons That Mimic Brain Cells Could Slash AI’s Energy Bill",
+      "link": "https://singularityhub.com/2026/04/20/printed-neurons-that-mimic-brain-cells-could-slash-ais-energy-bill/",
+      "published": "20 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-20T19:38:06+00:00"
+    },
     {
       "title": "What Physical ‘Life Force’ Turns Biology’s Wheels?",
       "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
@@ -101,16 +108,30 @@
       "published": "17 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-17T14:25:21+00:00"
-    },
-    {
-      "title": "Industries Most Exposed to AI Are Not Only Seeing Productivity Gains but Jobs and Wage Growth Too",
-      "link": "https://singularityhub.com/2026/04/16/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too/",
-      "published": "16 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-16T17:33:34+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Interview mit Präsident Lula: \"Brasilien ist der richtige Standort\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/interview-tagesthemen-lula-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T23:15:45+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump will Blockade iranischer Häfen erst nach \"Deal\" aufheben ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T23:01:34+02:00"
+    },
+    {
+      "title": "Kanzler Merz und Brasiliens Präsident Lula wollen Zusammenarbeit vertiefen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hannover-messe-merz-100.html",
+      "published": "20 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-20T21:24:32+02:00"
+    },
     {
       "title": "Energiekrise: Kerosinversorgung laut Wirtschaftministerium gesichert",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mineraloelwirtschaft-energiekrise-treibstoff-kerosin-100.html",
@@ -124,27 +145,6 @@
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-20T20:48:54+02:00"
-    },
-    {
-      "title": "Bundesregierung bestellt russischen Botschafter ein",
-      "link": "https://www.tagesschau.de/inland/russischer-botschafter-berlin-einbestellt-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T18:46:06+02:00"
-    },
-    {
-      "title": "Marktbericht: Nahostkrise hat die Märkte im Griff",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T18:37:32+02:00"
-    },
-    {
-      "title": "Welche Faktoren die Kriminalstatistik beeinflussen",
-      "link": "https://www.tagesschau.de/inland/polizeiliche-kriminalstatistik-sexualdelikte-straftaten-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T16:36:48+02:00"
     }
   ],
   "Food": []
