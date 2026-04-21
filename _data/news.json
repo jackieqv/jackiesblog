@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "A small config change that saved my HR users a lot of headache — Fuzzy Search in SuccessFactors EC",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/a-small-config-change-that-saved-my-hr-users-a-lot-of-headache-fuzzy-search/ba-p/14376582",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-21T17:45:40+00:00"
+    },
+    {
+      "title": "First Half 2026 Release: Agentic AI in SAP SuccessFactors Learning",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-agentic-ai-in-sap-successfactors-learning/ba-p/14379826",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-21T16:25:43+00:00"
+    },
+    {
       "title": "SuccessFactors Release 1H 2026, Important notes on EC, Platform, Time Management, my view",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-release-1h-2026-important-notes-on-ec-platform-time/ba-p/14379698",
       "published": "21 Apr 2026",
@@ -57,20 +71,6 @@
       "published": "21 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-21T08:02:57+00:00"
-    },
-    {
-      "title": "How to Display Position Code in Latest People Profile Header – SAP SuccessFactors EC Workaround",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-display-position-code-in-latest-people-profile-header-sap/ba-p/14373647",
-      "published": "21 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-21T08:01:59+00:00"
-    },
-    {
-      "title": "First Half 2026 Release: What’s New in SAP SuccessFactors Employee Central Global Benefits?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14378809",
-      "published": "20 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-20T21:34:10+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Pakistan: Teilnahme Irans an Gesprächen offen ++",
+      "title": "Unklarheit über Waffenruhe und Verhandlungen zwischen Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-treffen-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T20:58:35+02:00"
+    },
+    {
+      "title": "München: Kardinal Marx erlaubt Segnung queerer Paare",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/kardinal-marx-segnung-queer-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T20:51:19+02:00"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Friedensgespräche in der Schwebe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T18:05:23+02:00"
+      "sort_date": "2026-04-21T20:30:58+02:00"
     },
     {
-      "title": "Wie Zelltherapien bezahlbar werden könnten",
-      "link": "https://www.tagesschau.de/wissen/forschung/hannover-messe-krebs-zelltherapie-100.html",
+      "title": "Merz zu SPD und Rente: Droht der nächste Koalitionsärger?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-rente-108.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T17:35:35+02:00"
+      "sort_date": "2026-04-21T19:37:09+02:00"
     },
     {
-      "title": "Während Israel um Soldaten und Terroropfer trauert, droht Netanjahu Iran",
-      "link": "https://www.tagesschau.de/ausland/israel-memorial-day-100.html",
+      "title": "Ukraine: Wenn Soldaten spielsüchtig werden",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-armee-spielsucht-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T17:01:05+02:00"
-    },
-    {
-      "title": "Kerosin-Krise: Folgen für Flugpreise, Rechte und Pauschalreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerosin-flugpreise-passagierrechte-pauschalreisen-100.html",
-      "published": "21 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T16:34:27+02:00"
-    },
-    {
-      "title": "EuGH hält Ungarns Anti-LGBTQ-Gesetz für diskriminierend",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-eugh-lgbtq-diskriminierung-100.html",
-      "published": "21 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T15:25:39+02:00"
+      "sort_date": "2026-04-21T19:01:26+02:00"
     }
   ],
   "Food": []
