@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Prozessauftakt im Fall der vergifteten Hamburger Familie",
+      "link": "https://www.tagesschau.de/ausland/istanbul-vergiftete-familie-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T03:29:30+02:00"
+    },
+    {
+      "title": "Petersberger Klimadialog: Schub durch die Energiekrise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/petersberger-dialog-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T02:47:42+02:00"
+    },
+    {
+      "title": "Arbeitsministerin Chavez-DeRemer verlässt US-Regierung",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-chavez-deremer-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T02:47:02+02:00"
+    },
+    {
+      "title": "Führungswechsel bei iPhone-Hersteller Apple - Ternus löst Cook ab",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/cook-apple-ternus-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T00:25:16+02:00"
+    },
+    {
       "title": "Interview mit Präsident Lula: \"Brasilien ist der richtige Standort\"",
       "link": "https://www.tagesschau.de/ausland/amerika/interview-tagesthemen-lula-100.html",
       "published": "20 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-20T23:15:45+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump will Blockade iranischer Häfen erst nach \"Deal\" aufheben ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T23:01:34+02:00"
-    },
-    {
-      "title": "Kanzler Merz und Brasiliens Präsident Lula wollen Zusammenarbeit vertiefen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hannover-messe-merz-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T21:24:32+02:00"
-    },
-    {
-      "title": "Energiekrise: Kerosinversorgung laut Wirtschaftministerium gesichert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mineraloelwirtschaft-energiekrise-treibstoff-kerosin-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T20:49:39+02:00"
-    },
-    {
-      "title": "Folgen des Iran-Kriegs: Keine Entspannung beim Flugbenzin",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-kerosin-100.html",
-      "published": "20 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-20T20:48:54+02:00"
     }
   ],
   "Food": []
