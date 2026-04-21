@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Why Business Rules Become Unmanageable After Global Template Rollouts",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-business-rules-become-unmanageable-after-global-template-rollouts/ba-p/14379268",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-21T10:10:52+00:00"
+    },
+    {
+      "title": "Cost Center Based GL Account Mapping - SAP Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/cost-center-based-gl-account-mapping-sap-payroll/ba-p/14377122",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-21T08:02:57+00:00"
+    },
+    {
+      "title": "How to Display Position Code in Latest People Profile Header – SAP SuccessFactors EC Workaround",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-display-position-code-in-latest-people-profile-header-sap/ba-p/14373647",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-21T08:01:59+00:00"
+    },
+    {
       "title": "First Half 2026 Release: What’s New in SAP SuccessFactors Employee Central Global Benefits?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14378809",
       "published": "20 Apr 2026",
@@ -50,27 +71,6 @@
       "published": "20 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-20T21:27:47+00:00"
-    },
-    {
-      "title": "Deep Dive: SAP SuccessFactors Employee Central Payroll für den Öffentlichen Dienst in Deutschland",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deep-dive-sap-successfactors-employee-central-payroll-f%C3%BCr-den-%C3%B6ffentlichen/ba-p/14352520",
-      "published": "20 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-20T12:53:21+00:00"
-    },
-    {
-      "title": "From Tracking to Acting: Strategic Insights from the SAP SuccessFactors Learning 1H 2026 Release",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-tracking-to-acting-strategic-insights-from-the-sap-successfactors/ba-p/14377565",
-      "published": "19 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-19T12:16:24+00:00"
-    },
-    {
-      "title": "Assignment UUID for Deep Links in SAP SuccessFactors Latest People Profile",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/assignment-uuid-for-deep-links-in-sap-successfactors-latest-people-profile/ba-p/14374724",
-      "published": "17 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-17T10:11:35+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++Iran droht mit Gegenangriffen bei Eskalation ++",
+      "title": "Nahost-Liveblog: ++ Wadephul fordert Iran zu Verhandlungen auf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T09:41:13+02:00"
+      "sort_date": "2026-04-21T12:15:14+02:00"
     },
     {
-      "title": "1.000-Euro-Prämie kann auch 2027 gezahlt werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-ausweitung-100.html",
+      "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
+      "link": "https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T08:51:25+02:00"
+      "sort_date": "2026-04-21T10:35:40+02:00"
     },
     {
-      "title": "Iran-Waffenruhe läuft aus: Pakistan vermittelt unter Zeitdruck",
-      "link": "https://www.tagesschau.de/ausland/asien/verhandlungen-iran-usa-pakistan-100.html",
+      "title": "Vorwürfe der Ausbeutung in der deutschen Fleischindustrie",
+      "link": "https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T08:46:27+02:00"
+      "sort_date": "2026-04-21T10:18:16+02:00"
     },
     {
-      "title": "Der neue Apple-Chef und seine zwei Probleme",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ternus-neuer-apple-chef-100.html",
+      "title": "Marktbericht: Anleger hoffen auf Dialog zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T08:33:24+02:00"
+      "sort_date": "2026-04-21T10:10:31+02:00"
     },
     {
-      "title": "11KM-Podcast: Wie Kriminelle mit geklautem Frittenfett verdienen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-diebstahl-frittenfett-100.html",
+      "title": "Europäischer Gerichtshof kippt Ungarns LGBTQ-Gesetz",
+      "link": "https://www.dw.com/de/europäischer-gerichtshof-kippt-ungarns-lgbtq-gesetz/a-76878001?maca=de-rss-de-top-1016-xml-mrss",
       "published": "21 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T08:20:49+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-21T09:55:00+00:00"
     }
   ],
   "Food": []
