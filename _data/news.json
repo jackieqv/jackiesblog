@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Wadephul fordert Iran zu Verhandlungen auf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
+      "title": "Keine Anzeichen für neue Verhandlungen von Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/ende-waffenruhe-iran-krieg-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T12:15:14+02:00"
+      "sort_date": "2026-04-21T14:48:40+02:00"
+    },
+    {
+      "title": "Spritpreise: Wann Tanken am günstigsten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tagesverlauf-tanken-guenstig-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T13:56:43+02:00"
+    },
+    {
+      "title": "Marktbericht: Startschuss für den Mega-Börsengang von SpaceX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-boersengang-marktbericht-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T13:22:50+02:00"
+    },
+    {
+      "title": "Machtkampf um die Fed - Trumps Kandidat Warsh in der Kritik",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kevin-warsh-fed-trump-powell-100.html",
+      "published": "21 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-21T12:46:05+02:00"
     },
     {
       "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
@@ -124,27 +145,6 @@
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-21T10:35:40+02:00"
-    },
-    {
-      "title": "Vorwürfe der Ausbeutung in der deutschen Fleischindustrie",
-      "link": "https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html",
-      "published": "21 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T10:18:16+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger hoffen auf Dialog zwischen USA und Iran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html",
-      "published": "21 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T10:10:31+02:00"
-    },
-    {
-      "title": "Europäischer Gerichtshof kippt Ungarns LGBTQ-Gesetz",
-      "link": "https://www.dw.com/de/europäischer-gerichtshof-kippt-ungarns-lgbtq-gesetz/a-76878001?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-21T09:55:00+00:00"
     }
   ],
   "Food": []
