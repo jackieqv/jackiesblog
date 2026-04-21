@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SuccessFactors Release 1H 2026, Important notes on EC, Platform, Time Management, my view",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-release-1h-2026-important-notes-on-ec-platform-time/ba-p/14379698",
+      "published": "21 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-21T15:11:42+00:00"
+    },
+    {
       "title": "Why Business Rules Become Unmanageable After Global Template Rollouts",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-business-rules-become-unmanageable-after-global-template-rollouts/ba-p/14379268",
       "published": "21 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "20 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-20T21:34:10+00:00"
-    },
-    {
-      "title": "First Half 2026 Release: What’s New in SAP SuccessFactors Compensation?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-compensation/ba-p/14378821",
-      "published": "20 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-20T21:27:47+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Keine Anzeichen für neue Verhandlungen von Iran und USA",
-      "link": "https://www.tagesschau.de/ausland/asien/ende-waffenruhe-iran-krieg-100.html",
+      "title": "Nahost-Liveblog: ++ Pakistan: Teilnahme Irans an Gesprächen offen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T14:48:40+02:00"
+      "sort_date": "2026-04-21T18:05:23+02:00"
     },
     {
-      "title": "Spritpreise: Wann Tanken am günstigsten ist",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tagesverlauf-tanken-guenstig-100.html",
+      "title": "Wie Zelltherapien bezahlbar werden könnten",
+      "link": "https://www.tagesschau.de/wissen/forschung/hannover-messe-krebs-zelltherapie-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T13:56:43+02:00"
+      "sort_date": "2026-04-21T17:35:35+02:00"
     },
     {
-      "title": "Marktbericht: Startschuss für den Mega-Börsengang von SpaceX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-boersengang-marktbericht-100.html",
+      "title": "Während Israel um Soldaten und Terroropfer trauert, droht Netanjahu Iran",
+      "link": "https://www.tagesschau.de/ausland/israel-memorial-day-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T13:22:50+02:00"
+      "sort_date": "2026-04-21T17:01:05+02:00"
     },
     {
-      "title": "Machtkampf um die Fed - Trumps Kandidat Warsh in der Kritik",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kevin-warsh-fed-trump-powell-100.html",
+      "title": "Kerosin-Krise: Folgen für Flugpreise, Rechte und Pauschalreisen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerosin-flugpreise-passagierrechte-pauschalreisen-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T12:46:05+02:00"
+      "sort_date": "2026-04-21T16:34:27+02:00"
     },
     {
-      "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
-      "link": "https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html",
+      "title": "EuGH hält Ungarns Anti-LGBTQ-Gesetz für diskriminierend",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-eugh-lgbtq-diskriminierung-100.html",
       "published": "21 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-21T10:35:40+02:00"
+      "sort_date": "2026-04-21T15:25:39+02:00"
     }
   ],
   "Food": []
