@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots",
+      "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+      "published": "22 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-22T14:49:47+00:00"
+    },
+    {
       "title": "Scientists Revive Failing Cells With Mitochondria Transplants",
       "link": "https://singularityhub.com/2026/04/21/scientists-revive-failing-cells-with-mitochondria-transplants/",
       "published": "21 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "18 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-18T14:00:00+00:00"
-    },
-    {
-      "title": "Norwegian Man Cured of HIV by His Brother’s Stem Cells",
-      "link": "https://singularityhub.com/2026/04/17/norwegian-man-cured-of-hiv-by-his-brothers-stem-cells/",
-      "published": "17 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-17T22:44:39+00:00"
     }
   ],
   "News": [
     {
-      "title": "Seltene Krankheiten - eine Chance für die Forschung?",
-      "link": "https://www.tagesschau.de/wissen/forschung/seltene-krankheiten-154.html",
+      "title": "Russland beendet Lieferung kasachischen Öls nach Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/russland-oel-kasachstan-deutschland-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T14:54:12+02:00"
+      "sort_date": "2026-04-22T18:05:39+02:00"
     },
     {
-      "title": "Bundesregierung halbiert Wachstumsprognose auf 0,5 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-bundesregierung-102.html",
+      "title": "FAQ: Das soll sich laut Gesetzentwurf bei der Notfallversorgung ändern",
+      "link": "https://www.tagesschau.de/inland/notfallversorgung-reform-102.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T14:52:07+02:00"
+      "sort_date": "2026-04-22T18:02:51+02:00"
     },
     {
-      "title": "\"Skynest\": Air New Zealand führt Etagenbetten für Economy-Gäste ein",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/air-new-zealand-etagenbetten-100.html",
+      "title": "EU-Kommission will mehr Zusammenarbeit in Energiekrise",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-energie-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T14:21:59+02:00"
+      "sort_date": "2026-04-22T17:32:32+02:00"
     },
     {
-      "title": "Entlastung der Notaufnahmen: Kabinett bringt Reform auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-reform-100.html",
+      "title": "Trotz Waffenruhe im Iran-Krieg keine Entspannung am Golf",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-hormus-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T14:01:04+02:00"
+      "sort_date": "2026-04-22T17:05:35+02:00"
     },
     {
-      "title": "Marktbericht: Deutsche Telekom erwägt Verschmelzung mit T-Mobile US",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-22-04-26-100.html",
+      "title": "Wie wurde Kultregisseur Werner Herzog zum Social-Media-Star?",
+      "link": "https://www.tagesschau.de/kultur/werner-herzog-social-media-star-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T13:51:37+02:00"
+      "sort_date": "2026-04-22T16:54:25+02:00"
     }
   ],
   "Food": []
