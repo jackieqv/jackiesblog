@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "The quiet cost of change",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-quiet-cost-of-change/ba-p/14379876",
+      "published": "22 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-22T17:00:00+00:00"
+    },
+    {
       "title": "A small config change that saved my HR users a lot of headache — Fuzzy Search in SuccessFactors EC",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/a-small-config-change-that-saved-my-hr-users-a-lot-of-headache-fuzzy-search/ba-p/14376582",
       "published": "22 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "21 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-21T10:10:52+00:00"
-    },
-    {
-      "title": "Cost Center Based GL Account Mapping - SAP Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/cost-center-based-gl-account-mapping-sap-payroll/ba-p/14377122",
-      "published": "21 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-21T08:02:57+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Russland beendet Lieferung kasachischen Öls nach Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/russland-oel-kasachstan-deutschland-100.html",
+      "title": "Wachstumsprognose halbiert: Reiche fordert Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-fruehjahrsprojektion-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T18:05:39+02:00"
+      "sort_date": "2026-04-22T20:28:52+02:00"
     },
     {
-      "title": "FAQ: Das soll sich laut Gesetzentwurf bei der Notfallversorgung ändern",
-      "link": "https://www.tagesschau.de/inland/notfallversorgung-reform-102.html",
+      "title": "Fußballerinnen des FC Bayern sichern sich vorzeitig die Meisterschaft",
+      "link": "https://www.tagesschau.de/sport/fussball-frauen-bayern-meisterschaft-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T18:02:51+02:00"
+      "sort_date": "2026-04-22T20:15:25+02:00"
     },
     {
-      "title": "EU-Kommission will mehr Zusammenarbeit in Energiekrise",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-energie-100.html",
+      "title": "Militärstrategie soll Bundeswehr krisenfest machen",
+      "link": "https://www.tagesschau.de/inland/pistorius-militaerstrategie-deutschland-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T17:32:32+02:00"
+      "sort_date": "2026-04-22T20:11:43+02:00"
     },
     {
-      "title": "Trotz Waffenruhe im Iran-Krieg keine Entspannung am Golf",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-hormus-100.html",
+      "title": "Petersberger Dialog: Klimaschutz ja, aber nicht gegen die Wirtschaft",
+      "link": "https://www.tagesschau.de/inland/petersberger-klimadialog-rede-merz-100.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T17:05:35+02:00"
+      "sort_date": "2026-04-22T18:57:39+02:00"
     },
     {
-      "title": "Wie wurde Kultregisseur Werner Herzog zum Social-Media-Star?",
-      "link": "https://www.tagesschau.de/kultur/werner-herzog-social-media-star-100.html",
+      "title": "Marktbericht: Das Warten geht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-120.html",
       "published": "22 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-22T16:54:25+02:00"
+      "sort_date": "2026-04-22T18:18:09+02:00"
     }
   ],
   "Food": []
