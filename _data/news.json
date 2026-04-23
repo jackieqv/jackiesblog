@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Saudi Arabia: GOSI Maternity Compensation – Why the “Obvious” Solution Doesn’t Work",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/saudi-arabia-gosi-maternity-compensation-why-the-obvious-solution-doesn-t/ba-p/14381549",
+      "published": "23 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-23T14:40:00+00:00"
+    },
+    {
       "title": "First Half 2026 Release: What’s new in SAP SuccessFactors solutions for workforce management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-solutions-for/ba-p/14381463",
       "published": "23 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "22 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-22T21:49:50+00:00"
-    },
-    {
-      "title": "The quiet cost of change",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-quiet-cost-of-change/ba-p/14379876",
-      "published": "22 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-22T17:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU-Gipfel in Zypern: Beim Iran-Krieg nur an der Seitenlinie",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-100.html",
+      "title": "Marktbericht: Iran-Sorgen und kein Ende",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-128.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T15:09:57+02:00"
+      "sort_date": "2026-04-23T18:22:23+02:00"
     },
     {
-      "title": "China: An der Seite Irans - aber nicht zu offensichtlich",
-      "link": "https://www.tagesschau.de/ausland/asien/chinas-rolle-iran-krieg-100.html",
+      "title": "Straße von Hormus: Trump droht iranischen Minenlegern mit Zerstörung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-iran-hormus-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T14:56:15+02:00"
+      "sort_date": "2026-04-23T16:50:30+02:00"
     },
     {
-      "title": "Lufthansa streicht kostenfreien Handgepäckkoffer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lufthansa-handgepaeck-100.html",
+      "title": "Sozialdemokraten verlassen Regierung in Rumänien",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierungskoalition-zerbrochen-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T14:53:51+02:00"
+      "sort_date": "2026-04-23T16:45:39+02:00"
     },
     {
-      "title": "DDR prägt die Kulturförderung im Osten bis heute",
-      "link": "https://www.tagesschau.de/kultur/kultur-foerderung-ostdeutschland-100.html",
+      "title": "Social-Media-Verbot für Jugendliche in der Türkei beschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-socialmedia-verbot-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T14:37:14+02:00"
+      "sort_date": "2026-04-23T16:18:12+02:00"
     },
     {
-      "title": "Kein Treffen mit Regierungsvertretern - Pahlavi nennt das \"beschämend\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pahlavi-berlin-104.html",
+      "title": "Reza Pahlavi in Berlin: \"Vertreter des iranischen Volkes\"",
+      "link": "https://www.dw.com/de/reza-pahlavi-in-berlin-vertreter-des-iranischen-volkes/a-76912377?maca=de-rss-de-top-1016-xml-mrss",
       "published": "23 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T14:23:55+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-23T16:08:00+00:00"
     }
   ],
   "Food": []
