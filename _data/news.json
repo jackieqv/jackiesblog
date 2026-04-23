@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "The New Look of Success: Navigating the 2026 Experience Updates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-new-look-of-success-navigating-the-2026-experience-updates/ba-p/14378763",
+      "published": "23 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-23T07:25:32+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 1H 2026: The Skills-Based Organisation Finally Grows Up",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-1h-2026-the-skills-based-organisation-finally-grows-up/ba-p/14380910",
       "published": "22 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "21 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-21T16:25:43+00:00"
-    },
-    {
-      "title": "SuccessFactors Release 1H 2026, Important notes on EC, Platform, Time Management, my view",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-release-1h-2026-important-notes-on-ec-platform-time/ba-p/14379698",
-      "published": "21 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-21T15:11:42+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Neue Gespräche zwischen Israel und dem Libanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-112.html",
+      "title": "Tesla-Verkäufe ziehen wieder an - auch auf dem europäischen Markt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-automarkt-acea-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T07:13:10+02:00"
+      "sort_date": "2026-04-23T09:23:14+02:00"
     },
     {
-      "title": "70 Jahre Bundesnachrichtendienst: Wechselvolle Geschichte, große Zukunft?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/70-jahre-bundesnachrichtendienst-100.html",
+      "title": "Ukraine: Zwischen Selenskyj-Regierung und Parlament knirscht es",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-regierung-parlament-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T07:10:11+02:00"
+      "sort_date": "2026-04-23T09:16:22+02:00"
     },
     {
-      "title": "50 Jahre Palast der Republik: Ein Vorzeigebau als Kontrast zum DDR-Alltag",
-      "link": "https://www.tagesschau.de/kultur/palast-der-republik-berlin-100.html",
+      "title": "Zahlen und Fakten zur Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-zahlen-fakten-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T05:05:33+02:00"
+      "sort_date": "2026-04-23T09:16:15+02:00"
     },
     {
-      "title": "Grundausbildung bei der Bundeswehr: Wenn aus Zivilisten Soldaten werden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/grundausbildung-bundeswehr-rekruten-100.html",
+      "title": "Reaktion des iranischen Regimes: Teherans Spiel auf Zeit",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-regime-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T05:02:06+02:00"
+      "sort_date": "2026-04-23T08:56:55+02:00"
     },
     {
-      "title": "Waffenruhe im Iran-Krieg: Trump soll Teheran Frist gesetzt haben",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-feuerpause-eskalation-100.html",
+      "title": "ADAC-Pannenstatistik: Elektroautos sind zuverlässiger als Verbrenner",
+      "link": "https://www.tagesschau.de/wirtschaft/adac-pannenstatistik-e-autos-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T04:58:31+02:00"
+      "sort_date": "2026-04-23T08:40:57+02:00"
     }
   ],
   "Food": []
