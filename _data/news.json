@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How We Built JUNO Joule Agent for Release Testing Automation Solution for SAP SuccessFactors HCM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-juno-joule-agent-for-release-testing-automation-solution-for/ba-p/14372452",
+      "published": "24 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-24T14:29:08+00:00"
+    },
+    {
       "title": "Integrating SAP SuccessFactors with  SmartRecruiters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/integrating-sap-successfactors-with-smartrecruiters/ba-p/14380345",
       "published": "24 Apr 2026",
@@ -64,16 +71,16 @@
       "published": "23 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-23T18:47:55+00:00"
-    },
-    {
-      "title": "1H 2026 SmartRecruiters for SAP SuccessFactors: Connected Solutions and New AI-First Capabilities",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-smartrecruiters-for-sap-successfactors-connected-solutions-and-new/ba-p/14381751",
-      "published": "23 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-23T17:32:23+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+      "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "published": "24 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-24T14:17:44+00:00"
+    },
     {
       "title": "CATL’s New EV Battery Charges in Six Minutes",
       "link": "https://singularityhub.com/2026/04/23/catls-new-ev-battery-charges-in-six-minutes/",
@@ -101,50 +108,43 @@
       "published": "20 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-20T19:38:06+00:00"
-    },
-    {
-      "title": "What Physical ‘Life Force’ Turns Biology’s Wheels?",
-      "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "published": "20 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-20T15:00:16+00:00"
     }
   ],
   "News": [
     {
-      "title": "US-Soldat wegen Wette auf Gefangennahme Maduros mit Insiderwissen angeklagt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-insiderwissen-venezuela-maduro-100.html",
+      "title": "Deutsche Entwicklungshilfe - Weiter massive Probleme bei der GIZ",
+      "link": "https://www.tagesschau.de/investigativ/wdr/giz-software-probleme-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T14:56:33+02:00"
+      "sort_date": "2026-04-24T18:00:16+02:00"
     },
     {
-      "title": "Tankrabatt beschlossen: Wie billig werden Kraftstoffe jetzt?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-faq-100.html",
+      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T14:40:26+02:00"
+      "sort_date": "2026-04-24T17:26:42+02:00"
     },
     {
-      "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html",
+      "title": "Phishing auf Signal: Bundesanwaltschaft ermittelt wegen Spionageverdachts",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ermittlungen-bundesanwaltschaft-signal-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T14:21:48+02:00"
+      "sort_date": "2026-04-24T17:14:17+02:00"
     },
     {
-      "title": "Marktbericht: Künstliche Intelligenz treibt Siemens Energy Geschäft an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-132.html",
+      "title": "Spaniens Sánchez macht sich \"keine Sorgen\" über NATO-Rauswurf",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-usa-nato-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T14:02:44+02:00"
+      "sort_date": "2026-04-24T16:06:51+02:00"
     },
     {
-      "title": "Falsche Zahlen zu angeblichen Impf-Toten",
-      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-falschbehauptung-100.html",
+      "title": "BGH: Mehr Pflichten für Eigentümergemeinschaften bei maroden Balkonen",
+      "link": "https://www.tagesschau.de/wirtschaft/balkon-sanierung-bgh-urteil-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T13:16:05+02:00"
+      "sort_date": "2026-04-24T15:47:15+02:00"
     }
   ],
   "Food": []
