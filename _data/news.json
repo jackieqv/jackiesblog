@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Integrating SAP SuccessFactors with  SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/integrating-sap-successfactors-with-smartrecruiters/ba-p/14380345",
+      "published": "24 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-24T12:31:42+00:00"
+    },
+    {
+      "title": "Turning “Moments of truth” into lasting impressions with SAP SuccessFactors Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/turning-moments-of-truth-into-lasting-impressions-with-sap-successfactors/ba-p/14372414",
+      "published": "24 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-24T12:30:28+00:00"
+    },
+    {
       "title": "Automating Probation Extensions After Sick Leave in SAP SuccessFactors Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/automating-probation-extensions-after-sick-leave-in-sap-successfactors/ba-p/14381708",
       "published": "24 Apr 2026",
@@ -57,20 +71,6 @@
       "published": "23 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-23T17:32:23+00:00"
-    },
-    {
-      "title": "Saudi Arabia: GOSI Maternity Compensation – Why the “Obvious” Solution Doesn’t Work",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/saudi-arabia-gosi-maternity-compensation-why-the-obvious-solution-doesn-t/ba-p/14381549",
-      "published": "23 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-23T14:40:00+00:00"
-    },
-    {
-      "title": "First Half 2026 Release: What’s new in SAP SuccessFactors solutions for workforce management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-solutions-for/ba-p/14381463",
-      "published": "23 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-23T13:17:51+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Berlin und Paris wollen Verhandlungen über Luftkampfsystem FCAS fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-106.html",
+      "title": "US-Soldat wegen Wette auf Gefangennahme Maduros mit Insiderwissen angeklagt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-insiderwissen-venezuela-maduro-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T12:11:45+02:00"
+      "sort_date": "2026-04-24T14:56:33+02:00"
     },
     {
-      "title": "Bundestag beschließt Tankrabatt und Entlastungsprämie",
-      "link": "https://www.tagesschau.de/inland/bundestag-tankrabatt-praemie-100.html",
+      "title": "Tankrabatt beschlossen: Wie billig werden Kraftstoffe jetzt?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-faq-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T12:09:22+02:00"
+      "sort_date": "2026-04-24T14:40:26+02:00"
     },
     {
-      "title": "ifo-Geschäftsklima wegen des Iran-Kriegs stark eingetrübt",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-stimmung-wirtschaft-100.html",
+      "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T11:33:02+02:00"
+      "sort_date": "2026-04-24T14:21:48+02:00"
     },
     {
-      "title": "Nach Festnahmen in Bayern: \"Wegwerf-Agenten\" auf der A6?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/agenten-spionage-ukraine-russland-lettland-100.html",
+      "title": "Marktbericht: Künstliche Intelligenz treibt Siemens Energy Geschäft an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-132.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T11:30:38+02:00"
+      "sort_date": "2026-04-24T14:02:44+02:00"
     },
     {
-      "title": "Gesetzesentwurf: Norwegen plant Social-Media-Verbot für Kinder",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-social-media-verbot-100.html",
+      "title": "Falsche Zahlen zu angeblichen Impf-Toten",
+      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-falschbehauptung-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T11:05:12+02:00"
+      "sort_date": "2026-04-24T13:16:05+02:00"
     }
   ],
   "Food": []
