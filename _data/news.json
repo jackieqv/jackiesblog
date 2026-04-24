@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "CATL’s New EV Battery Charges in Six Minutes",
+      "link": "https://singularityhub.com/2026/04/23/catls-new-ev-battery-charges-in-six-minutes/",
+      "published": "23 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-23T22:21:28+00:00"
+    },
+    {
       "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots",
       "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
       "published": "22 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "20 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-20T15:00:16+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through April 18)",
-      "link": "https://singularityhub.com/2026/04/18/this-weeks-awesome-tech-stories-from-around-the-web-through-april-18-2/",
-      "published": "18 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-18T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Iran-Liveblog: ++ Israel greift Raketenabschussrampe der Hisbollah an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T04:24:49+02:00"
+    },
+    {
+      "title": "Tankrabatt und Entlastungsprämie im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-praemie-bundestag-100.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T03:51:44+02:00"
+    },
+    {
+      "title": "Afrikareise: Papst Leo als Mahner der Mächtigen",
+      "link": "https://www.tagesschau.de/ausland/afrika/papst-reise-afrika-100.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T03:22:39+02:00"
+    },
+    {
+      "title": "Trump verkündet Verlängerung der Libanon-Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/waffenruhe-israel-libanon-104.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T00:56:51+02:00"
+    },
     {
       "title": "Cyberangriffe - Warum der Signal-Messenger für die Politik zum Problem wird",
       "link": "https://www.tagesschau.de/inland/kloeckner-signal-phishing-100.html",
       "published": "23 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-23T20:14:46+02:00"
-    },
-    {
-      "title": "EU-Gipfel ohne Orban: Erleichterung über Ukraine-Kredit",
-      "link": "https://www.dw.com/de/eu-gipfel-ohne-orban-erleichterung-über-ukraine-kredit/a-76915536?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-23T20:06:00+00:00"
-    },
-    {
-      "title": "Neuer Vertrag: Frankreich und Großbritannien wollen Ärmelkanal-Migration stoppen",
-      "link": "https://www.tagesschau.de/ausland/europa/migrationspakt-frankreich-grossbritannien-100.html",
-      "published": "23 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T18:33:39+02:00"
-    },
-    {
-      "title": "Marktbericht: Iran-Sorgen und kein Ende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-128.html",
-      "published": "23 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T18:22:23+02:00"
-    },
-    {
-      "title": "Straße von Hormus: Trump droht iranischen Minenlegern mit Zerstörung",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-iran-hormus-100.html",
-      "published": "23 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-23T16:50:30+02:00"
     }
   ],
   "Food": []
