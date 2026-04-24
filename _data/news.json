@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Grimme-Preise in Marl verliehen",
+      "link": "https://www.tagesschau.de/kultur/marl-grimme-preise-100.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T21:14:24+02:00"
+    },
+    {
+      "title": "Hinrichtungen auf Bundesebene: USA erlauben künftig Erschießungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/todesstrafe-usa-erschiessung-100.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T21:04:50+02:00"
+    },
+    {
+      "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html",
+      "published": "24 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-24T20:53:50+02:00"
+    },
+    {
       "title": "Neue Friedensgespräche zwischen Iran und USA?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-pakistan-100.html",
       "published": "24 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-24T19:34:00+02:00"
-    },
-    {
-      "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T19:24:33+02:00"
-    },
-    {
-      "title": "Kanadisches Start-Up übernimmt einstige KI-Hoffnung Aleph Alpha",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-aleph-alpha-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T19:00:39+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX sucht seine Richtung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-130.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T18:20:12+02:00"
     }
   ],
   "Food": []
