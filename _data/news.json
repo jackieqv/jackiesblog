@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through April 25)",
+      "link": "https://singularityhub.com/2026/04/25/this-weeks-awesome-tech-stories-from-around-the-web-through-april-25-2/",
+      "published": "25 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-25T17:02:39+00:00"
+    },
+    {
       "title": "A Humanoid Robot Beat the Human World Record for a Half Marathon",
       "link": "https://singularityhub.com/2026/04/24/a-humanoid-robot-beat-the-human-world-record-for-a-half-marathon/",
       "published": "24 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "22 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-22T14:49:47+00:00"
-    },
-    {
-      "title": "Scientists Revive Failing Cells With Mitochondria Transplants",
-      "link": "https://singularityhub.com/2026/04/21/scientists-revive-failing-cells-with-mitochondria-transplants/",
-      "published": "21 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-21T20:08:48+00:00"
     }
   ],
   "News": [
     {
-      "title": "Abbau von Geldautomaten: In der Kleinstadt ohne Bargeld",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-geldautomaten-100.html",
+      "title": "Schweden: Atomkraft - ja, bitte",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-atomkraft-100.html",
       "published": "25 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T16:29:40+02:00"
+      "sort_date": "2026-04-25T20:43:28+02:00"
     },
     {
-      "title": "Wer steckt hinter der mutmaßlichen Spionage-Attacke über Signal?",
+      "title": "Palästinensergebiete: Wählen unter besonderen Umständen",
+      "link": "https://www.tagesschau.de/ausland/asien/kommunalwahl-westjordanland-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T19:59:58+02:00"
+    },
+    {
+      "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/islamabad-iran-gespraeche-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T19:02:40+02:00"
+    },
+    {
+      "title": "Bundesregierung sieht Russland hinter Phishing-Attacke über Signal",
       "link": "https://www.tagesschau.de/inland/innenpolitik/signal-phishing-attacke-bundesregierung-100.html",
       "published": "25 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T16:28:48+02:00"
+      "sort_date": "2026-04-25T17:55:05+02:00"
     },
     {
-      "title": "Militär in Mali: Angriffe durch \"bewaffnete Terroristen\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T15:21:47+02:00"
-    },
-    {
-      "title": "Merz: Keine Kürzungen bei der gesetzlichen Rente geplant",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-rente-rede-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T15:03:01+02:00"
-    },
-    {
-      "title": "Schüsse und Detonationen in mehreren Städten Malis",
-      "link": "https://www.dw.com/de/schüsse-und-detonationen-in-mehreren-städten-malis/a-76934470?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Iran-Krieg als neue Machtprobe zwischen Trump und Kongress",
+      "link": "https://www.dw.com/de/iran-krieg-als-neue-machtprobe-zwischen-trump-und-kongress/a-76925856?maca=de-rss-de-top-1016-xml-mrss",
       "published": "25 Apr 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-25T14:00:00+00:00"
+      "sort_date": "2026-04-25T17:39:00+00:00"
     }
   ],
   "Food": []
