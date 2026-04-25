@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Papst fordert Abschaffung der Todesstrafe - USA verschärfen sie",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-todesstrafe-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T13:50:21+02:00"
+    },
+    {
+      "title": "Mobbing-Vorwürfe: Drei Polizei-Führungskräfte in NRW suspendiert",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/mobbingvorwurf-polizei-moenchengladbach-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T13:22:00+02:00"
+    },
+    {
+      "title": "Phishing auf Signal: Bundesregierung von Angriff betroffen",
+      "link": "https://www.tagesschau.de/inland/signal-ausspaehung-bundesregierung-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T12:17:17+02:00"
+    },
+    {
+      "title": "Mehrere Tote nach schweren russischen Angriffen auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-112.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T11:54:12+02:00"
+    },
+    {
       "title": "Geplünderte Rücklagen: Albtraum für Mieter und Wohnungseigentümer",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hausverwaltung-immobilie-betrug-100.html",
       "published": "25 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-25T11:47:43+02:00"
-    },
-    {
-      "title": "Liveblog: ++ Libanon meldet Tote nach Luftangriffen Israels ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T11:45:57+02:00"
-    },
-    {
-      "title": "Mitmachaktionen: Wie Hobbyforscher der Wissenschaft helfen",
-      "link": "https://www.tagesschau.de/wissen/forschung/buergerforschung-citizen-science-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T11:45:52+02:00"
-    },
-    {
-      "title": "Slowakei: Proteste gegen Entlassungen und Zensur in Kultur und Medien",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-zensur-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T11:38:52+02:00"
-    },
-    {
-      "title": "Palästinensische Gebiete: Kommunalwahlen und jede Menge Fragezeichen",
-      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-gebiete-kommunalwahlen-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T11:12:50+02:00"
     }
   ],
   "Food": []
