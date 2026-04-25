@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "News kompakt: Vage Hoffnung auf neue Iran-Friedensgespräche",
+      "link": "https://www.dw.com/de/news-kompakt-vage-hoffnung-auf-neue-iran-friedensgespräche/a-76930375?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "25 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-25T07:00:00+00:00"
+    },
+    {
+      "title": "Wie Europa die Straße von Hormus sichern will",
+      "link": "https://www.dw.com/de/wie-europa-die-straße-von-hormus-sichern-will/a-76922533?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "25 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-25T05:46:00+00:00"
+    },
+    {
       "title": "Solidaritätskonzert für die Opfer von Crans-Montana",
       "link": "https://www.tagesschau.de/ausland/europa/crans-montana-128.html",
       "published": "25 Apr 2026",
@@ -119,7 +133,7 @@
       "sort_date": "2026-04-25T05:21:23+02:00"
     },
     {
-      "title": "Union wollte offenbar Kündigungsschutz aufweichen",
+      "title": "Union wollte in Reformverhandlungen offenbar Kündigungsschutz aufweichen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/union-kuendigungsschutz-reformverhandlungen-100.html",
       "published": "25 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -131,20 +145,6 @@
       "published": "25 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-25T05:19:39+02:00"
-    },
-    {
-      "title": "Waffenruhe im Libanon: Rückkehr in die zerstörte Heimat",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-rueckkehrer-zerstoerung-100.html",
-      "published": "25 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-25T05:19:18+02:00"
-    },
-    {
-      "title": "Grimme-Preise in Marl verliehen",
-      "link": "https://www.tagesschau.de/kultur/marl-grimme-preise-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T21:14:24+02:00"
     }
   ],
   "Food": []
