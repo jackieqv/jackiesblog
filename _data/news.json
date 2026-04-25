@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A Humanoid Robot Beat the Human World Record for a Half Marathon",
+      "link": "https://singularityhub.com/2026/04/24/a-humanoid-robot-beat-the-human-world-record-for-a-half-marathon/",
+      "published": "24 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-24T22:34:04+00:00"
+    },
+    {
       "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
       "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
       "published": "24 Apr 2026",
@@ -101,13 +108,6 @@
       "published": "21 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-21T20:08:48+00:00"
-    },
-    {
-      "title": "Printed Neurons That Mimic Brain Cells Could Slash AI’s Energy Bill",
-      "link": "https://singularityhub.com/2026/04/20/printed-neurons-that-mimic-brain-cells-could-slash-ais-energy-bill/",
-      "published": "20 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-20T19:38:06+00:00"
     }
   ],
   "News": [
