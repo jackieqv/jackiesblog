@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Solidaritätskonzert für die Opfer von Crans-Montana",
+      "link": "https://www.tagesschau.de/ausland/europa/crans-montana-128.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T05:21:23+02:00"
+    },
+    {
+      "title": "Union wollte offenbar Kündigungsschutz aufweichen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-kuendigungsschutz-reformverhandlungen-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T05:20:53+02:00"
+    },
+    {
+      "title": "Mögliche Hormus-Mission: Bundeswehr verlegt Minenjagdboot ins Mittelmeer",
+      "link": "https://www.tagesschau.de/inland/pistorius-bundeswehr-minensuchboot-mittelmeer-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T05:19:39+02:00"
+    },
+    {
+      "title": "Waffenruhe im Libanon: Rückkehr in die zerstörte Heimat",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-rueckkehrer-zerstoerung-100.html",
+      "published": "25 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-25T05:19:18+02:00"
+    },
+    {
       "title": "Grimme-Preise in Marl verliehen",
       "link": "https://www.tagesschau.de/kultur/marl-grimme-preise-100.html",
       "published": "24 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-24T21:14:24+02:00"
-    },
-    {
-      "title": "Hinrichtungen auf Bundesebene: USA erlauben künftig Erschießungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/todesstrafe-usa-erschiessung-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T21:04:50+02:00"
-    },
-    {
-      "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T20:53:50+02:00"
-    },
-    {
-      "title": "Neue Friedensgespräche zwischen Iran und USA?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-pakistan-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T20:44:59+02:00"
-    },
-    {
-      "title": "Ermittlungen gegen Chef der US-Notenbank Jerome Powell eingestellt",
-      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-powell-eingestellt-100.html",
-      "published": "24 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-24T19:34:00+02:00"
     }
   ],
   "Food": []
