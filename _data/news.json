@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Schüsse bei Gala in Washington: Die Regierung im Visier",
+      "title": "Schüsse bei Gala in Washington: Die Regierung im Visier?",
       "link": "https://www.tagesschau.de/ausland/amerika/washington-anschlag-trump-100.html",
       "published": "26 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T17:35:18+02:00"
+      "sort_date": "2026-04-26T20:43:55+02:00"
+    },
+    {
+      "title": "Diplomatie im Iran-Krieg: Viele Flugstunden, wenig Aussicht auf neues Treffen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-gespraeche-100.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T20:11:48+02:00"
+    },
+    {
+      "title": "Reaktorstörfall im Labor: Stresstest für Brennelemente im Mini-AKW",
+      "link": "https://www.tagesschau.de/wissen/technologie/mini-atomkraftwerke-stresstest-100.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T19:45:24+02:00"
+    },
+    {
+      "title": "Nouripour fordert mehr Tempo beim Kampf gegen Kerosinmangel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/energieknappheit-kerosin-nouripour-100.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T18:57:48+02:00"
     },
     {
       "title": "US-Forscher in Frankreich: \"Froh, dem Druck entkommen zu sein\"",
@@ -124,27 +145,6 @@
       "published": "26 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-26T16:43:48+02:00"
-    },
-    {
-      "title": "Ukrainische Ärzte auf Lern- und Lehrmission in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ukrainische-aerzte-deutschland-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T16:32:04+02:00"
-    },
-    {
-      "title": "Wettlauf um Usbekistans Kupfer",
-      "link": "https://www.tagesschau.de/ausland/asien/usbekistan-rohstoffe-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T16:31:03+02:00"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russische Angriffe auf Züge und Bahnhöfe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-eisenbahn-angriffe-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T15:48:04+02:00"
     }
   ],
   "Food": []
