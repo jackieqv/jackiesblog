@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "40 Jahre nach Tschernobyl: Die nicht endende Atomkraft-Debatte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/atomkraft-deutschland-100.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T11:46:32+02:00"
+    },
+    {
+      "title": "Schüsse bei Gala mit Trump: Was über die Tat und den Schützen bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-korrespondentendinner-100.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T11:09:59+02:00"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Gegenseitige Angriffe mit Toten und Verletzten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-154.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T10:53:21+02:00"
+    },
+    {
+      "title": "Beim AKW Tschernobyl: Leben im Schatten von Strahlung und Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/tschernobyl-40-jahre-102.html",
+      "published": "26 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-26T10:41:00+02:00"
+    },
+    {
       "title": "AfD NRW schließt umstrittenes Mitglied Eichwald aus",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-eichwald-parteiausschluss-100.html",
       "published": "26 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-26T09:17:05+02:00"
-    },
-    {
-      "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-diplomatie-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T08:42:48+02:00"
-    },
-    {
-      "title": "Schüsse bei Washingtoner Korrespondenten-Dinner mit Trump",
-      "link": "https://www.dw.com/de/schüsse-bei-washingtoner-korrespondenten-dinner-mit-trump/a-76939451?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "26 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-26T05:56:00+00:00"
-    },
-    {
-      "title": "Schüsse in Washington: US-Präsident Trump in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-korrespondentendinner-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T05:54:22+02:00"
-    },
-    {
-      "title": "Mehrere Tote bei Bombenanschlag im Westen Kolumbiens",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-bombenanschlag-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T05:04:32+02:00"
     }
   ],
   "Food": []
