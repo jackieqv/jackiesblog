@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Quantum Computers Are Coming to Break Cryptography Faster Than Anyone Expected",
+      "link": "https://singularityhub.com/2026/04/27/quantum-computers-are-coming-to-break-cryptography-faster-than-anyone-expected/",
+      "published": "27 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-27T17:14:10+00:00"
+    },
+    {
       "title": "Physicists Discover the Most Complex Forms of Ice Yet",
       "link": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
       "published": "27 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "24 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-24T14:17:44+00:00"
-    },
-    {
-      "title": "CATL’s New EV Battery Charges in Six Minutes",
-      "link": "https://singularityhub.com/2026/04/23/catls-new-ev-battery-charges-in-six-minutes/",
-      "published": "23 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-23T22:21:28+00:00"
     }
   ],
   "News": [
     {
-      "title": "Langes Wochenende zum 1. Mai mit Temperaturen bis 26 Grad",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/mai-wetter-100.html",
+      "title": "Schütze von Washington soll wegen Mordversuchs an Trump angeklagt werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/anklage-verdaechtiger-correspondents-dinner-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T18:18:51+02:00"
+      "sort_date": "2026-04-27T21:13:38+02:00"
     },
     {
-      "title": "Kämpfe in Mali: Gegner der Junta wählen neue Taktik",
-      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-islamisten-100.html",
+      "title": "Veränderte Machtstrukturen: Wer hat in Iran das Sagen?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-machtstrukturen-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T17:36:40+02:00"
+      "sort_date": "2026-04-27T20:43:06+02:00"
     },
     {
-      "title": "Ex-Finanzminister Lindner soll Chef der Autoland AG werden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lindner-autoland-ag-100.html",
+      "title": "Treffen in St. Petersburg: Putin stellt sich demonstrativ hinter Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-iran-usa-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T16:13:00+02:00"
+      "sort_date": "2026-04-27T20:01:37+02:00"
     },
     {
-      "title": "Sudan: Völkermord vor aller Augen?",
-      "link": "https://www.dw.com/de/sudan-völkermord-vor-aller-augen/a-76955452?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "27 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-27T15:46:00+00:00"
-    },
-    {
-      "title": "Wadephul setzt auf den UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/amerika/wadephul-vereinte-nationen-100.html",
+      "title": "CDU-Politiker Kiesewetter kritisiert russischen \"Terrorstaat\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kiesewetter-russland-terrorstaat-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T15:23:48+02:00"
+      "sort_date": "2026-04-27T19:12:31+02:00"
+    },
+    {
+      "title": "Marktbericht: Zu viele Unwägbarkeiten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T18:42:07+02:00"
     }
   ],
   "Food": []
