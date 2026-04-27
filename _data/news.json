@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Reward & Recognition : Configure business rule to avoid \"No budget holder\" issue for top hierarchy",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reward-amp-recognition-configure-business-rule-to-avoid-quot-no-budget/ba-p/14377896",
+      "published": "27 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-27T07:36:53+00:00"
+    },
+    {
       "title": "How We Built JUNO Joule Agent for Release Testing Automation Solution for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-juno-joule-agent-for-release-testing-automation-solution-for/ba-p/14372452",
       "published": "24 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "24 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-24T08:10:39+00:00"
-    },
-    {
-      "title": "First Half 2026 Release: What's New for SAP SuccessFactors Career and Talent Development",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-for-sap-successfactors-career-and-talent/ba-p/14380644",
-      "published": "23 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-23T18:47:55+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Vorstand der Unionsfraktion im Bundestag trifft sich zur Klausur",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-klingbeil-schuldenbremse-100.html",
+      "title": "Konsumklima eingetrübt: Kauflust der Deutschen schwindet weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gfk-verbraucher-konsum-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T07:48:02+02:00"
+      "sort_date": "2026-04-27T10:19:18+02:00"
     },
     {
-      "title": "Gespräche zwischen USA und Iran stocken: Wenig Hoffnung auf Entspannung",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-stockende-verhandlungen-100.html",
+      "title": "Neue Studie: 12-Uhr-Regel steigert Profit der Mineralölkonzerne",
+      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-12-uhr-regel-profit-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T07:18:59+02:00"
+      "sort_date": "2026-04-27T09:25:51+02:00"
     },
     {
-      "title": "11KM-Podcast: Was folgt auf Trumps Ölblockade Kubas?",
-      "link": "https://www.tagesschau.de/podcast-11km-montag-oelblockade-trump-100.html",
+      "title": "SPD-Landesgruppen stellen sich gegen Reform der Familienversicherung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reformen-positionspapier-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T07:16:25+02:00"
+      "sort_date": "2026-04-27T08:56:09+02:00"
     },
     {
-      "title": "Charles in den USA: Die heikle Trump-Mission des Königs",
-      "link": "https://www.tagesschau.de/ausland/europa/charles-usa-reise-100.html",
+      "title": "US-Reaktionen auf Angriff: \"Wir sind eine wütende, polarisierte Nation\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-reaktionen-angriff-gala-trump-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T06:30:36+02:00"
+      "sort_date": "2026-04-27T08:42:46+02:00"
     },
     {
-      "title": "Wie BP und Total den Ausbau der Offshore-Windkraft ausbremsen wollen",
-      "link": "https://www.tagesschau.de/investigativ/ndr/offshore-studie-fraunhofer-institut-bp-total-100.html",
+      "title": "Marktbericht: Anleger verdrängen Inflationssorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T06:05:07+02:00"
+      "sort_date": "2026-04-27T08:13:07+02:00"
     }
   ],
   "Food": []
