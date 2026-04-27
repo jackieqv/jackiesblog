@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Physicists Discover the Most Complex Forms of Ice Yet",
+      "link": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
+      "published": "27 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-27T15:08:23+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through April 25)",
       "link": "https://singularityhub.com/2026/04/25/this-weeks-awesome-tech-stories-from-around-the-web-through-april-25-2/",
       "published": "25 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "23 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-23T22:21:28+00:00"
-    },
-    {
-      "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots",
-      "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
-      "published": "22 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-22T14:49:47+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Langes Wochenende zum 1. Mai mit Temperaturen bis 26 Grad",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/mai-wetter-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T18:18:51+02:00"
+    },
+    {
+      "title": "Kämpfe in Mali: Gegner der Junta wählen neue Taktik",
+      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-islamisten-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T17:36:40+02:00"
+    },
+    {
+      "title": "Ex-Finanzminister Lindner soll Chef der Autoland AG werden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lindner-autoland-ag-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T16:13:00+02:00"
+    },
+    {
+      "title": "Sudan: Völkermord vor aller Augen?",
+      "link": "https://www.dw.com/de/sudan-völkermord-vor-aller-augen/a-76955452?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Apr 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-27T15:46:00+00:00"
+    },
     {
       "title": "Wadephul setzt auf den UN-Sicherheitsrat",
       "link": "https://www.tagesschau.de/ausland/amerika/wadephul-vereinte-nationen-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-27T15:23:48+02:00"
-    },
-    {
-      "title": "Innovative Brennstoffzelle macht Biogasanlagen zum Stromspeicher",
-      "link": "https://www.tagesschau.de/wissen/technologie/energie-kraftwerke-brennstoffzellen-100.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T15:12:37+02:00"
-    },
-    {
-      "title": "Luxemburgisch-deutsche Grenze: Gericht erklärt Grenzkontrollen für rechtswidrig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gericht-grenzkontrollen-100.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T15:04:16+02:00"
-    },
-    {
-      "title": "Wenn Männer sich nicht männlich genug fühlen",
-      "link": "https://www.tagesschau.de/wissen/forschung/studie-maennlichkeit-102.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T14:54:16+02:00"
-    },
-    {
-      "title": "Wie kommen deutsche Autos bei der weltgrößten Automesse in Peking an?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/automesse-peking-124.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T14:33:29+02:00"
     }
   ],
   "Food": []
