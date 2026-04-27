@@ -112,11 +112,18 @@
   ],
   "News": [
     {
-      "title": "Schüsse bei Gala in Washington: Die Regierung im Visier?",
-      "link": "https://www.tagesschau.de/ausland/amerika/washington-anschlag-trump-100.html",
-      "published": "26 Apr 2026",
+      "title": "Zahl der Kriegsdienstverweigerer steigt deutlich an",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerer-zahl-steigt-100.html",
+      "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T20:43:55+02:00"
+      "sort_date": "2026-04-27T03:14:17+02:00"
+    },
+    {
+      "title": "SIPRI-Bericht: Neuer Rekord bei weltweiten Militärausgaben",
+      "link": "https://www.tagesschau.de/ausland/europa/sipri-militaerausgaben-gestiegen-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T00:02:02+02:00"
     },
     {
       "title": "Diplomatie im Iran-Krieg: Viele Flugstunden, wenig Aussicht auf neues Treffen",
@@ -138,13 +145,6 @@
       "published": "26 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-26T18:57:48+02:00"
-    },
-    {
-      "title": "US-Forscher in Frankreich: \"Froh, dem Druck entkommen zu sein\"",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-usa-wissenschaftler-100.html",
-      "published": "26 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-26T16:43:48+02:00"
     }
   ],
   "Food": []
