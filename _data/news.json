@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Klausurtagung CDU/CSU: Reformpläne, Kanzler und Zweckoptimismus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/unionsfraktion-klausur-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T22:14:46+02:00"
+    },
+    {
       "title": "Schütze von Washington soll wegen Mordversuchs an Trump angeklagt werden",
       "link": "https://www.tagesschau.de/ausland/amerika/anklage-verdaechtiger-correspondents-dinner-100.html",
       "published": "27 Apr 2026",
@@ -126,11 +133,11 @@
       "sort_date": "2026-04-27T20:43:06+02:00"
     },
     {
-      "title": "Treffen in St. Petersburg: Putin stellt sich demonstrativ hinter Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/russland-iran-usa-100.html",
+      "title": "Wie Trump den Anschlag politisch für sich nutzen könnte",
+      "link": "https://www.dw.com/de/wie-trump-den-anschlag-politisch-für-sich-nutzen-könnte/a-76956996?maca=de-rss-de-top-1016-xml-mrss",
       "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T20:01:37+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-27T19:36:00+00:00"
     },
     {
       "title": "CDU-Politiker Kiesewetter kritisiert russischen \"Terrorstaat\"",
@@ -138,13 +145,6 @@
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-27T19:12:31+02:00"
-    },
-    {
-      "title": "Marktbericht: Zu viele Unwägbarkeiten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T18:42:07+02:00"
     }
   ],
   "Food": []
