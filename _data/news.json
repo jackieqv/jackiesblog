@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Latest People Profile MDF object UI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-people-profile-mdf-object-ui/ba-p/14371609",
+      "published": "27 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-27T10:30:45+00:00"
+    },
+    {
       "title": "Reward & Recognition : Configure business rule to avoid \"No budget holder\" issue for top hierarchy",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reward-amp-recognition-configure-business-rule-to-avoid-quot-no-budget/ba-p/14377896",
       "published": "27 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "24 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-24T12:30:28+00:00"
-    },
-    {
-      "title": "Automating Probation Extensions After Sick Leave in SAP SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/automating-probation-extensions-after-sick-leave-in-sap-successfactors/ba-p/14381708",
-      "published": "24 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-24T08:10:39+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Konsumklima eingetrübt: Kauflust der Deutschen schwindet weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gfk-verbraucher-konsum-100.html",
+      "title": "Statistisches Bundesamt: Jeder sechste Verkehrstote war Fahrradfahrer",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/strassenverkehr-fahrradfahrer-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T10:19:18+02:00"
+      "sort_date": "2026-04-27T11:29:07+02:00"
     },
     {
-      "title": "Neue Studie: 12-Uhr-Regel steigert Profit der Mineralölkonzerne",
-      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-12-uhr-regel-profit-100.html",
+      "title": "DAX-Dividenden auf Rekordhoch: Worauf Anleger jetzt achten sollten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-dividenden-anleger-aktien-rendite-100.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T09:25:51+02:00"
+      "sort_date": "2026-04-27T11:05:34+02:00"
     },
     {
-      "title": "SPD-Landesgruppen stellen sich gegen Reform der Familienversicherung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reformen-positionspapier-100.html",
+      "title": "Israel: Ex-Regierungschefs schmieden Allianz gegen Netanjahu",
+      "link": "https://www.dw.com/de/israel-ex-regierungschefs-schmieden-allianz-gegen-netanjahu/a-76951561?maca=de-rss-de-top-1016-xml-mrss",
       "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T08:56:09+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-27T11:00:00+00:00"
     },
     {
-      "title": "US-Reaktionen auf Angriff: \"Wir sind eine wütende, polarisierte Nation\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-reaktionen-angriff-gala-trump-100.html",
-      "published": "27 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T08:42:46+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger verdrängen Inflationssorgen",
+      "title": "Marktbericht: Investoren schielen auf die Geldpolitik",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html",
       "published": "27 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-27T08:13:07+02:00"
+      "sort_date": "2026-04-27T10:41:36+02:00"
+    },
+    {
+      "title": "Parlamentarier fordern Gegenmaßnahmen nach Signal-Attacke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/signal-diskussion-100.html",
+      "published": "27 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-27T10:32:05+02:00"
     }
   ],
   "Food": []
