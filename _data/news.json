@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Auf den letzten Drücker: Was ändert sich bei der Gesundheitsreform?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-abstimmung-kabinett-100.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T21:32:31+02:00"
+    },
+    {
+      "title": "Welche Folgen der Austritt der VAE aus der OPEC haben kann",
+      "link": "https://www.tagesschau.de/ausland/asien/vae-austritt-opec-folgen-100.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T20:47:04+02:00"
+    },
+    {
+      "title": "Spitze der Unionsfraktion fordert Geschlossenheit der Koalition",
+      "link": "https://www.tagesschau.de/inland/unionsklausur-102.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T19:42:18+02:00"
+    },
+    {
+      "title": "Wenn junge Menschen mit Depressionen Hilfe bei KI suchen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/depressionen-ki-100.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T19:31:40+02:00"
+    },
+    {
       "title": "Angeklagter gesteht geplanten Anschlag auf Swift-Konzert in Wien",
       "link": "https://www.tagesschau.de/ausland/europa/anschlag-konzert-swift-prozess-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-28T18:39:22+02:00"
-    },
-    {
-      "title": "EU-Parlament fordert höheres Budget: Die Zwei-Billionen-Euro-Frage",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-europaparlament-100.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T18:18:32+02:00"
-    },
-    {
-      "title": "Marktbericht: Aktien- und Ölmärkte ernüchtert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-126.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T18:18:27+02:00"
-    },
-    {
-      "title": "Gefahr von Sanktionsumgehungen - Die Iran-Geschäfte einer Volksbank",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-volksbank-100.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T18:11:51+02:00"
-    },
-    {
-      "title": "Belarus lässt polnisch-belarusischen Journalisten Poczobut frei",
-      "link": "https://www.tagesschau.de/ausland/europa/poczobut-freilassung-100.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T18:05:38+02:00"
     }
   ],
   "Food": []
