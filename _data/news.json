@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Purchase Card Integration with SAP Concur",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/purchase-card-integration-with-sap-concur/ba-p/14382697",
+      "published": "28 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-28T10:26:27+00:00"
+    },
+    {
       "title": "Latest People Profile MDF object UI",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-people-profile-mdf-object-ui/ba-p/14371609",
       "published": "27 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "24 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-24T12:31:42+00:00"
-    },
-    {
-      "title": "Turning “Moments of truth” into lasting impressions with SAP SuccessFactors Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/turning-moments-of-truth-into-lasting-impressions-with-sap-successfactors/ba-p/14372414",
-      "published": "24 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-24T12:30:28+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Durchsuchungen in 28 Städten - Polizei geht gegen Hells Angels vor",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/razzia-hells-angels-nrw-100.html",
+      "title": "Entscheidung im Kabinett - Worauf sich die Koalition einigen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-kabinett-abstimmung-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T07:37:00+02:00"
+      "sort_date": "2026-04-28T11:36:56+02:00"
     },
     {
-      "title": "Marktbericht: Anleger blicken auf Notenbanken und Tech-Konzerne",
+      "title": "Zahl der Geburten in Deutschland sinkt zum vierten Mal in Folge",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geburten-rueckgang-100.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T11:25:49+02:00"
+    },
+    {
+      "title": "Bundesregierung lässt 25 afghanische Straftäter abschieben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebeflug-afghanistan-120.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T11:25:48+02:00"
+    },
+    {
+      "title": "Marktbericht: Starke Ungewissheit, leichtes Minus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-126.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T07:36:40+02:00"
+      "sort_date": "2026-04-28T11:02:13+02:00"
     },
     {
-      "title": "Podcast 15 Minuten: Kriegsdienst, Welpenhandel, Freibadsaison",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-kriegsdienst-welpenhandel-freibad-100.html",
+      "title": "VW stößt Tesla in Deutschland vom Thron",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-deutschland-haeufig-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T07:17:49+02:00"
-    },
-    {
-      "title": "11KM-Podcast: Prompt, Klick, Angriff? Wie KI den Krieg verändert",
-      "link": "https://www.tagesschau.de/podcast-11km-dienstag-ki-kriegsfuehrung-100.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T06:51:13+02:00"
-    },
-    {
-      "title": "\"Nur Ja heißt Ja\" - Abstimmung im EU-Parlament",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-sexualstrafrecht-100.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T06:36:57+02:00"
+      "sort_date": "2026-04-28T10:32:59+02:00"
     }
   ],
   "Food": []
