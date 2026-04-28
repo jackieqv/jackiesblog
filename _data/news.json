@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 SAP SuccessFactors Onboarding: Enhanced I-9 and E-Verify Compliance Process",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-sap-successfactors-onboarding-enhanced-i-9-and-e-verify-compliance/ba-p/14384383",
+      "published": "28 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-28T14:50:00+00:00"
+    },
+    {
+      "title": "Restart Failed E-Signatures Without Restarting the Entire Onboarding Process post 1H 2026 Release",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/restart-failed-e-signatures-without-restarting-the-entire-onboarding/ba-p/14383437",
+      "published": "28 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-28T13:20:00+00:00"
+    },
+    {
+      "title": "Formal Name Not Just a Field",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/formal-name-not-just-a-field/ba-p/14385115",
+      "published": "28 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-28T12:13:10+00:00"
+    },
+    {
       "title": "Purchase Card Integration with SAP Concur",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/purchase-card-integration-with-sap-concur/ba-p/14382697",
       "published": "28 Apr 2026",
@@ -50,30 +71,16 @@
       "published": "27 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-27T10:30:45+00:00"
-    },
-    {
-      "title": "Reward & Recognition : Configure business rule to avoid \"No budget holder\" issue for top hierarchy",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reward-amp-recognition-configure-business-rule-to-avoid-quot-no-budget/ba-p/14377896",
-      "published": "27 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-27T07:36:53+00:00"
-    },
-    {
-      "title": "How We Built JUNO Joule Agent for Release Testing Automation Solution for SAP SuccessFactors HCM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-juno-joule-agent-for-release-testing-automation-solution-for/ba-p/14372452",
-      "published": "24 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-24T14:29:08+00:00"
-    },
-    {
-      "title": "Integrating SAP SuccessFactors with  SmartRecruiters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/integrating-sap-successfactors-with-smartrecruiters/ba-p/14380345",
-      "published": "24 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-24T12:31:42+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Sony’s Table-Tennis Robot Beat Elite Human Players With Unorthodox Moves",
+      "link": "https://singularityhub.com/2026/04/28/sonys-table-tennis-robot-beat-elite-human-players-with-unorthodox-moves/",
+      "published": "28 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-28T14:00:00+00:00"
+    },
     {
       "title": "Quantum Computers Are Coming to Break Cryptography Faster Than Anyone Expected",
       "link": "https://singularityhub.com/2026/04/27/quantum-computers-are-coming-to-break-cryptography-faster-than-anyone-expected/",
@@ -101,50 +108,43 @@
       "published": "24 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-24T22:34:04+00:00"
-    },
-    {
-      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
-      "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "published": "24 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-24T14:17:44+00:00"
     }
   ],
   "News": [
     {
-      "title": "Entscheidung im Kabinett - Worauf sich die Koalition einigen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-kabinett-abstimmung-100.html",
+      "title": "Angeklagter gesteht geplanten Anschlag auf Swift-Konzert in Wien",
+      "link": "https://www.tagesschau.de/ausland/europa/anschlag-konzert-swift-prozess-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T11:36:56+02:00"
+      "sort_date": "2026-04-28T18:39:22+02:00"
     },
     {
-      "title": "Zahl der Geburten in Deutschland sinkt zum vierten Mal in Folge",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/geburten-rueckgang-100.html",
+      "title": "EU-Parlament fordert höheres Budget: Die Zwei-Billionen-Euro-Frage",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-europaparlament-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T11:25:49+02:00"
+      "sort_date": "2026-04-28T18:18:32+02:00"
     },
     {
-      "title": "Bundesregierung lässt 25 afghanische Straftäter abschieben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebeflug-afghanistan-120.html",
-      "published": "28 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T11:25:48+02:00"
-    },
-    {
-      "title": "Marktbericht: Starke Ungewissheit, leichtes Minus",
+      "title": "Marktbericht: Aktien- und Ölmärkte ernüchtert",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-126.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T11:02:13+02:00"
+      "sort_date": "2026-04-28T18:18:27+02:00"
     },
     {
-      "title": "VW stößt Tesla in Deutschland vom Thron",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-deutschland-haeufig-100.html",
+      "title": "Gefahr von Sanktionsumgehungen - Die Iran-Geschäfte einer Volksbank",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-volksbank-100.html",
       "published": "28 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-28T10:32:59+02:00"
+      "sort_date": "2026-04-28T18:11:51+02:00"
+    },
+    {
+      "title": "Belarus lässt polnisch-belarusischen Journalisten Poczobut frei",
+      "link": "https://www.tagesschau.de/ausland/europa/poczobut-freilassung-100.html",
+      "published": "28 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-28T18:05:38+02:00"
     }
   ],
   "Food": []
