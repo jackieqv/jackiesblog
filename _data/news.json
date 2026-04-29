@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html",
+      "published": "29 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-29T20:03:36+02:00"
+    },
+    {
+      "title": "New York City: Die lauteste Stadt der USA kämpft gegen den Lärm",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-laerm-100.html",
+      "published": "29 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-29T19:54:20+02:00"
+    },
+    {
+      "title": "Kanzler Merz: Persönliches Verhältnis zu Trump \"unverändert gut\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-verhaeltnis-100.html",
+      "published": "29 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-29T19:28:10+02:00"
+    },
+    {
       "title": "\"Diplomatische Wunderwaffe\": Briten nach US-Rede von Charles III. begeistert",
       "link": "https://www.tagesschau.de/ausland/europa/charles-rede-reaktionen-100.html",
       "published": "29 Apr 2026",
@@ -124,27 +145,6 @@
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-29T18:12:44+02:00"
-    },
-    {
-      "title": "Kommentar zur Gesundheitsreform: Warken hält Kurs - trotz Gegenwinds",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-warken-gesundheitsreform-100.html",
-      "published": "29 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T18:07:39+02:00"
-    },
-    {
-      "title": "Klingbeil zum Haushalt 2027: \"Wir wissen jetzt, wie das Geld eingespart wird\"",
-      "link": "https://www.tagesschau.de/inland/interview-klingbeil-102.html",
-      "published": "29 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T17:58:34+02:00"
-    },
-    {
-      "title": "EZB-Ratssitzung: Währungshüter in der Zwickmühle",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-inflation-leitzinsen-100.html",
-      "published": "29 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T17:45:24+02:00"
     }
   ],
   "Food": []
