@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "Why Math’s Final Axiom Proved So Controversial",
+      "link": "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/",
+      "published": "29 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-29T14:54:31+00:00"
+    },
+    {
+      "title": "What Can We Gain by Losing Infinity?",
+      "link": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+      "published": "29 Apr 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-04-29T14:50:04+00:00"
+    },
+    {
       "title": "Sony’s Table-Tennis Robot Beat Elite Human Players With Unorthodox Moves",
       "link": "https://singularityhub.com/2026/04/28/sonys-table-tennis-robot-beat-elite-human-players-with-unorthodox-moves/",
       "published": "28 Apr 2026",
@@ -94,57 +108,43 @@
       "published": "27 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-27T15:08:23+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through April 25)",
-      "link": "https://singularityhub.com/2026/04/25/this-weeks-awesome-tech-stories-from-around-the-web-through-april-25-2/",
-      "published": "25 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-25T17:02:39+00:00"
-    },
-    {
-      "title": "A Humanoid Robot Beat the Human World Record for a Half Marathon",
-      "link": "https://singularityhub.com/2026/04/24/a-humanoid-robot-beat-the-human-world-record-for-a-half-marathon/",
-      "published": "24 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-24T22:34:04+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ UN-Hochkommissar \"entsetzt\" von Irans Vorgehen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html",
+      "title": "\"Diplomatische Wunderwaffe\": Briten nach US-Rede von Charles III. begeistert",
+      "link": "https://www.tagesschau.de/ausland/europa/charles-rede-reaktionen-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T15:22:21+02:00"
+      "sort_date": "2026-04-29T18:17:50+02:00"
     },
     {
-      "title": "Wie hart steigende Inflation die Tafeln in Deutschland trifft",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/preisschock-tafeln-inflation-100.html",
+      "title": "Trotz steigender Inflation verliert der DAX nur minimal",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T15:14:06+02:00"
+      "sort_date": "2026-04-29T18:12:44+02:00"
     },
     {
-      "title": "Russland zeigt bei diesjähriger Siegesparade keine Militärtechnik",
-      "link": "https://www.tagesschau.de/ausland/europa/siegesparade-moskau-9mai-100.html",
+      "title": "Kommentar zur Gesundheitsreform: Warken hält Kurs - trotz Gegenwinds",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-warken-gesundheitsreform-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T15:12:14+02:00"
+      "sort_date": "2026-04-29T18:07:39+02:00"
     },
     {
-      "title": "Wegen des Iran-Kriegs steigt Inflation im April auf 2,9 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/inflation-steigt-april-iran-krieg-100.html",
+      "title": "Klingbeil zum Haushalt 2027: \"Wir wissen jetzt, wie das Geld eingespart wird\"",
+      "link": "https://www.tagesschau.de/inland/interview-klingbeil-102.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T15:11:34+02:00"
+      "sort_date": "2026-04-29T17:58:34+02:00"
     },
     {
-      "title": "Indie-Macher verleihen der deutschen Games-Branche frischen Wind",
-      "link": "https://www.tagesschau.de/kultur/deutscher-computerspielpreis-blick-auf-branche-100.html",
+      "title": "EZB-Ratssitzung: Währungshüter in der Zwickmühle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-inflation-leitzinsen-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T14:56:52+02:00"
+      "sort_date": "2026-04-29T17:45:24+02:00"
     }
   ],
   "Food": []
