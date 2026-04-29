@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Enhanced WorkFlow Notifications (Pending Data) - SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enhanced-workflow-notifications-pending-data-sap-successfactors/ba-p/14384169",
+      "published": "29 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-29T09:27:07+00:00"
+    },
+    {
+      "title": "How We Built ASTRA Joule Agent  for Automation Testing Solution for SAP SuccessFactors HCM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-astra-joule-agent-for-automation-testing-solution-for-sap/ba-p/14325425",
+      "published": "29 Apr 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-04-29T08:25:33+00:00"
+    },
+    {
       "title": "1H2026 Release: A journey to Autonomous Payroll with SAP SuccessFactors Employee Central Payroll",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h2026-release-a-journey-to-autonomous-payroll-with-sap-successfactors/ba-p/14385817",
       "published": "29 Apr 2026",
@@ -57,20 +71,6 @@
       "published": "28 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-28T13:20:00+00:00"
-    },
-    {
-      "title": "Formal Name Not Just a Field",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/formal-name-not-just-a-field/ba-p/14385115",
-      "published": "28 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-28T12:13:10+00:00"
-    },
-    {
-      "title": "Purchase Card Integration with SAP Concur",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/purchase-card-integration-with-sap-concur/ba-p/14382697",
-      "published": "28 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-28T10:26:27+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU sieht Kinder bei Instagram und Co. nicht ausreichend geschützt",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-facebook-instagram-100.html",
+      "title": "Europa erwärmt sich schneller als alle anderen Kontinente",
+      "link": "https://www.tagesschau.de/wissen/klima/negativ-rekord-klima-zustand-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T10:07:35+02:00"
+      "sort_date": "2026-04-29T12:45:13+02:00"
     },
     {
-      "title": "Kasache soll für Russland spioniert haben",
-      "link": "https://www.tagesschau.de/inland/spionageverdacht-russland-deutschland-100.html",
+      "title": "Iran-Liveblog: ++ EU-Ausgaben für Energie-Importe deutlich gestiegen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T09:53:12+02:00"
+      "sort_date": "2026-04-29T12:39:35+02:00"
     },
     {
-      "title": "Kommentar zur Gesundheitsreform: Gerecht sieht anders aus",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-gesundheitsreform-100.html",
+      "title": "Regierung einigt sich auf Gesundheitsreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eilmeldung-gesundheitsreform-kabinett-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T08:59:15+02:00"
+      "sort_date": "2026-04-29T12:29:09+02:00"
     },
     {
-      "title": "Was eine Zuckerabgabe bringen könnte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zuckerabgabe-100.html",
+      "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-haushaltsentwurf-2027-beschlossen-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T08:47:12+02:00"
+      "sort_date": "2026-04-29T12:24:52+02:00"
     },
     {
-      "title": "Champions League: Fußball-Wahnsinn bei PSG gegen Bayern",
-      "link": "https://www.dw.com/de/champions-league-fußball-wahnsinn-bei-psg-gegen-bayern/a-76975172?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
+      "link": "https://www.tagesschau.de/investigativ/wdr/briefkastenfirmen-steueroasen-deutschland-100.html",
       "published": "29 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-29T08:09:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-29T10:45:52+02:00"
     }
   ],
   "Food": []
