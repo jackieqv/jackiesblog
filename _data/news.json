@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H2026 Release: A journey to Autonomous Payroll with SAP SuccessFactors Employee Central Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h2026-release-a-journey-to-autonomous-payroll-with-sap-successfactors/ba-p/14385817",
+      "published": "29 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-29T07:00:22+00:00"
+    },
+    {
       "title": "1H 2026 SAP SuccessFactors Onboarding: Enhanced I-9 and E-Verify Compliance Process",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-sap-successfactors-onboarding-enhanced-i-9-and-e-verify-compliance/ba-p/14384383",
       "published": "28 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "28 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-28T10:26:27+00:00"
-    },
-    {
-      "title": "Latest People Profile MDF object UI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-people-profile-mdf-object-ui/ba-p/14371609",
-      "published": "27 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-27T10:30:45+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Zahlreiche Bilanzen: DAX vor stabilem Start",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html",
+      "title": "EU sieht Kinder bei Instagram und Co. nicht ausreichend geschützt",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-facebook-instagram-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T07:38:20+02:00"
+      "sort_date": "2026-04-29T10:07:35+02:00"
     },
     {
-      "title": "Steigender Meeresspiegel: Venedig geht langsam unter",
-      "link": "https://www.tagesschau.de/wissen/klima/meeresspiegelanstieg-venedig-100.html",
+      "title": "Kasache soll für Russland spioniert haben",
+      "link": "https://www.tagesschau.de/inland/spionageverdacht-russland-deutschland-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T07:21:11+02:00"
+      "sort_date": "2026-04-29T09:53:12+02:00"
     },
     {
-      "title": "BMW und Tesla schaffen gegen den Trend neue Industriejobs",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-lackiererei-industriejobs-100.html",
+      "title": "Kommentar zur Gesundheitsreform: Gerecht sieht anders aus",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-gesundheitsreform-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T07:19:32+02:00"
+      "sort_date": "2026-04-29T08:59:15+02:00"
     },
     {
-      "title": "Podcast 15 Minuten: Zuckerabgabe, \"Pedo Hunter\", Erdbeer-Ernte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-zuckerabgabe-pedo-hunter-erdbeeren-100.html",
+      "title": "Was eine Zuckerabgabe bringen könnte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zuckerabgabe-100.html",
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T07:03:07+02:00"
+      "sort_date": "2026-04-29T08:47:12+02:00"
     },
     {
-      "title": "Charles III. im US-Kongress: Eine unbequeme Rede und viel Beifall",
-      "link": "https://www.tagesschau.de/ausland/amerika/koenig-charles-rede-usa-100.html",
+      "title": "Champions League: Fußball-Wahnsinn bei PSG gegen Bayern",
+      "link": "https://www.dw.com/de/champions-league-fußball-wahnsinn-bei-psg-gegen-bayern/a-76975172?maca=de-rss-de-top-1016-xml-mrss",
       "published": "29 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T06:53:52+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-29T08:09:00+00:00"
     }
   ],
   "Food": []
