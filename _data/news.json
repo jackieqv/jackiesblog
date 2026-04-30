@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 SuccessFactors Onboarding Enhancement: New Task Management Page for Onboarding Tasks",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-successfactors-onboarding-enhancement-new-task-management-page-for/ba-p/14384301",
+      "published": "30 Apr 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-04-30T08:15:50+00:00"
+    },
+    {
       "title": "First Half 2026 Release: What’s New in SAP SuccessFactors HCM?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-hcm/ba-p/14386490",
       "published": "29 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "29 Apr 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-04-29T07:00:22+00:00"
-    },
-    {
-      "title": "1H 2026 SAP SuccessFactors Onboarding: Enhanced I-9 and E-Verify Compliance Process",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-sap-successfactors-onboarding-enhanced-i-9-and-e-verify-compliance/ba-p/14384383",
-      "published": "28 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-28T14:50:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: Ölpreise bremsen DAX aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html",
+      "title": "Iran-Liveblog: ++ US-Flugzeugträger soll Nahen Osten verlassen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html",
       "published": "30 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T07:43:00+02:00"
+      "sort_date": "2026-04-30T10:10:01+02:00"
     },
     {
-      "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html",
+      "title": "Gewinn von Volkswagen um 28 Prozent eingebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-gewinneinbruch-100.html",
       "published": "30 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T07:42:05+02:00"
+      "sort_date": "2026-04-30T09:23:32+02:00"
     },
     {
-      "title": "Schauspielerin Sandra Hüller glänzt im Historiendrama \"Rose\"",
-      "link": "https://www.tagesschau.de/kultur/sandra-hueller-glaenzt-im-historiendrama-rose-100.html",
+      "title": "Zehntausende Preiserhöhungen - Tankstellen missachten 12-Uhr-Regel",
+      "link": "https://www.tagesschau.de/investigativ/tankstellen-hohe-spritpreise-100.html",
       "published": "30 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T06:38:15+02:00"
+      "sort_date": "2026-04-30T09:00:03+02:00"
     },
     {
-      "title": "Nach Telefonat mit Trump: Putin offen für befristete Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/putin-trump-waffenruhe-ukraine-100.html",
+      "title": "Scheidender Fed-Chef Powell will im Vorstand der US-Notenbank bleiben",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-us-notenbank-leitzins-powell-100.html",
       "published": "30 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T06:37:18+02:00"
+      "sort_date": "2026-04-30T08:58:45+02:00"
     },
     {
-      "title": "Pressefreiheit weltweit unter Druck - auch in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pressefreiheit-rangliste-reporter-ohne-grenzen-102.html",
+      "title": "Die Deutschen und der Wal: \"Timmy\" wieder auf offener See",
+      "link": "https://www.dw.com/de/die-deutschen-und-der-wal-timmy-wieder-auf-offener-see/a-76716035?maca=de-rss-de-top-1016-xml-mrss",
       "published": "30 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T06:00:08+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-30T08:18:00+00:00"
     }
   ],
   "Food": []
