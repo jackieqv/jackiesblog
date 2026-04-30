@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-truppen-deutschland-abzug-100.html",
+      "published": "30 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-30T02:45:34+02:00"
+    },
+    {
       "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html",
       "published": "29 Apr 2026",
@@ -138,13 +145,6 @@
       "published": "29 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-29T18:17:50+02:00"
-    },
-    {
-      "title": "Trotz steigender Inflation verliert der DAX nur minimal",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html",
-      "published": "29 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-29T18:12:44+02:00"
     }
   ],
   "Food": []
