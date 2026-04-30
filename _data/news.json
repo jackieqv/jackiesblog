@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Jury der Kunstbiennale tritt geschlossen zurück",
+      "link": "https://www.tagesschau.de/kultur/ruecktritt-jury-biennale-100.html",
+      "published": "30 Apr 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-04-30T21:37:57+02:00"
+    },
+    {
       "title": "Myanmar: Friedensnobelpreisträgerin Suu Kyi kommt in Hausarrest",
       "link": "https://www.tagesschau.de/ausland/asien/suu-kyi-hausarrest-100.html",
       "published": "30 Apr 2026",
@@ -133,18 +140,11 @@
       "sort_date": "2026-04-30T19:16:47+02:00"
     },
     {
-      "title": "Marktbericht: DAX geht im Plus ins lange Wochenende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html",
+      "title": "Warum die Ukraine und Israel wegen Getreide streiten",
+      "link": "https://www.dw.com/de/warum-die-ukraine-und-israel-wegen-getreide-streiten/a-77001639?maca=de-rss-de-top-1016-xml-mrss",
       "published": "30 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T18:14:46+02:00"
-    },
-    {
-      "title": "Bundesregierung reagiert gelassen auf Trump-Aussage zu US-Truppenabzug",
-      "link": "https://www.tagesschau.de/inland/us-truppenreduzierung-reaktion-wadephul-100.html",
-      "published": "30 Apr 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-04-30T17:45:09+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-04-30T19:10:00+00:00"
     }
   ],
   "Food": []
