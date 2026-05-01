@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life",
+      "link": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+      "published": "01 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-01T15:05:38+00:00"
+    },
+    {
       "title": "How Does Imagination Really Work in the Brain? New Theory Upends What We Knew",
       "link": "https://singularityhub.com/2026/04/30/how-does-imagination-really-work-in-the-brain-new-theory-upends-what-we-knew/",
       "published": "30 Apr 2026",
@@ -101,50 +108,43 @@
       "published": "28 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-28T14:00:00+00:00"
-    },
-    {
-      "title": "Quantum Computers Are Coming to Break Cryptography Faster Than Anyone Expected",
-      "link": "https://singularityhub.com/2026/04/27/quantum-computers-are-coming-to-break-cryptography-faster-than-anyone-expected/",
-      "published": "27 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-27T17:14:10+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mai-Kundgebungen: Gewerkschaften wehren sich gegen Einschnitte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/erster-mai-kundgebungen-106.html",
+      "title": "Stolpersteine in Spanien: \"Ein Akt der Gerechtigkeit\"",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-stolpersteine-nationalsozialismus-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T14:57:23+02:00"
+      "sort_date": "2026-05-01T17:21:04+02:00"
     },
     {
-      "title": "Krisenvorsorge - Bund will Lebensmittelreserve ausbauen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alois-rainer-lebensmittel-notfall-reserve-100.html",
+      "title": "Enge Zusammenarbeit mit Taliban-Diplomaten bei Abschiebungen",
+      "link": "https://www.tagesschau.de/investigativ/ndr/taliban-deutschland-afghanistan-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T13:27:32+02:00"
+      "sort_date": "2026-05-01T17:00:08+02:00"
     },
     {
-      "title": "Antisemitismus trifft fast jede zweite jüdische Gemeinde",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismus-gemeinden-lagebild-100.html",
+      "title": "Tausende Menschen evakuiert - Großflächiger Waldbrand in der Toskana",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-toskana-waldbrand-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T12:47:37+02:00"
+      "sort_date": "2026-05-01T16:30:38+02:00"
     },
     {
-      "title": "\"Druschba\"-Pipeline: Was der Öl-Stopp für Deutschland bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schwedt-oel-raffinierie-100.html",
+      "title": "Israels Linke nach dem Rechtsruck im Land unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gesellschaft-linke-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T12:26:16+02:00"
+      "sort_date": "2026-05-01T16:26:12+02:00"
     },
     {
-      "title": "Neuer OB Krause in München: Ein Grüner vor Söders Nase",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-krause-zusammenarbeit-100.html",
+      "title": "Schweinekopf und Blut an Memminger Moschee - Staatsschutz ermittelt",
+      "link": "https://www.tagesschau.de/inland/schweinekopf-memmingen-moschee-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T11:39:24+02:00"
+      "sort_date": "2026-05-01T16:17:38+02:00"
     }
   ],
   "Food": []
