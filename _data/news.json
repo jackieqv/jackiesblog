@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Does Imagination Really Work in the Brain? New Theory Upends What We Knew",
+      "link": "https://singularityhub.com/2026/04/30/how-does-imagination-really-work-in-the-brain-new-theory-upends-what-we-knew/",
+      "published": "30 Apr 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-04-30T22:48:37+00:00"
+    },
+    {
       "title": "Why Math’s Final Axiom Proved So Controversial",
       "link": "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/",
       "published": "29 Apr 2026",
@@ -101,16 +108,16 @@
       "published": "27 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-27T17:14:10+00:00"
-    },
-    {
-      "title": "Physicists Discover the Most Complex Forms of Ice Yet",
-      "link": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
-      "published": "27 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-27T15:08:23+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Oxfam-Berechnungen: Einkommensschere wächst weiter",
+      "link": "https://www.tagesschau.de/inland/oxfam-einkommensverteilung-100.html",
+      "published": "01 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-01T05:01:49+02:00"
+    },
     {
       "title": "Jury der Kunstbiennale tritt geschlossen zurück",
       "link": "https://www.tagesschau.de/kultur/ruecktritt-jury-biennale-100.html",
@@ -138,13 +145,6 @@
       "published": "30 Apr 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-04-30T19:16:47+02:00"
-    },
-    {
-      "title": "Warum die Ukraine und Israel wegen Getreide streiten",
-      "link": "https://www.dw.com/de/warum-die-ukraine-und-israel-wegen-getreide-streiten/a-77001639?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "30 Apr 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-04-30T19:10:00+00:00"
     }
   ],
   "Food": []
