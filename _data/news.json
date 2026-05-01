@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "First Half 2026 Release: What's New in SAP SuccessFactors Employee Central?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14387670",
+      "published": "01 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-01T19:11:09+00:00"
+    },
+    {
       "title": "First Half 2026 release: What are the highlights for the talent intelligence hub?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-are-the-highlights-for-the-talent-intelligence/ba-p/14387227",
       "published": "30 Apr 2026",
@@ -64,13 +71,6 @@
       "published": "29 Apr 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-04-29T09:27:07+00:00"
-    },
-    {
-      "title": "How We Built ASTRA Joule Agent  for Automation Testing Solution for SAP SuccessFactors HCM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-astra-joule-agent-for-automation-testing-solution-for-sap/ba-p/14325425",
-      "published": "29 Apr 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-04-29T08:25:33+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Stolpersteine in Spanien: \"Ein Akt der Gerechtigkeit\"",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-stolpersteine-nationalsozialismus-100.html",
+      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T17:21:04+02:00"
+      "sort_date": "2026-05-01T20:56:36+02:00"
     },
     {
-      "title": "Enge Zusammenarbeit mit Taliban-Diplomaten bei Abschiebungen",
-      "link": "https://www.tagesschau.de/investigativ/ndr/taliban-deutschland-afghanistan-100.html",
+      "title": "Hunderte Festnahmen bei Demonstrationen am 1. Mai in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/proteste-festnahmen-istanbul-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T17:00:08+02:00"
+      "sort_date": "2026-05-01T20:52:07+02:00"
     },
     {
-      "title": "Tausende Menschen evakuiert - Großflächiger Waldbrand in der Toskana",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-toskana-waldbrand-100.html",
+      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T16:30:38+02:00"
+      "sort_date": "2026-05-01T20:34:53+02:00"
     },
     {
-      "title": "Israels Linke nach dem Rechtsruck im Land unter Druck",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gesellschaft-linke-100.html",
+      "title": "OPEC ohne die VAE - was heißt das für die Öl- und Spritpreise?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-opec-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T16:26:12+02:00"
+      "sort_date": "2026-05-01T18:47:27+02:00"
     },
     {
-      "title": "Schweinekopf und Blut an Memminger Moschee - Staatsschutz ermittelt",
-      "link": "https://www.tagesschau.de/inland/schweinekopf-memmingen-moschee-100.html",
+      "title": "Ukraine greift erneut Ölterminal am Schwarzen Meer an",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-drohnenangriff-102.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T16:17:38+02:00"
+      "sort_date": "2026-05-01T18:13:19+02:00"
     }
   ],
   "Food": []
