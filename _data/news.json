@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Tankrabatt drückt laut ADAC die Spritpreise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-in-kraft-100.html",
+      "title": "Mai-Kundgebungen: Gewerkschaften wehren sich gegen Einschnitte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/erster-mai-kundgebungen-106.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T12:16:55+02:00"
+      "sort_date": "2026-05-01T14:57:23+02:00"
+    },
+    {
+      "title": "Krisenvorsorge - Bund will Lebensmittelreserve ausbauen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/alois-rainer-lebensmittel-notfall-reserve-100.html",
+      "published": "01 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-01T13:27:32+02:00"
+    },
+    {
+      "title": "Antisemitismus trifft fast jede zweite jüdische Gemeinde",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismus-gemeinden-lagebild-100.html",
+      "published": "01 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-01T12:47:37+02:00"
+    },
+    {
+      "title": "\"Druschba\"-Pipeline: Was der Öl-Stopp für Deutschland bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schwedt-oel-raffinierie-100.html",
+      "published": "01 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-01T12:26:16+02:00"
     },
     {
       "title": "Neuer OB Krause in München: Ein Grüner vor Söders Nase",
@@ -124,27 +145,6 @@
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-01T11:39:24+02:00"
-    },
-    {
-      "title": "Skandale erschüttern Griechenlands Regierung",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-politik-stimmung-100.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T11:10:19+02:00"
-    },
-    {
-      "title": "Goldraub, Gefängnis und Musik: Xatars Spuren im Deutschrap",
-      "link": "https://www.tagesschau.de/kultur/xatars-erbe-im-deutschrap-100.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T10:57:01+02:00"
-    },
-    {
-      "title": "Erster Linienflug zwischen USA und Venezuela seit 2019",
-      "link": "https://www.dw.com/de/erster-linienflug-zwischen-usa-und-venezuela-seit-2019/a-77008688?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-01T10:21:00+00:00"
     }
   ],
   "Food": []
