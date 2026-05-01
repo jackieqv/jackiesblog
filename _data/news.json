@@ -42,7 +42,7 @@
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14387670",
       "published": "01 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-01T19:11:09+00:00"
+      "sort_date": "2026-05-01T19:15:33+00:00"
     },
     {
       "title": "First Half 2026 release: What are the highlights for the talent intelligence hub?",
@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Robots With Different Designs Can Now Share Skills",
+      "link": "https://singularityhub.com/2026/05/01/robots-with-different-designs-can-now-share-skills/",
+      "published": "01 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-01T19:29:07+00:00"
+    },
+    {
       "title": "A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life",
       "link": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
       "published": "01 May 2026",
@@ -101,13 +108,6 @@
       "published": "29 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-29T14:50:04+00:00"
-    },
-    {
-      "title": "Sony’s Table-Tennis Robot Beat Elite Human Players With Unorthodox Moves",
-      "link": "https://singularityhub.com/2026/04/28/sonys-table-tennis-robot-beat-elite-human-players-with-unorthodox-moves/",
-      "published": "28 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-28T14:00:00+00:00"
     }
   ],
   "News": [
@@ -116,7 +116,14 @@
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T20:56:36+02:00"
+      "sort_date": "2026-05-01T23:26:45+02:00"
+    },
+    {
+      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html",
+      "published": "01 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-01T21:24:36+02:00"
     },
     {
       "title": "Hunderte Festnahmen bei Demonstrationen am 1. Mai in Istanbul",
@@ -124,13 +131,6 @@
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-01T20:52:07+02:00"
-    },
-    {
-      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T20:34:53+02:00"
     },
     {
       "title": "OPEC ohne die VAE - was heißt das für die Öl- und Spritpreise?",
