@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T05:25:50+02:00"
+    },
+    {
+      "title": "Ukraine: Mobbing im Kriegsgebiet",
+      "link": "https://www.dw.com/de/ukraine-mobbing-im-kriegsgebiet/a-76965830?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "02 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-02T05:01:00+00:00"
+    },
+    {
+      "title": "Israelische Truppen im Südlibanon: Zurück in der Todesfalle",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-kaempfe-100.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T04:55:51+02:00"
+    },
+    {
       "title": "Nach Trumps Zollankündigung: EU hält sich \"alle Optionen offen\"",
       "link": "https://www.tagesschau.de/ausland/europa/eu-reaktion-zoelle-106.html",
       "published": "02 May 2026",
@@ -124,27 +145,6 @@
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-02T03:13:57+02:00"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T02:57:13+02:00"
-    },
-    {
-      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T23:26:45+02:00"
-    },
-    {
-      "title": "Hunderte Festnahmen bei Demonstrationen am 1. Mai in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/proteste-festnahmen-istanbul-100.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T20:52:07+02:00"
     }
   ],
   "Food": []
