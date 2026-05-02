@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Abzug von US-Soldaten war laut Pistorius absehbar",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/us-truppenabzug-reaktionen-104.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T13:24:42+02:00"
+    },
+    {
       "title": "Buckelwal in der Nordsee freigesetzt",
       "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T11:21:15+02:00"
+      "sort_date": "2026-05-02T12:52:20+02:00"
+    },
+    {
+      "title": "Welche Folgen der US-Teilabzug für Deutschland hätte",
+      "link": "https://www.tagesschau.de/usa-truppenabzug-deutschland-106.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T12:19:17+02:00"
     },
     {
       "title": "Finnlands Mine gegen Europas Abhängigkeit von Lithium-Importen",
@@ -126,25 +140,11 @@
       "sort_date": "2026-05-02T11:18:32+02:00"
     },
     {
-      "title": "Maidemos von linken Gruppen laut Polizei meist friedlich",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/maidemo-bilanz-berlin-hamburg-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T10:28:39+02:00"
-    },
-    {
-      "title": "Was die Übernahme von Tegut für Kunden und Erzeuger bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tegut-lebensmittel-uebernahme-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T09:07:01+02:00"
-    },
-    {
-      "title": "USA kündigen Abzug von 5000 Soldaten aus Deutschland an",
-      "link": "https://www.dw.com/de/usa-kündigen-abzug-von-5000-soldaten-aus-deutschland-an/a-77016862?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Buckelwal \"Timmy\" in der Nordsee freigesetzt",
+      "link": "https://www.dw.com/de/buckelwal-timmy-in-der-nordsee-freigesetzt/a-77017943?maca=de-rss-de-top-1016-xml-mrss",
       "published": "02 May 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-02T08:39:00+00:00"
+      "sort_date": "2026-05-02T10:51:00+00:00"
     }
   ],
   "Food": []
