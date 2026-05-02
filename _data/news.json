@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html",
+      "title": "Buckelwal in der Nordsee freigesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T05:25:50+02:00"
+      "sort_date": "2026-05-02T09:42:03+02:00"
+    },
+    {
+      "title": "Was die Übernahme von Tegut für Kunden und Erzeuger bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tegut-lebensmittel-uebernahme-100.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T09:07:01+02:00"
+    },
+    {
+      "title": "Finanzminister Klingbeil treibt Steuerreform voran",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-steuerreform-100.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T07:51:52+02:00"
+    },
+    {
+      "title": "News kompakt: Kritik an Trumps neuen Zollplänen",
+      "link": "https://www.dw.com/de/news-kompakt-kritik-an-trumps-neuen-zollplänen/a-77016852?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "02 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-02T07:01:00+00:00"
     },
     {
       "title": "Ukraine: Mobbing im Kriegsgebiet",
@@ -124,27 +145,6 @@
       "published": "02 May 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-05-02T05:01:00+00:00"
-    },
-    {
-      "title": "Israelische Truppen im Südlibanon: Zurück in der Todesfalle",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-kaempfe-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T04:55:51+02:00"
-    },
-    {
-      "title": "Nach Trumps Zollankündigung: EU hält sich \"alle Optionen offen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktion-zoelle-106.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T04:31:46+02:00"
-    },
-    {
-      "title": "Nach drei Jahren: Welche Zukunft hat das Deutschlandticket?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drei-jahre-deutschlandticket-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T03:13:57+02:00"
     }
   ],
   "Food": []
