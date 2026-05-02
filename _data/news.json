@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Nach Trumps Zollankündigung: EU hält sich \"alle Optionen offen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktion-zoelle-106.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T04:31:46+02:00"
+    },
+    {
+      "title": "Nach drei Jahren: Welche Zukunft hat das Deutschlandticket?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drei-jahre-deutschlandticket-100.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T03:13:57+02:00"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T02:57:13+02:00"
+    },
+    {
       "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html",
       "published": "01 May 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-05-01T23:26:45+02:00"
     },
     {
-      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T21:24:36+02:00"
-    },
-    {
       "title": "Hunderte Festnahmen bei Demonstrationen am 1. Mai in Istanbul",
       "link": "https://www.tagesschau.de/ausland/proteste-festnahmen-istanbul-100.html",
       "published": "01 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-01T20:52:07+02:00"
-    },
-    {
-      "title": "OPEC ohne die VAE - was heißt das für die Öl- und Spritpreise?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-opec-100.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T18:47:27+02:00"
-    },
-    {
-      "title": "Ukraine greift erneut Ölterminal am Schwarzen Meer an",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-drohnenangriff-102.html",
-      "published": "01 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-01T18:13:19+02:00"
     }
   ],
   "Food": []
