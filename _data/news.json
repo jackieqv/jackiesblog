@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html",
+      "published": "02 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T22:10:31+02:00"
+    },
+    {
       "title": "Friedensnobelpreisträgerin Mohammadi in \"äußerst akuter Gefahr\"",
       "link": "https://www.tagesschau.de/ausland/asien/mohammadi-nobelpreistraegerin-iran-100.html",
       "published": "02 May 2026",
@@ -138,13 +145,6 @@
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-02T17:47:21+02:00"
-    },
-    {
-      "title": "Pflege: Scheitert der Azubi-Boom am Lehrermangel?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-auszubildende-boom-lehrermangel-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T17:08:14+02:00"
     }
   ],
   "Food": []
