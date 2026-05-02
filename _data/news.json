@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 2)",
+      "link": "https://singularityhub.com/2026/05/02/this-weeks-awesome-tech-stories-from-around-the-web-through-may-2-2/",
+      "published": "02 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-02T14:00:00+00:00"
+    },
+    {
       "title": "Robots With Different Designs Can Now Share Skills",
       "link": "https://singularityhub.com/2026/05/01/robots-with-different-designs-can-now-share-skills/",
       "published": "01 May 2026",
@@ -101,50 +108,43 @@
       "published": "29 Apr 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-04-29T14:54:31+00:00"
-    },
-    {
-      "title": "What Can We Gain by Losing Infinity?",
-      "link": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-      "published": "29 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-29T14:50:04+00:00"
     }
   ],
   "News": [
     {
-      "title": "Abzug von US-Soldaten war laut Pistorius absehbar",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/us-truppenabzug-reaktionen-104.html",
+      "title": "Pflege: Scheitert der Azubi-Boom am Lehrermangel?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-auszubildende-boom-lehrermangel-100.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T13:24:42+02:00"
+      "sort_date": "2026-05-02T17:08:14+02:00"
     },
     {
-      "title": "Buckelwal in der Nordsee freigesetzt",
-      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html",
+      "title": "EU reagiert diplomatisch, aber deutlich auf Trumps Zolldrohung",
+      "link": "https://www.tagesschau.de/wirtschaft/trump-zoelle-reaktion-eu-100.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T12:52:20+02:00"
+      "sort_date": "2026-05-02T16:49:42+02:00"
     },
     {
-      "title": "Welche Folgen der US-Teilabzug für Deutschland hätte",
-      "link": "https://www.tagesschau.de/usa-truppenabzug-deutschland-106.html",
+      "title": "Libanon: Israel meldet etwa 50 Angriffe in 24 Stunden",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-hisbollah-angriffe-100.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T12:19:17+02:00"
+      "sort_date": "2026-05-02T16:34:44+02:00"
     },
     {
-      "title": "Finnlands Mine gegen Europas Abhängigkeit von Lithium-Importen",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-lithium-100.html",
+      "title": "UN-Flüchtlingshilfswerk: 1,6 Millionen geflüchtete Syrer zurückgekehrt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-rueckkehr-102.html",
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T11:18:32+02:00"
+      "sort_date": "2026-05-02T16:01:03+02:00"
     },
     {
-      "title": "Buckelwal \"Timmy\" in der Nordsee freigesetzt",
-      "link": "https://www.dw.com/de/buckelwal-timmy-in-der-nordsee-freigesetzt/a-77017943?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Festgeld, Anleihen und Bauzinsen: Warum die Zinswende längst läuft",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/zinswende-festgeld-bauzinsen-ezb-100.html",
       "published": "02 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-02T10:51:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-02T15:15:49+02:00"
     }
   ],
   "Food": []
