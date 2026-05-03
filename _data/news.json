@@ -112,7 +112,28 @@
   ],
   "News": [
     {
-      "title": "Libanon: Krieg trotz Waffenruhe",
+      "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html",
+      "published": "03 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-03T20:43:36+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Iran prüft US-Antwort auf 14-Punkte-Plan ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html",
+      "published": "03 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-03T20:22:42+02:00"
+    },
+    {
+      "title": "Misstraut die Bundesregierung der Zivilgesellschaft?",
+      "link": "https://www.dw.com/de/misstraut-die-bundesregierung-der-zivilgesellschaft/a-77001976?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "03 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-03T18:49:00+00:00"
+    },
+    {
+      "title": "Israel und Hisbollah: Krieg trotz Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-106.html",
       "published": "03 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -124,27 +145,6 @@
       "published": "03 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-03T17:05:12+02:00"
-    },
-    {
-      "title": "Reporter ohne Grenzen zum Pressefreiheit-Ranking: \"Ein dramatischer Befund\"",
-      "link": "https://www.tagesschau.de/ausland/europa/pressefreiheit-mihr-100.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T16:19:54+02:00"
-    },
-    {
-      "title": "Italien: Bespitzelt von \"Graphite\" - aber von wem beauftragt?",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-pressefreiheit-spyware-100.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T16:17:26+02:00"
-    },
-    {
-      "title": "Umsatz mit Bio-Lebensmitteln im ersten Quartal weiter gestiegen",
-      "link": "https://www.tagesschau.de/inland/verbraucher-bio-lebensmittel-100.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T16:12:35+02:00"
     }
   ],
   "Food": []
