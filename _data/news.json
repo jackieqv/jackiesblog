@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trump will deutlich mehr als 5.000 US-Soldaten aus Deutschland abziehen",
+      "link": "https://www.tagesschau.de/ausland/amerika/kritik-us-truppenabzug-republikaner-100.html",
+      "published": "03 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-03T02:56:59+02:00"
+    },
+    {
       "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
       "link": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html",
       "published": "02 May 2026",
@@ -138,13 +145,6 @@
       "published": "02 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-02T18:30:14+02:00"
-    },
-    {
-      "title": "Sudans Hauptstadt erwacht langsam wieder zum Leben",
-      "link": "https://www.tagesschau.de/ausland/afrika/sudan-khartum-krieg-100.html",
-      "published": "02 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-02T17:47:21+02:00"
     }
   ],
   "Food": []
