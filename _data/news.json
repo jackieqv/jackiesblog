@@ -112,18 +112,32 @@
   ],
   "News": [
     {
-      "title": "US-Zerstörer durchfahren offenbar Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-schiffe-104.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T18:18:12+02:00"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Emirate: Großbrand nach iranischem Drohnenangriff ++",
+      "title": "Iran-Liveblog: ++ Trump droht Iran bei Angriff mit Vernichtung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T18:13:54+02:00"
+      "sort_date": "2026-05-04T21:19:47+02:00"
+    },
+    {
+      "title": "Auto fährt in Leipzig in Menschengruppe - zwei Tote",
+      "link": "https://www.tagesschau.de/inland/leipzig-tote-amokfahrt-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T20:48:14+02:00"
+    },
+    {
+      "title": "Russische Armee verkündet einseitige Waffenruhe am 8. und 9. Mai",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-104.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T20:30:00+02:00"
+    },
+    {
+      "title": "Ein Jahr schwarz-rote Koalition: Keine Feierlaune in Sicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-koalition-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T18:48:17+02:00"
     },
     {
       "title": "DAX rutscht ab: Zu viel des Schlechten",
@@ -131,20 +145,6 @@
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-04T18:11:05+02:00"
-    },
-    {
-      "title": "Schweizer Nachrichtendienst gewährt Einsicht in Mengele-Dossier",
-      "link": "https://www.tagesschau.de/ausland/europa/mengele-ns-arzt-dossier-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T17:30:00+02:00"
-    },
-    {
-      "title": "Entsetzen nach Angriff auf Nonne in Jerusalem",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-jerusalem-angriff-nonne-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T17:25:31+02:00"
     }
   ],
   "Food": []
