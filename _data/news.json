@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Trump: Befreiung von Schiffen soll am Morgen starten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html",
-      "published": "03 May 2026",
+      "title": "Iran-Liveblog: ++ Minenjagdboot \"Fulda\" startet Richtung Mittelmeer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
+      "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T22:56:24+02:00"
+      "sort_date": "2026-05-04T04:48:41+02:00"
+    },
+    {
+      "title": "Finanznot der New Yorker Metropolitan Opera wird größer",
+      "link": "https://www.tagesschau.de/ausland/amerika/opera-new-york-finanznot-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T02:58:39+02:00"
+    },
+    {
+      "title": "USA wollen Schiffe durch Straße von Hormus geleiten",
+      "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-hilfe-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T02:57:03+02:00"
+    },
+    {
+      "title": "Hantavirus-Ausbruch: Drei Tote auf Kreuzfahrtschiff im Atlantik",
+      "link": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-tote-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T02:55:55+02:00"
     },
     {
       "title": "Innenminister Dobrindt will an umstrittenen Grenzkontrollen festhalten",
@@ -124,27 +145,6 @@
       "published": "03 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-03T21:13:26+02:00"
-    },
-    {
-      "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T20:43:36+02:00"
-    },
-    {
-      "title": "Misstraut die Bundesregierung der Zivilgesellschaft?",
-      "link": "https://www.dw.com/de/misstraut-die-bundesregierung-der-zivilgesellschaft/a-77001976?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "03 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-03T18:49:00+00:00"
-    },
-    {
-      "title": "Israel und Hisbollah: Krieg trotz Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-106.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T17:36:16+02:00"
     }
   ],
   "Food": []
