@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
-      "link": "https://www.tagesschau.de/ausland/europa/epg-gipfel-armenien-102.html",
+      "title": "US-Armee zieht 5.000 Soldaten aus der Oberpfalz ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/us-armee-abzug-bayern-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T08:03:44+02:00"
+      "sort_date": "2026-05-04T12:37:26+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Briten warnen Handelsschiffe ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
+      "title": "SPD, Grüne und Linke verlassen X",
+      "link": "https://www.tagesschau.de/inland/spd-gruene-linke-rueckzug-x-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T07:43:30+02:00"
+      "sort_date": "2026-05-04T11:57:48+02:00"
     },
     {
-      "title": "Marktbericht: Anleger nehmen Trumps-Zolldrohungen gelassen",
+      "title": "Ukrainische Drohne beschädigt Moskauer Wohnhaus",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-drohne-wohnhaus-moskau-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T11:55:44+02:00"
+    },
+    {
+      "title": "GameStop will eBay übernehmen - für 56 Milliarden Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gamestop-ebay-uebernahme-100.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T11:04:20+02:00"
+    },
+    {
+      "title": "Marktbericht: Anleger nehmen zum Wochenstart Tempo raus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T07:37:31+02:00"
-    },
-    {
-      "title": "Wie die Gesundheit von Mensch, Tier und Umwelt zusammenhängt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/tierwohl-gesundheit-mensch-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T06:01:08+02:00"
-    },
-    {
-      "title": "Sudan: Kindersoldaten als TikTok-Stars",
-      "link": "https://www.dw.com/de/sudan-kindersoldaten-als-tiktok-stars/a-77004296?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "04 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-04T04:45:00+00:00"
+      "sort_date": "2026-05-04T10:42:13+02:00"
     }
   ],
   "Food": []
