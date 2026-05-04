@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Hidden Mathematical Dance Inside Plant Cells",
+      "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+      "published": "04 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-04T14:39:38+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 2)",
       "link": "https://singularityhub.com/2026/05/02/this-weeks-awesome-tech-stories-from-around-the-web-through-may-2-2/",
       "published": "02 May 2026",
@@ -101,50 +108,43 @@
       "published": "30 Apr 2026",
       "source": "SingularityHub",
       "sort_date": "2026-04-30T22:48:37+00:00"
-    },
-    {
-      "title": "Why Math’s Final Axiom Proved So Controversial",
-      "link": "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/",
-      "published": "29 Apr 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-04-29T14:54:31+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ US-Kriegsschiffe durchfahren laut US-Armee Straße von Hormus ++",
+      "title": "US-Zerstörer durchfahren offenbar Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-schiffe-104.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T18:18:12+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Emirate: Großbrand nach iranischem Drohnenangriff ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T15:45:56+02:00"
+      "sort_date": "2026-05-04T18:13:54+02:00"
     },
     {
-      "title": "EPG-Gipfel in Armenien: Europa will eigene Verteidigung ausbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/epg-verteidigungsbereitschaft-100.html",
+      "title": "DAX rutscht ab: Zu viel des Schlechten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T15:43:03+02:00"
+      "sort_date": "2026-05-04T18:11:05+02:00"
     },
     {
-      "title": "Start-ups in Deutschland bekommen mehr Wagniskapital",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/start-ups-wagniskapital-investoren-100.html",
+      "title": "Schweizer Nachrichtendienst gewährt Einsicht in Mengele-Dossier",
+      "link": "https://www.tagesschau.de/ausland/europa/mengele-ns-arzt-dossier-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T14:59:47+02:00"
+      "sort_date": "2026-05-04T17:30:00+02:00"
     },
     {
-      "title": "Fake-Selfie mit Merz verbreitet sich online",
-      "link": "https://www.tagesschau.de/faktenfinder/merz-selfie-ki-100.html",
+      "title": "Entsetzen nach Angriff auf Nonne in Jerusalem",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-jerusalem-angriff-nonne-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T14:55:00+02:00"
-    },
-    {
-      "title": "Neue Zolldrohung: Autoaktien trifft es heute doppelt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-autobauer-trump-ifo-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T14:20:51+02:00"
+      "sort_date": "2026-05-04T17:25:31+02:00"
     }
   ],
   "Food": []
