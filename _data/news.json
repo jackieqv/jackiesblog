@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Minenjagdboot \"Fulda\" startet Richtung Mittelmeer ++",
+      "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-gipfel-armenien-102.html",
+      "published": "04 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-04T08:03:44+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Briten warnen Handelsschiffe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T04:48:41+02:00"
+      "sort_date": "2026-05-04T07:43:30+02:00"
     },
     {
-      "title": "Finanznot der New Yorker Metropolitan Opera wird größer",
-      "link": "https://www.tagesschau.de/ausland/amerika/opera-new-york-finanznot-100.html",
+      "title": "Marktbericht: Anleger nehmen Trumps-Zolldrohungen gelassen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T02:58:39+02:00"
+      "sort_date": "2026-05-04T07:37:31+02:00"
     },
     {
-      "title": "USA wollen Schiffe durch Straße von Hormus geleiten",
-      "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-hilfe-100.html",
+      "title": "Wie die Gesundheit von Mensch, Tier und Umwelt zusammenhängt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/tierwohl-gesundheit-mensch-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T02:57:03+02:00"
+      "sort_date": "2026-05-04T06:01:08+02:00"
     },
     {
-      "title": "Hantavirus-Ausbruch: Drei Tote auf Kreuzfahrtschiff im Atlantik",
-      "link": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-tote-100.html",
+      "title": "Sudan: Kindersoldaten als TikTok-Stars",
+      "link": "https://www.dw.com/de/sudan-kindersoldaten-als-tiktok-stars/a-77004296?maca=de-rss-de-top-1016-xml-mrss",
       "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T02:55:55+02:00"
-    },
-    {
-      "title": "Innenminister Dobrindt will an umstrittenen Grenzkontrollen festhalten",
-      "link": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-bab-100.html",
-      "published": "03 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-03T21:13:26+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-04T04:45:00+00:00"
     }
   ],
   "Food": []
