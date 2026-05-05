@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Pistorius bei Heeresübung: Der teure Krieg der Zukunft",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-leistungsschau-pistorius-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T05:35:11+02:00"
+    },
+    {
+      "title": "Einheimische Hülsenfrüchte: Wie die Ackerbohne zum Superfood wird",
+      "link": "https://www.tagesschau.de/wissen/forschung/ackerbohne-genschere-frosthart-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T05:32:20+02:00"
+    },
+    {
+      "title": "Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/leipzig-amokfahrt-104.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T04:56:19+02:00"
+    },
+    {
       "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
       "link": "https://www.tagesschau.de/ausland/pulitzer-preise-104.html",
       "published": "05 May 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-05-05T02:45:23+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ USA wollen UN-Resolution einbringen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T23:38:50+02:00"
-    },
-    {
       "title": "Spannungen zwischen USA und Iran verschärfen sich wieder",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-100.html",
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-04T22:12:48+02:00"
-    },
-    {
-      "title": "Russische Armee verkündet Waffenruhe am 8. und 9. Mai - Ukraine reagiert",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-104.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T21:59:44+02:00"
-    },
-    {
-      "title": "Ein Jahr schwarz-rote Koalition: Keine Feierlaune in Sicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-koalition-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T18:48:17+02:00"
     }
   ],
   "Food": []
