@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "An AI Just Beat Doctors at Diagnosing ER Patients",
+      "link": "https://singularityhub.com/2026/05/04/an-ai-just-beat-doctors-at-diagnosing-er-patients/",
+      "published": "04 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-04T23:01:07+00:00"
+    },
+    {
       "title": "The Hidden Mathematical Dance Inside Plant Cells",
       "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
       "published": "04 May 2026",
@@ -101,16 +108,16 @@
       "published": "01 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-01T15:05:38+00:00"
-    },
-    {
-      "title": "How Does Imagination Really Work in the Brain? New Theory Upends What We Knew",
-      "link": "https://singularityhub.com/2026/04/30/how-does-imagination-really-work-in-the-brain-new-theory-upends-what-we-knew/",
-      "published": "30 Apr 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-04-30T22:48:37+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
+      "link": "https://www.tagesschau.de/ausland/pulitzer-preise-104.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T02:45:23+02:00"
+    },
     {
       "title": "Iran-Liveblog: ++ USA wollen UN-Resolution einbringen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
@@ -138,13 +145,6 @@
       "published": "04 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-04T18:48:17+02:00"
-    },
-    {
-      "title": "DAX rutscht ab: Zu viel des Schlechten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html",
-      "published": "04 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-04T18:11:05+02:00"
     }
   ],
   "Food": []
