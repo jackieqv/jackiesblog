@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Ein Jahr Merz-Regierung: Kann Schwarz-Rot die Klimaziele einhalten?",
+      "link": "https://www.tagesschau.de/wissen/klima/klimabilanz-regierung-merz-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T19:21:01+02:00"
+    },
+    {
+      "title": "Regierung abgewählt: Wie geht es in Rumänien weiter?",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierung-misstrauensvotum-102.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T18:33:13+02:00"
+    },
+    {
+      "title": "Yudania Gómez Heredia - eine Dirigentin im Mittelpunkt der Pop-Arena",
+      "link": "https://www.tagesschau.de/kultur/rosalia-dirigentin-yudania-gomez-heredia-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T18:32:46+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX erholt sich kräftig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T18:32:27+02:00"
+    },
+    {
       "title": "Bilanz nach einem Jahr: So bewerten die Fraktionen Schwarz-Rot",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-koalition-reaktionen-100.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-05T17:34:33+02:00"
-    },
-    {
-      "title": "Nach Forderungen der EU: Meta plant europaweite Alterskontrolle",
-      "link": "https://www.tagesschau.de/ausland/europa/meta-alterskontrolle-eu-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T16:58:21+02:00"
-    },
-    {
-      "title": "Jens Spahn als Fraktionschef von CDU und CSU wiedergewählt",
-      "link": "https://www.tagesschau.de/inland/spahn-fraktionschef-union-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T16:54:36+02:00"
-    },
-    {
-      "title": "Berliner Mietpreisprüfstelle: Korrekte Mieten sind die Ausnahme",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mietwucher-berlin-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T16:09:47+02:00"
-    },
-    {
-      "title": "Namensänderung: Deutsche Post heißt bald DHL",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-post-dhl-hauptversammlung-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T15:29:10+02:00"
     }
   ],
   "Food": []
