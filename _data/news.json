@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Latest People Profile Enablement: What You Need to Know",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-people-profile-enablement-what-you-need-to-know/ba-p/14387871",
+      "published": "05 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-05T09:50:25+00:00"
+    },
+    {
+      "title": "Effective Start Date Validation in Payment Information - SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/effective-start-date-validation-in-payment-information-sap-successfactors/ba-p/14387981",
+      "published": "05 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-05T09:45:45+00:00"
+    },
+    {
+      "title": "2026 China Individual Income Tax Withholding System Updates: Solution Details for Phase 2",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2026-china-individual-income-tax-withholding-system-updates-solution/ba-p/14381036",
+      "published": "05 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-05T09:34:55+00:00"
+    },
+    {
       "title": "First Half 2026 Release: What's New in SAP SuccessFactors Employee Central?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-employee-central/ba-p/14387670",
       "published": "02 May 2026",
@@ -50,27 +71,6 @@
       "published": "02 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-02T09:19:51+00:00"
-    },
-    {
-      "title": "First Half 2026 release: What are the highlights for the talent intelligence hub?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-are-the-highlights-for-the-talent-intelligence/ba-p/14387227",
-      "published": "30 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-30T16:33:51+00:00"
-    },
-    {
-      "title": "1H 2026 SuccessFactors Onboarding Enhancement: New Task Management Page for Onboarding Tasks",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-successfactors-onboarding-enhancement-new-task-management-page-for/ba-p/14384301",
-      "published": "30 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-30T08:15:50+00:00"
-    },
-    {
-      "title": "First Half 2026 Release: What’s New in SAP SuccessFactors HCM?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/first-half-2026-release-what-s-new-in-sap-successfactors-hcm/ba-p/14386490",
-      "published": "29 Apr 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-04-29T20:38:01+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Deutscher Weinbau in der Krise - Chancen durch neue Märkte?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wein-krise-deutschland-100.html",
+      "title": "Kreuzfahrtschiff: Hantavirus wohl von Mensch zu Mensch übertragen",
+      "link": "https://www.tagesschau.de/ausland/afrika/hantavirus-kreuzfahrtschiff-100.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T08:30:22+02:00"
+      "sort_date": "2026-05-05T12:39:46+02:00"
     },
     {
-      "title": "Warum China Seltene Erden in Myanmar abbaut",
-      "link": "https://www.tagesschau.de/ausland/asien/china-seltene-erden-myanmar-100.html",
+      "title": "Mutmaßliche Amokfahrt: Verdächtiger soll Haftrichter vorgeführt werden",
+      "link": "https://www.tagesschau.de/inland/regional/sachsen/liveblog-leipzig-100.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T08:28:58+02:00"
+      "sort_date": "2026-05-05T12:34:41+02:00"
     },
     {
-      "title": "Verkehrsminister Schnieder schließt Tankrabatt-Verlängerung nicht aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-tankrabatt-100.html",
+      "title": "Reiseveranstalter: Keine Nachzahlungen für gebuchte Urlaube",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-nachzahlungen-kerosinpreise-100.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T08:08:42+02:00"
+      "sort_date": "2026-05-05T12:31:22+02:00"
     },
     {
-      "title": "USA melden erfolgreiche Geleitschutzmission durch Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/amerika/project-freedom-usa-hormus-iran-100.html",
+      "title": "Kurz vor Feuerpause: Tote und Verletzte nach russischem Angriff",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-poltawa-100.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T08:00:53+02:00"
+      "sort_date": "2026-05-05T11:52:23+02:00"
     },
     {
-      "title": "Marktbericht: DAX-Schwäche dürfte sich fortsetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html",
+      "title": "Trump und Merz: Wann reden sie wieder miteinander?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-trump-126.html",
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T08:00:41+02:00"
+      "sort_date": "2026-05-05T10:47:49+02:00"
     }
   ],
   "Food": []
