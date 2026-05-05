@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "All Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.",
+      "link": "https://singularityhub.com/2026/05/05/all-life-uses-20-amino-acids-scientists-just-deleted-one-in-bacteria/",
+      "published": "05 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-05T20:32:59+00:00"
+    },
+    {
       "title": "An AI Just Beat Doctors at Diagnosing ER Patients",
       "link": "https://singularityhub.com/2026/05/04/an-ai-just-beat-doctors-at-diagnosing-er-patients/",
       "published": "04 May 2026",
@@ -101,16 +108,30 @@
       "published": "01 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-01T19:29:07+00:00"
-    },
-    {
-      "title": "A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life",
-      "link": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "published": "01 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-01T15:05:38+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Viele Tote durch russische Bombenangriffe auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-tote-112.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T21:58:46+02:00"
+    },
+    {
+      "title": "Wie sich Jens Spahn an der Fraktionsspitze behauptet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-union-fraktionschef-wiederwahl-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T21:20:13+02:00"
+    },
+    {
+      "title": "Entwurf für Gebäudemodernisierungsgesetz: Klimaneutralität auf wackligem Boden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-gebaeudemodernisierungsgesetz-kritik-100.html",
+      "published": "05 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-05T21:19:13+02:00"
+    },
     {
       "title": "Ein Jahr Merz-Regierung: Kann Schwarz-Rot die Klimaziele einhalten?",
       "link": "https://www.tagesschau.de/wissen/klima/klimabilanz-regierung-merz-100.html",
@@ -124,27 +145,6 @@
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-05T18:33:13+02:00"
-    },
-    {
-      "title": "Yudania Gómez Heredia - eine Dirigentin im Mittelpunkt der Pop-Arena",
-      "link": "https://www.tagesschau.de/kultur/rosalia-dirigentin-yudania-gomez-heredia-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T18:32:46+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX erholt sich kräftig",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T18:32:27+02:00"
-    },
-    {
-      "title": "Bilanz nach einem Jahr: So bewerten die Fraktionen Schwarz-Rot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-koalition-reaktionen-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T17:34:33+02:00"
     }
   ],
   "Food": []
