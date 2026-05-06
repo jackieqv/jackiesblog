@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "What Causes Lightning? The Answer Keeps Getting More Interesting.",
+      "link": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "published": "06 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-06T14:48:32+00:00"
+    },
+    {
       "title": "All Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.",
       "link": "https://singularityhub.com/2026/05/05/all-life-uses-20-amino-acids-scientists-just-deleted-one-in-bacteria/",
       "published": "05 May 2026",
@@ -101,50 +108,43 @@
       "published": "02 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-02T14:00:00+00:00"
-    },
-    {
-      "title": "Robots With Different Designs Can Now Share Skills",
-      "link": "https://singularityhub.com/2026/05/01/robots-with-different-designs-can-now-share-skills/",
-      "published": "01 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-01T19:29:07+00:00"
     }
   ],
   "News": [
     {
-      "title": "Laut Selenskyj ignoriert Putin die einseitige Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-waffenruhe-102.html",
+      "title": "CNN-Gründer Ted Turner mit 87 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/ted-turner-tod-100.html",
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T15:54:37+02:00"
+      "sort_date": "2026-05-06T17:37:06+02:00"
     },
     {
-      "title": "Israel will Deutschland mit Kerosin-Lieferungen unterstützen",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-israel-kerosin-deutschland-100.html",
+      "title": "Wie das erste Jahr von Kulturstaatsminister Weimer verlief",
+      "link": "https://www.tagesschau.de/kultur/jahresbilanz-wolfram-weimer-100.html",
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T15:01:13+02:00"
+      "sort_date": "2026-05-06T17:19:41+02:00"
     },
     {
-      "title": "Gericht: Ausweiskontrollen in Berliner Freibädern zulässig",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/ausweiskontrollen-freibaeder-berlin-urteil-100.html",
+      "title": "Ein Jahr Merz: \"Wir erleben gerade einen Kipppunkt in der Kanzlerschaft\"",
+      "link": "https://www.tagesschau.de/inland/interview-ein-jahr-merz-bundeskanzler-100.html",
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T14:52:28+02:00"
+      "sort_date": "2026-05-06T17:19:15+02:00"
     },
     {
-      "title": "Ein Jahr Schwarz-Rot: Der Rollenwechsel des Friedrich Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-ein-jahr-schwarz-rot-100.html",
+      "title": "EU-Kommission präsentiert Strategie gegen Armut",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-armutsbekaempfung-100.html",
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T14:43:30+02:00"
+      "sort_date": "2026-05-06T16:45:12+02:00"
     },
     {
-      "title": "Marktbericht: Lufthansa trotz des Iran-Kriegs im Aufwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lufthansa-mb-100.html",
+      "title": "Autobranche: Warum BMW besser dasteht als VW und Mercedes",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-mercedes-vw-vergleich-e-autos-100.html",
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T14:15:11+02:00"
+      "sort_date": "2026-05-06T16:12:29+02:00"
     }
   ],
   "Food": []
