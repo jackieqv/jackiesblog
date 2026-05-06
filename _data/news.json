@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Trump pausiert US-Hilfe für Schiffe in der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-102.html",
+      "published": "06 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-06T02:56:01+02:00"
+    },
+    {
+      "title": "Hantavirus-Ausbruch: Kreuzfahrtschiff darf nach Spanien",
+      "link": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-spanien-100.html",
+      "published": "06 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-06T02:40:07+02:00"
+    },
+    {
       "title": "Viele Tote durch russische Bombenangriffe auf die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-tote-112.html",
       "published": "05 May 2026",
@@ -131,20 +145,6 @@
       "published": "05 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-05T21:19:13+02:00"
-    },
-    {
-      "title": "Ein Jahr Merz-Regierung: Kann Schwarz-Rot die Klimaziele einhalten?",
-      "link": "https://www.tagesschau.de/wissen/klima/klimabilanz-regierung-merz-100.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T19:21:01+02:00"
-    },
-    {
-      "title": "Regierung abgewählt: Wie geht es in Rumänien weiter?",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierung-misstrauensvotum-102.html",
-      "published": "05 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-05T18:33:13+02:00"
     }
   ],
   "Food": []
