@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Bundestag berät über schärfere Regeln für Barrierefreiheit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundestag-behindertengleichstellungsgesetz-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T04:42:39+02:00"
+    },
+    {
+      "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T02:46:39+02:00"
+    },
+    {
+      "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
+      "link": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T01:35:59+02:00"
+    },
+    {
       "title": "Iran-Liveblog: ++ USA schießen auf iranischen Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html",
       "published": "06 May 2026",
@@ -124,27 +145,6 @@
       "published": "06 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-06T21:20:13+02:00"
-    },
-    {
-      "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
-      "link": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html",
-      "published": "06 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T19:22:51+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX-Anleger scharren mit den Hufen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-138.html",
-      "published": "06 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T18:49:57+02:00"
-    },
-    {
-      "title": "US-Präsident Trump bleibt im Iran-Krieg auf Zickzackkurs",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohungen-waffenruhe-100.html",
-      "published": "06 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-06T18:47:23+02:00"
     }
   ],
   "Food": []
