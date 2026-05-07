@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T22:48:53+02:00"
+    },
+    {
+      "title": "AfD und Linke scheitern erneut bei Wahl ins Geheimdienstgremium",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/geheimdienst-gremium-wahl-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T21:43:21+02:00"
+    },
+    {
       "title": "Klingbeil zu Besuch in Kanada: \"Stärke durch Kooperation\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-reise-kanada-100.html",
       "published": "07 May 2026",
@@ -131,20 +145,6 @@
       "published": "07 May 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-05-07T18:56:00+00:00"
-    },
-    {
-      "title": "Marktbericht: Verlieren die Anleger die Geduld?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T18:11:46+02:00"
-    },
-    {
-      "title": "Interview: \"AfD ist Hauptprofiteur der Unzufriedenheit\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-afd-umfragewerte-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T18:05:11+02:00"
     }
   ],
   "Food": []
