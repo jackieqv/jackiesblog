@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "The HCM Ecosystem Is on a Roll and Sapphire Is Next",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-hcm-ecosystem-is-on-a-roll-and-sapphire-is-next/ba-p/14391641",
+      "published": "07 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-07T19:12:22+00:00"
+    },
+    {
+      "title": "Reducing Bias with Calibration Alerts in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/reducing-bias-with-calibration-alerts-in-sap-successfactors/ba-p/14378206",
+      "published": "07 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-07T17:41:32+00:00"
+    },
+    {
       "title": "Max Success Plans Help Keep HR Transformation on Track",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/max-success-plans-help-keep-hr-transformation-on-track/ba-p/14391583",
       "published": "07 May 2026",
@@ -57,20 +71,6 @@
       "published": "06 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-06T19:50:11+00:00"
-    },
-    {
-      "title": "Fasten Your Seatbelt: Türkiye Payroll Is Ready for Takeoff — Join the Yeni Pilot Program",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/fasten-your-seatbelt-t%C3%BCrkiye-payroll-is-ready-for-takeoff-join-the-yeni/ba-p/14387279",
-      "published": "06 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-06T19:49:42+00:00"
-    },
-    {
-      "title": "Latest People Profile Enablement: What You Need to Know",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-people-profile-enablement-what-you-need-to-know/ba-p/14387871",
-      "published": "05 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-05T09:50:25+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Klingbeil zu Besuch in Kanada: \"Stärke durch Kooperation\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-reise-kanada-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T20:58:49+02:00"
+    },
+    {
+      "title": "WHO: Hantavirus-Ausbruch nicht der Beginn einer Pandemie",
+      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-who-100.html",
+      "published": "07 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-07T19:59:13+02:00"
+    },
+    {
+      "title": "Wie wahrscheinlich ist ein Komplott gegen Putin?",
+      "link": "https://www.dw.com/de/wie-wahrscheinlich-ist-ein-komplott-gegen-putin/a-77076829?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "07 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-07T18:56:00+00:00"
+    },
+    {
       "title": "Marktbericht: Verlieren die Anleger die Geduld?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html",
       "published": "07 May 2026",
@@ -124,27 +145,6 @@
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-07T18:05:11+02:00"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: AfD überholt Union in Sonntagsfrage",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-mai-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T18:00:33+02:00"
-    },
-    {
-      "title": "Hitzige Diskussion über Barrierefreiheit im Bundestag",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/behindertengleichstellungsgesetz-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T17:07:13+02:00"
-    },
-    {
-      "title": "China verurteilt zwei Ex-Verteidigungsminister zur Todesstrafe",
-      "link": "https://www.tagesschau.de/ausland/asien/china-urteil-verteidigungsminister-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T16:38:05+02:00"
     }
   ],
   "Food": []
