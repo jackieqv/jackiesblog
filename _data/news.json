@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Heart Rarely Gets Cancer. Scientists Think They Know Why.",
+      "link": "https://singularityhub.com/2026/05/07/the-heart-rarely-gets-cancer-scientists-think-they-know-why/",
+      "published": "07 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-07T14:00:00+00:00"
+    },
+    {
       "title": "What Causes Lightning? The Answer Keeps Getting More Interesting.",
       "link": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "published": "06 May 2026",
@@ -101,50 +108,43 @@
       "published": "04 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-04T14:39:38+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 2)",
-      "link": "https://singularityhub.com/2026/05/02/this-weeks-awesome-tech-stories-from-around-the-web-through-may-2-2/",
-      "published": "02 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-02T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Hantavirus: Wie geht es mit der \"Hondius\" weiter?",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-102.html",
+      "title": "Bahn: Schienennetz hat sich 2025 nicht weiter verschlechtert",
+      "link": "https://www.tagesschau.de/inland/bahn-zustandsbericht-schienennetz-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T12:53:25+02:00"
+      "sort_date": "2026-05-07T15:52:48+02:00"
     },
     {
-      "title": "Wichtigste Antworten zur Widerspruchslösung bei Organspenden",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/organspende-258.html",
+      "title": "Drohnen nahe der russischen Grenze in Lettland abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnen-lettland-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T12:52:28+02:00"
+      "sort_date": "2026-05-07T15:04:59+02:00"
     },
     {
-      "title": "Platz in Berlin nach Margot Friedländer benannt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/margot-friedlaender-platz-100.html",
+      "title": "Russland: Ein Stimmungswechsel, der heikel für Putin ist",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-stimmung-putin-wirtschaft-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T12:14:49+02:00"
+      "sort_date": "2026-05-07T14:59:25+02:00"
     },
     {
-      "title": "Ein Jahr Schwarz-Rot: Wie die Basis von CDU und SPD auf die Koalition schaut",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-basis-100.html",
+      "title": "EU genehmigt Milliardenförderung für deutsche Industrie",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-industrie-deutschland-foerderung-klimaschutz-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T11:31:07+02:00"
+      "sort_date": "2026-05-07T14:43:43+02:00"
     },
     {
-      "title": "Warum Google jetzt die Zahl gelöschter Bewertungen zeigt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/google-bewertungen-100.html",
+      "title": "Marktbericht: Shell verdient deutlich mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-shell-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T11:23:32+02:00"
+      "sort_date": "2026-05-07T14:03:48+02:00"
     }
   ],
   "Food": []
