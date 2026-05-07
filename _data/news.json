@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Max Success Plans Help Keep HR Transformation on Track",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/max-success-plans-help-keep-hr-transformation-on-track/ba-p/14391583",
+      "published": "07 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-07T16:27:54+00:00"
+    },
+    {
       "title": "Generating Documents via a Link in Custom MDF Objects in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/generating-documents-via-a-link-in-custom-mdf-objects-in-sap-successfactors/ba-p/14388808",
       "published": "07 May 2026",
@@ -64,13 +71,6 @@
       "published": "05 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-05T09:50:25+00:00"
-    },
-    {
-      "title": "Effective Start Date Validation in Payment Information - SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/effective-start-date-validation-in-payment-information-sap-successfactors/ba-p/14387981",
-      "published": "05 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-05T09:45:45+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bahn: Schienennetz hat sich 2025 nicht weiter verschlechtert",
-      "link": "https://www.tagesschau.de/inland/bahn-zustandsbericht-schienennetz-100.html",
+      "title": "Marktbericht: Verlieren die Anleger die Geduld?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T15:52:48+02:00"
+      "sort_date": "2026-05-07T18:11:46+02:00"
     },
     {
-      "title": "Drohnen nahe der russischen Grenze in Lettland abgestürzt",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnen-lettland-100.html",
+      "title": "Interview: \"AfD ist Hauptprofiteur der Unzufriedenheit\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-afd-umfragewerte-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T15:04:59+02:00"
+      "sort_date": "2026-05-07T18:05:11+02:00"
     },
     {
-      "title": "Russland: Ein Stimmungswechsel, der heikel für Putin ist",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-stimmung-putin-wirtschaft-100.html",
+      "title": "ARD-DeutschlandTrend: AfD überholt Union in Sonntagsfrage",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-mai-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T14:59:25+02:00"
+      "sort_date": "2026-05-07T18:00:33+02:00"
     },
     {
-      "title": "EU genehmigt Milliardenförderung für deutsche Industrie",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-industrie-deutschland-foerderung-klimaschutz-100.html",
+      "title": "Hitzige Diskussion über Barrierefreiheit im Bundestag",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/behindertengleichstellungsgesetz-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T14:43:43+02:00"
+      "sort_date": "2026-05-07T17:07:13+02:00"
     },
     {
-      "title": "Marktbericht: Shell verdient deutlich mehr",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-shell-100.html",
+      "title": "China verurteilt zwei Ex-Verteidigungsminister zur Todesstrafe",
+      "link": "https://www.tagesschau.de/ausland/asien/china-urteil-verteidigungsminister-100.html",
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T14:03:48+02:00"
+      "sort_date": "2026-05-07T16:38:05+02:00"
     }
   ],
   "Food": []
