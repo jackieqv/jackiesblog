@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 1H 2026 Release: UX and Mobile Innovations",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-1h-2026-release-ux-and-mobile-innovations/ba-p/14392416",
+      "published": "08 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-08T13:07:15+00:00"
+    },
+    {
       "title": "How SAP Signavio, LeanIX, CALM & SuccessFactors Form a Unified HR IT Architecture",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-sap-signavio-leanix-calm-amp-successfactors-form-a-unified-hr-it/ba-p/14392191",
       "published": "08 May 2026",
@@ -64,13 +71,6 @@
       "published": "07 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-07T19:12:22+00:00"
-    },
-    {
-      "title": "Reducing Bias with Calibration Alerts in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/reducing-bias-with-calibration-alerts-in-sap-successfactors/ba-p/14378206",
-      "published": "07 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-07T17:41:32+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Streit über Kosten: Bundesrat stoppt Entlastungsprämie",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-100.html",
+      "title": "Reisen ins Ausland mit der Bahn werden beliebter",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-auslandsreisen-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T12:20:22+02:00"
+      "sort_date": "2026-05-08T15:41:07+02:00"
     },
     {
-      "title": "Bundestag beschließt Einsatz von Fußfesseln bei häuslicher Gewalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fussfessel-100.html",
+      "title": "Drei Bergsteiger sterben bei Vulkanausbruch in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/vulkanausbruch-indonesien-bergsteiger-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T11:19:49+02:00"
+      "sort_date": "2026-05-08T15:23:54+02:00"
     },
     {
-      "title": "tagesschau.de als bevorzugte Quelle bei Google verfügbar",
-      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-bevorzugte-quellen-google-100.html",
+      "title": "Welche neuen Eskalationen im Zollstreit durch Trumps Ultimatum drohen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-zoelle-eu-autos-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T11:02:31+02:00"
+      "sort_date": "2026-05-08T15:02:28+02:00"
     },
     {
-      "title": "Marktbericht: Anleger nehmen Gewinne mit",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html",
+      "title": "Warum der Bundesrat die Entlastungsprämie ablehnt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-stopp-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T10:31:21+02:00"
+      "sort_date": "2026-05-08T15:01:41+02:00"
     },
     {
-      "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html",
+      "title": "Kommentar zur Entlastungsprämie: Bundesrat hat den größten Blödsinn verhindert",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-entlastungspraemie-bundesrat-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T10:10:39+02:00"
+      "sort_date": "2026-05-08T14:57:05+02:00"
     }
   ],
   "Food": []
