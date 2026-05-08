@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Strategic Change and SAP SuccessFactors: Why Senior HR Leaders Choose Max Success Plans",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/strategic-change-and-sap-successfactors-why-senior-hr-leaders-choose-max/ba-p/14391733",
+      "published": "08 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-08T07:00:00+00:00"
+    },
+    {
       "title": "What’s New in SAP SuccessFactors Work Zone: 1H 2026 Release Highlights",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-in-sap-successfactors-work-zone-1h-2026-release-highlights/ba-p/14391769",
       "published": "07 May 2026",
@@ -64,13 +71,6 @@
       "published": "07 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-07T16:27:54+00:00"
-    },
-    {
-      "title": "Generating Documents via a Link in Custom MDF Objects in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/generating-documents-via-a-link-in-custom-mdf-objects-in-sap-successfactors/ba-p/14388808",
-      "published": "07 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-07T08:52:34+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "USA und Iran beschießen sich in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html",
+      "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T07:04:43+02:00"
+      "sort_date": "2026-05-08T09:28:22+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Waffenruhe laut Trump weiterhin in Kraft ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html",
+      "title": "Abwehrkampf gegen UniCredit: Commerzbank streicht weitere 3.000 Stellen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-stellenabbau-114.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T06:08:07+02:00"
+      "sort_date": "2026-05-08T09:02:23+02:00"
     },
     {
-      "title": "Fachkräftemangel in Deutschland: Ohne ausländische Ärzte geht es nicht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/aerztemangel-178.html",
+      "title": "Schwere Angriffe trotz von Russland ausgerufener Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-angriffe-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T05:20:05+02:00"
+      "sort_date": "2026-05-08T08:49:33+02:00"
     },
     {
-      "title": "Ein Jahr Papst Leo: Tradition und Tacheles für den Frieden",
-      "link": "https://www.dw.com/de/ein-jahr-papst-leo-tradition-und-tacheles-für-den-frieden/a-76987627?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "08 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-08T04:54:00+00:00"
-    },
-    {
-      "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html",
+      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T03:06:23+02:00"
+      "sort_date": "2026-05-08T08:41:12+02:00"
+    },
+    {
+      "title": "AfD \"wegregieren\" - warum klappt das bislang nicht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-umgang-bundesregierung-100.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T08:09:53+02:00"
     }
   ],
   "Food": []
