@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How SAP Signavio, LeanIX, CALM & SuccessFactors Form a Unified HR IT Architecture",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-sap-signavio-leanix-calm-amp-successfactors-form-a-unified-hr-it/ba-p/14392191",
+      "published": "08 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-08T10:13:53+00:00"
+    },
+    {
       "title": "Strategic Change and SAP SuccessFactors: Why Senior HR Leaders Choose Max Success Plans",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/strategic-change-and-sap-successfactors-why-senior-hr-leaders-choose-max/ba-p/14391733",
       "published": "08 May 2026",
@@ -64,13 +71,6 @@
       "published": "07 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-07T17:41:32+00:00"
-    },
-    {
-      "title": "Max Success Plans Help Keep HR Transformation on Track",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/max-success-plans-help-keep-hr-transformation-on-track/ba-p/14391583",
-      "published": "07 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-07T16:27:54+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Streit über Kosten: Bundesrat stoppt Entlastungsprämie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-100.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T12:20:22+02:00"
+    },
+    {
+      "title": "Bundestag beschließt Einsatz von Fußfesseln bei häuslicher Gewalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fussfessel-100.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T11:19:49+02:00"
+    },
+    {
+      "title": "tagesschau.de als bevorzugte Quelle bei Google verfügbar",
+      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-bevorzugte-quellen-google-100.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T11:02:31+02:00"
+    },
+    {
+      "title": "Marktbericht: Anleger nehmen Gewinne mit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T10:31:21+02:00"
+    },
+    {
       "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html",
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T09:28:22+02:00"
-    },
-    {
-      "title": "Abwehrkampf gegen UniCredit: Commerzbank streicht weitere 3.000 Stellen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-stellenabbau-114.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T09:02:23+02:00"
-    },
-    {
-      "title": "Schwere Angriffe trotz von Russland ausgerufener Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-angriffe-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T08:49:33+02:00"
-    },
-    {
-      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T08:41:12+02:00"
-    },
-    {
-      "title": "AfD \"wegregieren\" - warum klappt das bislang nicht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-umgang-bundesregierung-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T08:09:53+02:00"
+      "sort_date": "2026-05-08T10:10:39+02:00"
     }
   ],
   "Food": []
