@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "What’s New in SAP SuccessFactors Work Zone: 1H 2026 Release Highlights",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-in-sap-successfactors-work-zone-1h-2026-release-highlights/ba-p/14391769",
+      "published": "07 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-07T23:44:53+00:00"
+    },
+    {
       "title": "The HCM Ecosystem Is on a Roll and Sapphire Is Next",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-hcm-ecosystem-is-on-a-roll-and-sapphire-is-next/ba-p/14391641",
       "published": "07 May 2026",
@@ -64,13 +71,6 @@
       "published": "07 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-07T08:52:34+00:00"
-    },
-    {
-      "title": "Teşekkürler Doğan. TOGG zamanı: Yeni Bordro Vakti",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/te%C5%9Fekk%C3%BCrler-do%C4%9Fan-togg-zaman%C4%B1-yeni-bordro-vakti/ba-p/14390751",
-      "published": "06 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-06T19:50:11+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran-Liveblog: ++ Waffenruhe laut Trump weiterhin in Kraft ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T04:43:10+02:00"
+    },
+    {
+      "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T03:06:23+02:00"
+    },
+    {
+      "title": "USA und Iran beschießen sich in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html",
+      "published": "08 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-08T00:56:10+02:00"
+    },
+    {
       "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html",
       "published": "07 May 2026",
@@ -124,27 +145,6 @@
       "published": "07 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-07T21:43:21+02:00"
-    },
-    {
-      "title": "Klingbeil zu Besuch in Kanada: \"Stärke durch Kooperation\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-reise-kanada-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T20:58:49+02:00"
-    },
-    {
-      "title": "WHO: Hantavirus-Ausbruch nicht der Beginn einer Pandemie",
-      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-who-100.html",
-      "published": "07 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-07T19:59:13+02:00"
-    },
-    {
-      "title": "Wie wahrscheinlich ist ein Komplott gegen Putin?",
-      "link": "https://www.dw.com/de/wie-wahrscheinlich-ist-ein-komplott-gegen-putin/a-77076829?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "07 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-07T18:56:00+00:00"
     }
   ],
   "Food": []
