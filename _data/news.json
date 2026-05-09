@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Neubauprojekt des Bundestags vor dem Aus?",
+      "link": "https://www.tagesschau.de/inland/bundestag-bauprojekt-stopp-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T21:17:21+02:00"
+    },
+    {
       "title": "Russland und Ukraine melden Verstöße gegen Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-212.html",
       "published": "09 May 2026",
@@ -138,13 +145,6 @@
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-09T17:41:14+02:00"
-    },
-    {
-      "title": "Labour-Wahlschlappe: Starmer beruft Ex-Premier Brown in Regierung",
-      "link": "https://www.tagesschau.de/ausland/europa/labour-starmer-brown-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T17:24:13+02:00"
     }
   ],
   "Food": []
