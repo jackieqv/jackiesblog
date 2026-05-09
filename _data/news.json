@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
+      "link": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T01:49:26+02:00"
+    },
+    {
       "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
       "published": "08 May 2026",
@@ -138,13 +145,6 @@
       "published": "08 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-08T18:24:15+02:00"
-    },
-    {
-      "title": "Soziale Plattformen untätig bei KI-Fälschungen zum Holocaust",
-      "link": "https://www.tagesschau.de/faktenfinder/ki-fakes-holocaust-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T18:16:15+02:00"
     }
   ],
   "Food": []
