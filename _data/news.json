@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Russland und Ukraine melden Verstöße gegen Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-212.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T20:52:27+02:00"
+    },
+    {
+      "title": "Gouverneur in Kalifornien: Folgt auf Newsom ein Republikaner?",
+      "link": "https://www.tagesschau.de/ausland/amerika/newsom-gouverneur-kalifornien-nachfolge-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T20:24:54+02:00"
+    },
+    {
+      "title": "1.000-Euro-Prämie vorerst gestoppt: Weiter Debatte über Entlastungen",
+      "link": "https://www.tagesschau.de/inland/entlastungspraemie-debatte-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T18:13:14+02:00"
+    },
+    {
       "title": "Magyar als neuer Ministerpräsident in Ungarn vereidigt",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-vereidigung-100.html",
       "published": "09 May 2026",
@@ -124,27 +145,6 @@
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-09T17:24:13+02:00"
-    },
-    {
-      "title": "Patientenschützer kritisieren Warkens Reformpläne der Pflegeversicherung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-patientenschuetzer-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T17:22:09+02:00"
-    },
-    {
-      "title": "Arbeitstage bis zu 14 Stunden: Wie Paketboten ausgebeutet werden",
-      "link": "https://www.tagesschau.de/wirtschaft/ausbeutung-paketboten-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T16:49:19+02:00"
-    },
-    {
-      "title": "Wie die Grünen die Nähe zur Union suchen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-gruen-annaeherung-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T16:26:20+02:00"
     }
   ],
   "Food": []
