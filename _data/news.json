@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Nach Kommunalwahl in Großbritannien: Das Ende von Labour?",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-kommunalwahl-labour-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T06:41:34+02:00"
+    },
+    {
+      "title": "Abwehrkrieg gegen Russland: Die Ukraine schöpft Zuversicht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-diskurs-staerke-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T05:43:04+02:00"
+    },
+    {
+      "title": "Flughafenverband rechnet mit Flugstreichungen wegen hoher Kerosinpreise",
+      "link": "https://www.tagesschau.de/wirtschaft/flughafenverband-streichungen-kerosin-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T05:15:24+02:00"
+    },
+    {
+      "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
+      "published": "09 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-09T05:12:15+02:00"
+    },
+    {
       "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
       "link": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-09T01:49:26+02:00"
-    },
-    {
-      "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T21:37:37+02:00"
-    },
-    {
-      "title": "Rubio in Italien und dem Vatikan: Auf diplomatischer Mission",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-reise-rubio-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T20:03:11+02:00"
-    },
-    {
-      "title": "EU-Handelskommissar Sefcovic erwartet baldige US-Zoll-Einigung",
-      "link": "https://www.tagesschau.de/ausland/europa/zolldeal-handelskommissar-eu-usa-100.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T19:08:02+02:00"
-    },
-    {
-      "title": "Marktbericht: Alle Blicke auf den Persischen Golf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html",
-      "published": "08 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-08T18:24:15+02:00"
     }
   ],
   "Food": []
