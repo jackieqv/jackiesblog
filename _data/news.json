@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 9)",
+      "link": "https://singularityhub.com/2026/05/09/this-weeks-awesome-tech-stories-from-around-the-web-through-may-9-2/",
+      "published": "09 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-09T14:00:00+00:00"
+    },
+    {
       "title": "Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?",
       "link": "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
       "published": "08 May 2026",
@@ -101,50 +108,43 @@
       "published": "06 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-06T14:48:32+00:00"
-    },
-    {
-      "title": "All Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.",
-      "link": "https://singularityhub.com/2026/05/05/all-life-uses-20-amino-acids-scientists-just-deleted-one-in-bacteria/",
-      "published": "05 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-05T20:32:59+00:00"
     }
   ],
   "News": [
     {
-      "title": "Zu wenige Unterschriften: Volksbegehren \"Berlin autofrei\" gescheitert",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/volksbegehren-berlin-autofrei-100.html",
+      "title": "Magyar als neuer Ministerpräsident in Ungarn vereidigt",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-vereidigung-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T14:36:53+02:00"
+      "sort_date": "2026-05-09T17:41:14+02:00"
     },
     {
-      "title": "Siegesparade: Demonstration von Normalität in unnormalen Zeiten",
-      "link": "https://www.tagesschau.de/ausland/europa/moskau-parade-putin-100.html",
+      "title": "Labour-Wahlschlappe: Starmer beruft Ex-Premier Brown in Regierung",
+      "link": "https://www.tagesschau.de/ausland/europa/labour-starmer-brown-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T13:44:23+02:00"
+      "sort_date": "2026-05-09T17:24:13+02:00"
     },
     {
-      "title": "Die Lage der 20.000 im Persischen Golf gestrandeten Seeleute",
-      "link": "https://www.tagesschau.de/ausland/asien/gestrandete-seefahrer-100.html",
+      "title": "Patientenschützer kritisieren Warkens Reformpläne der Pflegeversicherung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-patientenschuetzer-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T13:40:28+02:00"
+      "sort_date": "2026-05-09T17:22:09+02:00"
     },
     {
-      "title": "Ab Sommer 2028: Bahn plant Direktverbindung von Berlin nach Oslo",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/norwegen-deutschland-direktverbindung-bahn-100.html",
+      "title": "Arbeitstage bis zu 14 Stunden: Wie Paketboten ausgebeutet werden",
+      "link": "https://www.tagesschau.de/wirtschaft/ausbeutung-paketboten-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T12:54:45+02:00"
+      "sort_date": "2026-05-09T16:49:19+02:00"
     },
     {
-      "title": "New York: Milliardär wehrt sich gegen Mamdanis Luxussteuerpläne",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-steuern-100.html",
+      "title": "Wie die Grünen die Nähe zur Union suchen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-gruen-annaeherung-100.html",
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T12:40:36+02:00"
+      "sort_date": "2026-05-09T16:26:20+02:00"
     }
   ],
   "Food": []
