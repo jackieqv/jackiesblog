@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Putin bringt Schröder als Vermittler ins Gespräch",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-putin-schroeder-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T05:23:42+02:00"
+    },
+    {
+      "title": "Boomende Rechenzentren: Wachstum mit Schattenseiten",
+      "link": "https://www.dw.com/de/boomende-rechenzentren-wachstum-mit-schattenseiten/a-77094368?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "10 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-10T05:21:00+00:00"
+    },
+    {
       "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
       "link": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html",
       "published": "10 May 2026",
@@ -131,20 +145,6 @@
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-09T21:17:21+02:00"
-    },
-    {
-      "title": "Russland und Ukraine melden Verstöße gegen Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-212.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T20:52:27+02:00"
-    },
-    {
-      "title": "Gouverneur in Kalifornien: Folgt auf Newsom ein Republikaner?",
-      "link": "https://www.tagesschau.de/ausland/amerika/newsom-gouverneur-kalifornien-nachfolge-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T20:24:54+02:00"
     }
   ],
   "Food": []
