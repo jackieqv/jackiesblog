@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Söder verlangt von der Regierung Ergebnisse - Prämie hält er für tot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-innenpolitik-bericht-aus-berlin-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T19:24:07+02:00"
+    },
+    {
+      "title": "Palästinensische Gebiete: Erbfolge oder Epochenwechsel?",
+      "link": "https://www.tagesschau.de/ausland/asien/fatah-kongress-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T19:05:43+02:00"
+    },
+    {
+      "title": "ARD-Dialogprojekt: Miteinander reden - statt übereinander",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ard-aktion-was-deutschland-verbindet-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T18:42:29+02:00"
+    },
+    {
       "title": "Deutsche Passagiere der \"Hondius\" auf dem Weg in die Heimat",
       "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-evakuierung-deutsche-100.html",
       "published": "10 May 2026",
@@ -124,27 +145,6 @@
       "published": "10 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-10T17:38:13+02:00"
-    },
-    {
-      "title": "Iran übermittelt Antwort auf US-Vorschlag über neue Verhandlungen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-us-vorschlag-100.html",
-      "published": "10 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-10T17:31:16+02:00"
-    },
-    {
-      "title": "Ärzteverband fordert, Schnaps nur noch in Lizenzshops zu verkaufen",
-      "link": "https://www.tagesschau.de/inland/alkohol-lizenzshops-100.html",
-      "published": "10 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-10T16:55:49+02:00"
-    },
-    {
-      "title": "Neue E-Auto-Prämie: Lohnt sich das?",
-      "link": "https://www.tagesschau.de/wirtschaft/e-auto-praemie-staat-100.html",
-      "published": "10 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-10T16:24:18+02:00"
     }
   ],
   "Food": []
