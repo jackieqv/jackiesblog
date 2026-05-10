@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Future-Dated Records on Terminated Employees: 1H 2026 Finally Closes a Long-Standing Gap.",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/future-dated-records-on-terminated-employees-1h-2026-finally-closes-a-long/ba-p/14392897",
+      "published": "09 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-09T23:06:43+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 1H 2026 Release: UX and Mobile Innovations",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-1h-2026-release-ux-and-mobile-innovations/ba-p/14392416",
       "published": "08 May 2026",
@@ -64,13 +71,6 @@
       "published": "07 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-07T23:44:53+00:00"
-    },
-    {
-      "title": "The HCM Ecosystem Is on a Roll and Sapphire Is Next",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/the-hcm-ecosystem-is-on-a-roll-and-sapphire-is-next/ba-p/14391641",
-      "published": "07 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-07T19:12:22+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
+      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T03:00:46+02:00"
+    },
+    {
+      "title": "Ministerpräsident Magyar löst Aufbruchstimmung in Ungarn aus",
+      "link": "https://www.tagesschau.de/ausland/europa/magyar-vereidigt-reportage-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T02:58:34+02:00"
+    },
+    {
       "title": "Neubauprojekt des Bundestags vor dem Aus?",
       "link": "https://www.tagesschau.de/inland/bundestag-bauprojekt-stopp-100.html",
       "published": "09 May 2026",
@@ -131,20 +145,6 @@
       "published": "09 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-09T20:24:54+02:00"
-    },
-    {
-      "title": "1.000-Euro-Prämie vorerst gestoppt: Weiter Debatte über Entlastungen",
-      "link": "https://www.tagesschau.de/inland/entlastungspraemie-debatte-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T18:13:14+02:00"
-    },
-    {
-      "title": "Magyar als neuer Ministerpräsident in Ungarn vereidigt",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-vereidigung-100.html",
-      "published": "09 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-09T17:41:14+02:00"
     }
   ],
   "Food": []
