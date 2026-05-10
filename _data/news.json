@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Deutsche Passagiere der \"Hondius\" auf dem Weg in die Heimat",
+      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-evakuierung-deutsche-100.html",
+      "published": "10 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-10T21:14:33+02:00"
+    },
+    {
+      "title": "Rechte Jugend in Berlin: Gewalt im Schatten der Metropole",
+      "link": "https://www.dw.com/de/rechte-jugend-in-berlin-gewalt-im-schatten-der-metropole/a-77076775?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "10 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-10T19:39:00+00:00"
+    },
+    {
       "title": "Söder verlangt von der Regierung Ergebnisse - Prämie hält er für tot",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-innenpolitik-bericht-aus-berlin-100.html",
       "published": "10 May 2026",
@@ -131,20 +145,6 @@
       "published": "10 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-10T18:42:29+02:00"
-    },
-    {
-      "title": "Deutsche Passagiere der \"Hondius\" auf dem Weg in die Heimat",
-      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-evakuierung-deutsche-100.html",
-      "published": "10 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-10T17:49:51+02:00"
-    },
-    {
-      "title": "Putin schlägt Schröder als Vermittler vor - die Reaktionen sind gemischt",
-      "link": "https://www.tagesschau.de/inland/russland-ukaine-putin-schroeder-reaktionen-100.html",
-      "published": "10 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-10T17:38:13+02:00"
     }
   ],
   "Food": []
