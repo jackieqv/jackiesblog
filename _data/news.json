@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: Ruhiger Wochenauftakt an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-130.html",
+      "published": "11 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-11T18:40:49+02:00"
+    },
+    {
+      "title": "EU einigt sich auf Sanktionen gegen radikale israelische Siedler",
+      "link": "https://www.tagesschau.de/ausland/europa/treffen-eu-aussenminister-israel-ukraine-100.html",
+      "published": "11 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-11T18:12:13+02:00"
+    },
+    {
+      "title": "Amtswechsel: Krause neuer Oberbürgermeister in München",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-amtskette-hat-neuen-besitzer-ob-wechsel-in-muenchen-vollzogen-102.html",
+      "published": "11 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-11T17:46:09+02:00"
+    },
+    {
+      "title": "Eurovision Song Contest 2026: Soziale Medien als zweite Bühne",
+      "link": "https://www.tagesschau.de/kultur/esc-social-media-100.html",
+      "published": "11 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-11T17:36:58+02:00"
+    },
+    {
       "title": "Cybersicherheitsmonitor: Jeder Neunte von Internetkriminalität betroffen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/cybersicherheitsmonitor-2026-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-11T16:49:24+02:00"
-    },
-    {
-      "title": "Streetart verwandelt Völklinger Hütte bei der Urban Art Biennale",
-      "link": "https://www.tagesschau.de/kultur/urban-art-biennale-voelklinger-huette-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T16:11:07+02:00"
-    },
-    {
-      "title": "EU gegen Altkanzler Schröder als Ukraine-Vermittler",
-      "link": "https://www.tagesschau.de/ausland/europa/schroeder-europaeische-union-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T15:24:24+02:00"
-    },
-    {
-      "title": "Vermittlung im Ukraine-Krieg: Wer könnte mit Putin reden?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gespraechspartner-putin-russland-schroeder-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T15:23:47+02:00"
-    },
-    {
-      "title": "Telekom und Rheinmetall arbeiten an einer Drohnenabwehr",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/telekom-rheinmetall-drohnenabwehr-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T15:08:37+02:00"
     }
   ],
   "Food": []
