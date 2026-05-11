@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Krieg in Nahost: USA und Iran lehnen gegenseitige Forderungen ab",
+      "link": "https://www.tagesschau.de/ausland/iran-krieg-verhandlungen-100.html",
+      "published": "11 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-11T23:16:17+02:00"
+    },
+    {
       "title": "Deutschland und Ukraine planen Bau von Drohnen mit großer Reichweite",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-selenskyj-drohnen-100.html",
       "published": "11 May 2026",
@@ -138,13 +145,6 @@
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-11T19:49:17+02:00"
-    },
-    {
-      "title": "Milliardendefizit in der Pflege: Kritik an Warkens Reformplänen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-reform-kritik-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T19:27:53+02:00"
     }
   ],
   "Food": []
