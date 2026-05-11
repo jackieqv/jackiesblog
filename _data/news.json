@@ -38,18 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "SAP’s Acquisition of Reltio: A Big Step Toward AI-Ready Enterprise Data - Future Ready!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-s-acquisition-of-reltio-a-big-step-toward-ai-ready-enterprise-data/ba-p/14393630",
+      "published": "11 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-11T13:47:34+00:00"
+    },
+    {
+      "title": "From Go-Live to Real Adoption: How WalkMe Transforms SAP SuccessFactors Experience",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-go-live-to-real-adoption-how-walkme-transforms-sap-successfactors/ba-p/14393143",
+      "published": "11 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-11T13:29:12+00:00"
+    },
+    {
       "title": "Managing Complex HR Landscapes as a SAP SuccessFactors Customer: How Max Success Plan Supports",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-complex-hr-landscapes-as-a-sap-successfactors-customer-how-max/ba-p/14391735",
       "published": "11 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-11T08:00:00+00:00"
-    },
-    {
-      "title": "WalkMe in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/walkme-in-sap-successfactors/ba-p/14393143",
-      "published": "11 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-11T04:26:29+00:00"
     },
     {
       "title": "08.SAP SuccessFactors HCM Implementation - Data Migration Key areas and Framework",
@@ -64,16 +71,23 @@
       "published": "09 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-09T23:06:43+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors 1H 2026 Release: UX and Mobile Innovations",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-1h-2026-release-ux-and-mobile-innovations/ba-p/14392416",
-      "published": "08 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-08T13:07:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "How Unknowable Math Can Help Hide Secrets",
+      "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "published": "11 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-11T14:15:13+00:00"
+    },
+    {
+      "title": "In the Scramble to Power AI, Investors Bet $140 Million on Data Centers at Sea",
+      "link": "https://singularityhub.com/2026/05/11/scrambling-to-power-ai-investors-bet-140-million-on-data-centers-at-sea/",
+      "published": "11 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-11T14:00:00+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 9)",
       "link": "https://singularityhub.com/2026/05/09/this-weeks-awesome-tech-stories-from-around-the-web-through-may-9-2/",
@@ -94,57 +108,43 @@
       "published": "08 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-08T14:00:00+00:00"
-    },
-    {
-      "title": "The Heart Rarely Gets Cancer. Scientists Think They Know Why.",
-      "link": "https://singularityhub.com/2026/05/07/the-heart-rarely-gets-cancer-scientists-think-they-know-why/",
-      "published": "07 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-07T14:00:00+00:00"
-    },
-    {
-      "title": "What Causes Lightning? The Answer Keeps Getting More Interesting.",
-      "link": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "published": "06 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-06T14:48:32+00:00"
     }
   ],
   "News": [
     {
-      "title": "DGB-Bundeskongress bestätigt Vorsitzende Fahimi im Amt",
-      "link": "https://www.tagesschau.de/wirtschaft/dgb-fahimi-wiederwahl-100.html",
+      "title": "Cybersicherheitsmonitor: Jeder Neunte von Internetkriminalität betroffen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cybersicherheitsmonitor-2026-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T11:35:52+02:00"
+      "sort_date": "2026-05-11T16:49:24+02:00"
     },
     {
-      "title": "Polens Ex-Minister Ziobro flieht aus Ungarn in die USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/ziobro-usa-100.html",
+      "title": "Streetart verwandelt Völklinger Hütte bei der Urban Art Biennale",
+      "link": "https://www.tagesschau.de/kultur/urban-art-biennale-voelklinger-huette-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T11:34:49+02:00"
+      "sort_date": "2026-05-11T16:11:07+02:00"
     },
     {
-      "title": "Ukrainische Infanterie: 130 Tage in der Todeszone",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-frontlinie-100.html",
+      "title": "EU gegen Altkanzler Schröder als Ukraine-Vermittler",
+      "link": "https://www.tagesschau.de/ausland/europa/schroeder-europaeische-union-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T10:57:10+02:00"
+      "sort_date": "2026-05-11T15:24:24+02:00"
     },
     {
-      "title": "Marktbericht: Hohe Ölpreise verunsichern Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-130.html",
+      "title": "Vermittlung im Ukraine-Krieg: Wer könnte mit Putin reden?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gespraechspartner-putin-russland-schroeder-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T10:37:39+02:00"
+      "sort_date": "2026-05-11T15:23:47+02:00"
     },
     {
-      "title": "Trotz Waffenruhe spitzt sich die humanitäre Lage in Gaza zu",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-lage-104.html",
+      "title": "Telekom und Rheinmetall arbeiten an einer Drohnenabwehr",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/telekom-rheinmetall-drohnenabwehr-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T10:17:00+02:00"
+      "sort_date": "2026-05-11T15:08:37+02:00"
     }
   ],
   "Food": []
