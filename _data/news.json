@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Managing Complex HR Landscapes as a SAP SuccessFactors Customer: How Max Success Plan Supports",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-complex-hr-landscapes-as-a-sap-successfactors-customer-how-max/ba-p/14391735",
+      "published": "11 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-11T08:00:00+00:00"
+    },
+    {
+      "title": "WalkMe in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/walkme-in-sap-successfactors/ba-p/14393143",
+      "published": "11 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-11T04:26:29+00:00"
+    },
+    {
       "title": "08.SAP SuccessFactors HCM Implementation - Data Migration Key areas and Framework",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/08-sap-successfactors-hcm-implementation-data-migration-key-areas-and/ba-p/14393107",
       "published": "11 May 2026",
@@ -57,20 +71,6 @@
       "published": "08 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-08T13:07:15+00:00"
-    },
-    {
-      "title": "How SAP Signavio, LeanIX, CALM & SuccessFactors Form a Unified HR IT Architecture",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-sap-signavio-leanix-calm-amp-successfactors-form-a-unified-hr-it/ba-p/14392191",
-      "published": "08 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-08T10:13:53+00:00"
-    },
-    {
-      "title": "Strategic Change and SAP SuccessFactors: Why Senior HR Leaders Choose Max Success Plans",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/strategic-change-and-sap-successfactors-why-senior-hr-leaders-choose-max/ba-p/14391733",
-      "published": "08 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-08T07:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Einen Monat vor der WM: Wie ist die Stimmung in Mexiko?",
-      "link": "https://www.tagesschau.de/ausland/amerika/fussball-weltmeisterschaft-aztekenstadion-mexiko-100.html",
+      "title": "DGB-Bundeskongress bestätigt Vorsitzende Fahimi im Amt",
+      "link": "https://www.tagesschau.de/wirtschaft/dgb-fahimi-wiederwahl-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T05:14:22+02:00"
+      "sort_date": "2026-05-11T11:35:52+02:00"
     },
     {
-      "title": "Studie zu Kupfermine in Peru - Erhöhte Arsenwerte in Brunnen und bei Kindern",
-      "link": "https://www.tagesschau.de/investigativ/swr/kupfermine-peru-aurubis-100.html",
+      "title": "Polens Ex-Minister Ziobro flieht aus Ungarn in die USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/ziobro-usa-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T05:05:49+02:00"
+      "sort_date": "2026-05-11T11:34:49+02:00"
     },
     {
-      "title": "Rücktrittsforderungen: Für Premier Starmer könnte die Woche entscheidend werden",
-      "link": "https://www.tagesschau.de/ausland/starmer-wegweisende-woche-100.html",
+      "title": "Ukrainische Infanterie: 130 Tage in der Todeszone",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-frontlinie-100.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T04:45:09+02:00"
+      "sort_date": "2026-05-11T10:57:10+02:00"
     },
     {
-      "title": "Söder verlangt von der Regierung Ergebnisse - Prämie hält er für tot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-innenpolitik-bericht-aus-berlin-100.html",
+      "title": "Marktbericht: Hohe Ölpreise verunsichern Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-130.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T02:33:36+02:00"
+      "sort_date": "2026-05-11T10:37:39+02:00"
     },
     {
-      "title": "Nach US-Vorschlag: Trump findet Irans Antwort \"völlig inakzeptabel\"",
-      "link": "https://www.tagesschau.de/ausland/trump-iran-vorschlag-inakzeptabel-100.html",
+      "title": "Trotz Waffenruhe spitzt sich die humanitäre Lage in Gaza zu",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-lage-104.html",
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T02:17:01+02:00"
+      "sort_date": "2026-05-11T10:17:00+02:00"
     }
   ],
   "Food": []
