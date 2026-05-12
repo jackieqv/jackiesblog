@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "You are the Voice of HR! Participate Now in Sapient Insights Group’s 29th Annual HR Systems Survey",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/you-are-the-voice-of-hr-participate-now-in-sapient-insights-group-s-29th/ba-p/14377087",
+      "published": "12 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-12T21:32:59+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Time/Workforce Management - Feature List",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-time-workforce-management-feature-list/ba-p/14394031",
+      "published": "12 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-12T21:30:10+00:00"
+    },
+    {
+      "title": "Licence Usage Report Demo for the Compensation Module",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/licence-usage-report-demo-for-the-compensation-module/ba-p/14394697",
+      "published": "12 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-12T20:39:20+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Employee Central Payroll (ECP) Modernization Partner Demo Systems Reprovisioning",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-employee-central-payroll-ecp-modernization-partner-demo/ba-p/14393586",
       "published": "12 May 2026",
@@ -50,27 +71,6 @@
       "published": "12 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-12T07:00:00+00:00"
-    },
-    {
-      "title": "From Go-Live to Real Adoption: How WalkMe Transforms SAP SuccessFactors Experience",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-go-live-to-real-adoption-how-walkme-transforms-sap-successfactors/ba-p/14393143",
-      "published": "12 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T03:43:53+00:00"
-    },
-    {
-      "title": "SAP’s Acquisition of Reltio: A Big Step Toward AI-Ready Enterprise Data - Future Ready!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-s-acquisition-of-reltio-a-big-step-toward-ai-ready-enterprise-data/ba-p/14393630",
-      "published": "11 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-11T13:47:34+00:00"
-    },
-    {
-      "title": "Managing Complex HR Landscapes as a SAP SuccessFactors Customer: How Max Success Plan Supports",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-complex-hr-landscapes-as-a-sap-successfactors-customer-how-max/ba-p/14391735",
-      "published": "11 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-11T08:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html",
+      "published": "12 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-12T21:58:13+02:00"
+    },
+    {
       "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
       "link": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html",
       "published": "12 May 2026",
@@ -124,13 +131,6 @@
       "published": "12 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-12T19:41:59+02:00"
-    },
-    {
-      "title": "Britischer Premier Starmer weist Rücktrittsforderungen von sich",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-reaktionen-100.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T19:34:28+02:00"
     },
     {
       "title": "Tunesiens \"schleichender Autoritarismus\" schreitet voran",
