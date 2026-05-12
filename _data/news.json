@@ -38,18 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "From Go-Live to Real Adoption: How WalkMe Transforms SAP SuccessFactors Experience",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-go-live-to-real-adoption-how-walkme-transforms-sap-successfactors/ba-p/14393143",
+      "published": "12 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-12T02:42:33+00:00"
+    },
+    {
       "title": "SAP’s Acquisition of Reltio: A Big Step Toward AI-Ready Enterprise Data - Future Ready!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-s-acquisition-of-reltio-a-big-step-toward-ai-ready-enterprise-data/ba-p/14393630",
       "published": "11 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-11T13:47:34+00:00"
-    },
-    {
-      "title": "From Go-Live to Real Adoption: How WalkMe Transforms SAP SuccessFactors Experience",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-go-live-to-real-adoption-how-walkme-transforms-sap-successfactors/ba-p/14393143",
-      "published": "11 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-11T13:29:12+00:00"
     },
     {
       "title": "Managing Complex HR Landscapes as a SAP SuccessFactors Customer: How Max Success Plan Supports",
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Klingbeil will Spitzenverdienern in die Tasche greifen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html",
+      "published": "12 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-12T02:44:24+02:00"
+    },
+    {
+      "title": "Druck wird stärker - Minister legen Starmer Rücktritt nahe",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-starmer-labour-100.html",
+      "published": "12 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-12T01:31:30+02:00"
+    },
+    {
       "title": "Krieg in Nahost: USA und Iran lehnen gegenseitige Forderungen ab",
       "link": "https://www.tagesschau.de/ausland/iran-krieg-verhandlungen-100.html",
       "published": "11 May 2026",
@@ -131,20 +145,6 @@
       "published": "11 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-11T20:07:53+02:00"
-    },
-    {
-      "title": "Bund sichert 1.200 Jobs in Raffinerie in Schwedt für sechs Monate",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/raffinerie-schwedt-jobs-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T19:53:55+02:00"
-    },
-    {
-      "title": "Bosnien und Herzegowina: UN-Repräsentant Schmidt geht - auf US-Druck?",
-      "link": "https://www.tagesschau.de/ausland/europa/bosnien-beauftragter-schmidt-ruecktritt-100.html",
-      "published": "11 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-11T19:49:17+02:00"
     }
   ],
   "Food": []
