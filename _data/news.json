@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "These Seven AI Rings Translate Sign Language in Real Time",
+      "link": "https://singularityhub.com/2026/05/12/these-seven-ai-rings-translate-sign-language-in-real-time/",
+      "published": "12 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-12T18:28:00+00:00"
+    },
+    {
       "title": "How Unknowable Math Can Help Hide Secrets",
       "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
       "published": "11 May 2026",
@@ -101,22 +108,36 @@
       "published": "08 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-08T14:50:43+00:00"
-    },
-    {
-      "title": "You Probably Wouldn’t Notice if a Chatbot Slipped Ads Into Its Responses",
-      "link": "https://singularityhub.com/2026/05/08/you-probably-wouldnt-notice-if-a-chatbot-slipped-ads-into-its-responses/",
-      "published": "08 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-08T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html",
+      "published": "12 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-12T21:11:02+02:00"
+    },
     {
       "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
       "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
       "published": "12 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T18:16:49+02:00"
+      "sort_date": "2026-05-12T19:41:59+02:00"
+    },
+    {
+      "title": "Britischer Premier Starmer weist Rücktrittsforderungen von sich",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-reaktionen-100.html",
+      "published": "12 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-12T19:34:28+02:00"
+    },
+    {
+      "title": "Tunesiens \"schleichender Autoritarismus\" schreitet voran",
+      "link": "https://www.dw.com/de/tunesiens-schleichender-autoritarismus-schreitet-voran/a-77130472?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "12 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-12T19:20:00+00:00"
     },
     {
       "title": "Marktbericht: DAX fällt unter 24.000er-Marke",
@@ -124,27 +145,6 @@
       "published": "12 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-12T18:12:04+02:00"
-    },
-    {
-      "title": "Bahn bietet im Sommer Familienticket an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bahn-familienticket-100.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T17:52:49+02:00"
-    },
-    {
-      "title": "Britischer Premier Starmer weist Rücktrittsforderungen von sich",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-reaktionen-100.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T16:38:02+02:00"
-    },
-    {
-      "title": "US-Verbraucherpreise steigen im April auf Drei-Jahres-Hoch",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/usa-inflation-118.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T16:24:01+02:00"
     }
   ],
   "Food": []
