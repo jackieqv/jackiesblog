@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "License Usage Report Demo for the Compensation Module",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/license-usage-report-demo-for-the-compensation-module/ba-p/14394697",
+      "published": "13 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-13T06:04:41+00:00"
+    },
+    {
       "title": "You are the Voice of HR! Participate Now in Sapient Insights Group’s 29th Annual HR Systems Survey",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/you-are-the-voice-of-hr-participate-now-in-sapient-insights-group-s-29th/ba-p/14377087",
       "published": "12 May 2026",
@@ -52,13 +59,6 @@
       "sort_date": "2026-05-12T21:30:10+00:00"
     },
     {
-      "title": "Licence Usage Report Demo for the Compensation Module",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/licence-usage-report-demo-for-the-compensation-module/ba-p/14394697",
-      "published": "12 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T20:39:20+00:00"
-    },
-    {
       "title": "SAP SuccessFactors Employee Central Payroll (ECP) Modernization Partner Demo Systems Reprovisioning",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-employee-central-payroll-ecp-modernization-partner-demo/ba-p/14393586",
       "published": "12 May 2026",
@@ -66,11 +66,11 @@
       "sort_date": "2026-05-12T13:18:38+00:00"
     },
     {
-      "title": "What “Dedicated Partnership” Really Means: Inside the Max Success Plan Experience for SAP SuccessFac",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-dedicated-partnership-really-means-inside-the-max-success-plan/ba-p/14391738",
+      "title": "1H 2026 Release Highlights of SAP Best Practices for SAP SuccessFactors Time Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-highlights-of-sap-best-practices-for-sap-successfactors/ba-p/14393068",
       "published": "12 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T07:00:00+00:00"
+      "sort_date": "2026-05-12T09:08:30+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
-      "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
+      "title": "Wie Israels Nationalreligiöse ihren Einfluss ausbauen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-einfluss-nationalreligioese-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T02:54:33+02:00"
+      "sort_date": "2026-05-13T10:38:09+02:00"
     },
     {
-      "title": "Finnland und Griechenland ziehen ins ESC-Finale ein",
-      "link": "https://www.tagesschau.de/kultur/esc-halbfinale-128.html",
+      "title": "Autoindustrie rechnet mit größerem Stellenabbau bis 2035",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autobranche-stellenabbau-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T02:44:55+02:00"
+      "sort_date": "2026-05-13T10:31:59+02:00"
     },
     {
-      "title": "US-Verteidigungsminister verteidigt Pentagon-Ausgaben vor US-Kongress",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-pentagon-etat-100.html",
+      "title": "Marktbericht: Anleger setzen auf positive Signale aus Peking",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T01:30:12+02:00"
+      "sort_date": "2026-05-13T10:13:25+02:00"
     },
     {
-      "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html",
-      "published": "12 May 2026",
+      "title": "Filmfest von Cannes eröffnet: Europäisches Kino feiert sich selbst",
+      "link": "https://www.tagesschau.de/kultur/cannes-film-festival-2026-eroeffnung-100.html",
+      "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T21:58:13+02:00"
+      "sort_date": "2026-05-13T10:10:52+02:00"
     },
     {
-      "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html",
-      "published": "12 May 2026",
+      "title": "Ist die Heizungsdebatte nun Geschichte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierungsgesetz-heizungen-kabinett-100.html",
+      "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T21:11:02+02:00"
+      "sort_date": "2026-05-13T09:10:32+02:00"
     }
   ],
   "Food": []
