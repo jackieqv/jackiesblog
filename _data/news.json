@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
+      "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "published": "13 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-13T14:04:30+00:00"
+    },
+    {
       "title": "These Seven AI Rings Translate Sign Language in Real Time",
       "link": "https://singularityhub.com/2026/05/12/these-seven-ai-rings-translate-sign-language-in-real-time/",
       "published": "12 May 2026",
@@ -101,50 +108,43 @@
       "published": "09 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-09T14:00:00+00:00"
-    },
-    {
-      "title": "Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?",
-      "link": "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
-      "published": "08 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-08T14:50:43+00:00"
     }
   ],
   "News": [
     {
-      "title": "Nur noch ein Ticket: EU will internationale Zugreisen erleichtern",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-zugreisen-100.html",
+      "title": "Eurovision Song Contest: Zwischen Boykott und möglichem Comeback",
+      "link": "https://www.tagesschau.de/ausland/europa/esc-boykott-ungarn-slowenien-bosnien-herzegowina-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T13:26:42+02:00"
+      "sort_date": "2026-05-13T16:27:27+02:00"
     },
     {
-      "title": "Faktenfinder: Verschwörungsmythen zum Hantavirus im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/hantavirus-falschinformation-100.html",
+      "title": "Schwarz-Rot will Reformpaket noch vor der Sommerpause",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-reformen-schwarz-rot-102.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T13:23:27+02:00"
+      "sort_date": "2026-05-13T16:17:21+02:00"
     },
     {
-      "title": "Cem Özdemir im Porträt: Mit der Brezel an die Macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cem-oezdemir-ministerpraesident-baden-wuerttemberg-100.html",
+      "title": "Neue Gaskraftwerke: Kritik an Wasserstoffstrategie der Bundesregierung",
+      "link": "https://www.tagesschau.de/wissen/technologie/wasserstoff-ready-gaskraftwerke-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T12:43:51+02:00"
+      "sort_date": "2026-05-13T15:41:00+02:00"
     },
     {
-      "title": "Diskussion um Primärarztsystem: Ohne Hausarzt kein Spezialist",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hausarzt-facharzt-gesundheitssystem-100.html",
+      "title": "Trotz Waffenruhe: Israels Armee beginnt neue Angriffe im Südlibanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israelische-angriffe-libanon-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T11:13:07+02:00"
+      "sort_date": "2026-05-13T15:26:08+02:00"
     },
     {
-      "title": "Versicherungskonzern Allianz verdient so viel wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/allianz-132.html",
+      "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T10:45:56+02:00"
+      "sort_date": "2026-05-13T15:00:28+02:00"
     }
   ],
   "Food": []
