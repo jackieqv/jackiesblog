@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
+      "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T02:54:33+02:00"
+    },
+    {
+      "title": "Finnland und Griechenland ziehen ins ESC-Finale ein",
+      "link": "https://www.tagesschau.de/kultur/esc-halbfinale-128.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T02:44:55+02:00"
+    },
+    {
+      "title": "US-Verteidigungsminister verteidigt Pentagon-Ausgaben vor US-Kongress",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-pentagon-etat-100.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T01:30:12+02:00"
+    },
+    {
       "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html",
       "published": "12 May 2026",
@@ -124,27 +145,6 @@
       "published": "12 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-12T21:11:02+02:00"
-    },
-    {
-      "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
-      "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T19:41:59+02:00"
-    },
-    {
-      "title": "Tunesiens \"schleichender Autoritarismus\" schreitet voran",
-      "link": "https://www.dw.com/de/tunesiens-schleichender-autoritarismus-schreitet-voran/a-77130472?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "12 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-12T19:20:00+00:00"
-    },
-    {
-      "title": "Marktbericht: DAX fällt unter 24.000er-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html",
-      "published": "12 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-12T18:12:04+02:00"
     }
   ],
   "Food": []
