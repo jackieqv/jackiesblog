@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "1H 2026 Features: Your People Profile Just Got a Major Onboarding Upgrade: A Deeper Dive",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-features-your-people-profile-just-got-a-major-onboarding-upgrade-a/ba-p/14395661",
+      "published": "13 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-13T19:06:21+00:00"
+    },
+    {
       "title": "License Usage Report Demo for the Compensation Module",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/license-usage-report-demo-for-the-compensation-module/ba-p/14394697",
       "published": "13 May 2026",
@@ -64,13 +71,6 @@
       "published": "12 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-12T13:18:38+00:00"
-    },
-    {
-      "title": "1H 2026 Release Highlights of SAP Best Practices for SAP SuccessFactors Time Management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-release-highlights-of-sap-best-practices-for-sap-successfactors/ba-p/14393068",
-      "published": "12 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T09:08:30+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Regierungskoalition in Lettland zerbricht im Streit über Posten",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-regierung-zerbrochen-100.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T20:34:02+02:00"
+    },
+    {
+      "title": "Wer will noch neue Öl- und Gasheizungen einbauen?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/heizungsbauer-gesetz-100.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T20:03:38+02:00"
+    },
+    {
+      "title": "Tote bei massiven Luftangriffen in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-massive-luftangriffe-100.html",
+      "published": "13 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-13T19:51:24+02:00"
+    },
+    {
+      "title": "Palantir: Kann Deutschland auf die US-Software verzichten?",
+      "link": "https://www.dw.com/de/palantir-kann-deutschland-auf-die-us-software-verzichten/a-77153725?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "13 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-13T19:24:00+00:00"
+    },
+    {
       "title": "Rede von König Charles: Fanfaren mitten in Labours Krise",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-krise-kings-speech-charles-100.html",
       "published": "13 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-13T18:59:23+02:00"
-    },
-    {
-      "title": "Marktbericht: Gute Stimmung vor dem Feiertag",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html",
-      "published": "13 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T18:42:18+02:00"
-    },
-    {
-      "title": "Kabinett will Strafmaß bei Vergewaltigung mit K.-o.-Tropfen erhöhen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-ko-tropfen-100.html",
-      "published": "13 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T18:42:05+02:00"
-    },
-    {
-      "title": "Reisen durch Europa: Ein Ticket für die ganze Fahrt",
-      "link": "https://www.tagesschau.de/ausland/europa/bahnfahren-eu-kommission-100.html",
-      "published": "13 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T17:12:57+02:00"
-    },
-    {
-      "title": "Kommentar: Das Land muss sich der Realität stellen",
-      "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-union-spd-reformen-100.html",
-      "published": "13 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T17:11:38+02:00"
     }
   ],
   "Food": []
