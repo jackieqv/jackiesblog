@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Früherer EZB-Chef Draghi mit Aachener Karlspreis ausgezeichnet",
+      "link": "https://www.tagesschau.de/inland/karlspreis-draghi-ausgezeichnet-100.html",
+      "published": "14 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-14T15:44:52+02:00"
+    },
+    {
       "title": "Streit über Drohnenvorfälle: Lettlands Regierungschefin tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/lettland-regierungschefin-100.html",
       "published": "14 May 2026",
@@ -126,11 +133,11 @@
       "sort_date": "2026-05-14T12:36:27+02:00"
     },
     {
-      "title": "Libanon und Israel verhandeln - Kämpfe gehen weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-verhandlungen-100.html",
+      "title": "Nach Drohnenvorfall: Lettlands Regierungschefin tritt zurück",
+      "link": "https://www.dw.com/de/nach-drohnenvorfall-lettlands-regierungschefin-tritt-zurück/a-77161250?maca=de-rss-de-top-1016-xml-mrss",
       "published": "14 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-14T12:35:33+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-14T12:28:00+00:00"
     },
     {
       "title": "Proteste wegen massiver Stromausfälle in Kuba",
@@ -138,13 +145,6 @@
       "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-14T11:14:24+02:00"
-    },
-    {
-      "title": "Normenkontrollrat: Scharfe Kritik am Gebäudemodernisierungsgesetz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/normenkontrollrat-gebaeudemodernisierungsgesetz-100.html",
-      "published": "14 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-14T11:10:08+02:00"
     }
   ],
   "Food": []
