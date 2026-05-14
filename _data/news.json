@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Physicists Have Measured ‘Negative Time’ in the Lab",
+      "link": "https://singularityhub.com/2026/05/14/physicists-have-measured-negative-time-in-the-lab/",
+      "published": "14 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-14T20:17:56+00:00"
+    },
+    {
       "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
       "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
       "published": "13 May 2026",
@@ -101,13 +108,6 @@
       "published": "11 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-11T14:00:00+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 9)",
-      "link": "https://singularityhub.com/2026/05/09/this-weeks-awesome-tech-stories-from-around-the-web-through-may-9-2/",
-      "published": "09 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-09T14:00:00+00:00"
     }
   ],
   "News": [
@@ -133,18 +133,18 @@
       "sort_date": "2026-05-14T20:25:03+02:00"
     },
     {
+      "title": "Der Iran-Krieg stellt Indiens Diplomatie auf die Probe",
+      "link": "https://www.dw.com/de/der-iran-krieg-stellt-indiens-diplomatie-auf-die-probe/a-77163529?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-14T20:12:00+00:00"
+    },
+    {
       "title": "Harmonie und freundliche Worte zwischen Trump und Xi am ersten Gipfeltag",
       "link": "https://www.tagesschau.de/ausland/asien/treffen-trump-xi-peking-100.html",
       "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-14T19:57:17+02:00"
-    },
-    {
-      "title": "Erste gleichgeschlechtliche Ehe in Polen eingetragen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-erste-gleichgeschlechtliche-ehe-100.html",
-      "published": "14 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-14T18:11:30+02:00"
     }
   ],
   "Food": []
