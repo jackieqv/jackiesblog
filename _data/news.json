@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Introducing Time Side Navigation in SAP SuccessFactors Time Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-time-side-navigation-in-sap-successfactors-time-management/ba-p/14395741",
+      "published": "14 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-14T04:28:40+00:00"
+    },
+    {
       "title": "1H 2026 Features: Your People Profile Just Got a Major Onboarding Upgrade: A Deeper Dive",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/1h-2026-features-your-people-profile-just-got-a-major-onboarding-upgrade-a/ba-p/14395661",
       "published": "13 May 2026",
@@ -64,13 +71,6 @@
       "published": "12 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-12T21:30:10+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Employee Central Payroll (ECP) Modernization Partner Demo Systems Reprovisioning",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-employee-central-payroll-ecp-modernization-partner-demo/ba-p/14393586",
-      "published": "12 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T13:18:38+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Russischer Zerstörer vor deutscher Ostseeküste",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-zerstoerer-ostseekueste-100.html",
+      "title": "Reformpläne: Was bedeutet Warkens Vorhaben für Pflegebedürftige?",
+      "link": "https://www.tagesschau.de/wirtschaft/reform-pflegeversicherung-100.html",
       "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-14T02:16:13+02:00"
+      "sort_date": "2026-05-14T10:07:01+02:00"
     },
     {
-      "title": "Netanjahu ebnet Weg für Neuwahlen in Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-neuwahlen-122.html",
+      "title": "US-Präsident Trump bei Chinas Xi: \"Welt schaut auf dieses Treffen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/china-usa-trump-xi-treffen-100.html",
       "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-14T02:04:20+02:00"
+      "sort_date": "2026-05-14T09:27:12+02:00"
     },
     {
-      "title": "Manila: Schüsse im philippinischen Senat gefallen",
-      "link": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html",
-      "published": "13 May 2026",
+      "title": "Ukraine-Krieg: Massive russische Angriffe in der Nacht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-angriffe-104.html",
+      "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T23:28:03+02:00"
+      "sort_date": "2026-05-14T09:26:49+02:00"
     },
     {
-      "title": "Senat bestätigt Trumps Wunschkandidat Warsh als neuen Fed-Chef",
-      "link": "https://www.tagesschau.de/ausland/amerika/warsh-fed-bestaetigt-100.html",
-      "published": "13 May 2026",
+      "title": "Karlspreis für Mario Draghi: Banker im Dienste Europas",
+      "link": "https://www.tagesschau.de/ausland/europa/mario-draghi-130.html",
+      "published": "14 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T21:54:02+02:00"
+      "sort_date": "2026-05-14T08:59:10+02:00"
     },
     {
-      "title": "Regierungskoalition in Lettland zerbricht im Streit über Posten",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-regierung-zerbrochen-100.html",
-      "published": "13 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-13T20:34:02+02:00"
+      "title": "Trump-Xi-Treffen beginnt mit Warnung wegen Taiwan",
+      "link": "https://www.dw.com/de/trump-xi-treffen-beginnt-mit-warnung-wegen-taiwan/a-77158600?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-14T08:18:00+00:00"
     }
   ],
   "Food": []
