@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "US-Außenministerium: Libanon und Israel verlängern Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-100.html",
+      "published": "15 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-15T21:37:00+02:00"
+    },
+    {
       "title": "WHO geht nicht von gefährlicher Mutation des Hantavirus aus",
       "link": "https://www.tagesschau.de/wissen/gesundheit/who-hantavirus-mutation-100.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-15T20:36:38+02:00"
+    },
+    {
+      "title": "Südafrikas Präsident unter Druck: Kann er im Amt bleiben?",
+      "link": "https://www.dw.com/de/südafrikas-präsident-unter-druck-kann-er-im-amt-bleiben/a-77167920?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "15 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-15T19:55:00+00:00"
     },
     {
       "title": "US-Gesundheitsminister will Peptide leichter zugänglich machen",
@@ -131,20 +145,6 @@
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-15T19:21:05+02:00"
-    },
-    {
-      "title": "Regierungskrise in Großbritannien: Wie geht es weiter in der Downing Street?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-104.html",
-      "published": "15 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T19:21:02+02:00"
-    },
-    {
-      "title": "Toter Wal vor dänischer Insel: Gewebeproben sollen Klarheit bringen",
-      "link": "https://www.tagesschau.de/ausland/wal-daenemark-106.html",
-      "published": "15 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T19:12:00+02:00"
     }
   ],
   "Food": []
