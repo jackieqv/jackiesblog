@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "New Algae Robots Swarm Like Locusts at the Flick of a Switch",
+      "link": "https://singularityhub.com/2026/05/15/new-algae-robots-swarm-like-locusts-at-the-flick-of-a-switch/",
+      "published": "15 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-15T14:00:00+00:00"
+    },
+    {
+      "title": "Rubin Tracks Skyscraper-Size Asteroids, Failed Supernovas, and Interstellar Visitors",
+      "link": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "published": "15 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-15T13:50:50+00:00"
+    },
+    {
       "title": "Physicists Have Measured ‘Negative Time’ in the Lab",
       "link": "https://singularityhub.com/2026/05/14/physicists-have-measured-negative-time-in-the-lab/",
       "published": "14 May 2026",
@@ -94,57 +108,43 @@
       "published": "12 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-12T18:28:00+00:00"
-    },
-    {
-      "title": "How Unknowable Math Can Help Hide Secrets",
-      "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-      "published": "11 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-11T14:15:13+00:00"
-    },
-    {
-      "title": "In the Scramble to Power AI, Investors Bet $140 Million on Data Centers at Sea",
-      "link": "https://singularityhub.com/2026/05/11/scrambling-to-power-ai-investors-bet-140-million-on-data-centers-at-sea/",
-      "published": "11 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-11T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Merz bei Katholikentag: \"Vielleicht streiten wir zu viel\"",
-      "link": "https://www.tagesschau.de/inland/merz-katholikentag-100.html",
+      "title": "Ebola-Ausbruch in Demokratischer Republik Kongo bestätigt",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ausbruch-ebola-100.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T12:53:45+02:00"
+      "sort_date": "2026-05-15T15:27:39+02:00"
     },
     {
-      "title": "Iran-Krieg: Regierung erwartet deutlichen Konjunkturdämpfer",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur-wirtschaft-daempfer-bundesregierung-100.html",
+      "title": "Nach Spannungen: Merz spricht von \"gutem\" Telefonat mit Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-128.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T12:12:13+02:00"
+      "sort_date": "2026-05-15T15:19:39+02:00"
     },
     {
-      "title": "Chemikalien - PFAS in vielen Medikamenten ersetzbar",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/pfas-chemikalien-medikamente-100.html",
+      "title": "Treffen Xi-Trump: Die neue Harmonie - mit Schlagseite",
+      "link": "https://www.tagesschau.de/ausland/asien/china-usa-abschluss-gipfel-100.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T11:27:35+02:00"
+      "sort_date": "2026-05-15T14:58:32+02:00"
     },
     {
-      "title": "Marktbericht: Katerstimmung nach Himmelfahrts-Rally",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-halbleiter-100.html",
+      "title": "Oberlandesgericht Köln: Penny gewinnt Streit um Preisangaben im Prospekt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/penny-werbung-100.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T11:24:16+02:00"
+      "sort_date": "2026-05-15T14:44:44+02:00"
     },
     {
-      "title": "WHO warnt vor Nikotinbeuteln",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnung-nikotinbeutel-100.html",
+      "title": "Warum der Wohnungsbau erneut unter Druck gerät",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/wohnungsbaukrise-100.html",
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T10:20:59+02:00"
+      "sort_date": "2026-05-15T14:09:06+02:00"
     }
   ],
   "Food": []
