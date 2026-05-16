@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Merz und seine Kommunikation: Der Kanzler auf der Suche nach dem richtigen Ton",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzler-merz-kommunikation-100.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T12:12:28+02:00"
+    },
+    {
+      "title": "SPD-Fraktionschef Miersch sieht keine Zukunft für Tankrabatt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-verlaengerung-tankrabatt-100.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T11:39:58+02:00"
+    },
+    {
+      "title": "Endlich in Rente: Wie gelingt der ideale Zugang zum Vermögen?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/depot-investment-aufloesen-100.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T10:40:50+02:00"
+    },
+    {
       "title": "Nach Trump-Besuch: Putin will am Dienstag nach China reisen",
       "link": "https://www.tagesschau.de/ausland/asien/putin-china-reise-100.html",
       "published": "16 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-16T09:56:04+02:00"
+      "sort_date": "2026-05-16T10:29:46+02:00"
     },
     {
-      "title": "Trump: Militär hat Vizechef der Terrororganisation IS \"eliminiert\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-is-110.html",
+      "title": "Forscher suchen Erfolgsrezept für guten ESC-Song",
+      "link": "https://www.tagesschau.de/kultur/erfolgsrezept-esc-songs-100.html",
       "published": "16 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-16T09:18:19+02:00"
-    },
-    {
-      "title": "Waffenruhe verlängert - Angriffe gehen offenbar weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-126.html",
-      "published": "16 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-16T08:38:39+02:00"
-    },
-    {
-      "title": "Die Inflation ist zurück - die Deutschen bleiben im Sparmodus",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-konsumverhalten-100.html",
-      "published": "16 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-16T08:30:39+02:00"
-    },
-    {
-      "title": "News kompakt: USA melden Tötung von IS-Kommandeur in Nigeria",
-      "link": "https://www.dw.com/de/news-kompakt-usa-melden-tötung-von-is-kommandeur-in-nigeria/a-77178188?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "16 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-16T07:03:00+00:00"
+      "sort_date": "2026-05-16T10:18:17+02:00"
     }
   ],
   "Food": []
