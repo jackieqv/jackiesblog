@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP Incentive Management - Introducing Data Explorer (SQL Query Viewer)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-incentive-management-introducing-data-explorer-sql-query-viewer/ba-p/14397424",
+      "published": "16 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-16T05:42:18+00:00"
+    },
+    {
       "title": "Introducing Time Side Navigation in SAP SuccessFactors Time Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-time-side-navigation-in-sap-successfactors-time-management/ba-p/14395741",
       "published": "15 May 2026",
@@ -64,13 +71,6 @@
       "published": "12 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-12T21:32:59+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Time/Workforce Management - Feature List",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-time-workforce-management-feature-list/ba-p/14394031",
-      "published": "12 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-12T21:30:10+00:00"
     }
   ],
   "Science": [
