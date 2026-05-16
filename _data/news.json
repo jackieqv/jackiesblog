@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Druckmittel gegen China: Waffenverkauf an Taiwan als Trumpf für Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-taiwan-waffenverkauf-100.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T03:12:27+02:00"
+    },
+    {
+      "title": "Südamerika: Unruhen, Proteste und Treibstoffkrise in Bolivien",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-unruhen-proteste-102.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T01:59:58+02:00"
+    },
+    {
+      "title": "Forschungsschiff Polarstern: Klimaforscher unter Druck",
+      "link": "https://www.tagesschau.de/wissen/polarstern-klimaforscher-druck-100.html",
+      "published": "16 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-16T01:58:53+02:00"
+    },
+    {
       "title": "US-Außenministerium: Libanon und Israel verlängern Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-100.html",
       "published": "15 May 2026",
@@ -124,27 +145,6 @@
       "published": "15 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-15T20:36:38+02:00"
-    },
-    {
-      "title": "Südafrikas Präsident unter Druck: Kann er im Amt bleiben?",
-      "link": "https://www.dw.com/de/südafrikas-präsident-unter-druck-kann-er-im-amt-bleiben/a-77167920?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "15 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-15T19:55:00+00:00"
-    },
-    {
-      "title": "US-Gesundheitsminister will Peptide leichter zugänglich machen",
-      "link": "https://www.tagesschau.de/ausland/amerika/peptide-usa-schoenheit-100.html",
-      "published": "15 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T19:46:51+02:00"
-    },
-    {
-      "title": "Andy Burnham: Wird er der neue britische Premier?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-106.html",
-      "published": "15 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-15T19:21:05+02:00"
     }
   ],
   "Food": []
