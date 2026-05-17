@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Ver.di-Chef Werneke verteidigt Pfiffe gegen Merz auf DGB-Tag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-werneke-100.html",
+      "published": "17 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-17T19:47:10+02:00"
+    },
+    {
+      "title": "Kälbermast in den Niederlanden: Wie deutsche Standards umgangen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/kaelber-niederlande-deutschland-100.html",
+      "published": "17 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-17T18:22:36+02:00"
+    },
+    {
       "title": "Zweitligist Elversberg steigt auf - Paderborn auf Relegationsplatz",
       "link": "https://www.tagesschau.de/sport/zweite-bundesliga-aufsteiger-102.html",
       "published": "17 May 2026",
@@ -131,20 +145,6 @@
       "published": "17 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-17T16:54:18+02:00"
-    },
-    {
-      "title": "Der FC Bayern feiert den 35. Meistertitel - und Tausende jubeln mit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bayern-meisterfeier-112.html",
-      "published": "17 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-17T16:53:43+02:00"
-    },
-    {
-      "title": "Entsetzen in Modena und die Suche nach dem Motiv",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-modena-autofahrer-verletzte-100.html",
-      "published": "17 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-17T16:08:51+02:00"
     }
   ],
   "Food": []
