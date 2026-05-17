@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trump droht mit Zerstörung: \"Für Iran tickt die Uhr\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-drohung-iran-102.html",
+      "published": "17 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-17T23:42:47+02:00"
+    },
+    {
       "title": "Ver.di-Chef Werneke verteidigt Pfiffe gegen Merz auf DGB-Tag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-werneke-100.html",
       "published": "17 May 2026",
@@ -138,13 +145,6 @@
       "published": "17 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-17T17:32:42+02:00"
-    },
-    {
-      "title": "Deutsche Filmschaffende starten Dogma-Revival",
-      "link": "https://www.tagesschau.de/kultur/neue-deutsche-filmbewegung-dogma-germany-25-100.html",
-      "published": "17 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-17T16:54:18+02:00"
     }
   ],
   "Food": []
