@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Russland will Hunderte Drohnen abgefangen haben",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-214.html",
+      "published": "17 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-17T11:34:40+02:00"
+    },
+    {
       "title": "UNICEF-Studie sieht Deutschland bei Kindeswohl unterdurchschnittlich",
       "link": "https://www.tagesschau.de/inland/gesellschaft/unicef-kindeswohl-laendervergleich-100.html",
       "published": "17 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-17T10:15:27+02:00"
+    },
+    {
+      "title": "UNICEF: Deutschland vergibt bei Kindern Zukunftschancen",
+      "link": "https://www.dw.com/de/unicef-deutschland-vergibt-bei-kindern-zukunftschancen/a-77188274?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "17 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-17T10:15:00+00:00"
     },
     {
       "title": "USA lassen Ausnahmen von Sanktionen auf russisches Öl auslaufen",
@@ -131,20 +145,6 @@
       "published": "17 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-17T09:10:32+02:00"
-    },
-    {
-      "title": "Udo Lindenberg 80: \"Ich mach mein Ding, egal was die andern labern\"",
-      "link": "https://www.tagesschau.de/kultur/udo-lindenberg-80-100.html",
-      "published": "17 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-17T08:13:16+02:00"
-    },
-    {
-      "title": "Nach acht Jahren: Nordkoreanisches Team reist nach Südkorea",
-      "link": "https://www.dw.com/de/nach-acht-jahren-nordkoreanisches-team-reist-nach-südkorea/a-77186655?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "17 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-17T08:13:00+00:00"
     }
   ],
   "Food": []
