@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How to update Username in SAP SuccessFactors - 1H 2026 update FAIL",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-update-username-in-sap-successfactors-1h-2026-update-fail/ba-p/14399457",
+      "published": "19 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-19T20:33:01+00:00"
+    },
+    {
       "title": "09.SAP SuccessFactors HCM Implementation - How to define Data Migration Scope",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/09-sap-successfactors-hcm-implementation-how-to-define-data-migration-scope/ba-p/14399302",
       "published": "19 May 2026",
@@ -64,16 +71,16 @@
       "published": "19 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-19T09:22:09+00:00"
-    },
-    {
-      "title": "From Go‑Live to Business Value: How HCM Services Support Your Entire SAP SuccessFactors Journey",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-go-live-to-business-value-how-hcm-services-support-your-entire-sap/ba-p/14398688",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-19T07:00:00+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "70% of the Rock Under Our Feet Can Produce Hydrogen. Tapping It Could Power Your Town.",
+      "link": "https://singularityhub.com/2026/05/19/70-of-the-rock-under-our-feet-can-produce-hydrogen-tapping-it-could-power-your-town/",
+      "published": "19 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-19T20:20:06+00:00"
+    },
     {
       "title": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
       "link": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
@@ -101,13 +108,6 @@
       "published": "15 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-15T14:00:00+00:00"
-    },
-    {
-      "title": "Rubin Tracks Skyscraper-Size Asteroids, Failed Supernovas, and Interstellar Visitors",
-      "link": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "published": "15 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-15T13:50:50+00:00"
     }
   ],
   "News": [
@@ -140,11 +140,11 @@
       "sort_date": "2026-05-19T19:58:40+02:00"
     },
     {
-      "title": "Waldzustandserhebung: Der Wald der Zukunft braucht Vielfalt",
-      "link": "https://www.tagesschau.de/inland/wald-der-zukunft-106.html",
+      "title": "Billig-Drohnen setzen Israel unter Druck",
+      "link": "https://www.dw.com/de/billig-drohnen-setzen-israel-unter-druck/a-77211799?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T19:38:52+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-19T19:47:00+00:00"
     }
   ],
   "Food": []
