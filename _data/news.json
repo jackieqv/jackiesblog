@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Reliquie der Heiligen Zdislava in Tschechien gerettet",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-zdislava-reliquie-100.html",
+      "published": "19 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-19T05:24:53+02:00"
+    },
+    {
+      "title": "Tote bei Angriff auf Islamisches Zentrum in San Diego",
+      "link": "https://www.tagesschau.de/ausland/amerika/sandiego-angriff-tote-100.html",
+      "published": "19 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-19T04:00:17+02:00"
+    },
+    {
       "title": "Musk scheitert mit Klage gegen OpenAI",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klage-musk-open-ai-100.html",
       "published": "18 May 2026",
@@ -131,20 +145,6 @@
       "published": "18 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-18T20:32:14+02:00"
-    },
-    {
-      "title": "Warum Klimaschutz bei Verkehr und Gebäuden stockt",
-      "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-expertenrat-gebaeude-verkehr-100.html",
-      "published": "18 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-18T19:50:16+02:00"
-    },
-    {
-      "title": "\"Looksmaxxing\": Was steckt hinter dem Social-Media-Trend?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/looksmaxxing-maennlichkeit-100.html",
-      "published": "18 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-18T19:49:47+02:00"
     }
   ],
   "Food": []
