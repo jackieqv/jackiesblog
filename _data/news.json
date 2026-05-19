@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "09.SAP SuccessFactors HCM Implementation - How to define Data Migration Scope",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/09-sap-successfactors-hcm-implementation-how-to-define-data-migration-scope/ba-p/14399302",
+      "published": "19 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-19T14:23:32+00:00"
+    },
+    {
+      "title": "3 Common Mistakes I See in SAP SuccessFactors Onboarding Implementations",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/3-common-mistakes-i-see-in-sap-successfactors-onboarding-implementations/ba-p/14395173",
+      "published": "19 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-19T09:54:21+00:00"
+    },
+    {
       "title": "HR Transformation for Line Managers: Are We Replacing Systems or Ways of Working?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hr-transformation-for-line-managers-are-we-replacing-systems-or-ways-of/ba-p/14399023",
       "published": "19 May 2026",
@@ -57,20 +71,6 @@
       "published": "19 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-19T07:00:00+00:00"
-    },
-    {
-      "title": "Unlock New Flexibility in Time Valuation with Original Scheduled Working Time",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlock-new-flexibility-in-time-valuation-with-original-scheduled-working/ba-p/14398865",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-19T06:48:09+00:00"
-    },
-    {
-      "title": "Your Foundation for Continuous Success with SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/your-foundation-for-continuous-success-with-sap-successfactors/ba-p/14398684",
-      "published": "18 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-18T20:23:47+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Weniger Steuern - aber für wen und auf wessen Kosten?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-plaene-bundesregierung-100.html",
+      "title": "Polen suchen nach Angriff richtigen Umgang mit \"Problembären\"",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-baer-polen-100.html",
       "published": "19 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T11:27:29+02:00"
+      "sort_date": "2026-05-19T17:01:23+02:00"
     },
     {
-      "title": "Reis, Tee und Gewürze häufig mit verbotenen Pestiziden belastet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/foodwatch-verbotene-pestizide-lebensmittel-eu-100.html",
+      "title": "Pflege: Mehr Bedürftige, höhere Ausgaben, großer Reformbedarf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-beduerftige-krankenkassen-100.html",
       "published": "19 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T10:34:25+02:00"
+      "sort_date": "2026-05-19T16:54:47+02:00"
     },
     {
-      "title": "Marktbericht: Das Prinzip Hoffnung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-104.html",
+      "title": "Mehr als 15.000 Verstöße gegen Jugendschutz im Netz gemeldet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendschutz-internet-verstoesse-100.html",
       "published": "19 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T10:33:41+02:00"
+      "sort_date": "2026-05-19T15:50:51+02:00"
     },
     {
-      "title": "So fördert der Staat den E-Auto-Kauf - Anträge ab heute möglich",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/start-e-auto-foerderung-faq-100.html",
+      "title": "Wieder Drohnen-Vorfall im Baltikum - NATO-Jet schießt Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/drohnenabschuss-estland-102.html",
       "published": "19 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T09:30:05+02:00"
+      "sort_date": "2026-05-19T15:42:51+02:00"
     },
     {
-      "title": "Russland und Ukraine greifen sich erneut mit Drohnen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-luftangriffe-104.html",
+      "title": "EU-Parlament blockiert Ermittlungen gegen CSU-Abgeordnete Niebler",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-ermittlungen-niebler-csu-100.html",
       "published": "19 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-19T09:30:00+02:00"
+      "sort_date": "2026-05-19T15:14:08+02:00"
     }
   ],
   "Food": []
