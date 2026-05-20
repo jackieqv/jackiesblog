@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "SuccessFactors Governance: A CSM Perspective",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-governance-a-csm-perspective/ba-p/14400087",
+      "published": "20 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-20T13:41:36+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors 1H 2026 Release Now Live - Resources and Information",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-1h-2026-release-now-live-resources-and-information/ba-p/14400050",
+      "published": "20 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-20T13:00:04+00:00"
+    },
+    {
+      "title": "3 Common Mistakes I See in SAP SuccessFactors Onboarding Implementations",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/3-common-mistakes-i-see-in-sap-successfactors-onboarding-implementations/ba-p/14395173",
+      "published": "20 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-20T10:45:53+00:00"
+    },
+    {
       "title": "How to update Username in SAP SuccessFactors - 1H 2026 update FAIL",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-update-username-in-sap-successfactors-1h-2026-update-fail/ba-p/14399457",
       "published": "19 May 2026",
@@ -50,30 +71,23 @@
       "published": "19 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-19T14:23:32+00:00"
-    },
-    {
-      "title": "3 Common Mistakes I See in SAP SuccessFactors Onboarding Implementations",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/3-common-mistakes-i-see-in-sap-successfactors-onboarding-implementations/ba-p/14395173",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-19T09:54:21+00:00"
-    },
-    {
-      "title": "HR Transformation for Line Managers: Are We Replacing Systems or Ways of Working?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hr-transformation-for-line-managers-are-we-replacing-systems-or-ways-of/ba-p/14399023",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-19T09:22:30+00:00"
-    },
-    {
-      "title": "HR Transformation for Line Managers: A Six-Month Enablement Framework",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hr-transformation-for-line-managers-a-six-month-enablement-framework/ba-p/14399051",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-19T09:22:09+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
+      "link": "https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/",
+      "published": "20 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-20T14:52:19+00:00"
+    },
+    {
+      "title": "How Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "link": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "published": "20 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-20T14:50:37+00:00"
+    },
     {
       "title": "70% of the Rock Under Our Feet Can Produce Hydrogen. Tapping It Could Power Your Town.",
       "link": "https://singularityhub.com/2026/05/19/70-of-the-rock-under-our-feet-can-produce-hydrogen-tapping-it-could-power-your-town/",
@@ -94,57 +108,43 @@
       "published": "18 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-18T14:00:00+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 16)",
-      "link": "https://singularityhub.com/2026/05/16/this-weeks-awesome-tech-stories-from-around-the-web-through-may-16-2/",
-      "published": "16 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-16T14:00:00+00:00"
-    },
-    {
-      "title": "New Algae Robots Swarm Like Locusts at the Flick of a Switch",
-      "link": "https://singularityhub.com/2026/05/15/new-algae-robots-swarm-like-locusts-at-the-flick-of-a-switch/",
-      "published": "15 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-15T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "US-Senatoren stimmen für mehr Mitsprache im Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-senat-resolution-iran-100.html",
+      "title": "So soll der Führerschein günstiger werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-fuehrerschein-reform-102.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T11:30:59+02:00"
+      "sort_date": "2026-05-20T17:16:13+02:00"
     },
     {
-      "title": "Hauseinsturz in Görlitz: Suche nach Vermissten wieder angelaufen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-goerlitz-gasaustritt-hauseinsturz-100.html",
+      "title": "Wie die Commerzbank-Aktionäre zu einer Übernahme durch UniCredit stehen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-hauptversammlung-unicredit-100.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T11:08:31+02:00"
+      "sort_date": "2026-05-20T17:08:25+02:00"
     },
     {
-      "title": "Marktbericht: Zwischen Hoffnung und Eskalationsangst",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-nikkei-nvidia-100.html",
+      "title": "Das Prinzip \"Kayfabe\": Wenn Politik zur Wrestling-Show wird",
+      "link": "https://www.tagesschau.de/kultur/das-prinzip-kayfabe-wrestling-100.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T10:38:07+02:00"
+      "sort_date": "2026-05-20T16:07:00+02:00"
     },
     {
-      "title": "Neues Selbstbewusstsein und alte Korruptionsprobleme",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-sieben-jahre-selenskyj-100.html",
+      "title": "Hohe Inflation - das neue Normal?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-krieg-iran-deuschland-europa-100.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T10:30:33+02:00"
+      "sort_date": "2026-05-20T15:39:45+02:00"
     },
     {
-      "title": "Warum Samsung ein historischer Generalstreik",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-generalstreik-tarifstreit-100.html",
+      "title": "EU und USA: Ja zum Zoll-Deal - aber die Konflikte bleiben",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-trilog-zoelle-usa-100.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T10:26:08+02:00"
+      "sort_date": "2026-05-20T15:33:43+02:00"
     }
   ],
   "Food": []
