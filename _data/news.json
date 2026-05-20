@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Ex-Verfassungsschützer Ott in Österreich wegen Spionage verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/urteil-spionage-egisto-ott-100.html",
+      "published": "20 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-20T22:37:35+02:00"
+    },
+    {
       "title": "Bundesregierung will offenbar bei Panzerbauer KNDS einsteigen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/knds-110.html",
       "published": "20 May 2026",
@@ -138,13 +145,6 @@
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-20T20:34:55+02:00"
-    },
-    {
-      "title": "Israels Polizeiminister postet Video und sorgt für Empörung",
-      "link": "https://www.tagesschau.de/ausland/europa/gaza-aktivisten-100.html",
-      "published": "20 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T20:07:24+02:00"
     }
   ],
   "Food": []
