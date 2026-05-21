@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Bundestag debattiert neues Sportfördergesetz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sportfoerderung-gesetzentwurf-100.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T04:33:17+02:00"
+    },
+    {
+      "title": "SpaceX kündigt wohl größten Börsengang der Geschichte an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-boersengang-100.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T02:43:55+02:00"
+    },
+    {
+      "title": "Großbritannien: Streit um Öl-Sanktionen gegen Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-sanktionen-russland-102.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T00:56:28+02:00"
+    },
+    {
+      "title": "Bundesregierung steigt bei Panzerbauer KNDS ein",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/knds-110.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T00:51:26+02:00"
+    },
+    {
       "title": "Ex-Verfassungsschützer Ott in Österreich wegen Spionage verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/urteil-spionage-egisto-ott-100.html",
       "published": "20 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-20T22:37:35+02:00"
-    },
-    {
-      "title": "Bundesregierung will offenbar bei Panzerbauer KNDS einsteigen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/knds-110.html",
-      "published": "20 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T21:59:28+02:00"
-    },
-    {
-      "title": "US-Justizministerium kündigt Klage gegen Kubas Ex-Staatschef Raúl Castro an",
-      "link": "https://www.tagesschau.de/ausland/amerika/castro-klage-100.html",
-      "published": "20 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T21:16:59+02:00"
-    },
-    {
-      "title": "Samsung wendet Streik vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-generalstreik-tarifstreit-102.html",
-      "published": "20 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T20:58:55+02:00"
-    },
-    {
-      "title": "Xi und Putin betonen gute Beziehungen bei Staatsbesuch in Peking",
-      "link": "https://www.tagesschau.de/ausland/putin-in-peking-100.html",
-      "published": "20 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-20T20:34:55+02:00"
     }
   ],
   "Food": []
