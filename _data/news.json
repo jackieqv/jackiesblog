@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Ecotypes Harbor the Genetic Memory of a Species’ Past",
+      "link": "https://www.quantamagazine.org/how-ecotypes-harbor-the-genetic-memory-of-a-species-past-20260521/",
+      "published": "21 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-21T14:48:20+00:00"
+    },
+    {
       "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
       "link": "https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/",
       "published": "20 May 2026",
@@ -101,50 +108,43 @@
       "published": "18 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-18T15:14:42+00:00"
-    },
-    {
-      "title": "The Fully Anesthetized Brain Can Still Track a Podcast",
-      "link": "https://singularityhub.com/2026/05/18/the-fully-anesthetized-brain-can-still-track-a-podcast/",
-      "published": "18 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-18T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Wie Rechte zunehmend in die Kurven deutscher Fußballstadien drängen",
-      "link": "https://www.tagesschau.de/investigativ/monitor/fussball-fankurven-rechtsextremismus-100.html",
+      "title": "Hunderte Gaza-Aktivisten aus Israel abgeschoben",
+      "link": "https://www.tagesschau.de/ausland/europa/israel-gaza-aktivisten-abschiebung-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T11:16:03+02:00"
+      "sort_date": "2026-05-21T17:11:03+02:00"
     },
     {
-      "title": "Marktbericht: DAX legt Verschnaufpause ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-nvidia-100.html",
+      "title": "Kein Geld für Kultur und Bildung für neue Geflüchtete",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/asylbewerber-leistungen-bverfg-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T10:35:26+02:00"
+      "sort_date": "2026-05-21T16:42:06+02:00"
     },
     {
-      "title": "Erdbeben erschüttert italienische Großstadt Neapel",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-neapel-erdbeben-100.html",
+      "title": "NATO-Außenminister beraten in Schweden über Ukraine-Unterstützung",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-eu-aussenminister-treffen-schweden-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T10:15:49+02:00"
+      "sort_date": "2026-05-21T16:41:19+02:00"
     },
     {
-      "title": "Die letzte \"Late Show\" mit Stephen Colbert",
-      "link": "https://www.tagesschau.de/ausland/amerika/abschied-colbert-latenightshow-100.html",
+      "title": "Offene Fragen zum vorgeschlagenen EU-Sonderstatus für Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-sonderstatus-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T10:14:07+02:00"
+      "sort_date": "2026-05-21T15:55:08+02:00"
     },
     {
-      "title": "Polen bangt um Zukunft der US-Panzerbrigade in Niederschlesien",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-nato-us-truppen-100.html",
+      "title": "Blinde Patientin scheitert mit Klage gegen Rehaklinik am BGH",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bgh-klage-blinde-diskriminierung-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T10:13:32+02:00"
+      "sort_date": "2026-05-21T14:54:18+02:00"
     }
   ],
   "Food": []
