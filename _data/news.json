@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Bundestag billigt drei neue Bahnstrecken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-bahnstrecken-neubau-100.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T22:36:23+02:00"
+    },
+    {
+      "title": "Bundestag beschließt Senkung der Luftverkehrssteuer",
+      "link": "https://www.tagesschau.de/inland/luftverkehr-steuer-senkung-beschlossen-100.html",
+      "published": "21 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-21T22:05:46+02:00"
+    },
+    {
       "title": "US-Außenminister Rubio fordert NATO-Partner zum Umdenken auf",
       "link": "https://www.tagesschau.de/ausland/europa/nato-aussenminister-schweden-100.html",
       "published": "21 May 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-05-21T20:21:46+02:00"
     },
     {
-      "title": "Türkei: DW-Journalist Alican Uludağ aus Untersuchungshaft entlassen",
-      "link": "https://www.tagesschau.de/ausland/asien/deutschewelle-tuerkei-prozess-100.html",
-      "published": "21 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T20:12:57+02:00"
-    },
-    {
       "title": "Türkisches Gericht setzt CHP-Parteiführung ab",
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-chp-gericht-opposition-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-21T19:23:47+02:00"
-    },
-    {
-      "title": "Luftverkehr: Ticketsteuer sinkt, Ticketpreise auch?",
-      "link": "https://www.dw.com/de/luftverkehr-ticketsteuer-sinkt-ticketpreise-auch/a-74963496?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-21T19:03:00+00:00"
     }
   ],
   "Food": []
