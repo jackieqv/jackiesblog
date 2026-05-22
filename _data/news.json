@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "AI Lab Partners Are Rewiring the Hunt for New Drugs",
+      "link": "https://singularityhub.com/2026/05/21/ai-lab-partners-are-rewiring-the-hunt-for-new-drugs/",
+      "published": "22 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-22T00:37:05+00:00"
+    },
+    {
       "title": "How Ecotypes Harbor the Genetic Memory of a Species’ Past",
       "link": "https://www.quantamagazine.org/how-ecotypes-harbor-the-genetic-memory-of-a-species-past-20260521/",
       "published": "21 May 2026",
@@ -101,50 +108,43 @@
       "published": "19 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-19T20:20:06+00:00"
-    },
-    {
-      "title": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
-      "link": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-      "published": "18 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-18T15:14:42+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Treffen der Sudetendeutschen spaltet Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/sudentendeutsche-prag-100.html",
+      "published": "22 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-22T03:57:00+02:00"
+    },
+    {
+      "title": "Warum Polens Ex-Justizminister in die USA floh",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-jutizminister-ziobro-100.html",
+      "published": "22 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-22T03:56:01+02:00"
+    },
+    {
+      "title": "Neue Studie zum NS-Erbe des Bundesverfassungsgerichts",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ns-vergangenheit-bundesverfassungsgericht-100.html",
+      "published": "22 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-22T03:55:17+02:00"
+    },
+    {
+      "title": "NATO-Außenminister beraten über Neuordnung der Aufgaben",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-treffen-rubio-100.html",
+      "published": "22 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-22T03:53:14+02:00"
+    },
     {
       "title": "Bundestag billigt drei neue Bahnstrecken",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-bahnstrecken-neubau-100.html",
       "published": "21 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-21T22:36:23+02:00"
-    },
-    {
-      "title": "Bundestag beschließt Senkung der Luftverkehrssteuer",
-      "link": "https://www.tagesschau.de/inland/luftverkehr-steuer-senkung-beschlossen-100.html",
-      "published": "21 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T22:05:46+02:00"
-    },
-    {
-      "title": "US-Außenminister Rubio fordert NATO-Partner zum Umdenken auf",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-aussenminister-schweden-100.html",
-      "published": "21 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T21:04:32+02:00"
-    },
-    {
-      "title": "Air France und Airbus wegen Flugzeugabsturz von 2009 schuldig gesprochen",
-      "link": "https://www.tagesschau.de/ausland/europa/rio-paris-flugzeugabsturz-airfrance-verurteilt-100.html",
-      "published": "21 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T20:21:46+02:00"
-    },
-    {
-      "title": "Türkisches Gericht setzt CHP-Parteiführung ab",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-chp-gericht-opposition-100.html",
-      "published": "21 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T19:23:47+02:00"
     }
   ],
   "Food": []
