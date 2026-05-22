@@ -42,7 +42,7 @@
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
       "published": "22 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-22T18:36:26+00:00"
+      "sort_date": "2026-05-22T21:33:20+00:00"
     },
     {
       "title": "Replicating Custom MDF Data from SAP SuccessFactors EC to a Custom Infotype in SAP S/4HANA",
@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Data Centers Now Consume 6% of US Electricity—and the Backlash Has Begun",
+      "link": "https://singularityhub.com/2026/05/22/data-centers-now-consume-6-of-electricity-in-the-us-and-the-backlash-has-begun/",
+      "published": "22 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-22T21:32:42+00:00"
+    },
+    {
       "title": "AI Lab Partners Are Rewiring the Hunt for New Drugs",
       "link": "https://singularityhub.com/2026/05/21/ai-lab-partners-are-rewiring-the-hunt-for-new-drugs/",
       "published": "22 May 2026",
@@ -101,13 +108,6 @@
       "published": "20 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-20T14:50:37+00:00"
-    },
-    {
-      "title": "70% of the Rock Under Our Feet Can Produce Hydrogen. Tapping It Could Power Your Town.",
-      "link": "https://singularityhub.com/2026/05/19/70-of-the-rock-under-our-feet-can-produce-hydrogen-tapping-it-could-power-your-town/",
-      "published": "19 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-19T20:20:06+00:00"
     }
   ],
   "News": [
