@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Common errors when accessing Learning via BizX",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
+      "published": "22 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-22T18:36:26+00:00"
+    },
+    {
       "title": "Replicating Custom MDF Data from SAP SuccessFactors EC to a Custom Infotype in SAP S/4HANA",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-custom-mdf-data-from-sap-successfactors-ec-to-a-custom-infotype/ba-p/14398739",
       "published": "22 May 2026",
@@ -64,13 +71,6 @@
       "published": "20 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-20T10:45:53+00:00"
-    },
-    {
-      "title": "How to update Username in SAP SuccessFactors - 1H 2026 update FAIL",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-update-username-in-sap-successfactors-1h-2026-update-fail/ba-p/14399457",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-19T20:33:01+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Janša erneut zum Regierungschef gewählt",
-      "link": "https://www.tagesschau.de/ausland/europa/slowenien-regierungschef-jansa-100.html",
+      "title": "US-Geheimdienstkoordinatorin Gabbard kündigt Rücktritt an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienste-gebbard-ruecktritt-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T18:53:10+02:00"
+      "sort_date": "2026-05-22T21:26:27+02:00"
     },
     {
-      "title": "Marktbericht: DAX-Anleger bleiben zuversichtlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-ki-brent-100.html",
+      "title": "Wadephul: \"Putin sehen wir noch nicht am Tisch\"",
+      "link": "https://www.tagesschau.de/ausland/wadephul-tt-ukraine-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T18:44:15+02:00"
+      "sort_date": "2026-05-22T20:49:28+02:00"
     },
     {
-      "title": "Deutsche Gaza-Aktivisten waren laut Auswärtigem Amt verletzt",
-      "link": "https://www.tagesschau.de/ausland/europa/gaza-aktivisten-verletzungen-100.html",
+      "title": "Deutschland und drei Partnerstaaten warnen Israel vor Siedlungsbau",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-siedler-kritik-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T18:30:41+02:00"
+      "sort_date": "2026-05-22T20:10:57+02:00"
     },
     {
-      "title": "NATO-Generalsekretär Rutte betont Bündnis-Geschlossenheit",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-nato-treffen-aussenminister-rutte-100.html",
+      "title": "Ebola breitet sich laut WHO in Kongo rasch aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/kongo-ebola-ausbruch-who-besorgt-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T17:54:12+02:00"
+      "sort_date": "2026-05-22T19:59:50+02:00"
     },
     {
-      "title": "Auch Polen rätselt über Trumps Ankündigung zu US-Soldaten",
-      "link": "https://www.tagesschau.de/ausland/polen-soldaten-usa-100.html",
+      "title": "Wettervorhersage Europa: Wetterlage und Temperaturen",
+      "link": "https://www.tagesschau.de/wetter/europa-welt",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T17:52:20+02:00"
+      "sort_date": "2026-05-22T19:53:03+02:00"
     }
   ],
   "Food": []
