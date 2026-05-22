@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Replicating Custom MDF Data from SAP SuccessFactors EC to a Custom Infotype in SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-custom-mdf-data-from-sap-successfactors-ec-to-a-custom-infotype/ba-p/14398739",
+      "published": "22 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-22T07:31:29+00:00"
+    },
+    {
       "title": "SuccessFactors Governance: A CSM Perspective",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-governance-a-csm-perspective/ba-p/14400087",
       "published": "20 May 2026",
@@ -64,13 +71,6 @@
       "published": "19 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-19T20:33:01+00:00"
-    },
-    {
-      "title": "09.SAP SuccessFactors HCM Implementation - How to define Data Migration Scope",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/09-sap-successfactors-hcm-implementation-how-to-define-data-migration-scope/ba-p/14399302",
-      "published": "19 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-19T14:23:32+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Treffen der Sudetendeutschen spaltet Tschechien",
-      "link": "https://www.tagesschau.de/ausland/europa/sudentendeutsche-prag-100.html",
+      "title": "Kampf ums All: Wie Satelliten zur Machtfrage werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/ki-weltall-podcast-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T03:57:00+02:00"
+      "sort_date": "2026-05-22T11:07:42+02:00"
     },
     {
-      "title": "Warum Polens Ex-Justizminister in die USA floh",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-jutizminister-ziobro-100.html",
+      "title": "Zahl fertiggestellter Wohnungen fällt auf niedrigsten Stand seit 2012",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-fertiggestellte-wohnung-tiefststand-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T03:56:01+02:00"
+      "sort_date": "2026-05-22T10:45:24+02:00"
     },
     {
-      "title": "Neue Studie zum NS-Erbe des Bundesverfassungsgerichts",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ns-vergangenheit-bundesverfassungsgericht-100.html",
+      "title": "Angriffe in Honduras: Mindestens 25 Menschen erschossen",
+      "link": "https://www.tagesschau.de/ausland/amerika/honduras-angriffe-102.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T03:55:17+02:00"
+      "sort_date": "2026-05-22T10:33:15+02:00"
     },
     {
-      "title": "NATO-Außenminister beraten über Neuordnung der Aufgaben",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-treffen-rubio-100.html",
+      "title": "Bundestag berät über antragloses Kindergeld",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-elterngeld-einschnitte-prien-reaktionen-100.html",
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T03:53:14+02:00"
+      "sort_date": "2026-05-22T10:21:45+02:00"
     },
     {
-      "title": "Bundestag billigt drei neue Bahnstrecken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-bahnstrecken-neubau-100.html",
-      "published": "21 May 2026",
+      "title": "US-Großbank JP Morgan geht auf deutschem Markt auf Kundenfang",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tagesgeld-zinsen-jp-morgen-100.html",
+      "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-21T22:36:23+02:00"
+      "sort_date": "2026-05-22T10:15:37+02:00"
     }
   ],
   "Food": []
