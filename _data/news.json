@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "SpaceX: Überarbeitete \"Starship\"-Rakete absolviert Testflug",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-starship-136.html",
+      "published": "23 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-23T04:17:59+02:00"
+    },
+    {
+      "title": "EU und Mexiko unterzeichnen Freihandelsabkommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/eu-mexiko-freihandelsabkommen-100.html",
+      "published": "23 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-23T01:13:39+02:00"
+    },
+    {
       "title": "US-Geheimdienstkoordinatorin Gabbard kündigt Rücktritt an",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienste-gebbard-ruecktritt-100.html",
       "published": "22 May 2026",
@@ -131,20 +145,6 @@
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-22T20:10:57+02:00"
-    },
-    {
-      "title": "Ebola breitet sich laut WHO in Kongo rasch aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/kongo-ebola-ausbruch-who-besorgt-100.html",
-      "published": "22 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T19:59:50+02:00"
-    },
-    {
-      "title": "Wettervorhersage Europa: Wetterlage und Temperaturen",
-      "link": "https://www.tagesschau.de/wetter/europa-welt",
-      "published": "22 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T19:53:03+02:00"
     }
   ],
   "Food": []
