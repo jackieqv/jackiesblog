@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Kalifornien: Chemietank droht zu explodieren - Evakuierungen angeordnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-evakuierungen-chemikalie-100.html",
+      "published": "23 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-23T05:39:16+02:00"
+    },
+    {
+      "title": "5 Jahre nach Verhaftung: Was macht Roman Protasewitsch heute?",
+      "link": "https://www.dw.com/de/5-jahre-nach-verhaftung-was-macht-roman-protasewitsch-heute/a-77232872?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "23 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-23T04:30:00+00:00"
+    },
+    {
       "title": "SpaceX: Überarbeitete \"Starship\"-Rakete absolviert Testflug",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-starship-136.html",
       "published": "23 May 2026",
@@ -131,20 +145,6 @@
       "published": "22 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-22T21:26:27+02:00"
-    },
-    {
-      "title": "Wadephul: \"Putin sehen wir noch nicht am Tisch\"",
-      "link": "https://www.tagesschau.de/ausland/wadephul-tt-ukraine-100.html",
-      "published": "22 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T20:49:28+02:00"
-    },
-    {
-      "title": "Deutschland und drei Partnerstaaten warnen Israel vor Siedlungsbau",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-siedler-kritik-100.html",
-      "published": "22 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-22T20:10:57+02:00"
     }
   ],
   "Food": []
