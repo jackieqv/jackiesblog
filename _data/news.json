@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 23)",
+      "link": "https://singularityhub.com/2026/05/23/this-weeks-awesome-tech-stories-from-around-the-web-through-may-23-2/",
+      "published": "23 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-23T14:00:00+00:00"
+    },
+    {
       "title": "Data Centers Now Consume 6% of US Electricity—and the Backlash Has Begun",
       "link": "https://singularityhub.com/2026/05/22/data-centers-now-consume-6-of-electricity-in-the-us-and-the-backlash-has-begun/",
       "published": "22 May 2026",
@@ -101,50 +108,43 @@
       "published": "20 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-20T14:52:19+00:00"
-    },
-    {
-      "title": "How Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "link": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "published": "20 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-20T14:50:37+00:00"
     }
   ],
   "News": [
     {
-      "title": "Erneut ukrainischer Angriff auf Öllager in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-112.html",
+      "title": "USA und Iran haben sich offenbar angenähert",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html",
       "published": "23 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T15:21:18+02:00"
+      "sort_date": "2026-05-23T20:41:00+02:00"
     },
     {
-      "title": "Ebola-Virus breitet sich weiter in Uganda und DR Kongo aus",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-uganda-dr-kongo-100.html",
+      "title": "Proteste in Bolivien werden immer massiver",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-proteste-126.html",
       "published": "23 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T13:55:53+02:00"
+      "sort_date": "2026-05-23T20:12:17+02:00"
     },
     {
-      "title": "Was über den Cyberangriff auf Kliniken bekannt ist",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cyberangriff-kliniken-100.html",
+      "title": "Das Finale im Liveticker",
+      "link": "https://www.tagesschau.de/sport/dfb-pokal-finale-liveticker-100.html",
       "published": "23 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T13:40:13+02:00"
+      "sort_date": "2026-05-23T19:56:00+02:00"
     },
     {
-      "title": "13 Personen aus CHP-Umfeld in der Türkei festgenommen",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-festnahmen-chp-100.html",
-      "published": "23 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T12:58:48+02:00"
-    },
-    {
-      "title": "Saudi-Arabien: 1,5 Millionen Pilger nehmen trotz Krieg an der Hadsch teil",
-      "link": "https://www.dw.com/de/saudi-arabien-1-5-millionen-pilger-nehmen-trotz-krieg-an-der-hadsch-teil/a-77226316?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Wahlen in Zypern: Das Zweiparteiensystem wankt",
+      "link": "https://www.dw.com/de/wahlen-in-zypern-das-zweiparteiensystem-wankt/a-77273619?maca=de-rss-de-top-1016-xml-mrss",
       "published": "23 May 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-23T12:30:00+00:00"
+      "sort_date": "2026-05-23T18:58:00+00:00"
+    },
+    {
+      "title": "200 Jahre Klosterfrau: Wie eine Nonne den Grundstein einer Weltmarke legte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/200-jahre-klosterfrau-100.html",
+      "published": "23 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-23T18:18:25+02:00"
     }
   ],
   "Food": []
