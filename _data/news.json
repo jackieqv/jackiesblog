@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "IAS for SuccessFactors Onboarding: Your Complete Migration Guide Before November 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ias-for-successfactors-onboarding-your-complete-migration-guide-before/ba-p/14390003",
+      "published": "24 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-24T12:46:50+00:00"
+    },
+    {
       "title": "Common errors when accessing Learning via BizX",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
       "published": "22 May 2026",
@@ -64,13 +71,6 @@
       "published": "20 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-20T13:00:04+00:00"
-    },
-    {
-      "title": "3 Common Mistakes I See in SAP SuccessFactors Onboarding Implementations",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/3-common-mistakes-i-see-in-sap-successfactors-onboarding-implementations/ba-p/14395173",
-      "published": "20 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-20T10:45:53+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Papst Leo XIV. ruft in Pfingstpredigt erneut zu Frieden auf",
+      "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-leo-pfingsten-100.html",
+      "published": "24 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-24T13:12:54+02:00"
+    },
+    {
+      "title": "Pakistan: Viele Tote bei Anschlag auf Personenzug",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-zug-viele-tote-100.html",
+      "published": "24 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-24T12:53:27+02:00"
+    },
+    {
       "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
       "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html",
       "published": "24 May 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-05-24T12:19:59+02:00"
     },
     {
-      "title": "Russischer Großangriff verwüstet Kiew - Moskau setzt Oreschnik-Rakete ein",
-      "link": "https://www.tagesschau.de/ausland/europa/kiew-angriffswelle-100.html",
-      "published": "24 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T12:17:58+02:00"
-    },
-    {
       "title": "Genuas Bürgermeisterin Silvia Salis - Italiens linke Hoffnung?",
       "link": "https://www.tagesschau.de/ausland/europa/italien-silvia-salis-100.html",
       "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-24T12:00:07+02:00"
-    },
-    {
-      "title": "Einigung mit dem Iran steht laut USA kurz bevor",
-      "link": "https://www.dw.com/de/einigung-mit-dem-iran-steht-laut-usa-kurz-bevor/a-77278603?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-24T10:37:00+00:00"
     }
   ],
   "Food": []
