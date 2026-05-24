@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html",
+      "title": "Sudetendeutscher Tag erstmals in Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/sudetendeutscher-tag-tschechien-100.html",
       "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T05:28:43+02:00"
+      "sort_date": "2026-05-24T09:55:33+02:00"
     },
     {
-      "title": "Zehntausende bei Massenprotest gegen Regierung in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-154.html",
+      "title": "Was das Memorandum zwischen Iran und USA vorsieht",
+      "link": "https://www.tagesschau.de/ausland/asien/memorandum-iran-usa-100.html",
       "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T05:08:09+02:00"
+      "sort_date": "2026-05-24T09:40:57+02:00"
     },
     {
-      "title": "Schüsse in der Nähe vom Weißen Haus in Washington",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-weisses-haus-100.html",
+      "title": "24. und 25. Mai: Was wird an Pfingsten gefeiert?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pfingsten-ueberblick-100.html",
       "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T03:31:01+02:00"
+      "sort_date": "2026-05-24T08:43:41+02:00"
     },
     {
-      "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
-      "link": "https://www.tagesschau.de/kultur/cannes-goldene-palme-110.html",
-      "published": "23 May 2026",
+      "title": "Wie sich die Spanier gegen hohe Mieten wehren",
+      "link": "https://www.tagesschau.de/wirtschaft/spanien-bezahlbarer-wohnraum-100.html",
+      "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T22:51:01+02:00"
+      "sort_date": "2026-05-24T08:20:34+02:00"
     },
     {
-      "title": "Proteste in Bolivien werden immer massiver",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-proteste-126.html",
-      "published": "23 May 2026",
+      "title": "Iran-Krieg: Gaskrise bedroht Indiens Glasindustrie",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-glasstadt-energiekrise-100.html",
+      "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T20:12:17+02:00"
+      "sort_date": "2026-05-24T07:57:02+02:00"
     }
   ],
   "Food": []
