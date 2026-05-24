@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "USA und Iran haben sich offenbar angenähert",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html",
-      "published": "23 May 2026",
+      "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html",
+      "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T23:01:06+02:00"
+      "sort_date": "2026-05-24T05:28:43+02:00"
+    },
+    {
+      "title": "Zehntausende bei Massenprotest gegen Regierung in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-154.html",
+      "published": "24 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-24T05:08:09+02:00"
+    },
+    {
+      "title": "Schüsse in der Nähe vom Weißen Haus in Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-weisses-haus-100.html",
+      "published": "24 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-24T03:31:01+02:00"
     },
     {
       "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
@@ -131,20 +145,6 @@
       "published": "23 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-23T20:12:17+02:00"
-    },
-    {
-      "title": "Das Finale im Liveticker",
-      "link": "https://www.tagesschau.de/sport/dfb-pokal-finale-liveticker-100.html",
-      "published": "23 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-23T19:56:00+02:00"
-    },
-    {
-      "title": "Wahlen in Zypern: Das Zweiparteiensystem wankt",
-      "link": "https://www.dw.com/de/wahlen-in-zypern-das-zweiparteiensystem-wankt/a-77273619?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-23T18:58:00+00:00"
     }
   ],
   "Food": []
