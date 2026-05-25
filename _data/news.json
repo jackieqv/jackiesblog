@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Common errors when accessing Learning via BizX",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
+      "published": "25 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-25T17:00:58+00:00"
+    },
+    {
       "title": "Transitioning from SAP Enable Now to the WalkMe Platform – A Brief Summary for SAP Enable Now Custom",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/transitioning-from-sap-enable-now-to-the-walkme-platform-a-brief-summary/ba-p/14402989",
       "published": "25 May 2026",
@@ -64,13 +71,6 @@
       "published": "25 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-25T02:19:33+00:00"
-    },
-    {
-      "title": "IAS for SuccessFactors Onboarding: Your Complete Migration Guide Before November 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ias-for-successfactors-onboarding-your-complete-migration-guide-before/ba-p/14390003",
-      "published": "24 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-24T12:46:50+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T18:47:03+02:00"
+    },
+    {
       "title": "Landwirtschaft: Wenn der Hof zur seelischen Last wird",
       "link": "https://www.tagesschau.de/inland/gesellschaft/psychische-krankheiten-landwirte-100.html",
       "published": "25 May 2026",
@@ -138,13 +145,6 @@
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-25T15:00:03+02:00"
-    },
-    {
-      "title": "Iran-Krieg: Trump orakelt, Pakistan und China verhandeln",
-      "link": "https://www.dw.com/de/iran-krieg-trump-orakelt-pakistan-und-china-verhandeln/a-77286594?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "25 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-25T14:27:00+00:00"
     }
   ],
   "Food": []
