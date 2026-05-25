@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Israel und Libanon: Evakuierungen und neue Kämpfe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-128.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T21:21:08+02:00"
+    },
+    {
       "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
       "link": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html",
       "published": "25 May 2026",
@@ -138,13 +145,6 @@
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-25T15:48:27+02:00"
-    },
-    {
-      "title": "Israel und Libanon: Evakuierungen und neue Kämpfe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-128.html",
-      "published": "25 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T15:00:03+02:00"
     }
   ],
   "Food": []
