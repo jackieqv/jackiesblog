@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "From Legacy to Cloud: My Brownfield Checklist for SAP ECC HR to SuccessFactors EC & EC Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-legacy-to-cloud-my-brownfield-checklist-for-sap-ecc-hr-to/ba-p/14402521",
+      "published": "25 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-25T02:19:33+00:00"
+    },
+    {
       "title": "IAS for SuccessFactors Onboarding: Your Complete Migration Guide Before November 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ias-for-successfactors-onboarding-your-complete-migration-guide-before/ba-p/14390003",
       "published": "24 May 2026",
@@ -64,13 +71,6 @@
       "published": "20 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-20T13:41:36+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors 1H 2026 Release Now Live - Resources and Information",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-1h-2026-release-now-live-resources-and-information/ba-p/14400050",
-      "published": "20 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-20T13:00:04+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "WHO: Mehr als 900 Ebola-Verdachtsfälle in DR Kongo",
+      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-who-100.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T02:15:32+02:00"
+    },
+    {
+      "title": "Konservative gewinnen Parlamentswahl in Zypern",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-104.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T00:44:29+02:00"
+    },
+    {
+      "title": "SIPRI-Bericht - Friedensmissionen unter Druck",
+      "link": "https://www.tagesschau.de/ausland/sipri-internationale-friedensmissionen-100.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T00:01:11+02:00"
+    },
+    {
       "title": "\"Nichts überstürzen\": Trump warnt bei Iran-Verhandlungen vor Eile",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-trump-verhandlungen-100.html",
       "published": "24 May 2026",
@@ -124,27 +145,6 @@
       "published": "24 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-24T20:58:49+02:00"
-    },
-    {
-      "title": "Indien ächzt unter Hitzewelle",
-      "link": "https://www.tagesschau.de/ausland/asien/hitzewelle-indien-120.html",
-      "published": "24 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T19:20:01+02:00"
-    },
-    {
-      "title": "Sudetendeutscher Tag in Tschechien: Begegnung, Gedenken, Proteste",
-      "link": "https://www.tagesschau.de/ausland/prag-sudeten-treffen-100.html",
-      "published": "24 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T18:02:09+02:00"
-    },
-    {
-      "title": "Ukrainer fürchten um Immobilien in besetzten Gebieten",
-      "link": "https://www.dw.com/de/ukrainer-fürchten-um-immobilien-in-besetzten-gebieten/a-77214832?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-24T17:57:00+00:00"
     }
   ],
   "Food": []
