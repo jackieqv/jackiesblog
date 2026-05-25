@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Transitioning from SAP Enable Now to the WalkMe Platform – A Brief Summary for SAP Enable Now Custom",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/transitioning-from-sap-enable-now-to-the-walkme-platform-a-brief-summary/ba-p/14402989",
+      "published": "25 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-25T06:45:15+00:00"
+    },
+    {
+      "title": "Extending Data Replication Proxies to Third-Party Payroll Systems",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/extending-data-replication-proxies-to-third-party-payroll-systems/ba-p/14399932",
+      "published": "25 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-25T05:56:58+00:00"
+    },
+    {
+      "title": "Enhancing SAP SuccessFactors User Experience with WalkMe Digital Adoption Platform",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enhancing-sap-successfactors-user-experience-with-walkme-digital-adoption/ba-p/14397692",
+      "published": "25 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-25T05:55:02+00:00"
+    },
+    {
       "title": "From Legacy to Cloud: My Brownfield Checklist for SAP ECC HR to SuccessFactors EC & EC Payroll",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-legacy-to-cloud-my-brownfield-checklist-for-sap-ecc-hr-to/ba-p/14402521",
       "published": "25 May 2026",
@@ -50,27 +71,6 @@
       "published": "24 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-24T12:46:50+00:00"
-    },
-    {
-      "title": "Common errors when accessing Learning via BizX",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
-      "published": "22 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-22T21:33:20+00:00"
-    },
-    {
-      "title": "Replicating Custom MDF Data from SAP SuccessFactors EC to a Custom Infotype in SAP S/4HANA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-custom-mdf-data-from-sap-successfactors-ec-to-a-custom-infotype/ba-p/14398739",
-      "published": "22 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-22T07:31:29+00:00"
-    },
-    {
-      "title": "SuccessFactors Governance: A CSM Perspective",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-governance-a-csm-perspective/ba-p/14400087",
-      "published": "20 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-20T13:41:36+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "WHO: Mehr als 900 Ebola-Verdachtsfälle in DR Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-who-100.html",
+      "title": "Matt Brittin: Große Aufgaben für den Neuen an der Spitze der BBC",
+      "link": "https://www.tagesschau.de/ausland/europa/bbc-generaldirektor-brittin-100.html",
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T02:15:32+02:00"
+      "sort_date": "2026-05-25T11:57:39+02:00"
     },
     {
-      "title": "Konservative gewinnen Parlamentswahl in Zypern",
-      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-104.html",
+      "title": "Erdoğan macht Rückzieher - liberale Uni in Istanbul bleibt offen",
+      "link": "https://www.tagesschau.de/ausland/asien/erdogan-bilgi-universitaet-istanbul-100.html",
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T00:44:29+02:00"
+      "sort_date": "2026-05-25T11:52:42+02:00"
     },
     {
-      "title": "SIPRI-Bericht - Friedensmissionen unter Druck",
-      "link": "https://www.tagesschau.de/ausland/sipri-internationale-friedensmissionen-100.html",
+      "title": "Ukraine: Aufräumarbeiten in Kiew - und die Forderung nach Konsequenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-aufraeumen-sicherheitsrat-100.html",
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T00:01:11+02:00"
+      "sort_date": "2026-05-25T11:14:36+02:00"
     },
     {
-      "title": "\"Nichts überstürzen\": Trump warnt bei Iran-Verhandlungen vor Eile",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-trump-verhandlungen-100.html",
-      "published": "24 May 2026",
+      "title": "US-Außenminister Rubio setzt mit Iran auf Diplomatie",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-verhandlungen-rubio-angebot-100.html",
+      "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T21:02:02+02:00"
+      "sort_date": "2026-05-25T10:49:29+02:00"
     },
     {
-      "title": "China schickt drei Astronauten zu Weltraumstation \"Tiangong\"",
-      "link": "https://www.tagesschau.de/ausland/asien/china-raketenstart-104.html",
-      "published": "24 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-24T20:58:49+02:00"
+      "title": "Türkei: Polizei erstürmt Oppositionszentrale",
+      "link": "https://www.dw.com/de/türkei-polizei-erstürmt-oppositionszentrale/a-77284184?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "25 May 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-25T09:51:00+00:00"
     }
   ],
   "Food": []
