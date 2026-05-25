@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Paderborn zurück in der Bundesliga - Wolfsburg steigt erstmals ab",
+      "link": "https://www.tagesschau.de/sport/relegation-paderborn-wolfsburg-100.html",
+      "published": "25 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-25T23:31:21+02:00"
+    },
+    {
       "title": "Israel und Libanon: Evakuierungen und neue Kämpfe",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-128.html",
       "published": "25 May 2026",
@@ -124,13 +131,6 @@
       "published": "25 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-25T18:47:03+02:00"
-    },
-    {
-      "title": "Landwirtschaft: Wenn der Hof zur seelischen Last wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/psychische-krankheiten-landwirte-100.html",
-      "published": "25 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T16:09:44+02:00"
     },
     {
       "title": "Keine Einzelhaft mehr: Maduros Haftbedingungen offenbar verbessert",
