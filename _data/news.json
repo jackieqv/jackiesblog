@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "When Quiet Undersea Volcanoes Turn Disruptive",
+      "link": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
+      "published": "26 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-26T15:29:26+00:00"
+    },
+    {
       "title": "A Revolutionary Cancer Treatment Could Transform Autoimmune Disease",
       "link": "https://singularityhub.com/2026/05/25/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
       "published": "25 May 2026",
@@ -101,50 +108,43 @@
       "published": "22 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-22T00:37:05+00:00"
-    },
-    {
-      "title": "How Ecotypes Harbor the Genetic Memory of a Species’ Past",
-      "link": "https://www.quantamagazine.org/how-ecotypes-harbor-the-genetic-memory-of-a-species-past-20260521/",
-      "published": "21 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-21T14:48:20+00:00"
     }
   ],
   "News": [
     {
-      "title": "Krieg gegen die Ukraine: Bundesregierung bestellt russischen Botschafter ein",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-eu-102.html",
+      "title": "Hitzewelle in Deutschland: Vielerorts über 30 Grad, aber noch kein Mai-Rekord",
+      "link": "https://www.tagesschau.de/wetter/deutschland/wetter-mai-temperaturen-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T16:52:58+02:00"
+      "sort_date": "2026-05-26T22:05:44+02:00"
     },
     {
-      "title": "Hitzewelle in Großbritannien: Nationaler Wetterdienst warnt",
-      "link": "https://www.tagesschau.de/ausland/europa/england-hitze-welle-100.html",
+      "title": "Einschätzungen von ARD-Korrespondentin Diettrich zu den russischen Drohungen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-diettrich-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T16:20:23+02:00"
+      "sort_date": "2026-05-26T21:14:16+02:00"
     },
     {
-      "title": "Viele offene Fragen bei Verhandlungen zwischen USA und Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-konflikt-verhandlungen-waffenruhe-100.html",
+      "title": "Israel weitet Bodeneinsätze gegen Hisbollah im Libanon aus",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-126.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T15:44:11+02:00"
+      "sort_date": "2026-05-26T20:27:47+02:00"
     },
     {
-      "title": "Staatsanwaltschaft ermittelt gegen Ulmen wegen häuslicher Gewalt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-ulmen-haeusliche-gewalt-100.html",
+      "title": "Einmal \"Rasenmäher\" à la Koch und Steinbrück?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rasenmaeher-kuerzungen-koch-steinbrueck-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T15:24:00+02:00"
+      "sort_date": "2026-05-26T20:03:25+02:00"
     },
     {
-      "title": "Wer gewinnt in der Straße von Hormus die Oberhand?",
-      "link": "https://www.dw.com/de/wer-gewinnt-in-der-straße-von-hormus-die-oberhand/a-77300226?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Türkei: Polizei geht hart gegen Özel und seine Anhänger vor",
+      "link": "https://www.tagesschau.de/ausland/asien/izmir-proteste-chp-100.html",
       "published": "26 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-26T13:55:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-26T19:31:52+02:00"
     }
   ],
   "Food": []
