@@ -38,11 +38,18 @@
   ],
   "Technology": [
     {
-      "title": "Common errors when accessing Learning via BizX",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/common-errors-when-accessing-learning-via-bizx/ba-p/14401204",
-      "published": "25 May 2026",
+      "title": "Beyond Implementation: How SAP Professional Services Extend Your SAP SuccessFactors Capability",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/beyond-implementation-how-sap-professional-services-extend-your-sap/ba-p/14398690",
+      "published": "26 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-25T17:00:58+00:00"
+      "sort_date": "2026-05-26T09:04:22+00:00"
+    },
+    {
+      "title": "Why HR Transformation Stalls - and How the Right Expert Guidance Gets It Back on Track",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-hr-transformation-stalls-and-how-the-right-expert-guidance-gets-it-back/ba-p/14398689",
+      "published": "26 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-26T08:59:13+00:00"
     },
     {
       "title": "Transitioning from SAP Enable Now to the WalkMe Platform – A Brief Summary for SAP Enable Now Custom",
@@ -64,13 +71,6 @@
       "published": "25 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-25T05:55:02+00:00"
-    },
-    {
-      "title": "From Legacy to Cloud: My Brownfield Checklist for SAP ECC HR to SuccessFactors EC & EC Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-legacy-to-cloud-my-brownfield-checklist-for-sap-ecc-hr-to/ba-p/14402521",
-      "published": "25 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-25T02:19:33+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bericht: Höhere Beiträge für Kinderlose in Pflegeversicherung?",
-      "link": "https://www.tagesschau.de/inland/warken-pflegeversicherung-kinderlose-100.html",
+      "title": "Wie die Fußballproduktion Frauen in Pakistan hilft",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-fussballproduktion-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T03:53:06+02:00"
+      "sort_date": "2026-05-26T11:43:57+02:00"
     },
     {
-      "title": "USA greifen Raketenstellungen in Iran und Boote an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-202.html",
+      "title": "Rund ein Fünftel der Deutschen raucht - Zahl der jungen Raucher steigt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gesundheit-rauchen-weltnichtrauchertag-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T03:06:10+02:00"
+      "sort_date": "2026-05-26T11:35:37+02:00"
     },
     {
-      "title": "Irans Präsident ordnet Ende der Internet-Blockade an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-internet-freischaltung-100.html",
+      "title": "Acht Prozent der Flüge 2025 waren innerhalb von Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/fluege-kurzstrecken-inlandsflug-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T01:18:56+02:00"
+      "sort_date": "2026-05-26T11:04:23+02:00"
     },
     {
-      "title": "Paderborn zurück in der Bundesliga - Wolfsburg steigt erstmals ab",
-      "link": "https://www.tagesschau.de/sport/relegation-paderborn-wolfsburg-100.html",
-      "published": "25 May 2026",
+      "title": "Hat Israel geheime Stützpunkte im Irak aufgebaut?",
+      "link": "https://www.tagesschau.de/ausland/asien/irak-israelisches-militaer-100.html",
+      "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T23:31:21+02:00"
+      "sort_date": "2026-05-26T11:01:21+02:00"
     },
     {
-      "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html",
-      "published": "25 May 2026",
+      "title": "GPS-Navigation: So stört Russland den europäischen Luftverkehr",
+      "link": "https://www.tagesschau.de/investigativ/ndr/ostseeraum-russland-gps-luftverkehr-100.html",
+      "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-25T18:47:03+02:00"
+      "sort_date": "2026-05-26T10:49:58+02:00"
     }
   ],
   "Food": []
