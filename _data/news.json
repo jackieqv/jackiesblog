@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Querying SAP SuccessFactors in Natural Language with Claude Desktop and the SF-MCP Server",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/querying-sap-successfactors-in-natural-language-with-claude-desktop-and-the/ba-p/14404437",
+      "published": "26 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-26T20:43:15+00:00"
+    },
+    {
       "title": "Accelerating Time to Value: How Targeted SAP Services Complement Your Internal HR Team",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/accelerating-time-to-value-how-targeted-sap-services-complement-your/ba-p/14398691",
       "published": "26 May 2026",
@@ -64,16 +71,16 @@
       "published": "25 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-25T06:45:15+00:00"
-    },
-    {
-      "title": "Extending Data Replication Proxies to Third-Party Payroll Systems",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/extending-data-replication-proxies-to-third-party-payroll-systems/ba-p/14399932",
-      "published": "25 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-25T05:56:58+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Photosynthetic Drops Soothe Dry Eyes With Sunlight",
+      "link": "https://singularityhub.com/2026/05/26/photosynthetic-drops-soothe-dry-eyes-with-sunlight/",
+      "published": "26 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-26T20:45:12+00:00"
+    },
     {
       "title": "When Quiet Undersea Volcanoes Turn Disruptive",
       "link": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
@@ -101,13 +108,6 @@
       "published": "22 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-22T21:32:42+00:00"
-    },
-    {
-      "title": "AI Lab Partners Are Rewiring the Hunt for New Drugs",
-      "link": "https://singularityhub.com/2026/05/21/ai-lab-partners-are-rewiring-the-hunt-for-new-drugs/",
-      "published": "22 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-22T00:37:05+00:00"
     }
   ],
   "News": [
@@ -116,7 +116,7 @@
       "link": "https://www.tagesschau.de/wetter/deutschland/wetter-mai-temperaturen-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T22:05:44+02:00"
+      "sort_date": "2026-05-26T22:59:02+02:00"
     },
     {
       "title": "Einschätzungen von ARD-Korrespondentin Diettrich zu den russischen Drohungen",
