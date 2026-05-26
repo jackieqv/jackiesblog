@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Accelerating Time to Value: How Targeted SAP Services Complement Your Internal HR Team",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/accelerating-time-to-value-how-targeted-sap-services-complement-your/ba-p/14398691",
+      "published": "26 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-26T10:00:19+00:00"
+    },
+    {
       "title": "Beyond Implementation: How SAP Professional Services Extend Your SAP SuccessFactors Capability",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/beyond-implementation-how-sap-professional-services-extend-your-sap/ba-p/14398690",
       "published": "26 May 2026",
@@ -64,13 +71,6 @@
       "published": "25 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-25T05:56:58+00:00"
-    },
-    {
-      "title": "Enhancing SAP SuccessFactors User Experience with WalkMe Digital Adoption Platform",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enhancing-sap-successfactors-user-experience-with-walkme-digital-adoption/ba-p/14397692",
-      "published": "25 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-25T05:55:02+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wie die Fußballproduktion Frauen in Pakistan hilft",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-fussballproduktion-100.html",
+      "title": "Krieg gegen die Ukraine: Bundesregierung bestellt russischen Botschafter ein",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-eu-102.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T11:43:57+02:00"
+      "sort_date": "2026-05-26T16:52:58+02:00"
     },
     {
-      "title": "Rund ein Fünftel der Deutschen raucht - Zahl der jungen Raucher steigt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gesundheit-rauchen-weltnichtrauchertag-100.html",
+      "title": "Hitzewelle in Großbritannien: Nationaler Wetterdienst warnt",
+      "link": "https://www.tagesschau.de/ausland/europa/england-hitze-welle-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T11:35:37+02:00"
+      "sort_date": "2026-05-26T16:20:23+02:00"
     },
     {
-      "title": "Acht Prozent der Flüge 2025 waren innerhalb von Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/fluege-kurzstrecken-inlandsflug-100.html",
+      "title": "Viele offene Fragen bei Verhandlungen zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-konflikt-verhandlungen-waffenruhe-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T11:04:23+02:00"
+      "sort_date": "2026-05-26T15:44:11+02:00"
     },
     {
-      "title": "Hat Israel geheime Stützpunkte im Irak aufgebaut?",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-israelisches-militaer-100.html",
+      "title": "Staatsanwaltschaft ermittelt gegen Ulmen wegen häuslicher Gewalt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-ulmen-haeusliche-gewalt-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T11:01:21+02:00"
+      "sort_date": "2026-05-26T15:24:00+02:00"
     },
     {
-      "title": "GPS-Navigation: So stört Russland den europäischen Luftverkehr",
-      "link": "https://www.tagesschau.de/investigativ/ndr/ostseeraum-russland-gps-luftverkehr-100.html",
+      "title": "Wer gewinnt in der Straße von Hormus die Oberhand?",
+      "link": "https://www.dw.com/de/wer-gewinnt-in-der-straße-von-hormus-die-oberhand/a-77300226?maca=de-rss-de-top-1016-xml-mrss",
       "published": "26 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T10:49:58+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-26T13:55:00+00:00"
     }
   ],
   "Food": []
