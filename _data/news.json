@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Administrator Enablement: Building the Safety Net That Sustains SuccessFactors Value",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/administrator-enablement-building-the-safety-net-that-sustains/ba-p/14404495",
+      "published": "27 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-27T00:04:45+00:00"
+    },
+    {
       "title": "Querying SAP SuccessFactors in Natural Language with Claude Desktop and the SF-MCP Server",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/querying-sap-successfactors-in-natural-language-with-claude-desktop-and-the/ba-p/14404437",
       "published": "26 May 2026",
@@ -64,13 +71,6 @@
       "published": "26 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-26T08:59:13+00:00"
-    },
-    {
-      "title": "Transitioning from SAP Enable Now to the WalkMe Platform – A Brief Summary for SAP Enable Now Custom",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/transitioning-from-sap-enable-now-to-the-walkme-platform-a-brief-summary/ba-p/14402989",
-      "published": "25 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-25T06:45:15+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Israel attackiert neuen Hamas-Chef im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-toetet-hamas-fuehrer-100.html",
+      "published": "27 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-27T05:17:09+02:00"
+    },
+    {
+      "title": "USA: Doppel-Niederlage für Trump im Streit um Wahlkreiszuschnitte",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-wahlkreise-102.html",
+      "published": "27 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-27T05:02:04+02:00"
+    },
+    {
+      "title": "Gekürzte Hilfsgelder erschweren Kampf gegen Ebola",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-hilfsgelder-100.html",
+      "published": "27 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-27T03:54:17+02:00"
+    },
+    {
+      "title": "Mehrere Tote bei Chemie-Unglück in Fabrik in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/tank-washington-100.html",
+      "published": "27 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-27T00:43:34+02:00"
+    },
+    {
       "title": "Hitzewelle in Deutschland: Vielerorts über 30 Grad, aber noch kein Mai-Rekord",
       "link": "https://www.tagesschau.de/wetter/deutschland/wetter-mai-temperaturen-100.html",
       "published": "26 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-26T22:59:02+02:00"
-    },
-    {
-      "title": "Einschätzungen von ARD-Korrespondentin Diettrich zu den russischen Drohungen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-diettrich-100.html",
-      "published": "26 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T21:14:16+02:00"
-    },
-    {
-      "title": "Israel weitet Bodeneinsätze gegen Hisbollah im Libanon aus",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-126.html",
-      "published": "26 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T20:27:47+02:00"
-    },
-    {
-      "title": "Einmal \"Rasenmäher\" à la Koch und Steinbrück?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rasenmaeher-kuerzungen-koch-steinbrueck-100.html",
-      "published": "26 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T20:03:25+02:00"
-    },
-    {
-      "title": "Türkei: Polizei geht hart gegen Özel und seine Anhänger vor",
-      "link": "https://www.tagesschau.de/ausland/asien/izmir-proteste-chp-100.html",
-      "published": "26 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-26T19:31:52+02:00"
     }
   ],
   "Food": []
