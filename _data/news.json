@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How We See the Beautiful, Violent Sun",
+      "link": "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
+      "published": "28 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-28T14:16:52+00:00"
+    },
+    {
       "title": "Photosynthetic Drops Soothe Dry Eyes With Sunlight",
       "link": "https://singularityhub.com/2026/05/26/photosynthetic-drops-soothe-dry-eyes-with-sunlight/",
       "published": "26 May 2026",
@@ -101,50 +108,43 @@
       "published": "23 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-23T14:00:00+00:00"
-    },
-    {
-      "title": "Data Centers Now Consume 6% of US Electricity—and the Backlash Has Begun",
-      "link": "https://singularityhub.com/2026/05/22/data-centers-now-consume-6-of-electricity-in-the-us-and-the-backlash-has-begun/",
-      "published": "22 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-22T21:32:42+00:00"
     }
   ],
   "News": [
     {
-      "title": "Israelische Angriffe in der Nacht: Libanon meldet mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-tote-104.html",
+      "title": "Finanzminister und SPD-Chef: Klingbeils schwierige Doppelrolle",
+      "link": "https://www.tagesschau.de/inland/analyse-klingbeil-doppelrolle-100.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T11:52:06+02:00"
+      "sort_date": "2026-05-28T17:39:40+02:00"
     },
     {
-      "title": "Düstere Stimmung in Iran nach drei Monaten Krieg",
-      "link": "https://www.tagesschau.de/ausland/iran-drei-monate-nach-kriegsbeginn-100.html",
+      "title": "Ukraine soll ab 2027 erste schwedische \"Gripen\"-Jets erhalten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kauf-gripen-jets-schweden-100.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T11:34:37+02:00"
+      "sort_date": "2026-05-28T17:35:28+02:00"
     },
     {
-      "title": "Marktbericht: Verflogene Friedenshoffnungen lassen Ölpreise steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-ki-100.html",
+      "title": "Verteidigungsministerium plant erweiterten Dienst für Reservisten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reservisten-bundeswehr-102.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T10:44:36+02:00"
+      "sort_date": "2026-05-28T17:06:42+02:00"
     },
     {
-      "title": "Bildungszentrum von Yad Vashem kommt nach München",
-      "link": "https://www.tagesschau.de/inland/regional/muenchen-yadvashem-zweigstelle-100.html",
+      "title": "Wie die Rubel-Rally für Russland und Putin zum Problem wird",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/rubel-russland-putin-kriegswirtschaft-100.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T10:29:29+02:00"
+      "sort_date": "2026-05-28T16:49:31+02:00"
     },
     {
-      "title": "Klimafolgen: Hitze kostet Deutschlands Wirtschaft Milliarden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/hitze-wirtschaft-kosten-klimawandel-100.html",
+      "title": "EU ernennt vorerst keinen Russland-Ukraine-Vermittler",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-treffen-zypern-100.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T10:01:29+02:00"
+      "sort_date": "2026-05-28T15:46:22+02:00"
     }
   ],
   "Food": []
