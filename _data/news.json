@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Key Chemistry Question Answered, No Quantum Computer Required",
+      "link": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+      "published": "29 May 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-05-29T13:54:11+00:00"
+    },
+    {
       "title": "An AI Solution to an 80‑Year‑Old Problem Has Shocked Mathematicians",
       "link": "https://singularityhub.com/2026/05/28/an-ai-solution-to-an-80%e2%80%91year%e2%80%91old-problem-has-shocked-mathematicians/",
       "published": "28 May 2026",
@@ -101,50 +108,43 @@
       "published": "26 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-26T15:29:26+00:00"
-    },
-    {
-      "title": "A Revolutionary Cancer Treatment Could Transform Autoimmune Disease",
-      "link": "https://singularityhub.com/2026/05/25/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-      "published": "25 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-25T22:57:41+00:00"
     }
   ],
   "News": [
     {
-      "title": "Vorwurf der Falschaussage - Ex-Minister Scheuer soll vor Gericht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/scheuer-falschaussage-gericht-100.html",
+      "title": "Reise von Minister Pistorius: Wer holt den kanadischen Milliarden‑Deal?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-kanada-100.html",
       "published": "29 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T11:49:04+02:00"
+      "sort_date": "2026-05-29T17:00:56+02:00"
     },
     {
-      "title": "Besuch in Brüssel: Magyar kämpft um Freigabe von EU-Geldern",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-magyar-von-der-leyen-100.html",
+      "title": "Extremwetter-Prognose: Wie schlimm wird El Niño wirklich?",
+      "link": "https://www.tagesschau.de/wissen/klima/prognose-el-nino-100.html",
       "published": "29 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T10:12:15+02:00"
+      "sort_date": "2026-05-29T17:00:10+02:00"
     },
     {
-      "title": "Marktbericht: Hoffnung auf Nahost-Frieden lässt Aktien steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-frieden-100.html",
+      "title": "Toten Hosen in Rente? Der Punk braucht keine Fackelträger",
+      "link": "https://www.tagesschau.de/kultur/tote-hosen-letztes-album-punks-in-rente-100.html",
       "published": "29 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T10:11:20+02:00"
+      "sort_date": "2026-05-29T15:33:33+02:00"
     },
     {
-      "title": "Weitere Tote nach Chemie-Unfall im US-Bundesstaat Washington geborgen",
-      "link": "https://www.tagesschau.de/ausland/amerika/chemie-unfall-100.html",
+      "title": "EU gibt eingefrorene Milliarden für Ungarn frei",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ungarn-118.html",
       "published": "29 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T10:09:13+02:00"
+      "sort_date": "2026-05-29T15:23:20+02:00"
     },
     {
-      "title": "Krise und Hoffnung bei der FDP vor dem Bundesparteitag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-bundesparteitag-118.html",
+      "title": "Inflation in Deutschland fällt überraschend auf 2,6 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-mai-deutschland-102.html",
       "published": "29 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T09:58:41+02:00"
+      "sort_date": "2026-05-29T14:58:01+02:00"
     }
   ],
   "Food": []
