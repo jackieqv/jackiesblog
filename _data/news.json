@@ -112,18 +112,18 @@
   ],
   "News": [
     {
+      "title": "Bericht: USA und Iran einigen sich auf Rahmenabkommen für Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-berichte-einigung-100.html",
+      "published": "29 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-29T03:56:43+02:00"
+    },
+    {
       "title": "Haftstrafe für Anschlagsplan auf Taylor-Swift-Konzert in Wien",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-urteil-anschlagsplan-taylor-swift-100.html",
       "published": "28 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-28T23:39:08+02:00"
-    },
-    {
-      "title": "Bericht: USA und Iran einigen sich auf Rahmenabkommen für Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-berichte-einigung-100.html",
-      "published": "28 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-28T22:12:54+02:00"
     },
     {
       "title": "Krieg gegen Iran: Kein Gewinner auf keiner Seite",
