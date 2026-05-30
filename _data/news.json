@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Mögliche Drohnensichtung: Flughafen München gesperrt",
+      "title": "Bislang ruhige Verkehrslage trotz Sperrung der Brennerautobahn",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-italien-brenner-sperrung-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T11:47:03+02:00"
+    },
+    {
+      "title": "Mögliche Drohnensichtung: Flughafen München vorübergehend gesperrt",
       "link": "https://www.tagesschau.de/inland/flughafen-muenchen-drohnen-100.html",
       "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T10:03:53+02:00"
+      "sort_date": "2026-05-30T11:35:39+02:00"
+    },
+    {
+      "title": "Israel rückt laut Netanjahu weiter ins Landesinnere des Libanon vor",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-112.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T11:15:01+02:00"
     },
     {
       "title": "Bundesweites Projekt: Mit der \"Klasse 0\" fit für die Einschulung",
@@ -131,20 +145,6 @@
       "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-30T09:26:14+02:00"
-    },
-    {
-      "title": "Hambacher Freiheitspreis: Steinmeier warnt vor autoritären Tendenzen",
-      "link": "https://www.tagesschau.de/inland/hambacher-friedenspreis-steinmeier-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T08:34:28+02:00"
-    },
-    {
-      "title": "News kompakt: Top-Generäle der USA und Kubas treffen sich",
-      "link": "https://www.dw.com/de/news-kompakt-top-generäle-der-usa-und-kubas-treffen-sich/a-77353181?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "30 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-30T07:00:00+00:00"
     }
   ],
   "Food": []
