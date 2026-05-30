@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 30)",
+      "link": "https://singularityhub.com/2026/05/30/this-weeks-awesome-tech-stories-from-around-the-web-through-may-30-2/",
+      "published": "30 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-30T14:00:00+00:00"
+    },
+    {
       "title": "Sodium Is Cheap, Abundant, and Now Powering Batteries That Could Rival Lithium",
       "link": "https://singularityhub.com/2026/05/29/sodium-is-cheap-abundant-and-now-powering-batteries-that-could-rival-lithium/",
       "published": "29 May 2026",
@@ -101,16 +108,30 @@
       "published": "28 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-28T14:16:52+00:00"
-    },
-    {
-      "title": "Photosynthetic Drops Soothe Dry Eyes With Sunlight",
-      "link": "https://singularityhub.com/2026/05/26/photosynthetic-drops-soothe-dry-eyes-with-sunlight/",
-      "published": "26 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-26T20:45:12+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T16:22:35+02:00"
+    },
+    {
+      "title": "Unionspolitiker geben Merz in Debatte über Kanzlertausch Rückendeckung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-wuest-kanzlerdebatte-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T16:22:22+02:00"
+    },
+    {
+      "title": "Strack-Zimmermann kandidiert überraschend für FPD-Vorsitz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kandidatur-strack-zimmermann-fdp-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T15:31:03+02:00"
+    },
     {
       "title": "Sensorpflaster als Lebensretter im Katastrophenfall",
       "link": "https://www.tagesschau.de/wissen/forschung/katastrophenhilfe-sensorpflaster-100.html",
@@ -124,27 +145,6 @@
       "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-30T15:22:21+02:00"
-    },
-    {
-      "title": "FDP-Parteivorsitz: Strack-Zimmermann kandidiert überraschend",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kandidatur-strack-zimmermann-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T15:10:51+02:00"
-    },
-    {
-      "title": "Hegseth ruft Indopazifik-Länder zu mehr Eigenverantwortung auf",
-      "link": "https://www.tagesschau.de/ausland/asien/shangri-la-dialog-singapur-usa-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T13:38:45+02:00"
-    },
-    {
-      "title": "CSU-Vizechef Weber fordert erneut Reformdebatte in seiner Partei",
-      "link": "https://www.tagesschau.de/inland/csu-neuausrichtung-weber-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T13:26:35+02:00"
     }
   ],
   "Food": []
