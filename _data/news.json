@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T22:10:30+02:00"
+    },
+    {
+      "title": "Wie die Ukraine mit behinderten Kindern umgeht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-inklusion-100.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T21:30:57+02:00"
+    },
+    {
       "title": "Kubicki ist FDP-Chef: Alles andere als ein strahlender Sieger",
       "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-neustart-100.html",
       "published": "30 May 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-05-30T20:06:26+02:00"
     },
     {
-      "title": "Machtkampf in der Türkei: Großdemonstration für abgesetzten CHP-Chef Özel",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-protest-112.html",
+      "title": "Hunger in Oleschky - Ukraine bittet um Evakuierung",
+      "link": "https://www.dw.com/de/hunger-in-oleschky-ukraine-bittet-um-evakuierung/a-77337036?maca=de-rss-de-top-1016-xml-mrss",
       "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T19:29:00+02:00"
-    },
-    {
-      "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T18:43:04+02:00"
-    },
-    {
-      "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html",
-      "published": "30 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-30T16:22:35+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-05-30T19:53:00+00:00"
     }
   ],
   "Food": []
