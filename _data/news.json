@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
+      "published": "30 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-30T00:45:09+00:00"
+    },
+    {
       "title": "Join the SAP SuccessFactors AI User Group",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-the-sap-successfactors-ai-user-group/ba-p/14407155",
       "published": "29 May 2026",
@@ -64,16 +71,16 @@
       "published": "27 May 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-05-27T00:04:45+00:00"
-    },
-    {
-      "title": "Querying SAP SuccessFactors in Natural Language with Claude Desktop and the SF-MCP Server",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/querying-sap-successfactors-in-natural-language-with-claude-desktop-and-the/ba-p/14404437",
-      "published": "26 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-26T20:43:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Sodium Is Cheap, Abundant, and Now Powering Batteries That Could Rival Lithium",
+      "link": "https://singularityhub.com/2026/05/29/sodium-is-cheap-abundant-and-now-powering-batteries-that-could-rival-lithium/",
+      "published": "29 May 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-05-29T23:24:39+00:00"
+    },
     {
       "title": "Key Chemistry Question Answered, No Quantum Computer Required",
       "link": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
@@ -101,50 +108,43 @@
       "published": "26 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-26T20:45:12+00:00"
-    },
-    {
-      "title": "When Quiet Undersea Volcanoes Turn Disruptive",
-      "link": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
-      "published": "26 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-26T15:29:26+00:00"
     }
   ],
   "News": [
     {
-      "title": "Warum der Brenner dicht ist - und welche Alternativen es gibt",
-      "link": "https://www.tagesschau.de/ausland/europa/brenner-blockade-100.html",
-      "published": "29 May 2026",
+      "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
+      "link": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html",
+      "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T20:15:45+02:00"
+      "sort_date": "2026-05-30T05:07:30+02:00"
     },
     {
-      "title": "Livestream: Die Nachrichten bei tagesschau24",
-      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
-      "published": "29 May 2026",
+      "title": "Syrien: Euphrat-Hochwasser sorgt für Überschwemmungen",
+      "link": "https://www.tagesschau.de/ausland/asien/ueberflutungen-syrien-100.html",
+      "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T20:15:16+02:00"
+      "sort_date": "2026-05-30T03:53:46+02:00"
     },
     {
-      "title": "NATO macht Russland für Drohneneinschlag in Rumänien verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohneneinschlag-reaktionen-102.html",
-      "published": "29 May 2026",
+      "title": "Weiter keine Einigung zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-198.html",
+      "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T20:06:40+02:00"
+      "sort_date": "2026-05-30T03:53:34+02:00"
     },
     {
-      "title": "Südafrikas Umgang mit Fremdenfeindlichkeit in der Kritik",
-      "link": "https://www.dw.com/de/südafrikas-umgang-mit-fremdenfeindlichkeit-in-der-kritik/a-77343217?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "29 May 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-05-29T19:30:00+00:00"
+      "title": "Nach Hitze: Unwetter sorgen für zahlreiche Feuerwehreinsätze",
+      "link": "https://www.tagesschau.de/inland/unwetter-1168.html",
+      "published": "30 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-30T03:53:22+02:00"
     },
     {
-      "title": "Deutscher Arzt beklagt zögerliche Ebola-Forschung",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-aerzte-ohne-grenzen-100.html",
-      "published": "29 May 2026",
+      "title": "Die vorgezogene Wahl in Malta - und das Kalkül des Premiers",
+      "link": "https://www.tagesschau.de/ausland/europa/wahl-malta-100.html",
+      "published": "30 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-29T19:28:21+02:00"
+      "sort_date": "2026-05-30T03:53:08+02:00"
     }
   ],
   "Food": []
