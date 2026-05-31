@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Israel meldet Einnahme der Burg Beaufort im Südlibanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-bodeneinsatz-kreuzfahrerburg-beaufort-eingenommen-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T11:17:50+02:00"
+    },
+    {
+      "title": "Gesundheitspolitiker fordern höhere Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/tabaksteuer-vapen-jugendliche-streeck-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T11:02:14+02:00"
+    },
+    {
+      "title": "Neues Waffenruhe-Abkommen zwischen USA und Iran verzögert sich weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-eingefrorene-gelder-nachverhandlungen-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T10:53:05+02:00"
+    },
+    {
       "title": "Wie Großbritannien eine rauchfreie Zukunft plant",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-rauchen-100.html",
       "published": "31 May 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-05-31T10:29:21+02:00"
     },
     {
-      "title": "Gesundheitspolitiker fordern höhere Tabaksteuer",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/tabaksteuer-vapen-jugendliche-streeck-100.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T10:28:24+02:00"
-    },
-    {
       "title": "\"Fruit Love Island\": Warum KI-Content bei Kindern Ängste schürt",
       "link": "https://www.tagesschau.de/kultur/ki-serie-fruit-love-island-suchtpotenzial-100.html",
       "published": "31 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-31T10:19:17+02:00"
-    },
-    {
-      "title": "Kann der Inlandstourismus der deutschen Wirtschaft helfen?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/tourismus-deutschland-132.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T09:37:57+02:00"
-    },
-    {
-      "title": "Psychische Krankheit allein führt selten zu Gewalt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zusammenhang-gewalt-psyche-100.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T09:37:25+02:00"
     }
   ],
   "Food": []
