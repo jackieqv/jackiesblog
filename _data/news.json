@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "FDP-Parteitag: Quicklebendig im Umfragetief",
+      "link": "https://www.tagesschau.de/kommentar/fdp-parteitag-266.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T20:51:34+02:00"
+    },
+    {
+      "title": "Wadephul wirbt für Deutschlands Sitz im UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/inland/deutschland-un-sicherheitsrat-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T19:50:45+02:00"
+    },
+    {
+      "title": "Mehr als 50 Tote bei Explosion in Rebellengebiet von Myanmar",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-explosion-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T19:29:40+02:00"
+    },
+    {
+      "title": "Israels Bodenoffensive im Libanon geht weiter: Experte sieht \"Wendepunkt\"",
+      "link": "https://www.tagesschau.de/ausland/libanon-israel-festung-100.html",
+      "published": "31 May 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-05-31T19:11:33+02:00"
+    },
+    {
       "title": "Bundessieger von \"Jugend forscht\" gekürt",
       "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-forscht-gewinner-110.html",
       "published": "31 May 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-05-31T17:57:53+02:00"
-    },
-    {
-      "title": "Atomenergiebehörde IAEA bestätigt Schäden am AKW Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-akw-saporischschja-iaea-100.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T17:46:02+02:00"
-    },
-    {
-      "title": "Unwetter in Bayern: Entwurzelte Bäume, umgeknickte Strommasten",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/unwetter-bayern-154.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T17:07:32+02:00"
-    },
-    {
-      "title": "Parteitag beendet: Die FDP ringt mit sich selbst - und mit Kubicki",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-parteitag-262.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T17:04:33+02:00"
-    },
-    {
-      "title": "Per Nachname zum Weltrekord: Ungewöhnliches Treffen in Irland",
-      "link": "https://www.tagesschau.de/ausland/europa/weltrekord-nachname-sullivan-102.html",
-      "published": "31 May 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-05-31T16:43:32+02:00"
     }
   ],
   "Food": []
