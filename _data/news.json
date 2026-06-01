@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Dirt That Refused To Die",
+      "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "published": "01 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-01T14:44:57+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 30)",
       "link": "https://singularityhub.com/2026/05/30/this-weeks-awesome-tech-stories-from-around-the-web-through-may-30-2/",
       "published": "30 May 2026",
@@ -101,50 +108,43 @@
       "published": "28 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-28T21:19:02+00:00"
-    },
-    {
-      "title": "How We See the Beautiful, Violent Sun",
-      "link": "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
-      "published": "28 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-28T14:16:52+00:00"
     }
   ],
   "News": [
     {
-      "title": "Höchststrafe nach Messerangriff in Bielefeld",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bielefeld-terroranschlag-urteil-100.html",
+      "title": "Studie: mRNA-Impfung senkt das Risiko für Hautkrebs-Rückfall",
+      "link": "https://www.tagesschau.de/wissen/forschung/mrna-impfung-hautkrebs-100.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T11:23:00+02:00"
+      "sort_date": "2026-06-01T18:56:57+02:00"
     },
     {
-      "title": "Autobauer gewähren weniger Rabatte für Elektroautos",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-rabatte-gebrauchtwagen-100.html",
+      "title": "Ministerium räumt Fehler beim Wehrpflichtgesetz ein",
+      "link": "https://www.tagesschau.de/inland/wehrdienst-pistorius-gutachten-100.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T10:54:48+02:00"
+      "sort_date": "2026-06-01T18:48:46+02:00"
     },
     {
-      "title": "Marktbericht: Die KI-Party findet ohne den DAX statt",
+      "title": "Marktbericht: DAX fällt zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-114.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T10:51:02+02:00"
+      "sort_date": "2026-06-01T18:20:17+02:00"
     },
     {
-      "title": "Kolumbien-Stichwahl: Rechter Anwalt oder linker Senator",
-      "link": "https://www.dw.com/de/kolumbien-stichwahl-rechter-anwalt-oder-linker-senator/a-77374569?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-01T10:34:00+00:00"
-    },
-    {
-      "title": "Statistisches Bundesamt: Weniger Zuwanderung nach Deutschland",
-      "link": "https://www.tagesschau.de/inland/zuwanderung-deutschland-120.html",
+      "title": "Israels Offensive im Libanon: Bilder vom Vormarsch stärken die Hisbollah",
+      "link": "https://www.tagesschau.de/kommentar/israel-offensive-libanon-hisbollah-100.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T10:33:31+02:00"
+      "sort_date": "2026-06-01T18:06:34+02:00"
+    },
+    {
+      "title": "Iran setzt offenbar Gespräche mit USA über Konfliktbeilegung aus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-116.html",
+      "published": "01 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-01T17:06:06+02:00"
     }
   ],
   "Food": []
