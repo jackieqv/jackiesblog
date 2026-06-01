@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experience-the-upgrade-of-sap-successfactors-employee-central-payroll-to/ba-p/14406458",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-01T09:19:54+00:00"
+    },
+    {
+      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-01T04:13:13+00:00"
+    },
+    {
       "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
       "published": "30 May 2026",
@@ -57,20 +71,6 @@
       "published": "27 May 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-05-27T21:29:10+00:00"
-    },
-    {
-      "title": "Enhancements to IsPrimary Field in Emergency Contacts, Email Addresses, and Phone Records",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enhancements-to-isprimary-field-in-emergency-contacts-email-addresses-and/ba-p/14399047",
-      "published": "27 May 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-05-27T09:34:05+00:00"
-    },
-    {
-      "title": "Administrator Enablement: Building the Safety Net That Sustains SuccessFactors Value",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/administrator-enablement-building-the-safety-net-that-sustains/ba-p/14404495",
-      "published": "27 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-27T00:04:45+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Siedlergewalt im Westjordanland: \"Über Nacht haben wir alles verloren\"",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-siedlergewalt-israel-100.html",
+      "title": "Höchststrafe nach Messerangriff in Bielefeld",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bielefeld-terroranschlag-urteil-100.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T04:43:17+02:00"
+      "sort_date": "2026-06-01T11:23:00+02:00"
     },
     {
-      "title": "Bund verpasst Ziele bei Sondervermögen für das Jahr 2025",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-132.html",
+      "title": "Autobauer gewähren weniger Rabatte für Elektroautos",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-rabatte-gebrauchtwagen-100.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T04:37:34+02:00"
+      "sort_date": "2026-06-01T10:54:48+02:00"
     },
     {
-      "title": "Neue Maut-Regel in Italien: Bei Stau gibt's Geld zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/maut-erstattung-italien-autobahn-stau-100.html",
+      "title": "Marktbericht: Die KI-Party findet ohne den DAX statt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-114.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T04:05:41+02:00"
+      "sort_date": "2026-06-01T10:51:02+02:00"
     },
     {
-      "title": "Wie Gentrifizierung einen kleinen Ort in der Uckermark verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gentrifizierung-brandenburg-100.html",
+      "title": "Kolumbien-Stichwahl: Rechter Anwalt oder linker Senator",
+      "link": "https://www.dw.com/de/kolumbien-stichwahl-rechter-anwalt-oder-linker-senator/a-77374569?maca=de-rss-de-top-1016-xml-mrss",
       "published": "01 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T04:02:26+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-01T10:34:00+00:00"
     },
     {
-      "title": "Stichwahl um Präsidentenamt in Kolumbien",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-stichwahl-espriella-cepeda-100.html",
+      "title": "Statistisches Bundesamt: Weniger Zuwanderung nach Deutschland",
+      "link": "https://www.tagesschau.de/inland/zuwanderung-deutschland-120.html",
       "published": "01 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T03:52:19+02:00"
+      "sort_date": "2026-06-01T10:33:31+02:00"
     }
   ],
   "Food": []
