@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Fast Are You Aging? New Genetic Clock May Have the Answer",
+      "link": "https://singularityhub.com/2026/06/01/how-fast-are-you-aging-new-genetic-clock-may-have-the-answer/",
+      "published": "02 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-02T00:59:55+00:00"
+    },
+    {
       "title": "The Dirt That Refused To Die",
       "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
       "published": "01 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "29 May 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-05-29T13:54:11+00:00"
-    },
-    {
-      "title": "An AI Solution to an 80‑Year‑Old Problem Has Shocked Mathematicians",
-      "link": "https://singularityhub.com/2026/05/28/an-ai-solution-to-an-80%e2%80%91year%e2%80%91old-problem-has-shocked-mathematicians/",
-      "published": "28 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-28T21:19:02+00:00"
     }
   ],
   "News": [
     {
-      "title": "EU macht Weg für Abschiebezentren in Drittstaaten frei",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-102.html",
-      "published": "01 Jun 2026",
+      "title": "Ukraine: Tote bei russischen Angriffen auf Kiew und Dnipro",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-112.html",
+      "published": "02 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T22:18:11+02:00"
+      "sort_date": "2026-06-02T05:08:35+02:00"
     },
     {
-      "title": "Trump spricht von Deeskalation im Libanon",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-netanjahu-telefonat-100.html",
-      "published": "01 Jun 2026",
+      "title": "Polizei nutzt Standortdaten aus Handy-Apps",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html",
+      "published": "02 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T22:02:06+02:00"
+      "sort_date": "2026-06-02T05:00:59+02:00"
     },
     {
-      "title": "KI-Unternehmen Anthropic bereitet Börsengang vor",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/boersengang-anthropic-100.html",
-      "published": "01 Jun 2026",
+      "title": "Florida verklagt KI-Unternehmen OpenAI wegen Gefährdung von Kindern",
+      "link": "https://www.tagesschau.de/ausland/amerika/openai-klage-florida-100.html",
+      "published": "02 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T21:19:20+02:00"
+      "sort_date": "2026-06-02T03:28:29+02:00"
     },
     {
-      "title": "Streit in der Koalition: Was wird aus der BAföG-Reform?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-reform-bundesregierung-100.html",
-      "published": "01 Jun 2026",
+      "title": "EU einigt sich auf Abschiebezentren für Migranten in Drittstaaten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-104.html",
+      "published": "02 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-01T20:32:42+02:00"
+      "sort_date": "2026-06-02T02:44:08+02:00"
     },
     {
-      "title": "Flucht und Migration: Schottet sich Europa weiter ab?",
-      "link": "https://www.dw.com/de/flucht-und-migration-schottet-sich-europa-weiter-ab/a-77379458?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-01T19:49:00+00:00"
+      "title": "Frederiksen verkündet Einigung auf neue Koalition in Dänemark",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-regierung-108.html",
+      "published": "02 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-02T00:56:11+02:00"
     }
   ],
   "Food": []
