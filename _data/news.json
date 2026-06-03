@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
+      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "published": "03 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-03T14:34:29+00:00"
+    },
+    {
+      "title": "Three Countries Own the Lithium Market. An MIT Startup Wants to Break Their Grip.",
+      "link": "https://singularityhub.com/2026/06/03/three-countries-own-the-lithium-market-an-mit-startup-wants-to-break-their-grip/",
+      "published": "03 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-03T14:00:00+00:00"
+    },
+    {
       "title": "How Fast Are You Aging? New Genetic Clock May Have the Answer",
       "link": "https://singularityhub.com/2026/06/01/how-fast-are-you-aging-new-genetic-clock-may-have-the-answer/",
       "published": "02 Jun 2026",
@@ -94,57 +108,43 @@
       "published": "30 May 2026",
       "source": "SingularityHub",
       "sort_date": "2026-05-30T14:00:00+00:00"
-    },
-    {
-      "title": "Sodium Is Cheap, Abundant, and Now Powering Batteries That Could Rival Lithium",
-      "link": "https://singularityhub.com/2026/05/29/sodium-is-cheap-abundant-and-now-powering-batteries-that-could-rival-lithium/",
-      "published": "29 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-29T23:24:39+00:00"
-    },
-    {
-      "title": "Key Chemistry Question Answered, No Quantum Computer Required",
-      "link": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
-      "published": "29 May 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-05-29T13:54:11+00:00"
     }
   ],
   "News": [
     {
-      "title": "Antisemitismus-Vorwurf gegen Hotel in Bayern",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/antisemitismus-vorwurf-hotel-bayern-100.html",
+      "title": "Deutschland scheitert mit Bewerbung für UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-sicherheitsrat-bewerbung-100.html",
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T12:46:43+02:00"
+      "sort_date": "2026-06-03T18:41:12+02:00"
     },
     {
-      "title": "Organisierte Kriminalität - Tonnenweise Kokain aus Westafrika",
-      "link": "https://www.tagesschau.de/investigativ/ndr/kokain-wilhelmshaven-ogranisierte-kriminalitaet-100.html",
+      "title": "Marktbericht: DAX fällt zur Wochenmitte deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-142.html",
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T11:55:15+02:00"
+      "sort_date": "2026-06-03T18:29:04+02:00"
     },
     {
-      "title": "Mehr als 20 Tote bei Großbrand in Indiens Hauptstadt Neu-Delhi",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-grossbrand-tote-100.html",
+      "title": "ARD-DeutschlandTrend: Sorge vor wirtschaftlichem Abstieg wächst",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-juni-100.html",
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T11:32:12+02:00"
+      "sort_date": "2026-06-03T18:04:47+02:00"
     },
     {
-      "title": "BGH-Urteil: Uber und Co. müssen nach Fahrt zu Firmensitz zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-mietwagen-taxis-bgh-100.html",
+      "title": "Streit um Nacktszene: Wenders zieht Film vorerst zurück",
+      "link": "https://www.tagesschau.de/kultur/wenders-falsche-bewegung-100.html",
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T11:30:26+02:00"
+      "sort_date": "2026-06-03T17:15:39+02:00"
     },
     {
-      "title": "Deutschland will Platz im UN-Sicherheitsrat: Wie die Wahl abläuft",
-      "link": "https://www.tagesschau.de/ausland/un-sicherheitsrat-deutschland-106.html",
+      "title": "20 Jahre Unabhängigkeit: Wie steht es um Montenegros EU-Chancen?",
+      "link": "https://www.tagesschau.de/ausland/europa/20-jahre-unabhaengigkeit-montenegro-100.html",
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T11:21:01+02:00"
+      "sort_date": "2026-06-03T17:15:10+02:00"
     }
   ],
   "Food": []
