@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Reaktionen auf Deutschlands Scheitern bei UN-Wahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-sicherheitsrat-reaktionen-100.html",
+      "published": "03 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-03T23:16:24+02:00"
+    },
+    {
       "title": "Ermittlungen gegen Grünen-Chef Banaszak wegen Zweitwohnsitzsteuer",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/zweitwohnsitzsteuer-ermittlungen-banaszak-100.html",
       "published": "03 Jun 2026",
@@ -88,13 +95,6 @@
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-03T22:45:04+02:00"
-    },
-    {
-      "title": "Reaktionen auf Deutschlands Scheitern bei UN-Wahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-sicherheitsrat-reaktionen-100.html",
-      "published": "03 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T22:44:46+02:00"
     },
     {
       "title": "Kommentar: Deutschland hat die Lage verkannt",
