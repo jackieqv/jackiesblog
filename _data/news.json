@@ -36,7 +36,43 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [],
+  "Technology": [
+    {
+      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
+      "published": "03 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-03T23:59:14+00:00"
+    },
+    {
+      "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experience-the-upgrade-of-sap-successfactors-employee-central-payroll-to/ba-p/14406458",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-01T09:19:54+00:00"
+    },
+    {
+      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-01T04:13:13+00:00"
+    },
+    {
+      "title": "Join the SAP SuccessFactors AI User Group",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-the-sap-successfactors-ai-user-group/ba-p/14407155",
+      "published": "29 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-29T16:17:26+00:00"
+    },
+    {
+      "title": "Building a Compelling Learning Experience in SAP Work Zone",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/building-a-compelling-learning-experience-in-sap-work-zone/ba-p/14405403",
+      "published": "27 May 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-05-27T21:29:10+00:00"
+    }
+  ],
   "Science": [
     {
       "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
@@ -76,11 +112,18 @@
   ],
   "News": [
     {
-      "title": "Reaktionen auf Deutschlands Scheitern bei UN-Wahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-sicherheitsrat-reaktionen-100.html",
-      "published": "03 Jun 2026",
+      "title": "Weg frei für EU-Beitrittsverhandlungen mit Moldau und Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-beitrittsprozess-ukraine-ungarn-100.html",
+      "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T23:16:24+02:00"
+      "sort_date": "2026-06-04T03:53:53+02:00"
+    },
+    {
+      "title": "Gespräche in Washington: Israel und Libanon wollen Waffenruhe umsetzen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-102.html",
+      "published": "04 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-04T02:21:37+02:00"
     },
     {
       "title": "Ermittlungen gegen Grünen-Chef Banaszak wegen Zweitwohnsitzsteuer",
@@ -102,13 +145,6 @@
       "published": "03 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-03T22:40:35+02:00"
-    },
-    {
-      "title": "Die Gründe für Deutschlands gescheiterte Bewerbung im UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/amerika/deutschland-scheitert-un-sicherheitsrat-100.html",
-      "published": "03 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-03T20:28:08+02:00"
     }
   ],
   "Food": []
