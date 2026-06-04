@@ -36,44 +36,15 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [
-    {
-      "title": "SAP SuccessFactors Cybersecurity Übersicht",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-cybersecurity-%C3%BCbersicht/ba-p/14410290",
-      "published": "04 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-04T08:34:04+00:00"
-    },
-    {
-      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
-      "published": "03 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-03T23:59:14+00:00"
-    },
-    {
-      "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experience-the-upgrade-of-sap-successfactors-employee-central-payroll-to/ba-p/14406458",
-      "published": "01 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-01T09:19:54+00:00"
-    },
-    {
-      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
-      "published": "01 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-01T04:13:13+00:00"
-    },
-    {
-      "title": "Join the SAP SuccessFactors AI User Group",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-the-sap-successfactors-ai-user-group/ba-p/14407155",
-      "published": "29 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-29T16:17:26+00:00"
-    }
-  ],
+  "Technology": [],
   "Science": [
+    {
+      "title": "More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’",
+      "link": "https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/",
+      "published": "04 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-04T14:12:35+00:00"
+    },
     {
       "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
       "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
@@ -101,50 +72,43 @@
       "published": "01 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-01T14:44:57+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through May 30)",
-      "link": "https://singularityhub.com/2026/05/30/this-weeks-awesome-tech-stories-from-around-the-web-through-may-30-2/",
-      "published": "30 May 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-05-30T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Warum viele Russen zunehmend verunsichert sind",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-bevoelkerung-stimmung-wirtschaft-100.html",
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html",
       "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-04T11:32:44+02:00"
+      "sort_date": "2026-06-04T17:11:03+02:00"
     },
     {
-      "title": "Urteil des EuGH: Kürzung von Asylleistungen verstößt gegen EU-Recht",
-      "link": "https://www.tagesschau.de/ausland/europa/eugh-urteil-leistungskuerzungen-100.html",
+      "title": "Reparaturstau gefährdet offenbar Einsatzfähigkeit der Bundeswehr",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-verteidigung-reparaturen-ruestung-100.html",
       "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-04T11:31:37+02:00"
+      "sort_date": "2026-06-04T17:00:22+02:00"
     },
     {
-      "title": "Linnemann nennt NRW-Landesregierung als Vorbild für Bundesregierung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-sparen-100.html",
+      "title": "EuGH: Deutschlands Kürzung von Asylleistungen rechtswidrig",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-urteilasylleistungen-kuerzung-100.html",
       "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-04T11:15:41+02:00"
+      "sort_date": "2026-06-04T16:56:01+02:00"
     },
     {
-      "title": "Gewitter können bei Pollen-Allergikern Asthma auslösen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gewitter-asthma-heuschnupfen-100.html",
+      "title": "Hisbollah im Libanon lehnt Waffenruhe mit Israel ab",
+      "link": "https://www.tagesschau.de/ausland/asien/kaempfe-libanon-waffenruhe-100.html",
       "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-04T11:01:19+02:00"
+      "sort_date": "2026-06-04T15:31:25+02:00"
     },
     {
-      "title": "Marktbericht: DAX stabilisiert sich im Feiertagshandel",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-wallstreet-oelmarkt-100.html",
+      "title": "Dänische Experten beginnen Obduktion von gestrandetem Buckelwal",
+      "link": "https://www.tagesschau.de/ausland/europa/obduktion-buckelwal-anholt-100.html",
       "published": "04 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-04T10:51:37+02:00"
+      "sort_date": "2026-06-04T15:05:53+02:00"
     }
   ],
   "Food": []
