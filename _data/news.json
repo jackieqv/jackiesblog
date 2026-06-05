@@ -38,18 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
+      "published": "05 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-05T14:41:49+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Cybersecurity Übersicht",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-cybersecurity-%C3%BCbersicht/ba-p/14410290",
       "published": "04 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-04T08:34:04+00:00"
-    },
-    {
-      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
-      "published": "03 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-03T23:59:14+00:00"
     },
     {
       "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "Are Memories Transferable — or Edible?",
+      "link": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
+      "published": "05 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-05T14:21:19+00:00"
+    },
+    {
+      "title": "Toxic Clumps in Huntington’s Disease May Protect the Brain Too",
+      "link": "https://singularityhub.com/2026/06/05/toxic-clumps-in-huntingtons-disease-may-protect-the-brain-too/",
+      "published": "05 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-05T14:00:00+00:00"
+    },
+    {
       "title": "AI Can Now Design and Run Thousands of Experiments Without Human Hands. We Aren’t Ready for the Risk to Biosecurity.",
       "link": "https://singularityhub.com/2026/06/04/ai-can-design-and-run-thousands-of-experiments-without-human-hands-we-arent-ready-for-the-risk-to-biosecurity/",
       "published": "04 Jun 2026",
@@ -94,57 +108,43 @@
       "published": "03 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-03T14:34:29+00:00"
-    },
-    {
-      "title": "Three Countries Own the Lithium Market. An MIT Startup Wants to Break Their Grip.",
-      "link": "https://singularityhub.com/2026/06/03/three-countries-own-the-lithium-market-an-mit-startup-wants-to-break-their-grip/",
-      "published": "03 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-03T14:00:00+00:00"
-    },
-    {
-      "title": "How Fast Are You Aging? New Genetic Clock May Have the Answer",
-      "link": "https://singularityhub.com/2026/06/01/how-fast-are-you-aging-new-genetic-clock-may-have-the-answer/",
-      "published": "02 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-02T00:59:55+00:00"
     }
   ],
   "News": [
     {
-      "title": "Dollar, Trump und KI-Aktien: Werden die USA zum Risiko im Depot?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-depot-dollar-ki-risiko-100.html",
+      "title": "Albanien: Proteste gegen Luxus-Ressort am Naturschutzgebiet",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-albanien-luxusressort-100.html",
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T11:34:17+02:00"
+      "sort_date": "2026-06-05T16:31:31+02:00"
     },
     {
-      "title": "CDU sagt laut Medienberichten Präsidiumsklausur in Magdeburg ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html",
+      "title": "Wirtschaft in der Eurozone im ersten Quartal geschrumpft",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eurozone-wachstum-100.html",
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T11:21:33+02:00"
+      "sort_date": "2026-06-05T16:05:14+02:00"
     },
     {
-      "title": "Marktbericht: Die KI-Rally stockt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html",
+      "title": "Warnstreiks im Handel - \"Wir sind nicht die Billigheimer der Nation\"",
+      "link": "https://www.tagesschau.de/wirtschaft/handel-verdi-warnstreiks-100.html",
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T11:10:33+02:00"
+      "sort_date": "2026-06-05T15:33:18+02:00"
     },
     {
-      "title": "Expertin bezweifelt Ziel der Regierung beim Kampf gegen Obdachlosigkeit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/obdachlosigkeit-hubertz-ziel-kritik-100.html",
+      "title": "Kommentar zur Pflege: Sparen ja, aber bitte nicht so",
+      "link": "https://www.tagesschau.de/kommentar/pflegereform-170.html",
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T10:14:56+02:00"
+      "sort_date": "2026-06-05T14:51:04+02:00"
     },
     {
-      "title": "Widerstand gegen NHS-Kooperation mit Palantir in Großbritannien wächst",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gesundheitssystem-palantir-100.html",
+      "title": "Iran im Krieg: Stabilität trotz maximalem Druck?",
+      "link": "https://www.dw.com/de/iran-im-krieg-stabilität-trotz-maximalem-druck/a-77430199?maca=de-rss-de-top-1016-xml-mrss",
       "published": "05 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T10:07:57+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-05T14:27:00+00:00"
     }
   ],
   "Food": []
