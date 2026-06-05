@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Schnieder verspricht Hilfe bei gesperrter Autobahn-Brücke in Bonn",
+      "link": "https://www.tagesschau.de/inland/autobahn-bonn-sperrung-schnieder-100.html",
+      "published": "05 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-05T19:48:59+02:00"
+    },
+    {
+      "title": "Kriegsschiffe und Drohnen: US‑Streichliste für die NATO",
+      "link": "https://www.dw.com/de/kriegsschiffe-und-drohnen-us‑streichliste-für-die-nato/a-77437058?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "05 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-05T19:28:00+00:00"
+    },
+    {
       "title": "Hubig will \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht einführen",
       "link": "https://www.tagesschau.de/ausland/europa/justizminister-hubig-sexualstrafrecht-100.html",
       "published": "05 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-05T18:49:26+02:00"
-    },
-    {
-      "title": "ISS-Besatzung muss vorübergehend Schutz suchen",
-      "link": "https://www.tagesschau.de/ausland/amerika/nasa-iss-leck-100.html",
-      "published": "05 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T18:38:48+02:00"
-    },
-    {
-      "title": "Ankündigung von Kanzler Merz: Erneute Kandidatur für UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/europa/un-sicherheitsrat-bewerbung-102.html",
-      "published": "05 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T18:29:31+02:00"
     }
   ],
   "Food": []
