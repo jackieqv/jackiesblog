@@ -36,7 +36,43 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [],
+  "Technology": [
+    {
+      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
+      "published": "05 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-05T22:51:00+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Cybersecurity Übersicht",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-cybersecurity-%C3%BCbersicht/ba-p/14410290",
+      "published": "04 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-04T08:34:04+00:00"
+    },
+    {
+      "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experience-the-upgrade-of-sap-successfactors-employee-central-payroll-to/ba-p/14406458",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-01T09:19:54+00:00"
+    },
+    {
+      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-01T04:13:13+00:00"
+    },
+    {
+      "title": "Join the SAP SuccessFactors AI User Group",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-the-sap-successfactors-ai-user-group/ba-p/14407155",
+      "published": "29 May 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-05-29T16:17:26+00:00"
+    }
+  ],
   "Science": [
     {
       "title": "Are Memories Transferable — or Edible?",
@@ -76,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "EU-Migrationskommissar für Abbau der Grenzkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-grenzkontrollen-kritik-100.html",
+      "published": "06 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-06T05:10:02+02:00"
+    },
+    {
+      "title": "Nach Abschuss von Drohnen - USA greifen Radarstellungen in Iran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-110.html",
+      "published": "06 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-06T03:48:11+02:00"
+    },
+    {
       "title": "Schnieder verspricht Hilfe bei gesperrter Autobahn-Brücke in Bonn",
       "link": "https://www.tagesschau.de/inland/autobahn-bonn-sperrung-schnieder-100.html",
       "published": "05 Jun 2026",
@@ -95,20 +145,6 @@
       "published": "05 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-05T19:09:29+02:00"
-    },
-    {
-      "title": "Ukrainische Seedrohne explodiert in rumänischem Hafen",
-      "link": "https://www.tagesschau.de/ausland/europa/drohne-explosion-rumaenien-100.html",
-      "published": "05 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T18:50:24+02:00"
-    },
-    {
-      "title": "Nach Begnadigung durch Trump: Verurteilter Kapitolstürmer arbeitet im Pentagon",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kapitol-stuermer-pentagon-100.html",
-      "published": "05 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-05T18:49:26+02:00"
     }
   ],
   "Food": []
