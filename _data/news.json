@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 7)",
+      "link": "https://singularityhub.com/2026/06/07/this-weeks-awesome-tech-stories-from-around-the-web-through-june-7-2/",
+      "published": "07 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-07T16:58:48+00:00"
+    },
+    {
       "title": "Are Memories Transferable — or Edible?",
       "link": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
       "published": "05 Jun 2026",
@@ -101,16 +108,23 @@
       "published": "04 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-04T14:12:35+00:00"
-    },
-    {
-      "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
-      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "published": "03 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-03T14:34:29+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Beamte in die Rente? SPD-Fraktionschef Miersch wägt ab",
+      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-rentenreform-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T19:57:45+02:00"
+    },
+    {
+      "title": "Missbrauchsskandal: Spanier hoffen auf mehr Aufklärung durch Papstbesuch",
+      "link": "https://www.tagesschau.de/ausland/europa/missbrauch-katholische-kirche-papst-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T19:16:46+02:00"
+    },
     {
       "title": "Russische Drohne trifft Atommülllager-Anlage",
       "link": "https://www.tagesschau.de/ausland/asien/tschernobyl-kernanlage-100.html",
@@ -131,20 +145,6 @@
       "published": "07 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-07T17:03:39+02:00"
-    },
-    {
-      "title": "Israel greift erneut Hisbollah-Ziele in Beirut an",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-hisbollah-angriffe-beirut-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T16:39:10+02:00"
-    },
-    {
-      "title": "Konkurrenz aus Asien setzt deutsche Kosmetikmarken unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-kosmetikmarken-druck-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T16:14:15+02:00"
     }
   ],
   "Food": []
