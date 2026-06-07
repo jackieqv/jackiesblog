@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Iran feuert Raketen in Richtung Israel ab",
+      "link": "https://www.tagesschau.de/ausland/israel-iran-raketen-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T23:49:43+02:00"
+    },
+    {
+      "title": "Kosovo: Partei von Regierungschef Kurti liegt bei Wahl vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-parlamentswahlen-regierungspartei-gewinnt-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T23:15:38+02:00"
+    },
+    {
+      "title": "Ukraine-Krieg: Wie sich Europa in Verhandlungen einbringen könnte",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-ukraine-verhandlungen-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T22:01:27+02:00"
+    },
+    {
+      "title": "Treffen in London: Europäer wollen Ukraine-Diplomatie wieder in Gang bringen",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-treffen-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T21:38:53+02:00"
+    },
+    {
       "title": "Beamte in die Rente? SPD-Fraktionschef Miersch wägt ab",
       "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-rentenreform-100.html",
       "published": "07 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-07T19:57:45+02:00"
-    },
-    {
-      "title": "Missbrauchsskandal: Spanier hoffen auf mehr Aufklärung durch Papstbesuch",
-      "link": "https://www.tagesschau.de/ausland/europa/missbrauch-katholische-kirche-papst-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T19:16:46+02:00"
-    },
-    {
-      "title": "Russische Drohne trifft Atommülllager-Anlage",
-      "link": "https://www.tagesschau.de/ausland/asien/tschernobyl-kernanlage-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T17:56:54+02:00"
-    },
-    {
-      "title": "Venezuela nach Maduro: Gerade so viel Öffnung wie Trump will",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nach-maduro-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T17:51:03+02:00"
-    },
-    {
-      "title": "30.000 Radfahrer beteiligen sich an ADFC-Sternfahrt in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/adfc-sternfahrt-berlin-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T17:03:39+02:00"
     }
   ],
   "Food": []
