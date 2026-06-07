@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Bovenschulte rät Bundesregierung bei Reformen zu Priorisierung",
+      "link": "https://www.tagesschau.de/inland/bremen-bovenschulte-bundesregierung-reformen-kritik-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T15:33:36+02:00"
+    },
+    {
       "title": "Ein Toter bei mutmaßlichem Terroranschlag",
       "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-130.html",
       "published": "07 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T12:37:10+02:00"
+      "sort_date": "2026-06-07T14:58:13+02:00"
     },
     {
-      "title": "Spanien: Papst-Messe mit mehr als einer Million Menschen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-spanien-fronleichnam-100.html",
+      "title": "Einsatz in Nigeria: 360 Geiseln aus Gewalt der Boko Haram befreit",
+      "link": "https://www.tagesschau.de/ausland/afrika/boko-haram-geiseln-befreit-100.html",
       "published": "07 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T12:15:56+02:00"
+      "sort_date": "2026-06-07T14:26:35+02:00"
     },
     {
-      "title": "Richtungswahl in Peru: Gegen Fujimori - oder gegen die Linke",
-      "link": "https://www.tagesschau.de/ausland/amerika/peru-stichwahl-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T11:51:27+02:00"
-    },
-    {
-      "title": "Pläne der AfD: Kann die AfD das Bildungssystem umkrempeln?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bildungssystem-afd-sachsen-anhalt-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T11:44:16+02:00"
-    },
-    {
-      "title": "Taiwan entsendet nach chinesischem \"Spezialeinsatz\" Schiffe",
-      "link": "https://www.dw.com/de/taiwan-entsendet-nach-chinesischem-spezialeinsatz-schiffe/a-77448191?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Mehr als 1,2 Millionen Menschen bei Papst-Messe in Madrid",
+      "link": "https://www.dw.com/de/mehr-als-1-2-millionen-menschen-bei-papst-messe-in-madrid/a-77449955?maca=de-rss-de-top-1016-xml-mrss",
       "published": "07 Jun 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-07T09:40:00+00:00"
+      "sort_date": "2026-06-07T13:33:00+00:00"
+    },
+    {
+      "title": "Steinmeier ist doch für Olympia 2036 in Deutschland",
+      "link": "https://www.tagesschau.de/inland/steinmeier-olympia-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T13:21:03+02:00"
     }
   ],
   "Food": []
