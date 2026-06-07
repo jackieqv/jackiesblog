@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Armenien wählt: Mehr oder weniger Nähe zu Russland?",
+      "link": "https://www.tagesschau.de/ausland/asien/armenien-russland-eu-wahl-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T05:06:42+02:00"
+    },
+    {
+      "title": "DGB für verpflichtende Betriebsrente - mit Hilfe der Arbeitgeber",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-dgb-vorschlag-100.html",
+      "published": "07 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-07T04:03:24+02:00"
+    },
+    {
       "title": "Baustellen von Schwarz-Rot: Wie weit sind die Reformen der Bundesregierung?",
       "link": "https://www.tagesschau.de/inland/reformbaustellen-schwarz-rot-100.html",
       "published": "06 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "06 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-06T20:18:16+02:00"
-    },
-    {
-      "title": "Kanzler Merz zeigt sich bei Reformen von Schwarz-Rot optimistisch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-bei-reformen-100.html",
-      "published": "06 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-06T19:30:48+02:00"
-    },
-    {
-      "title": "Papst Leo XIV. zu Spanien-Reise in Madrid eingetroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/papstbesuch-spanien-102.html",
-      "published": "06 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-06T18:32:06+02:00"
     }
   ],
   "Food": []
