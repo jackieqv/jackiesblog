@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran feuert Raketen in Richtung Israel ab",
+      "title": "Israel greift nach Beschuss aus Iran ebenfalls an",
       "link": "https://www.tagesschau.de/ausland/israel-iran-raketen-100.html",
-      "published": "07 Jun 2026",
+      "published": "08 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T23:49:43+02:00"
+      "sort_date": "2026-06-08T05:35:06+02:00"
+    },
+    {
+      "title": "Europäer und Ukraine fordern Putin zu Verhandlungen auf",
+      "link": "https://www.tagesschau.de/ausland/london-treffen-ukraine-100.html",
+      "published": "08 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-08T01:00:22+02:00"
+    },
+    {
+      "title": "SIPRI-Friedensforscher warnen vor atomarer Aufrüstung",
+      "link": "https://www.tagesschau.de/ausland/sipri-bericht-110.html",
+      "published": "08 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-08T00:03:01+02:00"
     },
     {
       "title": "Kosovo: Partei von Regierungschef Kurti liegt bei Wahl vorn",
@@ -126,25 +140,11 @@
       "sort_date": "2026-06-07T23:15:38+02:00"
     },
     {
-      "title": "Ukraine-Krieg: Wie sich Europa in Verhandlungen einbringen könnte",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-ukraine-verhandlungen-100.html",
+      "title": "Atomwaffen: Rückkehr der nuklearen Machtpolitik",
+      "link": "https://www.dw.com/de/atomwaffen-rückkehr-der-nuklearen-machtpolitik/a-77419602?maca=de-rss-de-top-1016-xml-mrss",
       "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T22:01:27+02:00"
-    },
-    {
-      "title": "Treffen in London: Europäer wollen Ukraine-Diplomatie wieder in Gang bringen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-treffen-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T21:38:53+02:00"
-    },
-    {
-      "title": "Beamte in die Rente? SPD-Fraktionschef Miersch wägt ab",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-rentenreform-100.html",
-      "published": "07 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-07T19:57:45+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-07T22:03:00+00:00"
     }
   ],
   "Food": []
