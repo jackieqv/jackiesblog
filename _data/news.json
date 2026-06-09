@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "NASA und ESA: Artemis-3-Mission ohne deutschen Astronauten geplant",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-mission-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T21:23:31+02:00"
+    },
+    {
+      "title": "EU-Kommission: WhatsApp muss andere KI-Anbieter zulassen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/whatsapp-ki-europaeische-union-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T20:07:51+02:00"
+    },
+    {
+      "title": "Diätenerhöhung für Bundestagsabgeordnete soll in diesem Jahr entfallen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/diaeten-abgeordnete-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T20:01:08+02:00"
+    },
+    {
+      "title": "Trump und Netanjahu: Nur ein \"Familienkrach\" - oder doch mehr?",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-trump-hisbollah-iran-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T19:53:22+02:00"
+    },
+    {
       "title": "Politisch motivierte Straftaten: Mehr Polarisierung, mehr Gewalt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/straftaten-kriminalitaet-politisch-statistik-102.html",
       "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-09T19:12:24+02:00"
-    },
-    {
-      "title": "Landkreise und Sondervermögen: Eine willkommene Finanzspritze",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landkreistag-sondervermoegen-tuebingen-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T18:45:15+02:00"
-    },
-    {
-      "title": "Marktbericht: Investoren hoffen auf Entspannung im Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-openai-naher-osten-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T18:26:58+02:00"
-    },
-    {
-      "title": "Hambacher Forst wird unter Naturschutz gestellt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-braunkohlerevier-nrw-hambacher-forst-wird-unter-schutz-gestellt-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T17:40:12+02:00"
-    },
-    {
-      "title": "Tote bei israelischem Angriff auf libanesische Hafenstadt Tyros",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-gewalt-westjordanland-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T17:17:00+02:00"
     }
   ],
   "Food": []
