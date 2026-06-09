@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Skill replication to FSM",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/skill-replication-to-fsm/ba-p/14414152",
+      "published": "09 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-09T08:15:23+00:00"
+    },
+    {
+      "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
+      "published": "09 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-09T05:27:07+00:00"
+    },
+    {
       "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
       "published": "06 Jun 2026",
@@ -57,20 +71,6 @@
       "published": "01 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-01T09:19:54+00:00"
-    },
-    {
-      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
-      "published": "01 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-01T04:13:13+00:00"
-    },
-    {
-      "title": "Join the SAP SuccessFactors AI User Group",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-the-sap-successfactors-ai-user-group/ba-p/14407155",
-      "published": "29 May 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-05-29T16:17:26+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Auch Klingbeil spricht sich für verpflichtende Betriebsrente aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-betriebsrente-100.html",
+      "title": "Schweres Erdbeben auf Philippinen: Opferzahl steigt auf 37",
+      "link": "https://www.tagesschau.de/ausland/asien/philippinen-erdbeben-opferzahl-steigt-100.html",
       "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T03:08:41+02:00"
+      "sort_date": "2026-06-09T11:07:32+02:00"
     },
     {
-      "title": "Internationaler Strafgerichtshof suspendiert Chefankläger Khan",
-      "link": "https://www.tagesschau.de/ausland/europa/internationaler-strafgerichtshof-chefanklaeger-100.html",
+      "title": "Marktbericht: Kaum Impulse von frischen Konjunkturdaten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-openai-naher-osten-100.html",
       "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T02:37:11+02:00"
+      "sort_date": "2026-06-09T10:40:44+02:00"
     },
     {
-      "title": "Aus für Kampfjet-Projekt FCAS: Deutsch-französisches Scheitern mit Ansage",
-      "link": "https://www.tagesschau.de/ausland/europa/fcas-kampfjet-100.html",
-      "published": "08 Jun 2026",
+      "title": "Wie es nach dem Aus für das FCAS-Kampfjetprojekt weitergeht",
+      "link": "https://www.tagesschau.de/ausland/europa/fcas-kampfjet-gestoppt-100.html",
+      "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-08T21:41:06+02:00"
+      "sort_date": "2026-06-09T09:26:52+02:00"
     },
     {
-      "title": "4.000 Menschen demonstrieren gegen Bundesregierung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-208.html",
-      "published": "08 Jun 2026",
+      "title": "EU-Asylreform tritt in Kraft: SPD fordert Abbau von Grenzkontrollen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-grenzkontrollen-abbau-100.html",
+      "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-08T21:00:12+02:00"
+      "sort_date": "2026-06-09T09:25:55+02:00"
     },
     {
-      "title": "Papst bezeichnet sexuellen Missbrauch in Spanien als \"Plage\"",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-madrid-missbrauch-100.html",
-      "published": "08 Jun 2026",
+      "title": "Warten auf den Notarzt - Bürokratie statt schneller Hilfe",
+      "link": "https://www.tagesschau.de/investigativ/rettungsdienst-buerokratie-100.html",
+      "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-08T19:48:55+02:00"
+      "sort_date": "2026-06-09T08:15:56+02:00"
     }
   ],
   "Food": []
