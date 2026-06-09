@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Auch Klingbeil spricht sich für verpflichtende Betriebsrente aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-betriebsrente-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T03:08:41+02:00"
+    },
+    {
+      "title": "Internationaler Strafgerichtshof suspendiert Chefankläger Khan",
+      "link": "https://www.tagesschau.de/ausland/europa/internationaler-strafgerichtshof-chefanklaeger-100.html",
+      "published": "09 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-09T02:37:11+02:00"
+    },
+    {
       "title": "Aus für Kampfjet-Projekt FCAS: Deutsch-französisches Scheitern mit Ansage",
       "link": "https://www.tagesschau.de/ausland/europa/fcas-kampfjet-100.html",
       "published": "08 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "08 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-08T19:48:55+02:00"
-    },
-    {
-      "title": "Knappes Rennen bei Stichwahl um Präsidentenamt in Peru",
-      "link": "https://www.tagesschau.de/ausland/amerika/peru-wahlen-104.html",
-      "published": "08 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-08T19:40:10+02:00"
-    },
-    {
-      "title": "Digitalminister Wildberger will mehr Tempo bei Modernisierung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/staatsmodernisierung-wildberger-100.html",
-      "published": "08 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-08T19:22:20+02:00"
     }
   ],
   "Food": []
