@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "An Early Step on the Long, Strange Road to Photosynthesis",
+      "link": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
+      "published": "10 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-10T14:57:19+00:00"
+    },
+    {
       "title": "Orbital Airbag Could Shield Earth From Devastating Solar Storms",
       "link": "https://singularityhub.com/2026/06/08/orbital-airbag-could-shield-earth-from-devastating-solar-storms/",
       "published": "08 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "05 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-05T14:21:19+00:00"
-    },
-    {
-      "title": "Toxic Clumps in Huntington’s Disease May Protect the Brain Too",
-      "link": "https://singularityhub.com/2026/06/05/toxic-clumps-in-huntingtons-disease-may-protect-the-brain-too/",
-      "published": "05 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-05T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Tote durch pakistanische Angriffe auf afghanisches Grenzgebiet",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-tote-100.html",
+      "title": "Neue Strategie soll Luftfahrt stärken",
+      "link": "https://www.tagesschau.de/wirtschaft/luftfahrtstrategie-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T11:55:39+02:00"
+      "sort_date": "2026-06-10T17:27:23+02:00"
     },
     {
-      "title": "Südafrika: Tote bei Angriff auf Armensiedlung nahe Johannesburg",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-massenschiesserei-100.html",
+      "title": "Crew der Mondmission Artemis 3 steht, doch die Probleme bleiben",
+      "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-106.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T11:24:01+02:00"
+      "sort_date": "2026-06-10T17:14:43+02:00"
     },
     {
-      "title": "Eskalation am Persischen Golf: DAX im Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-iran-100.html",
+      "title": "Schweizer Soziologe Jean Ziegler mit 92 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/jean-ziegler-gestorben-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T10:48:57+02:00"
+      "sort_date": "2026-06-10T15:26:45+02:00"
     },
     {
-      "title": "Bundesweit Protestaktionen gegen Warkens Sparpläne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html",
+      "title": "Knicks in NBA-Finals: New York City träumt vom Basketball-Titel",
+      "link": "https://www.tagesschau.de/ausland/amerika/knicks-nba-finals-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T10:47:33+02:00"
+      "sort_date": "2026-06-10T15:13:47+02:00"
     },
     {
-      "title": "Fragwürdige Studie zu Infraschall und Herzkrankheiten durch Windenergie",
-      "link": "https://www.tagesschau.de/faktenfinder/windenergie-infraschall-100.html",
+      "title": "Commerzbank-Übernahme rückt näher",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-284.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T10:31:43+02:00"
+      "sort_date": "2026-06-10T15:11:07+02:00"
     }
   ],
   "Food": []
