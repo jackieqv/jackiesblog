@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "USA greifen nach mutmaßlichem Helikopter-Abschuss wieder Iran an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriff-100.html",
+      "published": "10 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-10T05:28:14+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Iran meldet Angriffe auf US-Stützpunkte ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html",
+      "published": "10 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-10T04:56:22+02:00"
+    },
+    {
+      "title": "Nordirland: Krawalle und Proteste nach Messerattacke in Belfast",
+      "link": "https://www.tagesschau.de/ausland/europa/krawalle-nordirland-belfast-100.html",
+      "published": "10 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-10T03:02:26+02:00"
+    },
+    {
       "title": "NASA und ESA: Artemis-3-Mission ohne deutschen Astronauten geplant",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-mission-100.html",
       "published": "09 Jun 2026",
@@ -124,27 +145,6 @@
       "published": "09 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-09T20:07:51+02:00"
-    },
-    {
-      "title": "Diätenerhöhung für Bundestagsabgeordnete soll in diesem Jahr entfallen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/diaeten-abgeordnete-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T20:01:08+02:00"
-    },
-    {
-      "title": "Trump und Netanjahu: Nur ein \"Familienkrach\" - oder doch mehr?",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-trump-hisbollah-iran-100.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T19:53:22+02:00"
-    },
-    {
-      "title": "Politisch motivierte Straftaten: Mehr Polarisierung, mehr Gewalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/straftaten-kriminalitaet-politisch-statistik-102.html",
-      "published": "09 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T19:12:24+02:00"
     }
   ],
   "Food": []
