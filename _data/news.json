@@ -112,18 +112,25 @@
   ],
   "News": [
     {
-      "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
-      "link": "https://www.tagesschau.de/ausland/finanzen-un-100.html",
-      "published": "10 Jun 2026",
+      "title": "Iran-Liveblog: ++ US-Armee startet neue Angriffe auf Iran ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
+      "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T20:36:56+02:00"
+      "sort_date": "2026-06-11T00:43:45+02:00"
     },
     {
       "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-204.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T20:18:15+02:00"
+      "sort_date": "2026-06-10T23:35:41+02:00"
+    },
+    {
+      "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
+      "link": "https://www.tagesschau.de/ausland/finanzen-un-100.html",
+      "published": "10 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-10T20:36:56+02:00"
     },
     {
       "title": "Wie der Ukraine-Krieg Russlands Gesellschaft verändert",
@@ -138,13 +145,6 @@
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-10T19:03:25+02:00"
-    },
-    {
-      "title": "DIW befürchtet Rezession in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/diw-wirtschaftsprognose-100.html",
-      "published": "10 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T19:01:25+02:00"
     }
   ],
   "Food": []
