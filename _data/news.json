@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "After Decades of Failure, ‘Undruggable’ Cancers Begin to Give Way",
+      "link": "https://singularityhub.com/2026/06/10/after-decades-of-failure-undruggable-cancers-begin-to-give-way/",
+      "published": "10 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-10T18:19:27+00:00"
+    },
+    {
       "title": "An Early Step on the Long, Strange Road to Photosynthesis",
       "link": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
       "published": "10 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "07 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-07T16:58:48+00:00"
-    },
-    {
-      "title": "Are Memories Transferable — or Edible?",
-      "link": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
-      "published": "05 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-05T14:21:19+00:00"
     }
   ],
   "News": [
     {
-      "title": "Neue Strategie soll Luftfahrt stärken",
-      "link": "https://www.tagesschau.de/wirtschaft/luftfahrtstrategie-100.html",
+      "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
+      "link": "https://www.tagesschau.de/ausland/finanzen-un-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T17:27:23+02:00"
+      "sort_date": "2026-06-10T20:36:56+02:00"
     },
     {
-      "title": "Crew der Mondmission Artemis 3 steht, doch die Probleme bleiben",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-106.html",
+      "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-204.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T17:14:43+02:00"
+      "sort_date": "2026-06-10T20:18:15+02:00"
     },
     {
-      "title": "Schweizer Soziologe Jean Ziegler mit 92 Jahren gestorben",
-      "link": "https://www.tagesschau.de/ausland/jean-ziegler-gestorben-100.html",
+      "title": "Wie der Ukraine-Krieg Russlands Gesellschaft verändert",
+      "link": "https://www.dw.com/de/wie-der-ukraine-krieg-russlands-gesellschaft-verändert/a-77477221?maca=de-rss-de-top-1016-xml-mrss",
       "published": "10 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T15:26:45+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-10T19:52:00+00:00"
     },
     {
-      "title": "Knicks in NBA-Finals: New York City träumt vom Basketball-Titel",
-      "link": "https://www.tagesschau.de/ausland/amerika/knicks-nba-finals-100.html",
+      "title": "Tankrabatt wird nicht verlängert",
+      "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-ende-102.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T15:13:47+02:00"
+      "sort_date": "2026-06-10T19:03:25+02:00"
     },
     {
-      "title": "Commerzbank-Übernahme rückt näher",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-284.html",
+      "title": "DIW befürchtet Rezession in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/diw-wirtschaftsprognose-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T15:11:07+02:00"
+      "sort_date": "2026-06-10T19:01:25+02:00"
     }
   ],
   "Food": []
