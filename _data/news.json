@@ -45,13 +45,6 @@
       "sort_date": "2026-06-09T21:27:28+00:00"
     },
     {
-      "title": "Skill replication to FSM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/skill-replication-to-fsm/ba-p/14414152",
-      "published": "09 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-09T08:15:23+00:00"
-    },
-    {
       "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
       "published": "09 Jun 2026",
@@ -71,6 +64,13 @@
       "published": "01 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-01T09:19:54+00:00"
+    },
+    {
+      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-01T04:13:13+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "USA greifen nach mutmaßlichem Helikopter-Abschuss wieder Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriff-100.html",
+      "title": "Tote durch pakistanische Angriffe auf afghanisches Grenzgebiet",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-tote-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T05:28:14+02:00"
+      "sort_date": "2026-06-10T11:55:39+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Iran meldet Angriffe auf US-Stützpunkte ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html",
+      "title": "Südafrika: Tote bei Angriff auf Armensiedlung nahe Johannesburg",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-massenschiesserei-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T04:56:22+02:00"
+      "sort_date": "2026-06-10T11:24:01+02:00"
     },
     {
-      "title": "Nordirland: Krawalle und Proteste nach Messerattacke in Belfast",
-      "link": "https://www.tagesschau.de/ausland/europa/krawalle-nordirland-belfast-100.html",
+      "title": "Eskalation am Persischen Golf: DAX im Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-iran-100.html",
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T03:02:26+02:00"
+      "sort_date": "2026-06-10T10:48:57+02:00"
     },
     {
-      "title": "NASA und ESA: Artemis-3-Mission ohne deutschen Astronauten geplant",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-mission-100.html",
-      "published": "09 Jun 2026",
+      "title": "Bundesweit Protestaktionen gegen Warkens Sparpläne",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html",
+      "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T21:23:31+02:00"
+      "sort_date": "2026-06-10T10:47:33+02:00"
     },
     {
-      "title": "EU-Kommission: WhatsApp muss andere KI-Anbieter zulassen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/whatsapp-ki-europaeische-union-100.html",
-      "published": "09 Jun 2026",
+      "title": "Fragwürdige Studie zu Infraschall und Herzkrankheiten durch Windenergie",
+      "link": "https://www.tagesschau.de/faktenfinder/windenergie-infraschall-100.html",
+      "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-09T20:07:51+02:00"
+      "sort_date": "2026-06-10T10:31:43+02:00"
     }
   ],
   "Food": []
