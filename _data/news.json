@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How to change the order of story filters in story reporting?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-change-the-order-of-story-filters-in-story-reporting/ba-p/14416915",
+      "published": "11 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-11T13:54:46+00:00"
+    },
+    {
       "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
       "published": "09 Jun 2026",
@@ -64,16 +71,16 @@
       "published": "01 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-01T09:19:54+00:00"
-    },
-    {
-      "title": "Custom Infotype to the SuccessFactors Mashup - Technical Configuration Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/custom-infotype-to-the-successfactors-mashup-technical-configuration-guide/ba-p/14408253",
-      "published": "01 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-01T04:13:13+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "What’s the Future of Gene Editing?",
+      "link": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+      "published": "11 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-11T13:37:21+00:00"
+    },
     {
       "title": "After Decades of Failure, ‘Undruggable’ Cancers Begin to Give Way",
       "link": "https://singularityhub.com/2026/06/10/after-decades-of-failure-undruggable-cancers-begin-to-give-way/",
@@ -101,50 +108,43 @@
       "published": "08 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-08T15:17:08+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 7)",
-      "link": "https://singularityhub.com/2026/06/07/this-weeks-awesome-tech-stories-from-around-the-web-through-june-7-2/",
-      "published": "07 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-07T16:58:48+00:00"
     }
   ],
   "News": [
     {
-      "title": "Indiens Kakerlaken-Bewegung geht auf die Straße",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-kakerlaken-bewegung-100.html",
+      "title": "Freigegebener Teil der deutschen Ölreserve fast aufgebraucht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/oelreserve-bundesregierung-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T11:52:01+02:00"
+      "sort_date": "2026-06-11T17:48:27+02:00"
     },
     {
-      "title": "US-Inflation auf Dreijahreshoch: Kritik an Trump-Reaktion",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-inflation-100.html",
+      "title": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T11:44:47+02:00"
+      "sort_date": "2026-06-11T17:34:26+02:00"
     },
     {
-      "title": "Merz betont Wichtigkeit der EU - und lobt eigene Reformanstrengungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-ukraine-eu-handel-100.html",
+      "title": "Regierungserklärung: Der Kanzler versucht sich als Mutmacher",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-europaeischer-rat-analyse-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T11:31:16+02:00"
+      "sort_date": "2026-06-11T17:24:12+02:00"
     },
     {
-      "title": "Marktbericht: Zinsentscheid der EZB im Fokus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-iran-usa-100.html",
+      "title": "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen",
+      "link": "https://www.tagesschau.de/ausland/belfast-krawalle-108.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T10:41:32+02:00"
+      "sort_date": "2026-06-11T17:09:27+02:00"
     },
     {
-      "title": "Bundestag berät: Verleiher sollen für E-Scooter-Unfälle haften",
-      "link": "https://www.tagesschau.de/inland/e-scooter-haftung-gesetzentwurf-bundestag-100.html",
+      "title": "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-afrika-papst-migranten-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T10:27:18+02:00"
+      "sort_date": "2026-06-11T16:48:22+02:00"
     }
   ],
   "Food": []
