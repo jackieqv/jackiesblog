@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "AI Is Advancing Faster Than Our Ability to Understand It, Researchers Warn",
+      "link": "https://singularityhub.com/2026/06/11/ai-is-advancing-faster-than-our-ability-to-understand-it-researchers-warn/",
+      "published": "11 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-11T19:04:52+00:00"
+    },
+    {
       "title": "What’s the Future of Gene Editing?",
       "link": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
       "published": "11 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "08 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-08T21:56:59+00:00"
-    },
-    {
-      "title": "How Terry Tao Became an Evangelist for AI in Math",
-      "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "published": "08 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-08T15:17:08+00:00"
     }
   ],
   "News": [
     {
-      "title": "Freigegebener Teil der deutschen Ölreserve fast aufgebraucht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/oelreserve-bundesregierung-100.html",
+      "title": "Iran-Liveblog: ++ Sechs Tote und mehrere Verletzte im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T17:48:27+02:00"
+      "sort_date": "2026-06-11T22:04:45+02:00"
     },
     {
-      "title": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html",
+      "title": "Trump sagt angekündigte Angriffe auf Iran ab",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T17:34:26+02:00"
+      "sort_date": "2026-06-11T22:04:06+02:00"
     },
     {
-      "title": "Regierungserklärung: Der Kanzler versucht sich als Mutmacher",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-europaeischer-rat-analyse-100.html",
+      "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ostdeutschland-ministerpraesidenten-konferenz-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T17:24:12+02:00"
+      "sort_date": "2026-06-11T19:41:42+02:00"
     },
     {
-      "title": "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen",
-      "link": "https://www.tagesschau.de/ausland/belfast-krawalle-108.html",
+      "title": "Kontroverse Debatte über Gebäudemodernisierungsgesetz im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-gebaeudemodernisierungsgesetz-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T17:09:27+02:00"
+      "sort_date": "2026-06-11T18:33:29+02:00"
     },
     {
-      "title": "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-afrika-papst-migranten-100.html",
+      "title": "Neue Kampfjet-Allianz von acht Rüstungsfirmen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ruestung-kampfjet-allianz-europa-100.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T16:48:22+02:00"
+      "sort_date": "2026-06-11T18:22:37+02:00"
     }
   ],
   "Food": []
