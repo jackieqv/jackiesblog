@@ -112,18 +112,32 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ US-Armee startet neue Angriffe auf Iran ++",
+      "title": "USA greifen Iran an - Straße von Hormus angeblich gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-eskalation-usa-iran-100.html",
+      "published": "11 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-11T05:47:26+02:00"
+    },
+    {
+      "title": "Iran-Liveblog: ++ US-Armee erklärt Angriffswelle für beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
       "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T00:43:45+02:00"
+      "sort_date": "2026-06-11T05:33:23+02:00"
     },
     {
-      "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-204.html",
-      "published": "10 Jun 2026",
+      "title": "Neue ausländerfeindliche Proteste in Nordirland",
+      "link": "https://www.tagesschau.de/ausland/europa/nordirland-ausschreitungen-104.html",
+      "published": "11 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T23:35:41+02:00"
+      "sort_date": "2026-06-11T02:44:48+02:00"
+    },
+    {
+      "title": "Treffen im Kanzleramt: Weitere Reformgespräche mit Sozialpartnern vereinbart",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-reformgespraeche-100.html",
+      "published": "11 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-11T02:09:30+02:00"
     },
     {
       "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
@@ -131,20 +145,6 @@
       "published": "10 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-10T20:36:56+02:00"
-    },
-    {
-      "title": "Wie der Ukraine-Krieg Russlands Gesellschaft verändert",
-      "link": "https://www.dw.com/de/wie-der-ukraine-krieg-russlands-gesellschaft-verändert/a-77477221?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "10 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-10T19:52:00+00:00"
-    },
-    {
-      "title": "Tankrabatt wird nicht verlängert",
-      "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-ende-102.html",
-      "published": "10 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-10T19:03:25+02:00"
     }
   ],
   "Food": []
