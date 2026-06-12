@@ -36,7 +36,43 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [],
+  "Technology": [
+    {
+      "title": "How to change the order of story filters in story reporting?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-change-the-order-of-story-filters-in-story-reporting/ba-p/14416915",
+      "published": "11 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-11T13:54:46+00:00"
+    },
+    {
+      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
+      "published": "09 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-09T21:27:28+00:00"
+    },
+    {
+      "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
+      "published": "09 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-09T05:27:07+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Cybersecurity Übersicht",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-cybersecurity-%C3%BCbersicht/ba-p/14410290",
+      "published": "04 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-04T08:34:04+00:00"
+    },
+    {
+      "title": "Experience the upgrade of SAP SuccessFactors Employee Central Payroll to SAP S/4HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experience-the-upgrade-of-sap-successfactors-employee-central-payroll-to/ba-p/14406458",
+      "published": "01 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-01T09:19:54+00:00"
+    }
+  ],
   "Science": [
     {
       "title": "AI Is Advancing Faster Than Our Ability to Understand It, Researchers Warn",
@@ -76,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Ebola breitet sich in DR Kongo aus - 136 Tote bestätigt",
-      "link": "https://www.tagesschau.de/ausland/ebola-dr-kongo-104.html",
+      "title": "US-Gericht: USA dürfen Zölle vorerst weiter erheben",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-120.html",
       "published": "12 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T04:59:38+02:00"
+      "sort_date": "2026-06-12T12:11:25+02:00"
     },
     {
-      "title": "Bundestag: Aussetzung der Diätenerhöhung trifft auf Zustimmung",
-      "link": "https://www.tagesschau.de/inland/diaeten-bundestag-106.html",
+      "title": "Britischer Künstler David Hockney im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/kuenstler-hockney-verstorben-100.html",
       "published": "12 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T02:49:24+02:00"
+      "sort_date": "2026-06-12T12:07:33+02:00"
     },
     {
-      "title": "Iran-Liveblog: ++ Sechs Tote und mehrere Verletzte im Libanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
+      "title": "Debatte über Gesundheitsreform im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-krankenkassen-reform-100.html",
       "published": "12 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T00:13:23+02:00"
+      "sort_date": "2026-06-12T11:23:02+02:00"
     },
     {
-      "title": "Trump sagt angekündigte Angriffe auf Iran ab",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html",
-      "published": "11 Jun 2026",
+      "title": "Marktbericht: DAX mit großem Schwung Richtung Wochenende",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html",
+      "published": "12 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T22:04:06+02:00"
+      "sort_date": "2026-06-12T10:56:24+02:00"
     },
     {
-      "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ostdeutschland-ministerpraesidenten-konferenz-100.html",
-      "published": "11 Jun 2026",
+      "title": "Nahost-Liveblog: ++ Iran bestätigt mögliches Rahmenabkommen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-104.html",
+      "published": "12 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-11T19:41:42+02:00"
+      "sort_date": "2026-06-12T09:58:42+02:00"
     }
   ],
   "Food": []
