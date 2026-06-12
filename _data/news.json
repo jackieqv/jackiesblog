@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Meet the HR Service Assistant where speed meets governance",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/meet-the-hr-service-assistant-where-speed-meets-governance/ba-p/14417883",
+      "published": "12 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-12T18:54:20+00:00"
+    },
+    {
       "title": "Learning token server deprecation (2027)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/learning-token-server-deprecation-2027/ba-p/14382308",
       "published": "12 Jun 2026",
@@ -64,13 +71,6 @@
       "published": "09 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-09T05:27:07+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Cybersecurity Übersicht",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-cybersecurity-%C3%BCbersicht/ba-p/14410290",
-      "published": "04 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-04T08:34:04+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "EU-Einigung: Fluggastrechte werden erweitert",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-fluggastrechte-einigung-100.html",
+      "published": "12 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-12T22:01:56+02:00"
+    },
+    {
+      "title": "Börsengang von SpaceX: Riskante Wette auf Raketen, Satelliten und Visionen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-boersengang-nasdaq-elon-musk-100.html",
+      "published": "12 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-12T21:04:40+02:00"
+    },
+    {
+      "title": "SpaceX-Aktie nach Börsenstart auf Höhenflug",
+      "link": "https://www.tagesschau.de/wirtschaft/spacex-musk-boersengang-100.html",
+      "published": "12 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-12T21:04:32+02:00"
+    },
+    {
       "title": "Ökonom über Reformpaket: \"Das ist vielleicht die größte Hürde für die Regierung\"",
       "link": "https://www.tagesschau.de/inland/fratzscher-reformpaket-bundesregierung-100.html",
       "published": "12 Jun 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-06-12T19:07:42+02:00"
     },
     {
-      "title": "Bildungsminister wollen kritischen Umgang mit Sozialen Medien",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kmk-beschluss-social-media-100.html",
+      "title": "\"86 47\": Warum dieser Zahlencode Donald Trump alarmiert",
+      "link": "https://www.dw.com/de/86-47-warum-dieser-zahlencode-donald-trump-alarmiert/a-77523970?maca=de-rss-de-top-1016-xml-mrss",
       "published": "12 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T18:40:11+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html",
-      "published": "12 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T18:25:20+02:00"
-    },
-    {
-      "title": "Gewaltschutzgesetz im Bundesrat: Elektronische Fußfessel soll Frauen schützen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haeussliche-gewalt-fussfesseln-femizide-strafrechtsreform-100.html",
-      "published": "12 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T17:47:58+02:00"
-    },
-    {
-      "title": "Erstes WM-Spiel in den USA: Zweifel an der großen Fußball-Party",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-stimmung-wm-100.html",
-      "published": "12 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-12T16:52:36+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-12T19:01:00+00:00"
     }
   ],
   "Food": []
