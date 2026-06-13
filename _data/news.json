@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Trumps Name von Kennedy Center in Washington entfernt",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-kennedy-center-106.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T20:54:17+02:00"
+    },
+    {
+      "title": "Iran dämpft Erwartungen an rasches Friedensabkommen mit den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-zeitpunkt-friedenasabkommen-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T19:49:53+02:00"
+    },
+    {
+      "title": "Haitis WM-Hoffnung trotz Ausnahmezustand",
+      "link": "https://www.tagesschau.de/ausland/amerika/haiti-fussball-wm-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T19:09:28+02:00"
+    },
+    {
       "title": "Nach Krawallen in Belfast: Tausende Menschen setzen Zeichen gegen Hass",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-belfast-rassismus-100.html",
       "published": "13 Jun 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-06-13T17:34:09+02:00"
     },
     {
-      "title": "Bundestag untersucht Vorfälle bei Parlaments-Planspiel mit Jugendlichen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-und-parlament-eklat-100.html",
+      "title": "Steht uns der extremste El Niño seit 140 Jahren bevor?",
+      "link": "https://www.dw.com/de/steht-uns-der-extremste-el-niño-seit-140-jahren-bevor/a-77525066?maca=de-rss-de-top-1016-xml-mrss",
       "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T16:56:22+02:00"
-    },
-    {
-      "title": "Braunkohle-Ausstieg - werden ländliche Regionen abgehängt?",
-      "link": "https://www.tagesschau.de/wirtschaft/lausitz-braunkohle-strukturwandel-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T16:32:05+02:00"
-    },
-    {
-      "title": "IW-Studie: Verrentung der Babyboomer hinterlässt große Lücke im Arbeitsmarkt",
-      "link": "https://www.tagesschau.de/inland/babyboomer-rente-arbeitsmarkt-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T15:56:52+02:00"
-    },
-    {
-      "title": "Geburtstagsparade \"Trooping the Colour\" für König Charles III.",
-      "link": "https://www.tagesschau.de/ausland/europa/trooping-the-colour-charles-102.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T15:05:12+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-13T17:09:00+00:00"
     }
   ],
   "Food": []
