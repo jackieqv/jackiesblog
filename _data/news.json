@@ -112,11 +112,32 @@
   ],
   "News": [
     {
+      "title": "Kanonenschuss am Mittag: Wenn Kapstadt zusammenzuckt",
+      "link": "https://www.tagesschau.de/ausland/amerika/noon-gun-suedafrika-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T13:10:57+02:00"
+    },
+    {
+      "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T11:47:30+02:00"
+    },
+    {
       "title": "Frauen in der Bundeswehr: \"Man ist Soldat, egal welches Geschlecht\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-bundeswehr-104.html",
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T09:54:32+02:00"
+      "sort_date": "2026-06-13T11:16:45+02:00"
+    },
+    {
+      "title": "Weg frei für EU-Beitrittsgespräche mit Ukraine und Moldau",
+      "link": "https://www.dw.com/de/weg-frei-für-eu-beitrittsgespräche-mit-ukraine-und-moldau/a-77535645?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "13 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-13T10:48:00+00:00"
     },
     {
       "title": "Möglicher \"Super El Niño\" in den USA: Extremwetter und mehr Haie",
@@ -124,27 +145,6 @@
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-13T09:29:15+02:00"
-    },
-    {
-      "title": "USA töten Chef von Drogenbande aus Venezuela",
-      "link": "https://www.tagesschau.de/ausland/venezuela-kartellchef-getoetet-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T09:28:04+02:00"
-    },
-    {
-      "title": "Bundesinnenministerium: Mehr Straftaten gegen Obdachlose",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/obdachlose-straftaten-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T09:11:25+02:00"
-    },
-    {
-      "title": "Panini-WM-Sticker: \"Mit dieser Nachfrage hätten wir nicht gerechnet\"",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/panini-bilder-wm-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T08:08:57+02:00"
     }
   ],
   "Food": []
