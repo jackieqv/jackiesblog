@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 13)",
+      "link": "https://singularityhub.com/2026/06/13/this-weeks-awesome-tech-stories-from-around-the-web-through-june-13-2/",
+      "published": "13 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-13T14:00:00+00:00"
+    },
+    {
       "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself.",
       "link": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
       "published": "12 Jun 2026",
@@ -101,16 +108,30 @@
       "published": "11 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-11T13:37:21+00:00"
-    },
-    {
-      "title": "After Decades of Failure, ‘Undruggable’ Cancers Begin to Give Way",
-      "link": "https://singularityhub.com/2026/06/10/after-decades-of-failure-undruggable-cancers-begin-to-give-way/",
-      "published": "10 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-10T18:19:27+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Nach Krawallen in Belfast: Tausende Menschen setzen Zeichen gegen Hass",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-belfast-rassismus-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T17:34:09+02:00"
+    },
+    {
+      "title": "Bundestag untersucht Vorfälle bei Parlaments-Planspiel mit Jugendlichen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-und-parlament-eklat-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T16:56:22+02:00"
+    },
+    {
+      "title": "Braunkohle-Ausstieg - werden ländliche Regionen abgehängt?",
+      "link": "https://www.tagesschau.de/wirtschaft/lausitz-braunkohle-strukturwandel-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T16:32:05+02:00"
+    },
     {
       "title": "IW-Studie: Verrentung der Babyboomer hinterlässt große Lücke im Arbeitsmarkt",
       "link": "https://www.tagesschau.de/inland/babyboomer-rente-arbeitsmarkt-100.html",
@@ -124,27 +145,6 @@
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-13T15:05:12+02:00"
-    },
-    {
-      "title": "BSW vor der Wahl in Sachsen-Anhalt: \"Bürgerregierung\" statt Brandmauer?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-landtagswahlen-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T14:08:36+02:00"
-    },
-    {
-      "title": "Große Rohstoffvorkommen in Europa - und doch kein Abbau?",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-antimon-abbau-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T13:37:12+02:00"
-    },
-    {
-      "title": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
-      "link": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-100.html",
-      "published": "13 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T13:25:03+02:00"
     }
   ],
   "Food": []
