@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Calculating Legal Mandatory Hours in SAP SuccessFactors Time Tracking for Hungary",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/calculating-legal-mandatory-hours-in-sap-successfactors-time-tracking-for/ba-p/14418038",
+      "published": "13 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-13T11:40:56+00:00"
+    },
+    {
       "title": "Meet the HR Service Assistant where speed meets governance",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/meet-the-hr-service-assistant-where-speed-meets-governance/ba-p/14417883",
       "published": "12 Jun 2026",
@@ -57,13 +64,6 @@
       "published": "11 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-11T13:54:46+00:00"
-    },
-    {
-      "title": "How to make PM form sections or fields show dynamically based on EC data (without CPI or SFTP jobs)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-make-pm-form-sections-or-fields-show-dynamically-based-on-ec-data/ba-p/14407493",
-      "published": "09 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-09T21:27:28+00:00"
     },
     {
       "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Kanonenschuss am Mittag: Wenn Kapstadt zusammenzuckt",
-      "link": "https://www.tagesschau.de/ausland/amerika/noon-gun-suedafrika-100.html",
+      "title": "IW-Studie: Verrentung der Babyboomer hinterlässt große Lücke im Arbeitsmarkt",
+      "link": "https://www.tagesschau.de/inland/babyboomer-rente-arbeitsmarkt-100.html",
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T13:10:57+02:00"
+      "sort_date": "2026-06-13T15:56:52+02:00"
     },
     {
-      "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html",
+      "title": "Geburtstagsparade \"Trooping the Colour\" für König Charles III.",
+      "link": "https://www.tagesschau.de/ausland/europa/trooping-the-colour-charles-102.html",
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T11:47:30+02:00"
+      "sort_date": "2026-06-13T15:05:12+02:00"
     },
     {
-      "title": "Frauen in der Bundeswehr: \"Man ist Soldat, egal welches Geschlecht\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-bundeswehr-104.html",
+      "title": "BSW vor der Wahl in Sachsen-Anhalt: \"Bürgerregierung\" statt Brandmauer?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-landtagswahlen-100.html",
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T11:16:45+02:00"
+      "sort_date": "2026-06-13T14:08:36+02:00"
     },
     {
-      "title": "Weg frei für EU-Beitrittsgespräche mit Ukraine und Moldau",
-      "link": "https://www.dw.com/de/weg-frei-für-eu-beitrittsgespräche-mit-ukraine-und-moldau/a-77535645?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "13 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-13T10:48:00+00:00"
-    },
-    {
-      "title": "Möglicher \"Super El Niño\" in den USA: Extremwetter und mehr Haie",
-      "link": "https://www.tagesschau.de/wissen/el-nino-kalifornien-100.html",
+      "title": "Große Rohstoffvorkommen in Europa - und doch kein Abbau?",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-antimon-abbau-100.html",
       "published": "13 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-13T09:29:15+02:00"
+      "sort_date": "2026-06-13T13:37:12+02:00"
+    },
+    {
+      "title": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
+      "link": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-100.html",
+      "published": "13 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-13T13:25:03+02:00"
     }
   ],
   "Food": []
