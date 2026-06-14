@@ -36,43 +36,7 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [
-    {
-      "title": "Calculating Legal Mandatory Hours in SAP SuccessFactors Time Tracking for Hungary",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/calculating-legal-mandatory-hours-in-sap-successfactors-time-tracking-for/ba-p/14418038",
-      "published": "13 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-13T11:40:56+00:00"
-    },
-    {
-      "title": "Meet the HR Service Assistant where speed meets governance",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/meet-the-hr-service-assistant-where-speed-meets-governance/ba-p/14417883",
-      "published": "12 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-12T18:54:20+00:00"
-    },
-    {
-      "title": "Learning token server deprecation (2027)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/learning-token-server-deprecation-2027/ba-p/14382308",
-      "published": "12 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-12T15:18:51+00:00"
-    },
-    {
-      "title": "How to change the order of story filters in story reporting?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-change-the-order-of-story-filters-in-story-reporting/ba-p/14416915",
-      "published": "11 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-11T13:54:46+00:00"
-    },
-    {
-      "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
-      "published": "09 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-09T05:27:07+00:00"
-    }
-  ],
+  "Technology": [],
   "Science": [
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 13)",
@@ -112,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Ukrainische Drohnen treffen Industrieanlagen und Wohnhaus in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-162.html",
+      "published": "14 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-14T17:27:06+02:00"
+    },
+    {
+      "title": "Was bei der Finanzierung des Hauskaufs zu beachten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkauf-finanzierung-100.html",
+      "published": "14 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-14T17:06:49+02:00"
+    },
+    {
+      "title": "Bundeswehr-Brigade in Litauen: Im Kampf mit und gegen Drohen",
+      "link": "https://www.tagesschau.de/ausland/europa/bundeswehr-brigade-litauen-100.html",
+      "published": "14 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-14T17:06:32+02:00"
+    },
+    {
+      "title": "Vorwürfe aus Teheran: USA halten Zusagen nicht ein",
+      "link": "https://www.dw.com/de/vorwürfe-aus-teheran-usa-halten-zusagen-nicht-ein/a-77546211?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-14T15:57:00+00:00"
+    },
+    {
       "title": "Warum in Albanien gegen Ivanka Trump protestiert wird",
       "link": "https://www.tagesschau.de/ausland/europa/albanien-sazan-100.html",
       "published": "14 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-14T15:50:51+02:00"
-    },
-    {
-      "title": "Klimawandel ermöglicht Anbau von tropischem Ingwer in Schwaben",
-      "link": "https://www.tagesschau.de/wirtschaft/ingwer-anbau-deutschland-100.html",
-      "published": "14 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T15:23:54+02:00"
-    },
-    {
-      "title": "EVG-Analyse: Italo-Züge könnten für 16 Städte Nachteile im Fernverkehr bedeuten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/db-bahn-konkurrenz-italien-100.html",
-      "published": "14 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T15:12:58+02:00"
-    },
-    {
-      "title": "Britische Armee stoppt Schattenflotte-Tanker im Ärmelkanal",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-russland-schattenflotte-100.html",
-      "published": "14 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T14:56:39+02:00"
-    },
-    {
-      "title": "Schweizer lehnen Einwohner-Obergrenze laut Hochrechnung ab",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabtimmung-migration-100.html",
-      "published": "14 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T14:34:58+02:00"
     }
   ],
   "Food": []
