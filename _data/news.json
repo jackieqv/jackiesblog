@@ -112,18 +112,25 @@
   ],
   "News": [
     {
-      "title": "Tausende protestieren in Genf gegen G7-Gipfel",
-      "link": "https://www.tagesschau.de/ausland/europa/g7-protest-genf-100.html",
-      "published": "14 Jun 2026",
+      "title": "Mehrere Tote nach russischen Angriffen auf Kiew und Charkiw",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-164.html",
+      "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T21:03:53+02:00"
+      "sort_date": "2026-06-15T05:58:15+02:00"
     },
     {
-      "title": "Livestream: Deutschland gegen Curaçao bei der Fußball-WM",
-      "link": "https://www.tagesschau.de/sport/wm-deutschland-curacao-livestream-100.html",
-      "published": "14 Jun 2026",
+      "title": "Iran-Liveblog: Merz gratuliert Trump zu \"diplomatischem Durchbruch\"",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
+      "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T20:59:28+02:00"
+      "sort_date": "2026-06-15T02:56:01+02:00"
+    },
+    {
+      "title": "Trump verkündet Einigung auf Friedensabkommen mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-abkommen-usa-krieg-100.html",
+      "published": "15 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-15T02:28:47+02:00"
     },
     {
       "title": "Was tut Europa gegen wachsende Verluste durch Onlinebetrug?",
@@ -138,13 +145,6 @@
       "published": "14 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-14T19:17:34+02:00"
-    },
-    {
-      "title": "Schweizer lehnen Einwohner-Obergrenze in Volksabstimmung ab",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabtimmung-migration-102.html",
-      "published": "14 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-14T19:10:54+02:00"
     }
   ],
   "Food": []
