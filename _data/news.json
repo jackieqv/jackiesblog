@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "published": "15 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-15T15:07:59+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 13)",
       "link": "https://singularityhub.com/2026/06/13/this-weeks-awesome-tech-stories-from-around-the-web-through-june-13-2/",
       "published": "13 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "11 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-11T19:04:52+00:00"
-    },
-    {
-      "title": "What’s the Future of Gene Editing?",
-      "link": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
-      "published": "11 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-11T13:37:21+00:00"
     }
   ],
   "News": [
     {
-      "title": "Kloster in Kiew getroffen: \"Ein Angriff auf unsere Geschichte\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kloster-100.html",
+      "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T13:53:48+02:00"
+      "sort_date": "2026-06-15T21:00:16+02:00"
     },
     {
-      "title": "G7-Gipfel: Wie der Mittelstand unter globalen Krisen leidet",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/g7-handel-100.html",
+      "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html",
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T13:27:33+02:00"
+      "sort_date": "2026-06-15T20:27:32+02:00"
     },
     {
-      "title": "Nach SpaceX: OpenAI und Anthropic vor dem Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/spacex-openai-anthropic-ki-boersengang-100.html",
+      "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html",
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T12:50:03+02:00"
+      "sort_date": "2026-06-15T20:17:38+02:00"
     },
     {
-      "title": "Vor G7-Gipfel: Trump droht Paris mit 100 Prozent Weinsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/usa-frankreich-zoelle-wein-100.html",
+      "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
+      "link": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html",
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T12:12:18+02:00"
+      "sort_date": "2026-06-15T19:53:06+02:00"
     },
     {
-      "title": "Großbritannien plant Social-Media-Verbot für unter 16-Jährige",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-verbot-socialmedia-100.html",
+      "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
+      "link": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html",
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T11:31:22+02:00"
+      "sort_date": "2026-06-15T19:27:08+02:00"
     }
   ],
   "Food": []
