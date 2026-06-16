@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Fliegerbombe im Potsdam entschärft",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/bombenentschaerfung-potsdam-sperrungen-100.html",
-      "published": "16 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T13:06:05+02:00"
-    },
-    {
-      "title": "Scheitert das Iran-Abkommen an der Libanon-Frage?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-libanon-israel-100.html",
-      "published": "16 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T13:00:21+02:00"
-    },
-    {
-      "title": "Zahl der Einwohner in Deutschland leicht gesunken",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/schrumpfende-bevoelkerung-100.html",
-      "published": "16 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T11:36:11+02:00"
-    },
-    {
-      "title": "Letzter Atommüll aus britischem Sellafield in Deutschland",
-      "link": "https://www.dw.com/de/letzter-atommüll-aus-britischem-sellafield-in-deutschland/a-77575384?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "16 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-16T10:48:00+00:00"
-    },
-    {
-      "title": "Marktbericht: Anleger sezieren geplantes Friedensabkommen",
+      "title": "Marktbericht: Iran-Deal zieht nicht mehr",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-132.html",
       "published": "16 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T10:44:04+02:00"
+      "sort_date": "2026-06-16T18:28:33+02:00"
+    },
+    {
+      "title": "Vor 50 Jahren sprach Dagmar Berghoff ihre erste Tagesschau-Ausgabe",
+      "link": "https://www.tagesschau.de/inland/dagmar-berghoff-tagesschau-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T17:49:16+02:00"
+    },
+    {
+      "title": "Erneuter Abschiebeflug: Straftäter nach Afghanistan ausgewiesen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/abschiebeflug-afghanen-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T17:35:09+02:00"
+    },
+    {
+      "title": "Bundesratsinitiative aus Berlin für schärferes Waffenrecht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/schaerferes-waffenrecht-bundesratsinitiative-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T17:10:58+02:00"
+    },
+    {
+      "title": "EU-Vergleich: Deutsche Badegewässer schneiden sehr gut ab",
+      "link": "https://www.tagesschau.de/wissen/badegewaesser-qualitaet-europa-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T17:04:52+02:00"
     }
   ],
   "Food": []
