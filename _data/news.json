@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
-      "published": "15 Jun 2026",
+      "title": "Bundesverfassungsgericht verhandelt zu Abschaffung der Stoffstrombilanzverordnung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-stoffstrombilanzverordnung-100.html",
+      "published": "16 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T23:30:16+02:00"
+      "sort_date": "2026-06-16T05:40:01+02:00"
+    },
+    {
+      "title": "B-52-Bomber der US-Luftwaffe bei Testflug in Kalifornien abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kaliformien-b52-absturz-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T03:31:06+02:00"
+    },
+    {
+      "title": "Jedes zweite Kind laut UNICEF-Studie von Klimarisiken betroffen",
+      "link": "https://www.tagesschau.de/wissen/klima/klima-kinder-unicef-100.html",
+      "published": "16 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-16T02:28:14+02:00"
     },
     {
       "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
@@ -131,20 +145,6 @@
       "published": "15 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-15T20:17:38+02:00"
-    },
-    {
-      "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
-      "link": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html",
-      "published": "15 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T19:53:06+02:00"
-    },
-    {
-      "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
-      "link": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html",
-      "published": "15 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-15T19:27:08+02:00"
     }
   ],
   "Food": []
