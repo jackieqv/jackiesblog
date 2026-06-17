@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Russisches Kriegsschiff gibt im Ärmelkanal Warnschüsse ab",
-      "link": "https://www.tagesschau.de/ausland/europa/russisches-kriegsschiff-aermelkanal-100.html",
-      "published": "16 Jun 2026",
+      "title": "Stalin, Mao, Hamas - Was in der Linksjugend sagbar ist",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/linksjugend-106.html",
+      "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T23:43:15+02:00"
+      "sort_date": "2026-06-17T06:00:13+02:00"
+    },
+    {
+      "title": "G7-Gipfel: Merz zieht bisher positives Fazit vor letztem Tag",
+      "link": "https://www.tagesschau.de/ausland/europa/g7-gipfel-evian-102.html",
+      "published": "17 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-17T05:02:31+02:00"
+    },
+    {
+      "title": "Migration und zivile Verteidigungsfähigkeit Themen bei Innenministerkonferenz",
+      "link": "https://www.tagesschau.de/inland/innenministerkonferenz-154.html",
+      "published": "17 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-17T03:08:08+02:00"
     },
     {
       "title": "Israels Libanon-Politik wird zur Belastungsprobe für Rahmenabkommen",
@@ -131,20 +145,6 @@
       "published": "16 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-16T19:44:59+02:00"
-    },
-    {
-      "title": "50 Jahre Soweto-Aufstand: Der Anfang vom Ende der Apartheid",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-soweto-aufstand-100.html",
-      "published": "16 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T19:44:51+02:00"
-    },
-    {
-      "title": "Laut FBI wurde ein möglicher Anschlag auf Trumps Geburtstag vereitelt",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-anschlag-vereitelt-100.html",
-      "published": "16 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-16T18:53:12+02:00"
     }
   ],
   "Food": []
