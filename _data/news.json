@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "link": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "published": "17 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-17T14:35:35+00:00"
+    },
+    {
       "title": "Japan Thinks Swarms of Transformer Robots Could Explore the Moon",
       "link": "https://singularityhub.com/2026/06/15/japan-thinks-swarms-of-transformer-robots-could-explore-the-moon/",
       "published": "15 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "12 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-12T14:04:20+00:00"
-    },
-    {
-      "title": "Is Richard Dawkins Right About Claude? No. But It’s Not Surprising AI Chatbots Feel Conscious to Us.",
-      "link": "https://singularityhub.com/2026/06/12/is-richard-dawkins-right-about-claude-no-but-its-not-surprising-ai-chatbots-feel-conscious-to-us/",
-      "published": "12 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-12T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Offshore-Netzanbindung: Milliardenauftrag bleibt in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/offshore-windkraft-rostock-milliardenauftrag-jobs-100.html",
+      "title": "Belgien muss erstmals Opfer von Kolonialverbrechen entschädigen",
+      "link": "https://www.tagesschau.de/ausland/europa/kolonialverbrechen-belgien-kongo-100.html",
       "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-17T12:35:45+02:00"
+      "sort_date": "2026-06-17T17:00:02+02:00"
     },
     {
-      "title": "Kronprinzessin Mette-Marit hat neue Lunge erhalten",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegens-kronprinzessin-erhaelt-lunge-100.html",
+      "title": "Iran-Krieg drückt Ölvorräte auf tiefsten Stand seit 1990",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelreserven-iea-iran-hormus-russland-100.html",
       "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-17T12:34:59+02:00"
+      "sort_date": "2026-06-17T16:59:23+02:00"
     },
     {
-      "title": "Nach Sanierung weiter Verspätungen auf Bahnstrecke Berlin-Hamburg",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahnstrecke-hamburg-berlin-108.html",
+      "title": "Filmstart von \"Backrooms\": Verschwunden in gelben Fluren",
+      "link": "https://www.tagesschau.de/kultur/backrooms-100.html",
       "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-17T12:33:48+02:00"
+      "sort_date": "2026-06-17T16:58:18+02:00"
     },
     {
-      "title": "EU-Umfrage: Jugendliche sehen Social Media positiver als Eltern",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-umfrage-social-media-100.html",
+      "title": "Mehr als vier Millionen Geflüchtete und Vertriebene in Deutschland",
+      "link": "https://www.tagesschau.de/inland/weltfluechtlingstag-2026-100.html",
       "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-17T12:05:06+02:00"
+      "sort_date": "2026-06-17T16:12:11+02:00"
     },
     {
-      "title": "Anleger halten sich vor Fed-Entscheidung zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-100.html",
+      "title": "Trump schickt erneut Drohung Richtung Iran",
+      "link": "https://www.tagesschau.de/ausland/trump-iran-abkommen-100.html",
       "published": "17 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-17T11:15:20+02:00"
+      "sort_date": "2026-06-17T15:39:51+02:00"
     }
   ],
   "Food": []
