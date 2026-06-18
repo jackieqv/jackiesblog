@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Why the Human Genome’s Tangled Physicality May Confound AI",
+      "link": "https://www.quantamagazine.org/the-genomes-complexity-may-confound-alphagenome-and-other-ais-20260618/",
+      "published": "18 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-18T14:12:26+00:00"
+    },
+    {
       "title": "Precise Gene Editing in Early Human Embryos Reignites the ‘Designer Baby’ Debate",
       "link": "https://singularityhub.com/2026/06/17/precise-gene-editing-in-early-human-embryos-reignites-the-designer-baby-debate/",
       "published": "17 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "15 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-15T15:07:59+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 13)",
-      "link": "https://singularityhub.com/2026/06/13/this-weeks-awesome-tech-stories-from-around-the-web-through-june-13-2/",
-      "published": "13 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-13T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bundeswehr bereitet Marineeinsatz in Hormus vor",
-      "link": "https://www.tagesschau.de/ausland/europa/bundeswehr-marineschiffe-strasse-von-hormus-100.html",
+      "title": "Herkunft, Macht und indigene Stimmen: Chemnitz holt die Welt ins Theater",
+      "link": "https://www.tagesschau.de/kultur/chemnitz-holt-die-welt-auf-die-buehne,internationales-theaterfestival-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T11:33:16+02:00"
+      "sort_date": "2026-06-18T17:13:02+02:00"
     },
     {
-      "title": "EU-Gipfel: Zu viele schwierige Themen für nur einen Tag",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-648.html",
+      "title": "Beratung aus Deutschland: Freie Fahrt für Handelsschiffe?",
+      "link": "https://www.tagesschau.de/inland/deutsche-marine-ostsee-hormus-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T11:06:09+02:00"
+      "sort_date": "2026-06-18T16:50:10+02:00"
     },
     {
-      "title": "Deutschland als Bremser beim Schutz vor Chinas Übermacht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/china-politik-deutschland-100.html",
+      "title": "Gutachten: Verfassungsrechtliche Zweifel am Gebäudemodernisierungsgesetz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rechtliche-zweifel-gebaeudemodernisierungsgesetz-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T11:04:41+02:00"
+      "sort_date": "2026-06-18T16:38:38+02:00"
     },
     {
-      "title": "Ukrainische Drohnen treffen Raffinerie in Moskau",
-      "link": "https://www.tagesschau.de/ausland/russland-ukraine-selenskyj-100.html",
+      "title": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-abkommen-hormus-oelpreise-schifffahrt-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T10:44:14+02:00"
+      "sort_date": "2026-06-18T16:22:53+02:00"
     },
     {
-      "title": "Marktbericht: Zinsausblick der Fed stört die Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html",
+      "title": "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-schweiz-verhandlungen-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T10:33:28+02:00"
+      "sort_date": "2026-06-18T16:19:47+02:00"
     }
   ],
   "Food": []
