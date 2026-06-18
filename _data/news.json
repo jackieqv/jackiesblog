@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Eine klaffende Lücke zwischen Anspruch und Wirklichkeit",
-      "link": "https://www.tagesschau.de/inland/gutachten-umweltrat-100.html",
+      "title": "Bundeswehr bereitet Marineeinsatz in Hormus vor",
+      "link": "https://www.tagesschau.de/ausland/europa/bundeswehr-marineschiffe-strasse-von-hormus-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T05:39:52+02:00"
+      "sort_date": "2026-06-18T11:33:16+02:00"
     },
     {
-      "title": "Hitzewelle in Deutschland: Regeln am Arbeitsplatz und in der Schule",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-hitze-rechte-100.html",
+      "title": "EU-Gipfel: Zu viele schwierige Themen für nur einen Tag",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-648.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T05:13:52+02:00"
+      "sort_date": "2026-06-18T11:06:09+02:00"
     },
     {
-      "title": "USA und Iran haben Rahmenabkommen wohl bereits unterzeichnet",
-      "link": "https://www.tagesschau.de/ausland/vereinbarung-usa-iran-unterzeichnet-100.html",
+      "title": "Deutschland als Bremser beim Schutz vor Chinas Übermacht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/china-politik-deutschland-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T04:03:18+02:00"
+      "sort_date": "2026-06-18T11:04:41+02:00"
     },
     {
-      "title": "Entscheidender Tag für Starmer: Schicksalswahl in Makersfield",
-      "link": "https://www.tagesschau.de/ausland/europa/wahlkampf-makerfield-100.html",
+      "title": "Ukrainische Drohnen treffen Raffinerie in Moskau",
+      "link": "https://www.tagesschau.de/ausland/russland-ukraine-selenskyj-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T01:37:32+02:00"
+      "sort_date": "2026-06-18T10:44:14+02:00"
     },
     {
-      "title": "Was in der Absichtserklärung zwischen den USA und Iran steht",
-      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-iran-100.html",
+      "title": "Marktbericht: Zinsausblick der Fed stört die Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T01:25:54+02:00"
+      "sort_date": "2026-06-18T10:33:28+02:00"
     }
   ],
   "Food": []
