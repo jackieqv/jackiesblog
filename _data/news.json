@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "EU verlängert Russland-Sanktionen um zwölf Monate",
+      "link": "https://www.tagesschau.de/ausland/eu-sanktionen-russland-206.html",
+      "published": "19 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-19T00:52:30+02:00"
+    },
+    {
       "title": "Entwurf für Arbeitszeitgesetz sorgt für scharfe Kritik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-arbeitszeitgesetz-100.html",
       "published": "18 Jun 2026",
@@ -138,13 +145,6 @@
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-18T18:34:29+02:00"
-    },
-    {
-      "title": "Putin in Kasan: Kein Wort zum Großangriff auf Raffinerie in Moskau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-170.html",
-      "published": "18 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T18:02:38+02:00"
     }
   ],
   "Food": []
