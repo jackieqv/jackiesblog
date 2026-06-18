@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "SuccessFactors Onboarding Expanding Form I-9 Responsible Group Support",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-onboarding-expanding-form-i-9-responsible-group-support/ba-p/14422836",
+      "published": "18 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-18T18:44:27+00:00"
+    },
+    {
+      "title": "Considerations when mapping organizational data from Employee Central to SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/considerations-when-mapping-organizational-data-from-employee-central-to/ba-p/14422435",
+      "published": "18 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-18T17:32:33+00:00"
+    },
+    {
       "title": "Calculating Legal Mandatory Hours in SAP SuccessFactors Time Tracking for Hungary",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/calculating-legal-mandatory-hours-in-sap-successfactors-time-tracking-for/ba-p/14418038",
       "published": "13 Jun 2026",
@@ -57,26 +71,12 @@
       "published": "12 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-12T15:18:51+00:00"
-    },
-    {
-      "title": "How to change the order of story filters in story reporting?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-change-the-order-of-story-filters-in-story-reporting/ba-p/14416915",
-      "published": "11 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-11T13:54:46+00:00"
-    },
-    {
-      "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
-      "published": "09 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-09T05:27:07+00:00"
     }
   ],
   "Science": [
     {
       "title": "Why the Human Genome’s Tangled Physicality May Confound AI",
-      "link": "https://www.quantamagazine.org/the-genomes-complexity-may-confound-alphagenome-and-other-ais-20260618/",
+      "link": "https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/",
       "published": "18 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-18T14:12:26+00:00"
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Herkunft, Macht und indigene Stimmen: Chemnitz holt die Welt ins Theater",
-      "link": "https://www.tagesschau.de/kultur/chemnitz-holt-die-welt-auf-die-buehne,internationales-theaterfestival-100.html",
+      "title": "Entwurf für Arbeitszeitgesetz sorgt für scharfe Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-arbeitszeitgesetz-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T17:13:02+02:00"
+      "sort_date": "2026-06-18T21:42:36+02:00"
     },
     {
-      "title": "Beratung aus Deutschland: Freie Fahrt für Handelsschiffe?",
-      "link": "https://www.tagesschau.de/inland/deutsche-marine-ostsee-hormus-100.html",
+      "title": "In den USA überwiegen nach Rahmenabkommen Skepsis und Kritik",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-reax-104.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T16:50:10+02:00"
+      "sort_date": "2026-06-18T19:10:37+02:00"
     },
     {
-      "title": "Gutachten: Verfassungsrechtliche Zweifel am Gebäudemodernisierungsgesetz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rechtliche-zweifel-gebaeudemodernisierungsgesetz-100.html",
+      "title": "Nach Schüssen auf Kreml-Kritiker: Verdächtiger festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-russland-putin-kuenstler-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T16:38:38+02:00"
+      "sort_date": "2026-06-18T18:55:32+02:00"
     },
     {
-      "title": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-abkommen-hormus-oelpreise-schifffahrt-100.html",
+      "title": "Marktbericht: DAX kommt nicht vom Fleck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T16:22:53+02:00"
+      "sort_date": "2026-06-18T18:34:29+02:00"
     },
     {
-      "title": "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-schweiz-verhandlungen-100.html",
+      "title": "Putin in Kasan: Kein Wort zum Großangriff auf Raffinerie in Moskau",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-170.html",
       "published": "18 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-18T16:19:47+02:00"
+      "sort_date": "2026-06-18T18:02:38+02:00"
     }
   ],
   "Food": []
