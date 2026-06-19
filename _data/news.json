@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
+      "published": "19 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-19T20:42:05+00:00"
+    },
+    {
       "title": "SuccessFactors Onboarding Expanding Form I-9 Responsible Group Support",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-onboarding-expanding-form-i-9-responsible-group-support/ba-p/14422836",
       "published": "18 Jun 2026",
@@ -64,16 +71,16 @@
       "published": "12 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-12T18:54:20+00:00"
-    },
-    {
-      "title": "Learning token server deprecation (2027)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/learning-token-server-deprecation-2027/ba-p/14382308",
-      "published": "12 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-12T15:18:51+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Solar Beat Coal in US Electricity Mix for the First Time in May",
+      "link": "https://singularityhub.com/2026/06/19/solar-beat-coal-in-us-electricity-mix-for-the-first-time-in-may/",
+      "published": "19 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-19T20:57:26+00:00"
+    },
     {
       "title": "How to Tame AI’s Voracious Appetite for Energy",
       "link": "https://singularityhub.com/2026/06/18/how-to-tame-ais-voracious-appetite-for-energy/",
@@ -101,16 +108,16 @@
       "published": "17 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-17T14:35:35+00:00"
-    },
-    {
-      "title": "Japan Thinks Swarms of Transformer Robots Could Explore the Moon",
-      "link": "https://singularityhub.com/2026/06/15/japan-thinks-swarms-of-transformer-robots-could-explore-the-moon/",
-      "published": "15 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-15T22:18:23+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html",
+      "published": "19 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-19T22:16:51+02:00"
+    },
     {
       "title": "EU-Gipfel: Ein gemeinsamer Nenner - und viel Uneinigkeit",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-abschluss-100.html",
@@ -138,13 +145,6 @@
       "published": "19 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-19T18:33:00+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX rutscht knapp unter 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-134.html",
-      "published": "19 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-19T18:20:51+02:00"
     }
   ],
   "Food": []
