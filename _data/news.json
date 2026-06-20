@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wetter in Deutschland: Zwischen Hitze und Gewitter",
+      "title": "Studien: Wie gut berechnet KI den Fußball-Weltmeister?",
+      "link": "https://www.tagesschau.de/wissen/forschung/fussball-ki-vorhersage-tippspiel-100.html",
+      "published": "20 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-20T12:44:20+02:00"
+    },
+    {
+      "title": "Experte zu Pflegerefom: \"Schlag ins Gesicht der pflegenden Angehörigen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rothgang-finanzierung-pflegereform-100.html",
+      "published": "20 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-20T12:41:52+02:00"
+    },
+    {
+      "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
       "link": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html",
       "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-20T10:23:32+02:00"
+      "sort_date": "2026-06-20T12:36:27+02:00"
     },
     {
-      "title": "Parteitag: Linke nennt Israels Vorgehen offiziell Völkermord",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-gazakrieg-voelkermord-100.html",
+      "title": "Chemieunfall in NRW: 25 Mitarbeitende durch Chemikalien verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/chemieunfall-chempark-dormagen-100.html",
       "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-20T09:29:07+02:00"
+      "sort_date": "2026-06-20T11:52:48+02:00"
     },
     {
-      "title": "US-Gesandte Witkoff und Kushner offenbar zu Iran-Gesprächen aufgebrochen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gespraeche-schweiz-100.html",
+      "title": "Weltflüchtlingstag: Sudanesen in Kairo zwischen Angst und Hoffnungslosigkeit",
+      "link": "https://www.tagesschau.de/ausland/afrika/weltfluechtlingstag-sudanesische-gefluechtete-aegypten-100.html",
       "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-20T08:38:00+02:00"
-    },
-    {
-      "title": "Widerstand als Kunstform - die Arbeiten von Gabriele Stötzer",
-      "link": "https://www.tagesschau.de/kultur/gabriele-stoetzer-108.html",
-      "published": "20 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-20T08:26:01+02:00"
-    },
-    {
-      "title": "Fremdenfeindlichkeit in Südafrika: Eine Chronik",
-      "link": "https://www.dw.com/de/fremdenfeindlichkeit-in-südafrika-eine-chronik/a-77622104?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "20 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-20T08:11:00+00:00"
+      "sort_date": "2026-06-20T11:26:23+02:00"
     }
   ],
   "Food": []
