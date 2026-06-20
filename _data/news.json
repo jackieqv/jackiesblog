@@ -45,6 +45,13 @@
       "sort_date": "2026-06-19T20:42:05+00:00"
     },
     {
+      "title": "Joule Studio Versus Joule - HCM Focus",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/joule-studio-versus-joule-hcm-focus/ba-p/14423495",
+      "published": "19 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-19T15:30:41+00:00"
+    },
+    {
       "title": "SuccessFactors Onboarding Expanding Form I-9 Responsible Group Support",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-onboarding-expanding-form-i-9-responsible-group-support/ba-p/14422836",
       "published": "18 Jun 2026",
@@ -64,13 +71,6 @@
       "published": "13 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-13T11:40:56+00:00"
-    },
-    {
-      "title": "Meet the HR Service Assistant where speed meets governance",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/meet-the-hr-service-assistant-where-speed-meets-governance/ba-p/14417883",
-      "published": "12 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-12T18:54:20+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html",
-      "published": "19 Jun 2026",
+      "title": "Kampf um Labour-Vorsitz: Wer ist Andy Burnham?",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-portrait-100.html",
+      "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-19T22:16:51+02:00"
+      "sort_date": "2026-06-20T05:03:37+02:00"
     },
     {
-      "title": "EU-Gipfel: Ein gemeinsamer Nenner - und viel Uneinigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-abschluss-100.html",
-      "published": "19 Jun 2026",
+      "title": "Güterzug-Waggons stürzen in München von Brücke",
+      "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html",
+      "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-19T20:12:37+02:00"
+      "sort_date": "2026-06-20T04:57:50+02:00"
     },
     {
-      "title": "Lula oder Flavio Bolsonaro: Wem hilft Trump im Wahlkampf?",
-      "link": "https://www.dw.com/de/lula-oder-flavio-bolsonaro-wem-hilft-trump-im-wahlkampf/a-77621607?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-19T19:04:00+00:00"
+      "title": "Ein Toter bei Zugunglück bei London",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-grossbritannien-100.html",
+      "published": "20 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-20T04:23:47+02:00"
     },
     {
-      "title": "Innenminister wollen mehr Zivilschutz bis 2029",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/innenministerkonferenz-hamburg-schutz-der-zivilbevoelkerung-krisenvorsorge-100.html",
-      "published": "19 Jun 2026",
+      "title": "Mensche in Gaza: Hilflos, traumatisiert und ohne jede Perspektive",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-iran-gaza-100.html",
+      "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-19T18:45:23+02:00"
+      "sort_date": "2026-06-20T02:46:50+02:00"
     },
     {
-      "title": "In Syrien festgehaltene deutsche Journalistin Michelmann frei",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-koelner-journalistin-in-syrien-festgehaltene-eva-maria-michelmann-ist-frei-100.html",
-      "published": "19 Jun 2026",
+      "title": "Polens Präsident entzieht Selenskyj höchsten Orden",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-110.html",
+      "published": "20 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-19T18:33:00+02:00"
+      "sort_date": "2026-06-20T00:34:22+02:00"
     }
   ],
   "Food": []
