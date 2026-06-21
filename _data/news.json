@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Die Erben des Brexit - zehn Jahre nach dem Referendum",
+      "link": "https://www.tagesschau.de/ausland/europa/junge-briten-10-jahre-brexit-100.html",
+      "published": "21 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-21T15:30:13+02:00"
+    },
+    {
       "title": "Zum kalendarischen Sommeranfang - Hitze und Unwetter",
       "link": "https://www.tagesschau.de/wetter/deutschland/wetter-unwetter-hitze-100.html",
       "published": "21 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-21T11:29:30+02:00"
+      "sort_date": "2026-06-21T13:43:14+02:00"
     },
     {
-      "title": "Bundesparteitag der Linken: Kommt Diätendeckel für Abgeordnete?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-bundesparteitag-potsdam-diaetendeckel-100.html",
+      "title": "Könnten die USA-Iran-Verhandlungen am Libanon-Konflikt scheitern?",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-libanon-iran-verhandlungen-100.html",
       "published": "21 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-21T10:46:48+02:00"
+      "sort_date": "2026-06-21T13:28:40+02:00"
     },
     {
-      "title": "Mehrere Tote bei ukrainischen Angriffen auf Halbinsel Krim",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krim-angriffe-100.html",
-      "published": "21 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-21T10:29:52+02:00"
-    },
-    {
-      "title": "Deutlich mehr Abschiebeflüge nach Afghanistan mit Taliban vereinbart",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-abschiebungen-dobrindt-100.html",
-      "published": "21 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-21T09:45:22+02:00"
-    },
-    {
-      "title": "Wie chancengerecht ist Bildung in Deutschland?",
-      "link": "https://www.dw.com/de/wie-chancengerecht-ist-bildung-in-deutschland/a-77599068?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Deutschland beschleunigt Abschiebungen nach Afghanistan",
+      "link": "https://www.dw.com/de/deutschland-beschleunigt-abschiebungen-nach-afghanistan/a-77645904?maca=de-rss-de-top-1016-xml-mrss",
       "published": "21 Jun 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-21T09:08:00+00:00"
+      "sort_date": "2026-06-21T13:12:00+00:00"
+    },
+    {
+      "title": "Debatte um Rentenreform - Realitätsfern oder richtiger Schritt?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/renten-rentenreform-debatte-100.html",
+      "published": "21 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-21T12:24:08+02:00"
     }
   ],
   "Food": []
