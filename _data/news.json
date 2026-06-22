@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "HCM Brasil: pré-requisitos de Support Package para implementação de SAP Notes – 2027/2028",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-pr%C3%A9-requisitos-de-support-package-para-implementa%C3%A7%C3%A3o-de-sap/ba-p/14421603",
+      "published": "22 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-22T13:43:43+00:00"
+    },
+    {
       "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
       "published": "19 Jun 2026",
@@ -64,16 +71,16 @@
       "published": "18 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-18T17:32:33+00:00"
-    },
-    {
-      "title": "Calculating Legal Mandatory Hours in SAP SuccessFactors Time Tracking for Hungary",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/calculating-legal-mandatory-hours-in-sap-successfactors-time-tracking-for/ba-p/14418038",
-      "published": "13 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-13T11:40:56+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
+      "link": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
+      "published": "22 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-22T14:52:52+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 20)",
       "link": "https://singularityhub.com/2026/06/20/this-weeks-awesome-tech-stories-from-around-the-web-through-june-20-2/",
@@ -101,50 +108,43 @@
       "published": "18 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-18T14:12:26+00:00"
-    },
-    {
-      "title": "Precise Gene Editing in Early Human Embryos Reignites the ‘Designer Baby’ Debate",
-      "link": "https://singularityhub.com/2026/06/17/precise-gene-editing-in-early-human-embryos-reignites-the-designer-baby-debate/",
-      "published": "17 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-17T22:04:50+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mehr als 1000 Ebola-Fälle im Kongo innerhalb eines Monats",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-176.html",
+      "title": "Potentieller Starmer-Nachfolger: Der \"King of the North\" steht bereit",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-burnham-labour-100.html",
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T13:28:07+02:00"
+      "sort_date": "2026-06-22T18:45:10+02:00"
     },
     {
-      "title": "Reform soll ukrainischen Soldaten Pause von der Front verschaffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-militaerreform-100.html",
+      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-hochtief-100.html",
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T13:17:26+02:00"
+      "sort_date": "2026-06-22T18:14:43+02:00"
     },
     {
-      "title": "Linken-Chef Pantisano bittet CDU um Entschuldigung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pantisano-linke-cdu-afd-entschuldigung-100.html",
+      "title": "Gewalt an Schulen: \"Kleinigkeiten reichen, um zur Eskalation zu führen\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-schulen-guenther-wuensche-100.html",
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T12:51:00+02:00"
+      "sort_date": "2026-06-22T17:24:15+02:00"
     },
     {
-      "title": "Bundesregierung bestätigt Einstieg mit 40 Prozent bei KNDS",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-einstieg-bund-100.html",
+      "title": "Woran ist Starmer gescheitert - und wie geht es weiter?",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-gescheitert-labour-100.html",
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T12:02:47+02:00"
+      "sort_date": "2026-06-22T17:13:41+02:00"
     },
     {
-      "title": "Milliarden für Tore - Saudi-Arabiens Investitionen in den Fußball",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-fussball-102.html",
+      "title": "Parlamentswahl in Äthiopien: Klarer Sieg für den Amtsinhaber",
+      "link": "https://www.tagesschau.de/ausland/afrika/aethiophien-parlamentswahlen-ergebnis-100.html",
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T11:23:43+02:00"
+      "sort_date": "2026-06-22T16:53:44+02:00"
     }
   ],
   "Food": []
