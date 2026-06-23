@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI.",
+      "link": "https://singularityhub.com/2026/06/23/ai-collapses-on-a-classic-psychology-test-what-it-reveals-could-stall-human-level-ai/",
+      "published": "23 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-23T18:35:30+00:00"
+    },
+    {
       "title": "Can Psychedelics Reboot Aging Brains? We’re About to Find Out",
       "link": "https://singularityhub.com/2026/06/22/can-psychedelics-reboot-aging-brains-were-about-to-find-out/",
       "published": "22 Jun 2026",
@@ -101,16 +108,16 @@
       "published": "19 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-19T20:57:26+00:00"
-    },
-    {
-      "title": "How to Tame AI’s Voracious Appetite for Energy",
-      "link": "https://singularityhub.com/2026/06/18/how-to-tame-ais-voracious-appetite-for-energy/",
-      "published": "18 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-18T23:35:56+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Was bedeutet Starmers Rücktritt für Europas Sicherheit?",
+      "link": "https://www.dw.com/de/was-bedeutet-starmers-rücktritt-für-europas-sicherheit/a-77678002?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "23 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-23T19:52:00+00:00"
+    },
     {
       "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
       "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html",
@@ -138,13 +145,6 @@
       "published": "23 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-23T17:40:32+02:00"
-    },
-    {
-      "title": "Kommentar zur Rente: Die Kommission hat geliefert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-empfehlungen-kommission-100.html",
-      "published": "23 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-23T16:53:48+02:00"
     }
   ],
   "Food": []
