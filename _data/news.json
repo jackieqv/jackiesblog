@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Zehn Jahre Brexit-Referendum: \"Nichts ist erfüllt worden\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-bilanz-brexit-referendum-100.html",
+      "published": "23 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-23T05:24:00+02:00"
+    },
+    {
+      "title": "Regierungsbildung in Rumänien gescheitert - Proeuropäer unter Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierungsbildung-scheitern-100.html",
+      "published": "23 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-23T03:26:25+02:00"
+    },
+    {
       "title": "Ex-Gotteskrieger verhandelt mit EU über Abschiebungen",
       "link": "https://www.tagesschau.de/investigativ/ndr/afghanistan-taliban-eu-verhandlungen-100.html",
       "published": "22 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "22 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-22T19:11:21+02:00"
-    },
-    {
-      "title": "Die Linke ringt um ihr Verhältnis zur CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-cdu-pantisano-100.html",
-      "published": "22 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T19:08:01+02:00"
-    },
-    {
-      "title": "Verhandlungen im Libanon-Konflikt: \"Waffenruhe heißt, dass weniger geschossen wird\"",
-      "link": "https://www.tagesschau.de/ausland/libanon-israel-usa-iran-verhandlungen-100.html",
-      "published": "22 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-22T19:01:39+02:00"
     }
   ],
   "Food": []
