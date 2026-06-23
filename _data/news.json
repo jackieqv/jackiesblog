@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html",
+      "published": "24 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-24T00:03:59+02:00"
+    },
+    {
       "title": "Was bedeutet Starmers Rücktritt für Europas Sicherheit?",
       "link": "https://www.dw.com/de/was-bedeutet-starmers-rücktritt-für-europas-sicherheit/a-77678002?maca=de-rss-de-top-1016-xml-mrss",
       "published": "23 Jun 2026",
@@ -138,13 +145,6 @@
       "published": "23 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-23T17:49:12+02:00"
-    },
-    {
-      "title": "Erstmals Gespräche der Taliban mit EU-Kommission",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-taliban-gespraeche-bruessel-100.html",
-      "published": "23 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-23T17:40:32+02:00"
     }
   ],
   "Food": []
