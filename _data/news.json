@@ -45,6 +45,13 @@
       "sort_date": "2026-06-22T13:43:43+00:00"
     },
     {
+      "title": "Converting Decimal Tenure into Years and Months in SAP SuccessFactors Story Reports",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/converting-decimal-tenure-into-years-and-months-in-sap-successfactors-story/ba-p/14424236",
+      "published": "22 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-22T07:53:39+00:00"
+    },
+    {
       "title": "Automating Probation Process Management in SAP SuccessFactors Using Integration Center",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-probation-process-management-in-sap-successfactors-using/ba-p/14407951",
       "published": "19 Jun 2026",
@@ -64,13 +71,6 @@
       "published": "18 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-18T18:44:27+00:00"
-    },
-    {
-      "title": "Considerations when mapping organizational data from Employee Central to SmartRecruiters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/considerations-when-mapping-organizational-data-from-employee-central-to/ba-p/14422435",
-      "published": "18 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-18T17:32:33+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Stimmung aufgehellt: Unternehmen hoffen auf Entspannung in Nahost",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-juni-gestiegen-100.html",
+      "title": "Anforderungen an Firmen zum Energiesparen sollen gesenkt werden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aenderung-energieeffizienzgesetz-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T11:23:38+02:00"
+      "sort_date": "2026-06-24T16:24:08+02:00"
     },
     {
-      "title": "Hitze hat Europa weiter im Griff",
-      "link": "https://www.tagesschau.de/ausland/europa/hitze-europa-118.html",
+      "title": "Erster Ebola-Fall in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ebola-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T11:09:10+02:00"
+      "sort_date": "2026-06-24T16:18:41+02:00"
     },
     {
-      "title": "Marktbericht: Verkaufswelle rollt weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-116.html",
+      "title": "Befragung im Bundestag: Merz will Rentenreform bis zum Ende des Jahres",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungsbefragung-104.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T10:59:52+02:00"
+      "sort_date": "2026-06-24T15:53:33+02:00"
     },
     {
-      "title": "Störung bei der Bahn - Kommunikationssystem als Knackpunkt",
-      "link": "https://www.tagesschau.de/wirtschaft/bahn-stoerung-gsmr-100.html",
+      "title": "Studie: Mehr junge Menschen machen Drogenerfahrungen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drogenkonsum-junge-erwachsene-studie-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T10:49:23+02:00"
+      "sort_date": "2026-06-24T15:34:21+02:00"
     },
     {
-      "title": "Pistorius beendet umstrittenes Fregatten-Projekt F126",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fregatten-projekt-pistorius-100.html",
+      "title": "Was dem Waldumbau im Weg steht",
+      "link": "https://www.tagesschau.de/wissen/klima/forstwirtschaft-112.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T10:47:52+02:00"
+      "sort_date": "2026-06-24T14:55:32+02:00"
     }
   ],
   "Food": []
