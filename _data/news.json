@@ -112,11 +112,32 @@
   ],
   "News": [
     {
+      "title": "US-Senat stimmt gegen Iran-Einsätze ohne Kongressmandat",
+      "link": "https://www.tagesschau.de/ausland/amerika/uskongress-iran-trump-100.html",
+      "published": "24 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-24T03:49:59+02:00"
+    },
+    {
+      "title": "Bundesweite IT-Störung bei der Bahn behoben - Zugverkehr läuft wieder an",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-behoben-100.html",
+      "published": "24 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-24T02:52:44+02:00"
+    },
+    {
+      "title": "NATO-Generalsekretär Rutte trifft Präsident Trump in Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-rutte-100.html",
+      "published": "24 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-24T02:42:22+02:00"
+    },
+    {
       "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
       "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T00:03:59+02:00"
+      "sort_date": "2026-06-24T00:28:38+02:00"
     },
     {
       "title": "Was bedeutet Starmers Rücktritt für Europas Sicherheit?",
@@ -124,27 +145,6 @@
       "published": "23 Jun 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-06-23T19:52:00+00:00"
-    },
-    {
-      "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html",
-      "published": "23 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-23T18:48:37+02:00"
-    },
-    {
-      "title": "Marktbericht: KI-Verkaufswelle belastet den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-spacex-geldanlage-100.html",
-      "published": "23 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-23T18:19:44+02:00"
-    },
-    {
-      "title": "Streit um Armeeeinheit: Selenskyj nicht bei Konferenz in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-polen-streit-100.html",
-      "published": "23 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-23T17:49:12+02:00"
     }
   ],
   "Food": []
