@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Physicists Track and Trap the Elusive Neutrino",
+      "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "published": "24 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-24T16:04:32+00:00"
+    },
+    {
       "title": "AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI.",
       "link": "https://singularityhub.com/2026/06/23/ai-collapses-on-a-classic-psychology-test-what-it-reveals-could-stall-human-level-ai/",
       "published": "23 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "20 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-20T14:00:00+00:00"
-    },
-    {
-      "title": "Solar Beat Coal in US Electricity Mix for the First Time in May",
-      "link": "https://singularityhub.com/2026/06/19/solar-beat-coal-in-us-electricity-mix-for-the-first-time-in-may/",
-      "published": "19 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-19T20:57:26+00:00"
     }
   ],
   "News": [
     {
-      "title": "Anforderungen an Firmen zum Energiesparen sollen gesenkt werden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aenderung-energieeffizienzgesetz-100.html",
+      "title": "Marktbericht: Verkaufswelle rollt weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-116.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T16:24:08+02:00"
+      "sort_date": "2026-06-24T18:45:16+02:00"
     },
     {
-      "title": "Erster Ebola-Fall in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ebola-100.html",
+      "title": "Ermittler nehmen Schadsoftware vom Netz",
+      "link": "https://www.tagesschau.de/inland/bka-europol-hacker-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T16:18:41+02:00"
+      "sort_date": "2026-06-24T18:25:55+02:00"
     },
     {
-      "title": "Befragung im Bundestag: Merz will Rentenreform bis zum Ende des Jahres",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungsbefragung-104.html",
+      "title": "Was über die Bahn-Störung bekannt ist",
+      "link": "https://www.tagesschau.de/inland/was-zur-bahn-stoerung-bekannt-ist-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T15:53:33+02:00"
+      "sort_date": "2026-06-24T17:43:18+02:00"
     },
     {
-      "title": "Studie: Mehr junge Menschen machen Drogenerfahrungen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/drogenkonsum-junge-erwachsene-studie-100.html",
+      "title": "Handynutzer sollen Funklöcher über App melden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/funkloecher-app-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T15:34:21+02:00"
+      "sort_date": "2026-06-24T17:09:09+02:00"
     },
     {
-      "title": "Was dem Waldumbau im Weg steht",
-      "link": "https://www.tagesschau.de/wissen/klima/forstwirtschaft-112.html",
+      "title": "Ukraine: Sexarbeit im Frontgebiet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-sexarbeit-front-100.html",
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T14:55:32+02:00"
+      "sort_date": "2026-06-24T17:05:02+02:00"
     }
   ],
   "Food": []
