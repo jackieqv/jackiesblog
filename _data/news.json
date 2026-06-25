@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Department of Homeland E-Verify Account Certification: What You Need to Know",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/department-of-homeland-e-verify-account-certification-what-you-need-to-know/ba-p/14427316",
+      "published": "25 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-25T13:12:35+00:00"
+    },
+    {
       "title": "Why Thank You Awards Deserve More Attention in SAP SuccessFactors Reward and Recognition",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-thank-you-awards-deserve-more-attention-in-sap-successfactors-reward/ba-p/14426914",
       "published": "25 Jun 2026",
@@ -64,16 +71,16 @@
       "published": "19 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-19T20:42:05+00:00"
-    },
-    {
-      "title": "Joule Studio Versus Joule - HCM Focus",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/joule-studio-versus-joule-hcm-focus/ba-p/14423495",
-      "published": "19 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-19T15:30:41+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "What Is the Positive Grassmannian and Why Does It Show Up Everywhere?",
+      "link": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
+      "published": "25 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-25T13:54:27+00:00"
+    },
     {
       "title": "How Physicists Track and Trap the Elusive Neutrino",
       "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
@@ -101,50 +108,43 @@
       "published": "22 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-22T14:52:52+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 20)",
-      "link": "https://singularityhub.com/2026/06/20/this-weeks-awesome-tech-stories-from-around-the-web-through-june-20-2/",
-      "published": "20 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-20T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Liveblog: So bekommen Deutschland und Europa die Hitze zu spüren",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-100.html",
+      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T11:10:11+02:00"
+      "sort_date": "2026-06-25T16:20:24+02:00"
     },
     {
-      "title": "Marktbericht: Zinssorgen halten DAX zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html",
+      "title": "Emotionen beim Sport: Wie Hitze den WM-Fans zu schaffen macht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-fussball-fans-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T10:43:24+02:00"
+      "sort_date": "2026-06-25T16:06:03+02:00"
     },
     {
-      "title": "Bahn bietet wegen Hitze kostenlose Stornierung an",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-hitze-stornierung-100.html",
+      "title": "VW-Manager Michael Obrowski wird neuer Finanzchef der Bahn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-neuer-finanzvorstand-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T10:33:25+02:00"
+      "sort_date": "2026-06-25T15:54:08+02:00"
     },
     {
-      "title": "Klimadesinformation - Fakes relativieren Hitzewelle",
-      "link": "https://www.tagesschau.de/faktenfinder/hitze-fakes-100.html",
+      "title": "Frankreich stoppt erneut Öltanker aus Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tanker-schattenflotte-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T10:09:34+02:00"
+      "sort_date": "2026-06-25T15:47:39+02:00"
     },
     {
-      "title": "USA beginnen Feierlichkeiten zum 250. Jahrestag",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahrestag-100.html",
+      "title": "Sind Klimageräte Stromfresser? So hoch sind Verbrauch und Kosten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hitze-klimaanlagen-stromverbrauch-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T09:23:35+02:00"
+      "sort_date": "2026-06-25T15:06:28+02:00"
     }
   ],
   "Food": []
