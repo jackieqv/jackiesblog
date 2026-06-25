@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Deutschland verliert mit 1:2 gegen Ecuador",
+      "link": "https://www.tagesschau.de/sport/deutschland-ecuador-wm-2026-100.html",
+      "published": "26 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-26T00:13:33+02:00"
+    },
+    {
       "title": "Bund und Länder einigen sich auf Finanzentlastung für Kommunen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bund-laender-entlastung-kommunen-100.html",
       "published": "25 Jun 2026",
@@ -124,13 +131,6 @@
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-25T20:24:21+02:00"
-    },
-    {
-      "title": "Was über die Erdbeben in Venezuela bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/was-ueber-das-erdbeben-in-venezuela-bekannt-ist-100.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T20:15:31+02:00"
     },
     {
       "title": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
