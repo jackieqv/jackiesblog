@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away",
+      "link": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/",
+      "published": "25 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-25T16:02:56+00:00"
+    },
+    {
       "title": "What Is the Positive Grassmannian and Why Does It Show Up Everywhere?",
       "link": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
       "published": "25 Jun 2026",
@@ -101,16 +108,30 @@
       "published": "22 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-22T22:46:18+00:00"
-    },
-    {
-      "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
-      "link": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
-      "published": "22 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-22T14:52:52+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Was über die Erdbeben in Venezuela bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/was-ueber-das-erdbeben-in-venezuela-bekannt-ist-100.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T18:42:43+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX rappelt sich auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T18:10:31+02:00"
+    },
+    {
+      "title": "Oberstes US-Gericht entscheidet im Glyphosat-Streit zugunsten von Bayer",
+      "link": "https://www.tagesschau.de/ausland/amerika/bayer-glyphosat-104.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T17:16:57+02:00"
+    },
     {
       "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html",
@@ -124,27 +145,6 @@
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-25T16:06:03+02:00"
-    },
-    {
-      "title": "VW-Manager Michael Obrowski wird neuer Finanzchef der Bahn",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-neuer-finanzvorstand-100.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T15:54:08+02:00"
-    },
-    {
-      "title": "Frankreich stoppt erneut Öltanker aus Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tanker-schattenflotte-100.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T15:47:39+02:00"
-    },
-    {
-      "title": "Sind Klimageräte Stromfresser? So hoch sind Verbrauch und Kosten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hitze-klimaanlagen-stromverbrauch-100.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T15:06:28+02:00"
     }
   ],
   "Food": []
