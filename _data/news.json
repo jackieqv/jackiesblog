@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Bund und Länder einigen sich auf Finanzentlastung für Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-laender-entlastung-kommunen-100.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T21:09:29+02:00"
+    },
+    {
+      "title": "Organspende-Debatte im Bundestag: \"Der Mensch ist kein Ersatzteillager\"",
+      "link": "https://www.tagesschau.de/inland/organspende-debatte-bundestag-100.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T20:24:21+02:00"
+    },
+    {
       "title": "Was über die Erdbeben in Venezuela bekannt ist",
       "link": "https://www.tagesschau.de/ausland/amerika/was-ueber-das-erdbeben-in-venezuela-bekannt-ist-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T18:42:43+02:00"
+      "sort_date": "2026-06-25T20:15:31+02:00"
     },
     {
-      "title": "Marktbericht: DAX rappelt sich auf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html",
+      "title": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
+      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbaukonferenz-danzig-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T18:10:31+02:00"
+      "sort_date": "2026-06-25T19:56:42+02:00"
     },
     {
-      "title": "Oberstes US-Gericht entscheidet im Glyphosat-Streit zugunsten von Bayer",
-      "link": "https://www.tagesschau.de/ausland/amerika/bayer-glyphosat-104.html",
+      "title": "Ungarn: \"Operation Fegefeuer\" gegen Orbans \"Mafia-System\"",
+      "link": "https://www.dw.com/de/ungarn-operation-fegefeuer-gegen-orbans-mafia-system/a-77704079?maca=de-rss-de-top-1016-xml-mrss",
       "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T17:16:57+02:00"
-    },
-    {
-      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T16:20:24+02:00"
-    },
-    {
-      "title": "Emotionen beim Sport: Wie Hitze den WM-Fans zu schaffen macht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-fussball-fans-100.html",
-      "published": "25 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T16:06:03+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-25T19:39:00+00:00"
     }
   ],
   "Food": []
