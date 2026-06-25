@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Why Thank You Awards Deserve More Attention in SAP SuccessFactors Reward and Recognition",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-thank-you-awards-deserve-more-attention-in-sap-successfactors-reward/ba-p/14426914",
+      "published": "25 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-25T05:48:34+00:00"
+    },
+    {
       "title": "HCM Brasil: pré-requisitos de Support Package para implementação de SAP Notes – 2027/2028",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-pr%C3%A9-requisitos-de-support-package-para-implementa%C3%A7%C3%A3o-de-sap/ba-p/14421603",
       "published": "22 Jun 2026",
@@ -64,13 +71,6 @@
       "published": "19 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-19T15:30:41+00:00"
-    },
-    {
-      "title": "SuccessFactors Onboarding Expanding Form I-9 Responsible Group Support",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-onboarding-expanding-form-i-9-responsible-group-support/ba-p/14422836",
-      "published": "18 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-18T18:44:27+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Viele Tote befürchtet: Erbeben erschüttern Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-102.html",
+      "title": "Liveblog: So bekommen Deutschland und Europa die Hitze zu spüren",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T04:14:05+02:00"
+      "sort_date": "2026-06-25T11:10:11+02:00"
     },
     {
-      "title": "Warme Abschiedsworte für Starmer bei E5-Treffen in Berlin",
-      "link": "https://www.tagesschau.de/ausland/europa/e5-treffen-100.html",
+      "title": "Marktbericht: Zinssorgen halten DAX zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html",
       "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-25T00:10:44+02:00"
+      "sort_date": "2026-06-25T10:43:24+02:00"
     },
     {
-      "title": "Bilanz des Verteidigungsministeriums: Mehr junge Menschen wollen zur Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-1122.html",
-      "published": "24 Jun 2026",
+      "title": "Bahn bietet wegen Hitze kostenlose Stornierung an",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-hitze-stornierung-100.html",
+      "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T22:03:15+02:00"
+      "sort_date": "2026-06-25T10:33:25+02:00"
     },
     {
-      "title": "Debatte über Äußerungen Pantisanos: \"Infam, geschichtsvergessen und niederträchtig\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pantisano-aktuelle-stunde-100.html",
-      "published": "24 Jun 2026",
+      "title": "Klimadesinformation - Fakes relativieren Hitzewelle",
+      "link": "https://www.tagesschau.de/faktenfinder/hitze-fakes-100.html",
+      "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T21:32:04+02:00"
+      "sort_date": "2026-06-25T10:09:34+02:00"
     },
     {
-      "title": "\"Hartes Ende\" - Pistorius stoppt F126-Fregatten-Pläne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fregatte-ausstieg-pistorius-100.html",
-      "published": "24 Jun 2026",
+      "title": "USA beginnen Feierlichkeiten zum 250. Jahrestag",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahrestag-100.html",
+      "published": "25 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T20:21:45+02:00"
+      "sort_date": "2026-06-25T09:23:35+02:00"
     }
   ],
   "Food": []
