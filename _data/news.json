@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Viele Tote befürchtet: Erbeben erschüttern Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-102.html",
+      "published": "25 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-25T04:14:05+02:00"
+    },
+    {
       "title": "Warme Abschiedsworte für Starmer bei E5-Treffen in Berlin",
       "link": "https://www.tagesschau.de/ausland/europa/e5-treffen-100.html",
       "published": "25 Jun 2026",
@@ -138,13 +145,6 @@
       "published": "24 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-24T20:21:45+02:00"
-    },
-    {
-      "title": "Wahlstreit in Kolumbien beigelegt: Linker Kandidat räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/wahlergebnis-kolumbien-100.html",
-      "published": "24 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-24T19:43:22+02:00"
     }
   ],
   "Food": []
