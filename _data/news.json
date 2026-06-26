@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Orbital Data Centers Are Seductive on Paper, but Face Daunting Challenges in Reality",
+      "link": "https://singularityhub.com/2026/06/26/orbital-data-centers-are-seductive-on-paper-but-face-daunting-challenges-in-reality/",
+      "published": "26 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-26T18:58:54+00:00"
+    },
+    {
       "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
       "link": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
       "published": "26 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "24 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-24T16:04:32+00:00"
-    },
-    {
-      "title": "AI Collapses on a Classic Psychology Test. What It Reveals Could Stall Human-Level AI.",
-      "link": "https://singularityhub.com/2026/06/23/ai-collapses-on-a-classic-psychology-test-what-it-reveals-could-stall-human-level-ai/",
-      "published": "23 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-23T18:35:30+00:00"
     }
   ],
   "News": [
     {
-      "title": "Temperaturrekord in Deutschland gemessen - 41,3 Grad in Saarbrücken",
-      "link": "https://www.tagesschau.de/inland/temperaturrekord-hoechstwert-in-deutschland-100.html",
+      "title": "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolton-regierungsakten-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T18:51:53+02:00"
+      "sort_date": "2026-06-26T21:27:57+02:00"
     },
     {
-      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html",
+      "title": "Lage auf der Krim: Ein Notstand mit Symbolwirkung",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krim-notstand-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T18:15:49+02:00"
+      "sort_date": "2026-06-26T20:55:44+02:00"
     },
     {
-      "title": "Neuer Juni-Temperaturhöchstwert für Juni gemessen",
-      "link": "https://www.tagesschau.de/inland/hitzerekord-juni-100.html",
+      "title": "Aktuelle Stunde: Streit über Rentenreform im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rentenreform-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T17:53:55+02:00"
+      "sort_date": "2026-06-26T20:37:43+02:00"
     },
     {
-      "title": "Stuttgart 21 auf 2031 verschoben - und drei Milliarden teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/stuttgart-21-teurer-100.html",
+      "title": "Verzehnfachung der Strompreise wegen der Hitze",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/hitzewelle-treibt-strompreise-an-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T17:24:06+02:00"
+      "sort_date": "2026-06-26T20:02:40+02:00"
     },
     {
-      "title": "Istanbul: Lange Haftstrafen im Prozess um vergiftete Familie",
-      "link": "https://www.tagesschau.de/ausland/asien/istanbul-vergiftete-familie-urteil-100.html",
+      "title": "Warum Deutsche keine Klimaanlagen haben",
+      "link": "https://www.dw.com/de/warum-deutsche-keine-klimaanlagen-haben/a-77711924?maca=de-rss-de-top-1016-xml-mrss",
       "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T16:22:08+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-26T19:08:00+00:00"
     }
   ],
   "Food": []
