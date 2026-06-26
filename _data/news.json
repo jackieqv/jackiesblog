@@ -75,7 +75,7 @@
   ],
   "Science": [
     {
-      "title": "Orbital Data Centers Are Seductive on Paper, but Face Daunting Challenges in Reality",
+      "title": "Orbital Data Centers Are Seductive on Paper, but They Face Daunting Challenges in Reality",
       "link": "https://singularityhub.com/2026/06/26/orbital-data-centers-are-seductive-on-paper-but-face-daunting-challenges-in-reality/",
       "published": "26 Jun 2026",
       "source": "SingularityHub",
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html",
+      "published": "26 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-26T23:49:52+02:00"
+    },
+    {
+      "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html",
+      "published": "26 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-26T22:11:12+02:00"
+    },
+    {
+      "title": "Trump droht EU-Ländern wegen Digitalsteuer mit Strafzöllen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html",
+      "published": "26 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-26T21:59:37+02:00"
+    },
+    {
       "title": "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig",
       "link": "https://www.tagesschau.de/ausland/amerika/bolton-regierungsakten-100.html",
       "published": "26 Jun 2026",
@@ -124,27 +145,6 @@
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-26T20:55:44+02:00"
-    },
-    {
-      "title": "Aktuelle Stunde: Streit über Rentenreform im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rentenreform-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T20:37:43+02:00"
-    },
-    {
-      "title": "Verzehnfachung der Strompreise wegen der Hitze",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/hitzewelle-treibt-strompreise-an-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T20:02:40+02:00"
-    },
-    {
-      "title": "Warum Deutsche keine Klimaanlagen haben",
-      "link": "https://www.dw.com/de/warum-deutsche-keine-klimaanlagen-haben/a-77711924?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "26 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-26T19:08:00+00:00"
     }
   ],
   "Food": []
