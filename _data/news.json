@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
+      "link": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+      "published": "26 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-26T15:26:29+00:00"
+    },
+    {
       "title": "Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away",
       "link": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/",
       "published": "25 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "23 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-23T18:35:30+00:00"
-    },
-    {
-      "title": "Can Psychedelics Reboot Aging Brains? We’re About to Find Out",
-      "link": "https://singularityhub.com/2026/06/22/can-psychedelics-reboot-aging-brains-were-about-to-find-out/",
-      "published": "22 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-22T22:46:18+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mehr arbeiten für das gleiche Geld: Mercedes verschärft Sparkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-sparkurs-100.html",
+      "title": "Temperaturrekord in Deutschland gemessen - 41,3 Grad in Saarbrücken",
+      "link": "https://www.tagesschau.de/inland/temperaturrekord-hoechstwert-in-deutschland-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T16:14:06+02:00"
+      "sort_date": "2026-06-26T18:51:53+02:00"
     },
     {
-      "title": "Zahl der Todesopfer in Venezuela steigt auf 589 - viele Vermisste",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-tote-vermisste-100.html",
+      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T16:08:23+02:00"
+      "sort_date": "2026-06-26T18:15:49+02:00"
     },
     {
-      "title": "Was tut die Politik für den Hitzeschutz?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-hitzeschutz-bund-laender-kommunen-100.html",
+      "title": "Neuer Juni-Temperaturhöchstwert für Juni gemessen",
+      "link": "https://www.tagesschau.de/inland/hitzerekord-juni-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T15:48:31+02:00"
+      "sort_date": "2026-06-26T17:53:55+02:00"
     },
     {
-      "title": "Archiv zu Nazi-Verbrechen: Teilerfolg für Zeugen Jehovas vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-archiv-100.html",
+      "title": "Stuttgart 21 auf 2031 verschoben - und drei Milliarden teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/stuttgart-21-teurer-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T15:39:25+02:00"
+      "sort_date": "2026-06-26T17:24:06+02:00"
     },
     {
-      "title": "Krieg gegen die Ukraine: Kiew und Moskau tauschen Kriegsgefangene aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-172.html",
+      "title": "Istanbul: Lange Haftstrafen im Prozess um vergiftete Familie",
+      "link": "https://www.tagesschau.de/ausland/asien/istanbul-vergiftete-familie-urteil-100.html",
       "published": "26 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T15:08:46+02:00"
+      "sort_date": "2026-06-26T16:22:08+02:00"
     }
   ],
   "Food": []
