@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Zahl der Toten nach Erdbeben in Venezuela weiter gestiegen",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-134.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T20:37:33+02:00"
+    },
+    {
+      "title": "Kuba kündigt Wirtschaftsreformen an - hilft das den Menschen?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kuba-wirtschaft-reform-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T20:08:52+02:00"
+    },
+    {
+      "title": "Zehntausende feiern bei Pride-Parade in Budapest - ohne Verbot",
+      "link": "https://www.tagesschau.de/ausland/europa/pride-parade-budapest-102.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T19:57:25+02:00"
+    },
+    {
+      "title": "El Niño: Indien bereitet sich auf Dürre vor",
+      "link": "https://www.dw.com/de/el-niño-indien-bereitet-sich-auf-dürre-vor/a-77728853?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-27T18:24:00+00:00"
+    },
+    {
       "title": "DWD: Hitzerekord in Deutschland erneut gebrochen",
       "link": "https://www.tagesschau.de/inland/hitzerekord-deutschland-100.html",
       "published": "27 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-27T17:58:37+02:00"
-    },
-    {
-      "title": "Ukraine greift Fabrik mit \"Flamingo\"-Marschflugkörpern an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-russland-104.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T17:41:38+02:00"
-    },
-    {
-      "title": "Argentinien: Mehr Mathe mit Messi & Co.",
-      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-bildung-messi-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T16:34:56+02:00"
-    },
-    {
-      "title": "Grüne beraten über Wahlkampf-Strategie für Ostdeutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ostkongress-gruene-sassnitz-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T16:31:51+02:00"
-    },
-    {
-      "title": "Drogen: Wie sich Portugal von einem Heroin-Problem befreite",
-      "link": "https://www.tagesschau.de/ausland/europa/portugal-drogenpolitik-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T15:32:58+02:00"
     }
   ],
   "Food": []
