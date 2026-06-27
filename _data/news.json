@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Attendance and Absence Collision Groupings – A Game Changer in SAP SuccessFactors Time Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/attendance-and-absence-collision-groupings-a-game-changer-in-sap/ba-p/14428475",
+      "published": "27 Jun 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-06-27T04:04:52+00:00"
+    },
+    {
       "title": "Extending the Value of SAP SuccessFactors Compensation Beyond Salary Reviews",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/extending-the-value-of-sap-successfactors-compensation-beyond-salary/ba-p/14427646",
       "published": "26 Jun 2026",
@@ -64,13 +71,6 @@
       "published": "22 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-22T13:43:43+00:00"
-    },
-    {
-      "title": "Converting Decimal Tenure into Years and Months in SAP SuccessFactors Story Reports",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/converting-decimal-tenure-into-years-and-months-in-sap-successfactors-story/ba-p/14424236",
-      "published": "22 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-22T07:53:39+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Weitere Erdstöße erschüttern Venezuela - Rettungsarbeiten laufen",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nachbeben-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T09:54:13+02:00"
+    },
+    {
+      "title": "Für ausgewählte Firmen: Anthropic gibt KI \"Mythos 5\" wieder frei",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-freigabe-us-unternehmen-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T09:38:53+02:00"
+    },
+    {
       "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
       "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html",
       "published": "27 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T05:22:10+02:00"
+      "sort_date": "2026-06-27T08:40:02+02:00"
     },
     {
-      "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T22:11:12+02:00"
+      "title": "USA und Iran schießen wieder - trotz Waffenruhe",
+      "link": "https://www.dw.com/de/usa-und-iran-schießen-wieder-trotz-waffenruhe/a-77732314?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-27T07:40:00+00:00"
     },
     {
-      "title": "Trump droht EU-Ländern wegen Digitalsteuer mit Strafzöllen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T21:59:37+02:00"
-    },
-    {
-      "title": "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolton-regierungsakten-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T21:27:57+02:00"
-    },
-    {
-      "title": "Lage auf der Krim: Ein Notstand mit Symbolwirkung",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krim-notstand-100.html",
-      "published": "26 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-26T20:55:44+02:00"
+      "title": "News kompakt: Israel und Libanon unterzeichnen Abkommen",
+      "link": "https://www.dw.com/de/news-kompakt-israel-und-libanon-unterzeichnen-abkommen/a-77731877?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-27T07:08:00+00:00"
     }
   ],
   "Food": []
