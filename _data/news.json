@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 27)",
+      "link": "https://singularityhub.com/2026/06/27/this-weeks-awesome-tech-stories-from-around-the-web-through-june-27-2/",
+      "published": "27 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-27T14:00:00+00:00"
+    },
+    {
       "title": "Orbital Data Centers Are Seductive on Paper, but They Face Daunting Challenges in Reality",
       "link": "https://singularityhub.com/2026/06/26/orbital-data-centers-are-seductive-on-paper-but-face-daunting-challenges-in-reality/",
       "published": "26 Jun 2026",
@@ -101,50 +108,43 @@
       "published": "25 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-25T13:54:27+00:00"
-    },
-    {
-      "title": "How Physicists Track and Trap the Elusive Neutrino",
-      "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-      "published": "24 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-24T16:04:32+00:00"
     }
   ],
   "News": [
+    {
+      "title": "DWD: Hitzerekord in Deutschland erneut gebrochen",
+      "link": "https://www.tagesschau.de/inland/hitzerekord-deutschland-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T17:58:37+02:00"
+    },
+    {
+      "title": "Ukraine greift Fabrik mit \"Flamingo\"-Marschflugkörpern an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-russland-104.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T17:41:38+02:00"
+    },
+    {
+      "title": "Argentinien: Mehr Mathe mit Messi & Co.",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-bildung-messi-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T16:34:56+02:00"
+    },
+    {
+      "title": "Grüne beraten über Wahlkampf-Strategie für Ostdeutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ostkongress-gruene-sassnitz-100.html",
+      "published": "27 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-27T16:31:51+02:00"
+    },
     {
       "title": "Drogen: Wie sich Portugal von einem Heroin-Problem befreite",
       "link": "https://www.tagesschau.de/ausland/europa/portugal-drogenpolitik-100.html",
       "published": "27 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-27T15:32:58+02:00"
-    },
-    {
-      "title": "Hitze-Liveblog: ++ Bahn rät von nicht notwendigen Reisen ab ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T15:32:52+02:00"
-    },
-    {
-      "title": "Kleinflugzeug kracht in Peking in Hochhaus",
-      "link": "https://www.tagesschau.de/ausland/asien/peking-flugzeugabsturz-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T15:25:31+02:00"
-    },
-    {
-      "title": "Angriffe lösen Sorge vor Eskalation am Persischen Golf aus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-bahrain-strasse-von-hormus-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T14:36:02+02:00"
-    },
-    {
-      "title": "80 Jahre Vespa: Geburtstagsparty mit wirtschaftlichen Sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/80-jahre-vespa-102.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T13:40:02+02:00"
     }
   ],
   "Food": []
