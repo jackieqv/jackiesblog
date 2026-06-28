@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T04:19:13+02:00"
+    },
+    {
+      "title": "Serbiens Präsident Vucic kündigt erneut Rücktritt an",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-vucic-ruecktritt-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T00:23:46+02:00"
+    },
+    {
       "title": "Zahl der Toten nach Erdbeben in Venezuela weiter gestiegen",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-134.html",
       "published": "27 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "27 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-27T19:57:25+02:00"
-    },
-    {
-      "title": "El Niño: Indien bereitet sich auf Dürre vor",
-      "link": "https://www.dw.com/de/el-niño-indien-bereitet-sich-auf-dürre-vor/a-77728853?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "27 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-27T18:24:00+00:00"
-    },
-    {
-      "title": "DWD: Hitzerekord in Deutschland erneut gebrochen",
-      "link": "https://www.tagesschau.de/inland/hitzerekord-deutschland-100.html",
-      "published": "27 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-27T17:58:37+02:00"
     }
   ],
   "Food": []
