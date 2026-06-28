@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Ugandas Armeechef und Präsidentensohn schließt Medien",
+      "link": "https://www.tagesschau.de/ausland/afrika/uganda-medien-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T20:19:01+02:00"
+    },
+    {
+      "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T19:05:40+02:00"
+    },
+    {
+      "title": "Parteichefs der Koalition beraten zu Reformen im Kanzleramt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-parteichefs-beratung-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T18:18:22+02:00"
+    },
+    {
       "title": "Erneuter Temperaturhöchstwert in Deutschland",
       "link": "https://www.tagesschau.de/inland/temperatur-hoechstwert-sonntag-100.html",
       "published": "28 Jun 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-06-28T17:06:00+02:00"
     },
     {
-      "title": "Feuerwehren im Großeinsatz: Kampf gegen Waldbrände - und die Munition im Boden",
-      "link": "https://www.tagesschau.de/inland/waldbraende-gohrischheide-bad-kreuznach-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T15:27:52+02:00"
-    },
-    {
       "title": "Elf Tote bei Absturz von Kleinflugzeug in Frankreich",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-flugzeugabsturz-100.html",
       "published": "28 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-28T15:16:19+02:00"
-    },
-    {
-      "title": "Deutsche Autorin Lena Schätte gewinnt Bachmann-Preis",
-      "link": "https://www.tagesschau.de/kultur/ingeborg-bachmann-preis-lena-schaette-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T14:45:17+02:00"
-    },
-    {
-      "title": "US-Einwanderungsbehörde: Trump nominiert neuen ICE-Chef",
-      "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T12:56:44+02:00"
     }
   ],
   "Food": []
