@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Feuerwehren im Großeinsatz: Kampf gegen Waldbrände - und die Munition im Boden",
+      "link": "https://www.tagesschau.de/inland/regional/waldbraende-gohrischheide-bad-kreuznach-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T15:27:52+02:00"
+    },
+    {
+      "title": "Elf Tote bei Absturz von Kleinflugzeug in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-flugzeugabsturz-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T15:16:19+02:00"
+    },
+    {
+      "title": "Deutsche Autorin Lena Schätte gewinnt Bachmann-Preis",
+      "link": "https://www.tagesschau.de/kultur/ingeborg-bachmann-preis-lena-schaette-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T14:45:17+02:00"
+    },
+    {
       "title": "US-Einwanderungsbehörde: Trump nominiert neuen ICE-Chef",
       "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-100.html",
       "published": "28 Jun 2026",
@@ -124,27 +145,6 @@
       "published": "28 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-28T12:47:41+02:00"
-    },
-    {
-      "title": "Nach dem Erdbeben: Die unermüdlichen Helfer von Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-136.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T12:35:35+02:00"
-    },
-    {
-      "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T11:42:31+02:00"
-    },
-    {
-      "title": "250 Jahre Unabhängigkeit der USA: Meine Freiheit, deine Freiheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-geburtstag-north-dakota-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T11:17:37+02:00"
     }
   ],
   "Food": []
