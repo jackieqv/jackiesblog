@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Hitzewelle in Deutschland: Wie Pflegeheime mit der Hitze umgehen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/senioren-hitze-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T23:58:12+02:00"
+    },
+    {
+      "title": "Suche nach Überlebenden: Die Wut auf die Regierung in Venezuela wächst",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-suche-100.html",
+      "published": "28 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-28T21:46:10+02:00"
+    },
+    {
       "title": "Ugandas Armeechef und Präsidentensohn schließt Medien",
       "link": "https://www.tagesschau.de/ausland/afrika/uganda-medien-100.html",
       "published": "28 Jun 2026",
@@ -119,32 +133,18 @@
       "sort_date": "2026-06-28T20:19:01+02:00"
     },
     {
+      "title": "Erbrecht in Nahost und Nordafrika: Frauen benachteiligt",
+      "link": "https://www.dw.com/de/erbrecht-in-nahost-und-nordafrika-frauen-benachteiligt/a-77674370?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "28 Jun 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-06-28T19:45:00+00:00"
+    },
+    {
       "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html",
       "published": "28 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-28T19:05:40+02:00"
-    },
-    {
-      "title": "Parteichefs der Koalition beraten zu Reformen im Kanzleramt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-parteichefs-beratung-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T18:18:22+02:00"
-    },
-    {
-      "title": "Erneuter Temperaturhöchstwert in Deutschland",
-      "link": "https://www.tagesschau.de/inland/temperatur-hoechstwert-sonntag-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T17:06:00+02:00"
-    },
-    {
-      "title": "Elf Tote bei Absturz von Kleinflugzeug in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-flugzeugabsturz-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T15:16:19+02:00"
     }
   ],
   "Food": []
