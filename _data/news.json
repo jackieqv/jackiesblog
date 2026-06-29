@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Ongoing Lessons Learnt integrating SmartRecruiters to SuccessFactors Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ongoing-lessons-learnt-integrating-smartrecruiters-to-successfactors/ba-p/14429461",
+      "published": "29 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-29T13:23:18+00:00"
+    },
+    {
+      "title": "HCM Brasil – Crédito do Trabalhador: Dedução de Garantia na Rescisão – Entrega Concluída!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-dedu%C3%A7%C3%A3o-de-garantia-na-rescis%C3%A3o-entrega/ba-p/14428419",
+      "published": "29 Jun 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-06-29T12:27:37+00:00"
+    },
+    {
       "title": "Attendance and Absence Collision Groupings – A Game Changer in SAP SuccessFactors Time Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/attendance-and-absence-collision-groupings-a-game-changer-in-sap/ba-p/14428475",
       "published": "27 Jun 2026",
@@ -57,23 +71,23 @@
       "published": "25 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-25T13:12:35+00:00"
-    },
-    {
-      "title": "Why Thank You Awards Deserve More Attention in SAP SuccessFactors Reward and Recognition",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/why-thank-you-awards-deserve-more-attention-in-sap-successfactors-reward/ba-p/14426914",
-      "published": "25 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-25T05:48:34+00:00"
-    },
-    {
-      "title": "HCM Brasil: pré-requisitos de Support Package para implementação de SAP Notes – 2027/2028",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-pr%C3%A9-requisitos-de-support-package-para-implementa%C3%A7%C3%A3o-de-sap/ba-p/14421603",
-      "published": "22 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-22T13:43:43+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "What Breaks a Cell’s Ribs Can Make It Stronger",
+      "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
+      "published": "29 Jun 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-06-29T14:00:09+00:00"
+    },
+    {
+      "title": "Forget Code: AI Is Learning to Hack Society",
+      "link": "https://singularityhub.com/2026/06/29/forget-code-ai-is-learning-to-hack-society/",
+      "published": "29 Jun 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-06-29T14:00:00+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through June 27)",
       "link": "https://singularityhub.com/2026/06/27/this-weeks-awesome-tech-stories-from-around-the-web-through-june-27-2/",
@@ -94,57 +108,43 @@
       "published": "26 Jun 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-06-26T15:26:29+00:00"
-    },
-    {
-      "title": "Companies Could Soon Staff ‘Stubbornly Local’ Jobs With Workers 4,000 Miles Away",
-      "link": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/",
-      "published": "25 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-25T16:02:56+00:00"
-    },
-    {
-      "title": "What Is the Positive Grassmannian and Why Does It Show Up Everywhere?",
-      "link": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
-      "published": "25 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-25T13:54:27+00:00"
     }
   ],
   "News": [
     {
-      "title": "Hoffnung und Verzweiflung im Erdbebengebiet von Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-hoffnung-verzweiflung-100.html",
+      "title": "Steinmeier fordert mit scharfen Worten mehr deutsches UN-Engagement",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-sustainability-conference-100.html",
       "published": "29 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-29T11:57:12+02:00"
+      "sort_date": "2026-06-29T17:11:06+02:00"
     },
     {
-      "title": "Badeunfälle: DLRG meldet mindestens 26 Tote und Vermisste",
-      "link": "https://www.tagesschau.de/inland/dlrg-bilanz-badeunfaelle-100.html",
+      "title": "Insolvenzverfahren: Deko-Kette Depot schließt weitere 66 Filialen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/depot-schliessung-100.html",
       "published": "29 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-29T11:39:49+02:00"
+      "sort_date": "2026-06-29T16:49:11+02:00"
     },
     {
-      "title": "Wie Russland mit Drohnen Zivilisten in der Ukraine jagt",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-terror-drohnen-saporischschja-100.html",
+      "title": "Zahlreiche Tote bei Angriffen Pakistans an afghanischer Grenze",
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-pakistan-angriffe-100.html",
       "published": "29 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-29T11:29:45+02:00"
+      "sort_date": "2026-06-29T16:37:38+02:00"
     },
     {
-      "title": "Marktbericht: DAX steigt trotz Unsicherheit im Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-136.html",
+      "title": "Kommentar: Hitze kostet und Hitze tötet",
+      "link": "https://www.tagesschau.de/kommentar/klima-hitze-bund-laender-100.html",
       "published": "29 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-29T10:43:17+02:00"
+      "sort_date": "2026-06-29T15:09:18+02:00"
     },
     {
-      "title": "Steinmeier warnt vor \"neuer Weltunordnung\"",
-      "link": "https://www.dw.com/de/steinmeier-warnt-vor-neuer-weltunordnung/a-77749618?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Vorwürfe gegen Trump: Insiderhandel bleibt ein heißes Thema",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nagarro-insiderhandel-trump-100.html",
       "published": "29 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-29T10:39:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-29T14:40:00+02:00"
     }
   ],
   "Food": []
