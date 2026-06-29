@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Israels Armee zerstört Tunnel im Südlibanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-hisbollah-118.html",
+      "published": "29 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-29T03:40:01+02:00"
+    },
+    {
+      "title": "Treibstoffmangel: Putin räumt Versorgungsprobleme ein",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-treibstoff-knappheit-100.html",
+      "published": "29 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-29T00:20:20+02:00"
+    },
+    {
       "title": "Hitzewelle in Deutschland: Wie Pflegeheime mit der Hitze umgehen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/senioren-hitze-100.html",
       "published": "28 Jun 2026",
@@ -131,20 +145,6 @@
       "published": "28 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-28T20:19:01+02:00"
-    },
-    {
-      "title": "Erbrecht in Nahost und Nordafrika: Frauen benachteiligt",
-      "link": "https://www.dw.com/de/erbrecht-in-nahost-und-nordafrika-frauen-benachteiligt/a-77674370?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "28 Jun 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-06-28T19:45:00+00:00"
-    },
-    {
-      "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html",
-      "published": "28 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-28T19:05:40+02:00"
     }
   ],
   "Food": []
