@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Setzen USA und Iran Gespräche fort?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-verhandlungen-100.html",
+      "published": "30 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-30T03:44:25+02:00"
+    },
+    {
       "title": "Was über die Gewalttat von Stade mit sechs Toten bekannt ist",
       "link": "https://www.tagesschau.de/inland/stade-schuesse-faq-100.html",
       "published": "29 Jun 2026",
@@ -138,13 +145,6 @@
       "published": "29 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-29T20:07:44+02:00"
-    },
-    {
-      "title": "US-Präsident Trump erleidet Niederlagen vor Supreme Court",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-100.html",
-      "published": "29 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-29T19:58:02+02:00"
     }
   ],
   "Food": []
