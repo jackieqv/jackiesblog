@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Worum geht es beim Urteil zum US-Geburtsrecht?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-urteil-staatsbuergerschaftsrecht-100.html",
+      "published": "30 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-30T21:37:33+02:00"
+    },
+    {
+      "title": "Porträt von Merkel für Ahnengalerie im Kanzleramt vorgestellt",
+      "link": "https://www.tagesschau.de/kultur/merkel-portraet-kanzleramt-100.html",
+      "published": "30 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-30T21:32:11+02:00"
+    },
+    {
+      "title": "Was die neue Grundsicherung für Betroffene bedeutet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/grundsicherung-132.html",
+      "published": "30 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-30T19:40:10+02:00"
+    },
+    {
       "title": "Raketenabwehrsystem \"Arrow\" wird in Kaufbeuren stationiert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/raketenabwehr-arrow-kaufbeuren-100.html",
       "published": "30 Jun 2026",
@@ -124,27 +145,6 @@
       "published": "30 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-30T18:28:32+02:00"
-    },
-    {
-      "title": "US-Geburtsrecht: Urteil kippt Trumps Plan zur Staatsbürgerschaft",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-urteile-staatsbuergerschaft-transgender-100.html",
-      "published": "30 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-30T18:14:35+02:00"
-    },
-    {
-      "title": "Erneut fremdenfeindliche Proteste in Südafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/proteste-suedafrika-stichtag-gegen-migranten-100.html",
-      "published": "30 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-30T18:07:14+02:00"
-    },
-    {
-      "title": "Wagenknecht und Weidel? Das BSW und die Annäherung an die AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-afd-brief-100.html",
-      "published": "30 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-30T17:32:41+02:00"
     }
   ],
   "Food": []
