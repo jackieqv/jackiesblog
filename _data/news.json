@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Fast 2.000 Tote nach Erdbeben in Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-todesopfer-100.html",
+      "published": "30 Jun 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-06-30T23:05:22+02:00"
+    },
+    {
       "title": "Worum geht es beim Urteil zum US-Geburtsrecht?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-urteil-staatsbuergerschaftsrecht-100.html",
       "published": "30 Jun 2026",
@@ -138,13 +145,6 @@
       "published": "30 Jun 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-06-30T18:40:29+02:00"
-    },
-    {
-      "title": "Marktbericht: Versöhnlicher Halbjahres-Abschluss an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-100.html",
-      "published": "30 Jun 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-06-30T18:28:32+02:00"
     }
   ],
   "Food": []
