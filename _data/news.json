@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-spritpreise-100.html",
+      "published": "01 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-01T21:35:55+02:00"
+    },
+    {
+      "title": "Was die Supreme-Court-Urteile für die Macht des Präsidenten bedeuten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-supreme-court-urteile-100.html",
+      "published": "01 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-01T21:25:33+02:00"
+    },
+    {
+      "title": "Rente erhöht - und plötzlich steuerpflichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-erhoehung-steuern-100.html",
+      "published": "01 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-01T20:11:49+02:00"
+    },
+    {
+      "title": "Abkommen mit Israel stößt im Libanon auf Skepsis",
+      "link": "https://www.dw.com/de/abkommen-mit-israel-stößt-im-libanon-auf-skepsis/a-77778171?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "01 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-01T19:49:00+00:00"
+    },
+    {
       "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-01T18:54:19+02:00"
-    },
-    {
-      "title": "Erstmals DNA von Steinzeitmenschen an Höhlenwänden gefunden",
-      "link": "https://www.tagesschau.de/wissen/forschung/dna-menschen-hoehlenmalerei-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T18:42:50+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX ohne positive Impulse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T18:21:14+02:00"
-    },
-    {
-      "title": "Erneut mehr Verdachtsmeldungen bei der Bundeswehr",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-rechtsextremismus-136.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T18:00:22+02:00"
-    },
-    {
-      "title": "Koalitionsspitzen beraten über Reformen - Kanzler Merz optimistisch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-vor-koalitionsausschuss-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T17:56:58+02:00"
     }
   ],
   "Food": []
