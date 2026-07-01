@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SF Skills Proficiency: What Business Value Are You Seeing from Multi-Level Proficiency Scales?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sf-skills-proficiency-what-business-value-are-you-seeing-from-multi-level/ba-p/14431422",
+      "published": "01 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-01T11:44:43+00:00"
+    },
+    {
       "title": "Integration of Position Budgeting Control for Cloud with SAP S/4HANA On-Premise Payroll",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/integration-of-position-budgeting-control-for-cloud-with-sap-s-4hana-on/ba-p/14430968",
       "published": "01 Jul 2026",
@@ -64,16 +71,16 @@
       "published": "30 Jun 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-06-30T11:04:07+00:00"
-    },
-    {
-      "title": "Ongoing Lessons Learnt integrating SmartRecruiters to SuccessFactors Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ongoing-lessons-learnt-integrating-smartrecruiters-to-successfactors/ba-p/14429461",
-      "published": "29 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-29T13:23:18+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "published": "01 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-01T14:00:02+00:00"
+    },
     {
       "title": "This DNA Switch Could Control Molecular Machines",
       "link": "https://singularityhub.com/2026/06/30/this-dna-switch-could-control-molecular-machines/",
@@ -101,50 +108,43 @@
       "published": "27 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-27T14:00:00+00:00"
-    },
-    {
-      "title": "Orbital Data Centers Are Seductive on Paper, but They Face Daunting Challenges in Reality",
-      "link": "https://singularityhub.com/2026/06/26/orbital-data-centers-are-seductive-on-paper-but-face-daunting-challenges-in-reality/",
-      "published": "26 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-26T18:58:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Korruptions-Razzia wegen Tickets für Fußball-EM 2024",
-      "link": "https://www.tagesschau.de/inland/razzia-em-2024-100.html",
+      "title": "Trump lobt indirekte Gespräche mit Iran in Katar",
+      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-usa-iran-katar-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T11:37:53+02:00"
+      "sort_date": "2026-07-01T16:19:46+02:00"
     },
     {
-      "title": "Warum Stahlaktien trotz Dauerkrise so gut laufen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahlindustrie-krise-zoelle-100.html",
+      "title": "250 Jahre USA: Wer sich noch dazugehörig fühlt",
+      "link": "https://www.tagesschau.de/ausland/usa-250-jahre-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T11:18:12+02:00"
+      "sort_date": "2026-07-01T16:01:45+02:00"
     },
     {
-      "title": "Zolldeal in Kraft: US-Industriegüter und Hummer ab heute zollfrei",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zolldeal-eu-usa-industrie-hummer-100.html",
+      "title": "NATO-Generalsekretär Rutte lobt Deutschlands Einsatz die NATO",
+      "link": "https://www.tagesschau.de/inland/rutte-nato-deutschland-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T11:17:56+02:00"
+      "sort_date": "2026-07-01T15:47:26+02:00"
     },
     {
-      "title": "Grundsicherung vor Neuberechnung: Drohen Kürzungen bei den Regelsätzen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regelsaetze-grundsicherung-100.html",
+      "title": "Tankstellen-Pächter befürchten neuen Unmut von Autofahrern",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-bilanz-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T11:08:03+02:00"
+      "sort_date": "2026-07-01T15:01:00+02:00"
     },
     {
-      "title": "Statistisches Bundesamt: So wenig Geburten wie zuletzt 1997",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-sinkt-100.html",
+      "title": "Spritpreise ziehen mit dem Ende des Tankrabatts kräftig an",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuererleichterung-100.html",
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T10:51:16+02:00"
+      "sort_date": "2026-07-01T14:59:42+02:00"
     }
   ],
   "Food": []
