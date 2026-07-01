@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Koalitionsausschuss: Einigung auf Paket für Wachstum und Beschäftigung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-102.html",
+      "published": "01 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-01T23:50:04+02:00"
+    },
+    {
       "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
       "link": "https://www.tagesschau.de/ausland/europa/polen-spritpreise-100.html",
       "published": "01 Jul 2026",
@@ -138,13 +145,6 @@
       "published": "01 Jul 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-07-01T19:49:00+00:00"
-    },
-    {
-      "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T18:54:19+02:00"
     }
   ],
   "Food": []
