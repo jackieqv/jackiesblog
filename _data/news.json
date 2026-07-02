@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Employee Pay Transparency in SAP SuccessFactors: Turning Localization Into an Executable Process",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/employee-pay-transparency-in-sap-successfactors-turning-localization-into/ba-p/14430561",
+      "published": "02 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-02T18:05:24+00:00"
+    },
+    {
       "title": "SF Skills Proficiency: What Business Value Are You Seeing from Multi-Level Proficiency Scales?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sf-skills-proficiency-what-business-value-are-you-seeing-from-multi-level/ba-p/14431422",
       "published": "01 Jul 2026",
@@ -64,13 +71,6 @@
       "published": "30 Jun 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-06-30T12:01:27+00:00"
-    },
-    {
-      "title": "How We Built an Audit and Compliance Solution for SAP SuccessFactors HCM Using SAP BTP and Joule",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-an-audit-and-compliance-solution-for-sap-successfactors-hcm/ba-p/14426372",
-      "published": "30 Jun 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-06-30T11:04:07+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-interview-reformen-100.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T19:56:40+02:00"
+    },
+    {
+      "title": "Reformpläne: Kritik und Lob von Opposition und Verbänden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-reaktionen-100.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T19:54:56+02:00"
+    },
+    {
+      "title": "Absturz in CITIC Tower: Pekings Behörden nennen Details zu Flugzeug-Crash",
+      "link": "https://www.tagesschau.de/ausland/asien/china-leichtflugzeug-100.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T19:03:58+02:00"
+    },
+    {
       "title": "1.000 Tage Dauerkrise: Der Nahe Osten hat seinen Kompass verloren",
       "link": "https://www.tagesschau.de/kommentar/israel-gaza-hamas-jahrestag-100.html",
       "published": "02 Jul 2026",
@@ -124,27 +145,6 @@
       "published": "02 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-02T18:18:21+02:00"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Der Druck auf Merz wächst",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-juli-102.html",
-      "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T18:00:36+02:00"
-    },
-    {
-      "title": "Schwarz-rote Reformen: Das soll sich bei der Krankschreibung ändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-krankheitstage-reform-100.html",
-      "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T17:46:54+02:00"
-    },
-    {
-      "title": "DAX erreicht nach sinkenden Ölpreisen Rekordstand",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/dax-rekordhoch-108.html",
-      "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T17:23:03+02:00"
     }
   ],
   "Food": []
