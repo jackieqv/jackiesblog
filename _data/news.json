@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Selenskyj möchte Patriot-Raketen in der Ukraine produzieren lassen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-patriot-104.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T22:36:06+02:00"
+    },
+    {
+      "title": "Vatikan schließt Piusbrüder aus der Kirche aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/pius-papst-exkommunikation-100.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T21:31:53+02:00"
+    },
+    {
       "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-interview-reformen-100.html",
       "published": "02 Jul 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-07-02T19:54:56+02:00"
     },
     {
-      "title": "Absturz in CITIC Tower: Pekings Behörden nennen Details zu Flugzeug-Crash",
-      "link": "https://www.tagesschau.de/ausland/asien/china-leichtflugzeug-100.html",
+      "title": "Trümmer und Trotz: Kyjiw nach dem bislang schwersten Angriff",
+      "link": "https://www.dw.com/de/trümmer-und-trotz-kyjiw-nach-dem-bislang-schwersten-angriff/a-77810040?maca=de-rss-de-top-1016-xml-mrss",
       "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T19:03:58+02:00"
-    },
-    {
-      "title": "1.000 Tage Dauerkrise: Der Nahe Osten hat seinen Kompass verloren",
-      "link": "https://www.tagesschau.de/kommentar/israel-gaza-hamas-jahrestag-100.html",
-      "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T18:18:34+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX schafft neues Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html",
-      "published": "02 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-02T18:18:21+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-02T19:44:00+00:00"
     }
   ],
   "Food": []
