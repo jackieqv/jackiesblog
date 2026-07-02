@@ -112,11 +112,32 @@
   ],
   "News": [
     {
+      "title": "Ukraine meldet massive russische Luftangriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T05:07:45+02:00"
+    },
+    {
+      "title": "Pflegepersonal - AOK kritisiert Fehlanreize für Heimbetreiber",
+      "link": "https://www.tagesschau.de/investigativ/rbb/aok-abrechnung-pflegepersonal-100.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T05:00:27+02:00"
+    },
+    {
+      "title": "Venezuela: Hoffnung auf Neuanfang durch Erdbeben erschüttert",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-folgen-102.html",
+      "published": "02 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-02T03:21:12+02:00"
+    },
+    {
       "title": "Koalitionsausschuss: Einigung auf Paket für Wachstum und Beschäftigung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-102.html",
-      "published": "01 Jul 2026",
+      "published": "02 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T23:50:04+02:00"
+      "sort_date": "2026-07-02T00:16:46+02:00"
     },
     {
       "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
@@ -124,27 +145,6 @@
       "published": "01 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-01T21:35:55+02:00"
-    },
-    {
-      "title": "Was die Supreme-Court-Urteile für die Macht des Präsidenten bedeuten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-supreme-court-urteile-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T21:25:33+02:00"
-    },
-    {
-      "title": "Rente erhöht - und plötzlich steuerpflichtig",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-erhoehung-steuern-100.html",
-      "published": "01 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-01T20:11:49+02:00"
-    },
-    {
-      "title": "Abkommen mit Israel stößt im Libanon auf Skepsis",
-      "link": "https://www.dw.com/de/abkommen-mit-israel-stößt-im-libanon-auf-skepsis/a-77778171?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-01T19:49:00+00:00"
     }
   ],
   "Food": []
