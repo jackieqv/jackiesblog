@@ -36,43 +36,7 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [
-    {
-      "title": "Employee Pay Transparency in SAP SuccessFactors: Turning Localization Into an Executable Process",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/employee-pay-transparency-in-sap-successfactors-turning-localization-into/ba-p/14430561",
-      "published": "02 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-02T18:05:24+00:00"
-    },
-    {
-      "title": "SF Skills Proficiency: What Business Value Are You Seeing from Multi-Level Proficiency Scales?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sf-skills-proficiency-what-business-value-are-you-seeing-from-multi-level/ba-p/14431422",
-      "published": "01 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-01T11:44:43+00:00"
-    },
-    {
-      "title": "Integration of Position Budgeting Control for Cloud with SAP S/4HANA On-Premise Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/integration-of-position-budgeting-control-for-cloud-with-sap-s-4hana-on/ba-p/14430968",
-      "published": "01 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-01T06:16:20+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors HCM Implementation – Rehire Process Design – Part 1",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-hcm-implementation-rehire-process-design-part-1/ba-p/14430767",
-      "published": "30 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-30T17:06:36+00:00"
-    },
-    {
-      "title": "How to Configure SEPA Instant Transfers in SAP (DMEE / CGI Format)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-configure-sepa-instant-transfers-in-sap-dmee-cgi-format/ba-p/14430474",
-      "published": "30 Jun 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-06-30T12:01:27+00:00"
-    }
-  ],
+  "Technology": [],
   "Science": [
     {
       "title": "Astrophysicists Puzzle Over Webb’s New Universe",
