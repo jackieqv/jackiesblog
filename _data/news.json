@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Wahl in Algerien: Beteiligung so niedrig wie nie",
+      "link": "https://www.tagesschau.de/ausland/afrika/algerien-parlamentswahl-wahlbeteiligung-gering-wie-nie-100.html",
+      "published": "03 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-03T17:58:56+02:00"
+    },
+    {
+      "title": "UN-Wetterorganisation: El Niño macht Extremwetter jetzt wahrscheinlicher",
+      "link": "https://www.tagesschau.de/wissen/klima/el-nino-unweltorganisation-meteorologie-100.html",
+      "published": "03 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-03T17:58:42+02:00"
+    },
+    {
+      "title": "Massenproteste gegen Sparpläne bei Mercedes-Benz",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-proteste-autobauer-ig-metall-102.html",
+      "published": "03 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-03T17:46:28+02:00"
+    },
+    {
+      "title": "Steuerreform der Bundesregierung: Warum die Entlastung verpuffen könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-bundesregierung-entlastungen-100.html",
+      "published": "03 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-03T16:47:04+02:00"
+    },
+    {
       "title": "Aktion #ichstillwoichwill: Warum Stillen bis heute provoziert",
       "link": "https://www.tagesschau.de/kultur/aktion-ich-still-wo-ich-will-100.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-03T15:56:50+02:00"
-    },
-    {
-      "title": "Fast 50 Prozent mehr E-Autos im ersten Halbjahr neu zugelassen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autos-neuzulassungen-kba-elektromobilitaet-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T15:52:04+02:00"
-    },
-    {
-      "title": "Ökonom Heinemann zu Reform-Beschlüssen: \"Dieses Paket hilft\"",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/reformpaket-bundesregierung-wachstum-heinemann-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T15:02:25+02:00"
-    },
-    {
-      "title": "Anschlag in Monaco: Interpol fahndet nach Ukrainerin aus Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/anschlag-monaco-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T14:59:09+02:00"
-    },
-    {
-      "title": "Mindestens 40 Tote bei Busunglück in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-busunglueck-104.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T14:50:35+02:00"
     }
   ],
   "Food": []
