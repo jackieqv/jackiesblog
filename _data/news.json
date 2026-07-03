@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "The Milky Way Was Rewired by a Cataclysmic Collision Billions of Years Ago. Now It Is on Course for Another.",
+      "link": "https://singularityhub.com/2026/07/03/the-milky-way-was-rewired-by-a-cataclysmic-collision-billions-of-years-ago-now-it-is-on-course-for-another/",
+      "published": "03 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-03T14:00:00+00:00"
+    },
+    {
       "title": "Astrophysicists Puzzle Over Webb’s New Universe",
       "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
       "published": "02 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "30 Jun 2026",
       "source": "SingularityHub",
       "sort_date": "2026-06-30T14:00:00+00:00"
-    },
-    {
-      "title": "What Breaks a Cell’s Ribs Can Make It Stronger",
-      "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
-      "published": "29 Jun 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-06-29T14:00:09+00:00"
     }
   ],
   "News": [
     {
-      "title": "Argentinien verhängt Stadionverbote gegen zahlungsunwillige Väter",
-      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-unterhalt-100.html",
+      "title": "Aktion #ichstillwoichwill: Warum Stillen bis heute provoziert",
+      "link": "https://www.tagesschau.de/kultur/aktion-ich-still-wo-ich-will-100.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T13:24:17+02:00"
+      "sort_date": "2026-07-03T15:56:50+02:00"
     },
     {
-      "title": "Nagelsmann tritt als Bundestrainer zurück - Klopp steht bereit",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-nagelsmann-ruecktritt-bundestrainer-100.html",
+      "title": "Fast 50 Prozent mehr E-Autos im ersten Halbjahr neu zugelassen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autos-neuzulassungen-kba-elektromobilitaet-100.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T12:38:01+02:00"
+      "sort_date": "2026-07-03T15:52:04+02:00"
     },
     {
-      "title": "Gemunkel um Vielleicht-Hochzeit von Taylor Swift und Travis Kelce",
-      "link": "https://www.tagesschau.de/ausland/amerika/hochzeit-swift-kelce-100.html",
+      "title": "Ökonom Heinemann zu Reform-Beschlüssen: \"Dieses Paket hilft\"",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/reformpaket-bundesregierung-wachstum-heinemann-100.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T12:09:17+02:00"
+      "sort_date": "2026-07-03T15:02:25+02:00"
     },
     {
-      "title": "Deutsche E-Auto-Förderung hilft stark chinesischen Herstellern",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-124.html",
+      "title": "Anschlag in Monaco: Interpol fahndet nach Ukrainerin aus Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/anschlag-monaco-100.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T11:25:45+02:00"
+      "sort_date": "2026-07-03T14:59:09+02:00"
     },
     {
-      "title": "Venezuela plant Millionen-Fonds für den Wiederaufbau nach Erdbeben",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-beben-hilfe-fonds-100.html",
+      "title": "Mindestens 40 Tote bei Busunglück in Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-busunglueck-104.html",
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T11:19:03+02:00"
+      "sort_date": "2026-07-03T14:50:35+02:00"
     }
   ],
   "Food": []
