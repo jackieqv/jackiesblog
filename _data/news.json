@@ -76,11 +76,25 @@
   ],
   "News": [
     {
+      "title": "Chrupalla: \"Bürger erwarten von der AfD Führungsqualitäten\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-chrupalla-tagesthemen-100.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T22:56:26+02:00"
+    },
+    {
       "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
       "link": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html",
       "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-04T20:11:30+02:00"
+    },
+    {
+      "title": "\"Wir fürchten das Schlimmste\" - Bahai zur Lage im Iran",
+      "link": "https://www.dw.com/de/wir-fürchten-das-schlimmste-bahai-zur-lage-im-iran/a-77749409?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "04 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-04T19:46:00+00:00"
     },
     {
       "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
@@ -95,20 +109,6 @@
       "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-04T17:33:12+02:00"
-    },
-    {
-      "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-papst-lampedusa-100.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T15:59:01+02:00"
-    },
-    {
-      "title": "Pilotprojekt für junge Arbeitslose: Ein Ausweg aus dem Teufelskreis?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pirmasens-arbeitslosigkeit-grundsicherung-100.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T15:34:43+02:00"
     }
   ],
   "Food": []
