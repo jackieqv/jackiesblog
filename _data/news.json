@@ -76,11 +76,25 @@
   ],
   "News": [
     {
-      "title": "AfD-Parteitag in Erfurt trotz Protesten pünktlich gestartet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-erfurt-demonstrationen-100.html",
+      "title": "Alice Weidel und Tino Chrupalla als AfD-Vorsitzende wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-weidel-chrupalla-wiederwahl-100.html",
       "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T12:42:32+02:00"
+      "sort_date": "2026-07-04T15:21:22+02:00"
+    },
+    {
+      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T14:25:35+02:00"
+    },
+    {
+      "title": "AfD-Parteitag in Erfurt: \"Wir sind die neue Volkspartei\"",
+      "link": "https://www.dw.com/de/afd-parteitag-in-erfurt-wir-sind-die-neue-volkspartei/a-77832207?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "04 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-04T13:18:00+00:00"
     },
     {
       "title": "Hitzewelle: Parade beim US-Unabhängigkeitstag abgesagt",
@@ -95,20 +109,6 @@
       "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-04T12:37:28+02:00"
-    },
-    {
-      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T11:45:56+02:00"
-    },
-    {
-      "title": "Kinder in Venezuela: Spielen zwischen den Trümmern",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-kinder-100.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T11:26:25+02:00"
     }
   ],
   "Food": []
