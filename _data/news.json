@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Russland meldet Einnahme wichtiger Stadt im ukrainischen Donbass",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-krieg-142.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T00:29:34+02:00"
+    },
+    {
       "title": "Bundeshaushalt 2027: Klingbeil plant höhere Ausgaben und mehr Schulden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-166.html",
       "published": "03 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "03 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-03T19:55:58+02:00"
-    },
-    {
-      "title": "So unterschiedlich regeln andere europäische Länder Krankschreibungen",
-      "link": "https://www.tagesschau.de/ausland/europa/krankschreibung-europa-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T18:56:57+02:00"
     }
   ],
   "Food": []
