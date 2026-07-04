@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "KI-Firmen kaufen offenbar Antiquariate leer - Buchhändler alarmiert",
+      "link": "https://www.tagesschau.de/kultur/ki-firmen-antiquarische-buecher-100.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T07:59:38+02:00"
+    },
+    {
+      "title": "In Iran beginnt Trauerfeier für getöteten obersten Führer Chamenei",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-trauerfeier-ali-chamenei-100.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T06:38:19+02:00"
+    },
+    {
+      "title": "Popstar Swift und Footballer Kelce sind verheiratet",
+      "link": "https://www.tagesschau.de/ausland/amerika/swift-kelce-hochzeit-102.html",
+      "published": "04 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-04T05:27:57+02:00"
+    },
+    {
       "title": "Russland meldet Einnahme wichtiger Stadt im ukrainischen Donbass",
       "link": "https://www.tagesschau.de/ausland/ukraine-russland-krieg-142.html",
       "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T00:29:34+02:00"
+      "sort_date": "2026-07-04T05:20:13+02:00"
     },
     {
-      "title": "Bundeshaushalt 2027: Klingbeil plant höhere Ausgaben und mehr Schulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-166.html",
-      "published": "03 Jul 2026",
+      "title": "Was beim Bundesparteitag der AfD auf dem Spiel steht",
+      "link": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-100.html",
+      "published": "04 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T21:40:34+02:00"
-    },
-    {
-      "title": "NATO-Staaten einig über Militärhilfe für die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-ukraine-hilfe-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T20:35:16+02:00"
-    },
-    {
-      "title": "Klinische Studie für Medikamente gegen seltene Ebola-Variante",
-      "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-klinische-tests-medikamente-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T20:17:29+02:00"
-    },
-    {
-      "title": "AfD-Parteitag in Erfurt: Was ist bei den Demos erlaubt - und was nicht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/adf-parteitag-erfurt-faq-versammlungsfreiheit-100.html",
-      "published": "03 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-03T19:55:58+02:00"
+      "sort_date": "2026-07-04T05:00:13+02:00"
     }
   ],
   "Food": []
