@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "250 Jahre USA: Unwetter verzögert Trump-Rede - Festmeile evakuiert",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-unwetter-250-jahre-usa-100.html",
+      "published": "05 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-05T04:05:30+02:00"
+    },
+    {
+      "title": "Behörden in Venezuela melden fast 3.000 Tote nach Erdbeben",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-opferzahl-steigt-100.html",
+      "published": "05 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-05T02:21:44+02:00"
+    },
+    {
       "title": "Chrupalla: \"Bürger erwarten von der AfD Führungsqualitäten\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-chrupalla-tagesthemen-100.html",
       "published": "04 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "04 Jul 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-07-04T19:46:00+00:00"
-    },
-    {
-      "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T17:54:50+02:00"
-    },
-    {
-      "title": "Haushaltsentwurf: Klingbeil will auch beim Klimafonds sparen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-klimafonds-100.html",
-      "published": "04 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-04T17:33:12+02:00"
     }
   ],
   "Food": []
