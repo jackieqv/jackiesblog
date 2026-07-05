@@ -76,11 +76,25 @@
   ],
   "News": [
     {
+      "title": "Analyse zum AfD-Parteitag: Wie Weidel und Höcke ihre Macht ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-weidel-chrupalla-102.html",
+      "published": "05 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-05T20:21:53+02:00"
+    },
+    {
+      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html",
+      "published": "05 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-05T19:59:08+02:00"
+    },
+    {
       "title": "Das Sommerinterview mit Vizekanzler Klingbeil im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-klingbeil-100.html",
       "published": "05 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T18:02:53+02:00"
+      "sort_date": "2026-07-05T19:17:00+02:00"
     },
     {
       "title": "ARD-Sommerinterview: Klingbeil fordert Pragmatismus bei Krankschreibung",
@@ -95,20 +109,6 @@
       "published": "05 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-05T17:22:13+02:00"
-    },
-    {
-      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html",
-      "published": "05 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T17:15:20+02:00"
-    },
-    {
-      "title": "Kommentar zum AfD-Parteitag: Keine Zeit für Streit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kommentar-afd-102.html",
-      "published": "05 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T16:27:15+02:00"
     }
   ],
   "Food": []
