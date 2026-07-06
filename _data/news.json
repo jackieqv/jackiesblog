@@ -39,6 +39,20 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Researchers Reveal the Power of ‘Quantum Proofs’",
+      "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+      "published": "06 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-06T14:33:56+00:00"
+    },
+    {
+      "title": "How the Bilingual Brain Switches Languages With Ease",
+      "link": "https://singularityhub.com/2026/07/06/how-the-bilingual-brain-switches-languages-with-ease/",
+      "published": "06 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-06T14:00:00+00:00"
+    },
+    {
       "title": "The Milky Way Was Rewired by a Cataclysmic Collision Billions of Years Ago. Now It Is on Course for Another.",
       "link": "https://singularityhub.com/2026/07/03/the-milky-way-was-rewired-by-a-cataclysmic-collision-billions-of-years-ago-now-it-is-on-course-for-another/",
       "published": "03 Jul 2026",
@@ -58,57 +72,43 @@
       "published": "02 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-02T14:00:00+00:00"
-    },
-    {
-      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
-      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "published": "01 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-01T14:00:02+00:00"
-    },
-    {
-      "title": "This DNA Switch Could Control Molecular Machines",
-      "link": "https://singularityhub.com/2026/06/30/this-dna-switch-could-control-molecular-machines/",
-      "published": "30 Jun 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-06-30T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Männer brechen beim Marathon öfter ein als Frauen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-marathon-100.html",
+      "title": "Etatentwurf 2027: Regierung spielt auf Zeit - und verspielt Chancen",
+      "link": "https://www.tagesschau.de/kommentar/haushalt-entwurf-2027-100.html",
       "published": "06 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-06T12:03:28+02:00"
+      "sort_date": "2026-07-06T17:25:09+02:00"
     },
     {
-      "title": "Trump, Infantino und warum die FIFA eine Rotsperre aufhebt",
-      "link": "https://www.tagesschau.de/ausland/amerika/balogun-rote-karte-trump-infantino-100.html",
+      "title": "Was sich bei der Informationsfreiheit ändern soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/informationsfreiheitsgesetz-novelle-100.html",
       "published": "06 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-06T11:47:33+02:00"
+      "sort_date": "2026-07-06T15:49:04+02:00"
     },
     {
-      "title": "Marktbericht: DAX steigt erstmals über 25.900 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-140.html",
+      "title": "Experten sehen nach Stromausfall Mängel beim Berliner Katastrophenschutz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-krisenmanagement-nach-stromausfall-100.html",
       "published": "06 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-06T10:29:48+02:00"
+      "sort_date": "2026-07-06T15:39:58+02:00"
     },
     {
-      "title": "Können Windräder der Gesundheit schaden? Studie gibt Entwarnung",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/windraeder-studie-100.html",
+      "title": "Ex-Wirtschaftsminister Habeck wird Berater bei Investmentgesellschaft",
+      "link": "https://www.tagesschau.de/wirtschaft/habeck-berater-vertrag-100.html",
       "published": "06 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-06T10:19:44+02:00"
+      "sort_date": "2026-07-06T15:02:52+02:00"
     },
     {
-      "title": "China und Russland starten Marineübung",
-      "link": "https://www.tagesschau.de/ausland/asien/china-russland-militaermanoever-100.html",
+      "title": "Breite Kritik an Haushaltsplänen der Bundesregierung",
+      "link": "https://www.tagesschau.de/wirtschaft/kritik-haushaltsplaene-100.html",
       "published": "06 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-06T10:18:26+02:00"
+      "sort_date": "2026-07-06T14:56:10+02:00"
     }
   ],
   "Food": []
