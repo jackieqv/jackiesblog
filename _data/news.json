@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "Haushaltsentwurf: Warum Klingbeil mit mehr Schulden plant",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushaltsentwurf-ausschuss-klingbeil-100.html",
+      "published": "06 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-06T04:45:12+02:00"
+    },
+    {
+      "title": "Trump und Selenskyj wollen sich beim NATO-Gipfel treffen",
+      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-treffen-ankara-100.html",
+      "published": "06 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-06T03:56:37+02:00"
+    },
+    {
+      "title": "Zahl der Toten nach Erdbeben in Venezuela steigt weiter",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-102.html",
+      "published": "06 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-06T02:41:08+02:00"
+    },
+    {
       "title": "Analyse zum AfD-Parteitag: Wie Weidel und Höcke ihre Macht ausbauen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-weidel-chrupalla-102.html",
       "published": "05 Jul 2026",
@@ -83,32 +104,11 @@
       "sort_date": "2026-07-05T20:21:53+02:00"
     },
     {
-      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html",
-      "published": "05 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T19:59:08+02:00"
-    },
-    {
       "title": "Das Sommerinterview mit Vizekanzler Klingbeil im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-klingbeil-100.html",
       "published": "05 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-05T19:17:00+02:00"
-    },
-    {
-      "title": "ARD-Sommerinterview: Klingbeil fordert Pragmatismus bei Krankschreibung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-klingbeil-100.html",
-      "published": "05 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T17:50:07+02:00"
-    },
-    {
-      "title": "Mehr als eine Million Menschen bei der CSD-Parade in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/csd-koeln-130.html",
-      "published": "05 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-05T17:22:13+02:00"
     }
   ],
   "Food": []
