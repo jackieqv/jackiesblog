@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Is Life Just Different?",
+      "link": "https://www.quantamagazine.org/is-life-just-different-20260708/",
+      "published": "08 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-08T14:21:36+00:00"
+    },
+    {
       "title": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened.",
       "link": "https://singularityhub.com/2026/07/07/the-first-ai%e2%80%91designed-vaccine-has-been-tested-in-people-heres-what-happened/",
       "published": "07 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "03 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-03T14:00:00+00:00"
-    },
-    {
-      "title": "Astrophysicists Puzzle Over Webb’s New Universe",
-      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "published": "02 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-02T14:57:31+00:00"
     }
   ],
   "News": [
     {
-      "title": "Liveblog zur Sicherheitspolitik: ++ Trump droht Iran mit weiteren Angriffen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html",
+      "title": "Marktbericht: Eskalation im Nahen Osten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T15:47:51+02:00"
+      "sort_date": "2026-07-08T18:19:14+02:00"
     },
     {
-      "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Schongau",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/amoktat-gymnasium-schongau-100.html",
+      "title": "Die zentralen Punkte der NATO-Erklärung",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T15:31:07+02:00"
+      "sort_date": "2026-07-08T18:04:18+02:00"
     },
     {
-      "title": "Ölpreise steigen: Krieg in Iran ist wieder Thema an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreis-134.html",
+      "title": "Erste deutsche Störsatelliten sollen 2027 starten",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/weltraum-strategie-bundesregierung-satelliten-militaer-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T15:04:04+02:00"
+      "sort_date": "2026-07-08T18:00:38+02:00"
     },
     {
-      "title": "Mit KI gegen Kriminalität: Polizei soll mehr digitale Befugnisse bekommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ki-ermittlungen-gesetz-100.html",
+      "title": "Trauerprozession für getöteten Chamenei im Irak",
+      "link": "https://www.tagesschau.de/ausland/asien/chamenei-trauerzeremonien-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T14:22:39+02:00"
+      "sort_date": "2026-07-08T17:19:46+02:00"
     },
     {
-      "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Bayern",
-      "link": "https://www.tagesschau.de/inland/regional/gymnasium-schongau-amoktat-100.html",
+      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T14:10:53+02:00"
+      "sort_date": "2026-07-08T17:00:29+02:00"
     }
   ],
   "Food": []
