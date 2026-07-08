@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "USA greifen erneut Iran an - Teheran kündigt Gegenangriffe an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T23:21:07+02:00"
+    },
+    {
+      "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/wadephul-iran-nato-100.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T23:02:30+02:00"
+    },
+    {
+      "title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T22:18:18+02:00"
+    },
+    {
       "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html",
       "published": "08 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-08T20:01:58+02:00"
-    },
-    {
-      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
-      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:57:40+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX rauscht nach Eskalation im Nahen Osten in die Tiefe",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:54:20+02:00"
-    },
-    {
-      "title": "Warum die Opposition das Gesundheits-Sparpaket stoppen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-gesetz-kritik-100.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:46:03+02:00"
     }
   ],
   "Food": []
