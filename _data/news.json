@@ -76,18 +76,25 @@
   ],
   "News": [
     {
+      "title": "Manhattan: Hochhaus in New York wegen Einsturzgefahr geräumt",
+      "link": "https://www.tagesschau.de/ausland/new-york-einsturzgefahr-100.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T02:51:41+02:00"
+    },
+    {
+      "title": "US-Militär: USA starten erneut Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-102.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T01:53:32+02:00"
+    },
+    {
       "title": "NATO-Gipfel in der Türkei: Auf der Suche nach dem Geist von Ankara",
       "link": "https://www.tagesschau.de/ausland/nato-gipfel-ankara-zusammenfassung-100.html",
       "published": "07 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-07T21:32:34+02:00"
-    },
-    {
-      "title": "Ungarns ÖRR entschuldigt sich für Lügen unter Orban",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-rundfunk-100.html",
-      "published": "07 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-07T21:11:20+02:00"
     },
     {
       "title": "Le Pen will trotz Urteils bei Präsidentschaftswahl 2027 antreten",
@@ -102,13 +109,6 @@
       "published": "07 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-07T20:28:36+02:00"
-    },
-    {
-      "title": "Hamas: Machtverzicht oder politisches Kalkül?",
-      "link": "https://www.dw.com/de/hamas-machtverzicht-oder-politisches-kalkül/a-77866705?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "07 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-07T19:35:00+00:00"
     }
   ],
   "Food": []
