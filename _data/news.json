@@ -76,39 +76,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: Eskalation im Nahen Osten",
+      "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T21:13:22+02:00"
+    },
+    {
+      "title": "Kommentar: NATO sendet Signal der Geschlossenheit",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-nato-gipfel-104.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T20:01:58+02:00"
+    },
+    {
+      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
+      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
+      "published": "08 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-08T18:57:40+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX rauscht nach Eskalation im Nahen Osten in die Tiefe",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:19:14+02:00"
+      "sort_date": "2026-07-08T18:54:20+02:00"
     },
     {
-      "title": "Die zentralen Punkte der NATO-Erklärung",
-      "link": "https://www.tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html",
+      "title": "Warum die Opposition das Gesundheits-Sparpaket stoppen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-gesetz-kritik-100.html",
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:04:18+02:00"
-    },
-    {
-      "title": "Erste deutsche Störsatelliten sollen 2027 starten",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/weltraum-strategie-bundesregierung-satelliten-militaer-100.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T18:00:38+02:00"
-    },
-    {
-      "title": "Trauerprozession für getöteten Chamenei im Irak",
-      "link": "https://www.tagesschau.de/ausland/asien/chamenei-trauerzeremonien-100.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T17:19:46+02:00"
-    },
-    {
-      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T17:00:29+02:00"
+      "sort_date": "2026-07-08T18:46:03+02:00"
     }
   ],
   "Food": []
