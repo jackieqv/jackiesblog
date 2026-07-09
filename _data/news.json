@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Beratungen von VW-Aufsichtsrat enden ohne Klarheit zu Sparplänen",
+      "link": "https://www.tagesschau.de/wirtschaft/vw-zukunftsplan-100.html",
+      "published": "09 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-09T22:43:27+02:00"
+    },
+    {
       "title": "Revolver mit sechs Patronen: Erdoğans Geschenk irritiert Gäste des NATO-Gipfels",
       "link": "https://www.tagesschau.de/ausland/asien/erdogan-nato-gipfel-ankara-100.html",
       "published": "09 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-09T18:24:18+02:00"
-    },
-    {
-      "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
-      "link": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html",
-      "published": "09 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T17:47:49+02:00"
     }
   ],
   "Food": []
