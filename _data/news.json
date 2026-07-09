@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Will We Ever Find Alien Civilizations?",
+      "link": "https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/",
+      "published": "09 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-09T13:39:13+00:00"
+    },
+    {
       "title": "Is Life Just Different?",
       "link": "https://www.quantamagazine.org/is-life-just-different-20260708/",
       "published": "08 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "06 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-06T14:00:00+00:00"
-    },
-    {
-      "title": "The Milky Way Was Rewired by a Cataclysmic Collision Billions of Years Ago. Now It Is on Course for Another.",
-      "link": "https://singularityhub.com/2026/07/03/the-milky-way-was-rewired-by-a-cataclysmic-collision-billions-of-years-ago-now-it-is-on-course-for-another/",
-      "published": "03 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-03T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Nach NATO-Gipfel: \"Jetzt geht es um die Europäisierung der NATO\"",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-nach-ankara-gipfel-100.html",
+      "title": "Was der Kauf der Tomahawks für Deutschland bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tomahawks-verteidigung-usa-100.html",
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T13:35:27+02:00"
+      "sort_date": "2026-07-09T17:13:20+02:00"
     },
     {
-      "title": "Sängerin Bonnie Tyler im Alter von 75 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/bonnie-tyler-tot-102.html",
+      "title": "Gesundheitsreform im Bundestag: Warum die Eilanträge erfolglos waren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-gesundheitsreform-102.html",
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T12:31:21+02:00"
+      "sort_date": "2026-07-09T16:36:17+02:00"
     },
     {
-      "title": "Abgeordnetenhaus-Wahl: Berliner JU-Chef fordert Rückzug Wegners",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-wegner-100.html",
+      "title": "Mehr Verletzte bei Unfall am Frankfurter Flughafen als bisher bekannt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-flughafen-122.html",
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T12:12:10+02:00"
+      "sort_date": "2026-07-09T16:06:04+02:00"
     },
     {
-      "title": "Trotz Iran-Kriegs: Exporte wachsen vierten Monat in Folge",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-handel-mai-100.html",
+      "title": "\"Irans Regime hat sich zumindest gefestigt\"",
+      "link": "https://www.tagesschau.de/ausland/adebahr-iran-100.html",
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T11:21:56+02:00"
+      "sort_date": "2026-07-09T16:03:33+02:00"
     },
     {
-      "title": "Hitzewelle in Deutschland - mehr als 5.000 Tote bis Ende Juni",
-      "link": "https://www.tagesschau.de/wissen/klima/robert-koch-institut-hitzetote-deutschland-100.html",
+      "title": "Wie Trump ethische Regeln bei seinen Finanzen missachtet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html",
       "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-09T11:13:02+02:00"
+      "sort_date": "2026-07-09T15:50:25+02:00"
     }
   ],
   "Food": []
