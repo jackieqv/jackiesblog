@@ -76,11 +76,25 @@
   ],
   "News": [
     {
-      "title": "USA greifen erneut Iran an - Teheran kündigt Gegenangriffe an",
+      "title": "USA greifen erneut Iran an - Teheran reagiert mit Gegenangriffen",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html",
-      "published": "08 Jul 2026",
+      "published": "09 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T23:21:07+02:00"
+      "sort_date": "2026-07-09T04:46:52+02:00"
+    },
+    {
+      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
+      "published": "09 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-09T03:46:39+02:00"
+    },
+    {
+      "title": "Regierungserklärung: Merz stellt Reformprogramm im Bundestag vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-vor-regierungserklaerung-100.html",
+      "published": "09 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-09T02:02:10+02:00"
     },
     {
       "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
@@ -95,20 +109,6 @@
       "published": "08 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-08T22:18:18+02:00"
-    },
-    {
-      "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T21:13:22+02:00"
-    },
-    {
-      "title": "Kommentar: NATO sendet Signal der Geschlossenheit",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-nato-gipfel-104.html",
-      "published": "08 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-08T20:01:58+02:00"
     }
   ],
   "Food": []
