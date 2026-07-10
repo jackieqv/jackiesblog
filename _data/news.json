@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "CAR T Revolutionized How We Treat Blood Cancers. Now It’s Closing In on Solid Tumors.",
+      "link": "https://singularityhub.com/2026/07/10/car-t-revolutionized-how-we-treat-blood-cancers-now-its-closing-in-on-solid-tumors/",
+      "published": "10 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-10T14:00:00+00:00"
+    },
+    {
       "title": "This Synthetic Cell Grows, Copies Its DNA, and Produces Offspring—But It Isn’t Alive",
       "link": "https://singularityhub.com/2026/07/09/this-synthetic-cell-grows-copies-its-dna-and-produces-offspring-but-it-isnt-alive/",
       "published": "09 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "07 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "title": "Researchers Reveal the Power of ‘Quantum Proofs’",
-      "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
-      "published": "06 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-06T14:33:56+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bundestag stimmt für umstrittenes Krankenkassen-Sparpaket",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-sparpaket-krankenkassen-100.html",
+      "title": "Berlins Regierender Bürgermeister Wegner tritt bei Wahl nicht mehr an",
+      "link": "https://www.tagesschau.de/inland/wegner-wahl-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T13:38:25+02:00"
+      "sort_date": "2026-07-10T15:59:49+02:00"
     },
     {
-      "title": "Adoption soll Japans Monarchie retten - Frauen bleiben ausgeschlossen",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-reform-kaiserhaus-thronfolge-100.html",
+      "title": "Britischer Rechtspopulist: \"Teflon-Image von Farage hat Kratzer\"",
+      "link": "https://www.tagesschau.de/ausland/europa/nigel-farage-skandal-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T13:16:38+02:00"
+      "sort_date": "2026-07-10T15:43:22+02:00"
     },
     {
-      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html",
+      "title": "Kommentar zur Klimapolitik: Das Fundament droht zu brechen",
+      "link": "https://www.tagesschau.de/kommentar/klimapolitik-bundesregierung-schwaechung-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T13:05:14+02:00"
+      "sort_date": "2026-07-10T15:11:44+02:00"
     },
     {
-      "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html",
+      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T12:06:43+02:00"
+      "sort_date": "2026-07-10T14:59:08+02:00"
     },
     {
-      "title": "Krawalle in Düsseldorf nach Marokkos WM-Aus",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wm-spiel-ausschreitungen-duesseldorf-100.html",
+      "title": "Investitionen in Sicherheit schafft Tausende neue Jobs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/investitionen-112.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T10:21:00+02:00"
+      "sort_date": "2026-07-10T14:27:48+02:00"
     }
   ],
   "Food": []
