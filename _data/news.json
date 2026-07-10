@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
+      "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "published": "10 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-10T14:51:48+00:00"
+    },
+    {
       "title": "CAR T Revolutionized How We Treat Blood Cancers. Now It’s Closing In on Solid Tumors.",
       "link": "https://singularityhub.com/2026/07/10/car-t-revolutionized-how-we-treat-blood-cancers-now-its-closing-in-on-solid-tumors/",
       "published": "10 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "08 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-08T14:21:36+00:00"
-    },
-    {
-      "title": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened.",
-      "link": "https://singularityhub.com/2026/07/07/the-first-ai%e2%80%91designed-vaccine-has-been-tested-in-people-heres-what-happened/",
-      "published": "07 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-07T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Berlins Regierender Bürgermeister Wegner tritt bei Wahl nicht mehr an",
-      "link": "https://www.tagesschau.de/inland/wegner-wahl-100.html",
+      "title": "Wie Wärmepumpen auch kühlen können",
+      "link": "https://www.tagesschau.de/wissen/technologie/waermepumpe-zum-kuehlen-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T15:59:49+02:00"
+      "sort_date": "2026-07-10T18:54:46+02:00"
     },
     {
-      "title": "Britischer Rechtspopulist: \"Teflon-Image von Farage hat Kratzer\"",
-      "link": "https://www.tagesschau.de/ausland/europa/nigel-farage-skandal-100.html",
+      "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T15:43:22+02:00"
+      "sort_date": "2026-07-10T18:53:16+02:00"
     },
     {
-      "title": "Kommentar zur Klimapolitik: Das Fundament droht zu brechen",
-      "link": "https://www.tagesschau.de/kommentar/klimapolitik-bundesregierung-schwaechung-100.html",
+      "title": "DAX vom Rekordhoch weit entfernt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T15:11:44+02:00"
+      "sort_date": "2026-07-10T18:13:29+02:00"
     },
     {
-      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html",
+      "title": "Bundestag weitet Befugnisse von Bundespolizei deutlich aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T14:59:08+02:00"
+      "sort_date": "2026-07-10T17:38:36+02:00"
     },
     {
-      "title": "Investitionen in Sicherheit schafft Tausende neue Jobs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/investitionen-112.html",
+      "title": "Wie die Koalition ihre Gesundheitsreform durchbrachte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T14:27:48+02:00"
+      "sort_date": "2026-07-10T17:21:04+02:00"
     }
   ],
   "Food": []
