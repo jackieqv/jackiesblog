@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
+      "published": "10 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-10T21:02:57+02:00"
+    },
+    {
+      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html",
+      "published": "10 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-10T19:46:55+02:00"
+    },
+    {
+      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
+      "link": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html",
+      "published": "10 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-10T19:20:03+02:00"
+    },
+    {
+      "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
+      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html",
+      "published": "10 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-10T19:02:48+02:00"
+    },
+    {
       "title": "Wie Wärmepumpen auch kühlen können",
       "link": "https://www.tagesschau.de/wissen/technologie/waermepumpe-zum-kuehlen-100.html",
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-10T18:54:46+02:00"
-    },
-    {
-      "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T18:53:16+02:00"
-    },
-    {
-      "title": "DAX vom Rekordhoch weit entfernt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T18:13:29+02:00"
-    },
-    {
-      "title": "Bundestag weitet Befugnisse von Bundespolizei deutlich aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T17:38:36+02:00"
-    },
-    {
-      "title": "Wie die Koalition ihre Gesundheitsreform durchbrachte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T17:21:04+02:00"
     }
   ],
   "Food": []
