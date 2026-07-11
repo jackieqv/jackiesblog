@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-174.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T06:38:02+02:00"
+    },
+    {
+      "title": "Wieviel Macht hat der Iran über die Straße von Hormus?",
+      "link": "https://www.dw.com/de/wieviel-macht-hat-der-iran-über-die-straße-von-hormus/a-77906695?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "11 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-11T05:10:00+00:00"
+    },
+    {
+      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T04:46:18+02:00"
+    },
+    {
       "title": "Belgien plant Straßenmaut für alle Autos",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
       "published": "11 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-10T21:27:29+02:00"
-    },
-    {
-      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T21:02:57+02:00"
-    },
-    {
-      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T19:46:55+02:00"
-    },
-    {
-      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
-      "link": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T19:20:03+02:00"
     }
   ],
   "Food": []
