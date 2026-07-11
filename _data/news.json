@@ -76,39 +76,39 @@
   ],
   "News": [
     {
-      "title": "Geiselnahme in Berliner Supermarkt - Großeinsatz der Polizei",
+      "title": "Krieg gegen die Ukraine: Wieder russische Angriffe auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T11:44:49+02:00"
+    },
+    {
+      "title": "Geiselnahme in Berliner Supermarkt beendet - Großeinsatz der Polizei",
       "link": "https://www.tagesschau.de/inland/regional/berlin/geiselnahme-supermarkt-berlin-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T09:30:49+02:00"
+      "sort_date": "2026-07-11T11:24:41+02:00"
     },
     {
-      "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-174.html",
+      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T09:12:28+02:00"
+      "sort_date": "2026-07-11T11:10:12+02:00"
     },
     {
-      "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
-      "link": "https://www.tagesschau.de/wirtschaft/spritsparen-autofahren-100.html",
+      "title": "Forderung aus Wirtschaft und Politik: Deutsche Klimaneutralität erst 2050",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-klimaziele-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T09:11:12+02:00"
+      "sort_date": "2026-07-11T10:50:25+02:00"
     },
     {
-      "title": "CHP-Bürgermeister: Bürgernah - und Erdoğans Partei ein Dorn im Auge",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-chp-buergermeister-100.html",
+      "title": "USA und Kanada legen Streit um teure Grenzbrücke bei",
+      "link": "https://www.dw.com/de/usa-und-kanada-legen-streit-um-teure-grenzbrücke-bei/a-77915473?maca=de-rss-de-top-1016-xml-mrss",
       "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T08:17:44+02:00"
-    },
-    {
-      "title": "Wie Hitze auf Zyklus und Menstruation wirken kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-menstruation-frauengesundheit-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T08:13:02+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-11T09:59:00+00:00"
     }
   ],
   "Food": []
