@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Belgien plant Straßenmaut für alle Autos",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T02:04:33+02:00"
+    },
+    {
       "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html",
       "published": "10 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "10 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-10T19:20:03+02:00"
-    },
-    {
-      "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html",
-      "published": "10 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T19:02:48+02:00"
     }
   ],
   "Food": []
