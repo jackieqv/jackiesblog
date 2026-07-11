@@ -76,11 +76,18 @@
   ],
   "News": [
     {
+      "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-102.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T20:59:23+02:00"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
       "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T17:36:50+02:00"
+      "sort_date": "2026-07-11T19:36:00+02:00"
     },
     {
       "title": "Indien: Im Land der sinkenden Geburtenrate",
@@ -102,13 +109,6 @@
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-11T16:13:43+02:00"
-    },
-    {
-      "title": "Söder versichert, dass \"Minijobs bleiben\"",
-      "link": "https://www.tagesschau.de/inland/soeder-minijobs-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T16:09:50+02:00"
     }
   ],
   "Food": []
