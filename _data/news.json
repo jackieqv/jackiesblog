@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Geiselnahme in Berliner Supermarkt - Großeinsatz der Polizei",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/geiselnahme-supermarkt-berlin-100.html",
+      "published": "11 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-11T09:30:49+02:00"
+    },
+    {
       "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/usa-iran-174.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T06:38:02+02:00"
+      "sort_date": "2026-07-11T09:12:28+02:00"
     },
     {
-      "title": "Wieviel Macht hat der Iran über die Straße von Hormus?",
-      "link": "https://www.dw.com/de/wieviel-macht-hat-der-iran-über-die-straße-von-hormus/a-77906695?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "11 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-11T05:10:00+00:00"
-    },
-    {
-      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html",
+      "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
+      "link": "https://www.tagesschau.de/wirtschaft/spritsparen-autofahren-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T04:46:18+02:00"
+      "sort_date": "2026-07-11T09:11:12+02:00"
     },
     {
-      "title": "Belgien plant Straßenmaut für alle Autos",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
+      "title": "CHP-Bürgermeister: Bürgernah - und Erdoğans Partei ein Dorn im Auge",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-chp-buergermeister-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T02:04:33+02:00"
+      "sort_date": "2026-07-11T08:17:44+02:00"
     },
     {
-      "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
-      "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html",
-      "published": "10 Jul 2026",
+      "title": "Wie Hitze auf Zyklus und Menstruation wirken kann",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-menstruation-frauengesundheit-100.html",
+      "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-10T21:27:29+02:00"
+      "sort_date": "2026-07-11T08:13:02+02:00"
     }
   ],
   "Food": []
