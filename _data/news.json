@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 11)",
+      "link": "https://singularityhub.com/2026/07/11/this-weeks-awesome-tech-stories-from-around-the-web-through-july-11-2/",
+      "published": "11 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-11T14:00:00+00:00"
+    },
+    {
       "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
       "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "published": "10 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "09 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-09T13:39:13+00:00"
-    },
-    {
-      "title": "Is Life Just Different?",
-      "link": "https://www.quantamagazine.org/is-life-just-different-20260708/",
-      "published": "08 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-08T14:21:36+00:00"
     }
   ],
   "News": [
     {
-      "title": "31 Jahre nach Srebrenica-Massaker: Trauer und Suche nach Spuren",
-      "link": "https://www.tagesschau.de/ausland/europa/srebrenica-gedenken-108.html",
+      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T15:11:20+02:00"
+      "sort_date": "2026-07-11T17:36:50+02:00"
     },
     {
-      "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html",
+      "title": "Indien: Im Land der sinkenden Geburtenrate",
+      "link": "https://www.tagesschau.de/ausland/asien/bevoelkerung-indien-weniger-geburten-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T14:59:00+02:00"
+      "sort_date": "2026-07-11T17:27:58+02:00"
     },
     {
-      "title": "Meta nimmt nach Protesten KI-Bildgenerator \"Muse Image\" vom Netz",
-      "link": "https://www.tagesschau.de/ausland/amerika/meta-ki-bildgenerator-abgeschaltet-100.html",
+      "title": "Nigeria am Weltbevölkerungstag: \"Der schlafende Riese ist erwacht\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-bevoelkerungswachstum-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T13:27:51+02:00"
+      "sort_date": "2026-07-11T17:27:17+02:00"
     },
     {
-      "title": "Taiwan und China: Hunderttausende wegen Taifun \"Bavi\" evakuiert",
-      "link": "https://www.tagesschau.de/ausland/taifun-bavi-taiwan-china-100.html",
+      "title": "Flammen in Andalusien breiten sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/feuer-andalusien-spanien-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T13:11:29+02:00"
+      "sort_date": "2026-07-11T16:13:43+02:00"
     },
     {
-      "title": "Schwarz-rote Spitzenpolitiker warnen vor unnötigen Sommerloch-Debatten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerloch-diskussion-100.html",
+      "title": "Söder versichert, dass \"Minijobs bleiben\"",
+      "link": "https://www.tagesschau.de/inland/soeder-minijobs-100.html",
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T12:36:49+02:00"
+      "sort_date": "2026-07-11T16:09:50+02:00"
     }
   ],
   "Food": []
