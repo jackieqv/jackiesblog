@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "Letzte Nutzerin einer \"Eisernen Lunge\" mit 78 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/martha-lillard-eiserne-lunge-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T09:39:18+02:00"
+    },
+    {
+      "title": "Taifun Bavi trifft große Teile Ostasiens",
+      "link": "https://www.tagesschau.de/ausland/asien/taifun-bavi-ostasien-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T09:22:07+02:00"
+    },
+    {
+      "title": "Das Smartphone auf dem Tisch - taugen Apps als Spielpartner?",
+      "link": "https://www.tagesschau.de/kultur/spiel-des-jahres-trend-zum-smartphone-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T08:43:43+02:00"
+    },
+    {
       "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
       "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html",
       "published": "12 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "12 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-12T05:31:31+02:00"
-    },
-    {
-      "title": "Warum die Geburtenrate weiter zurückgeht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-gruende-folgen-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T05:00:05+02:00"
-    },
-    {
-      "title": "Flucht vor xenophober Gewalt: Zurück aus Südafrika in die Armut",
-      "link": "https://www.tagesschau.de/ausland/afrika/migranten-suedafrika-102.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T04:55:51+02:00"
-    },
-    {
-      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T04:35:03+02:00"
     }
   ],
   "Food": []
