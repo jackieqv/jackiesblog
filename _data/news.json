@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T04:35:03+02:00"
+    },
+    {
+      "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T02:57:50+02:00"
+    },
+    {
       "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-102.html",
       "published": "11 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "11 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-11T17:27:58+02:00"
-    },
-    {
-      "title": "Nigeria am Weltbevölkerungstag: \"Der schlafende Riese ist erwacht\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-bevoelkerungswachstum-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T17:27:17+02:00"
-    },
-    {
-      "title": "Flammen in Andalusien breiten sich aus",
-      "link": "https://www.tagesschau.de/ausland/europa/feuer-andalusien-spanien-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T16:13:43+02:00"
     }
   ],
   "Food": []
