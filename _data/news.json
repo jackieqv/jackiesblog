@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Berichte über Tote bei israelischen Angriffen in Gaza",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-gaza-108.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T21:38:00+02:00"
+    },
+    {
       "title": "Unklarheit über Status der Straße von Hormus und gegenseitige Angriffe",
       "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-geschlossen-oder-nicht-100.html",
       "published": "12 Jul 2026",
@@ -97,18 +104,11 @@
       "sort_date": "2026-07-12T19:38:34+02:00"
     },
     {
-      "title": "China investiert neuerdings massiv in den Bereich Biotechnologie",
-      "link": "https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html",
+      "title": "Mode gegen Faschismus: Aktivisten bekämpfen Nazi-Merchandise",
+      "link": "https://www.dw.com/de/mode-gegen-faschismus-aktivisten-bekämpfen-nazi-merchandise/a-77853151?maca=de-rss-de-top-1016-xml-mrss",
       "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T18:43:14+02:00"
-    },
-    {
-      "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T18:31:50+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-12T19:11:00+00:00"
     }
   ],
   "Food": []
