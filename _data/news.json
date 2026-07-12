@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Iran attackiert Ziele in mehreren Golfstaaten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-golfstaaten-108.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T15:14:53+02:00"
+    },
+    {
+      "title": "USA: Kritik an Justizvorladungen von NYT-Reportern",
+      "link": "https://www.tagesschau.de/ausland/amerika/nyt-reporter-airforce-one-gerichtsvorladung-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T13:22:18+02:00"
+    },
+    {
       "title": "Familienministerin Prien will beim Unterhaltsvorschuss sparen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/prien-unterhaltsvorschuss-100.html",
       "published": "12 Jul 2026",
@@ -83,32 +97,18 @@
       "sort_date": "2026-07-12T11:59:54+02:00"
     },
     {
-      "title": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
-      "link": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T10:45:23+02:00"
-    },
-    {
-      "title": "Le Pen im Wahlkampf: Weitermachen, als sei sie freigesprochen worden",
-      "link": "https://www.tagesschau.de/ausland/europa/lepen-wahlkampf-kommunen-rn-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T10:39:00+02:00"
-    },
-    {
-      "title": "Republikanischer US-Senator Lindsey Graham gestorben",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-senator-graham-tot-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T10:30:02+02:00"
-    },
-    {
-      "title": "Iran greift Frachter an und sperrt Straße von Hormus",
-      "link": "https://www.dw.com/de/iran-greift-frachter-an-und-sperrt-straße-von-hormus/a-77921273?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Trump-Verbündeter Lindsey Graham ist tot",
+      "link": "https://www.dw.com/de/trump-verbündeter-lindsey-graham-ist-tot/a-77923167?maca=de-rss-de-top-1016-xml-mrss",
       "published": "12 Jul 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-12T09:58:00+00:00"
+      "sort_date": "2026-07-12T10:59:00+00:00"
+    },
+    {
+      "title": "DLRG meldet viele Badetote - hauptsächlich Männer und Jungs",
+      "link": "https://www.dw.com/de/dlrg-meldet-viele-badetote-hauptsächlich-männer-und-jungs/a-77923248?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "12 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-12T10:47:00+00:00"
     }
   ],
   "Food": []
