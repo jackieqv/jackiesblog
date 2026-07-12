@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T06:36:27+02:00"
+    },
+    {
+      "title": "Brauchen wir bei Hitze mehr Elektrolyte?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/elektrolyte-bei-hitze-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T05:31:31+02:00"
+    },
+    {
+      "title": "Warum die Geburtenrate weiter zurückgeht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-gruende-folgen-100.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T05:00:05+02:00"
+    },
+    {
+      "title": "Flucht vor xenophober Gewalt: Zurück aus Südafrika in die Armut",
+      "link": "https://www.tagesschau.de/ausland/afrika/migranten-suedafrika-102.html",
+      "published": "12 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-12T04:55:51+02:00"
+    },
+    {
       "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
       "published": "12 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-12T04:35:03+02:00"
-    },
-    {
-      "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T02:57:50+02:00"
-    },
-    {
-      "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-102.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T20:59:23+02:00"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T19:36:00+02:00"
-    },
-    {
-      "title": "Indien: Im Land der sinkenden Geburtenrate",
-      "link": "https://www.tagesschau.de/ausland/asien/bevoelkerung-indien-weniger-geburten-100.html",
-      "published": "11 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-11T17:27:58+02:00"
     }
   ],
   "Food": []
