@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: Ölpreise legen kräftig zu",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-dow-iran-100.html",
+      "published": "13 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-13T07:17:12+02:00"
+    },
+    {
+      "title": "Landwirte reagieren auf veränderte klimatische Bedingungen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/agrar-preise-ernte-trockenheit-100.html",
+      "published": "13 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-13T07:13:51+02:00"
+    },
+    {
+      "title": "Kallas in der Kritik: Wie viel Außenpolitik darf die EU-Chefdiplomatin machen?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenpolitik-kallas-100.html",
+      "published": "13 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-13T05:33:53+02:00"
+    },
+    {
+      "title": "In Haft statt im Krankenhaus",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-arzt-israel-100.html",
+      "published": "13 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-13T05:32:33+02:00"
+    },
+    {
       "title": "Bericht: Regierung will Tabaksteuer stärker anheben als geplant",
       "link": "https://www.tagesschau.de/inland/tabaksteuer-102.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-13T03:26:06+02:00"
-    },
-    {
-      "title": "Neue US-Angriffe auf Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-112.html",
-      "published": "13 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T03:25:42+02:00"
-    },
-    {
-      "title": "27 Tote bei Feuer in Bangkok",
-      "link": "https://www.tagesschau.de/ausland/asien/bangkok-feuer-100.html",
-      "published": "13 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T03:25:36+02:00"
-    },
-    {
-      "title": "Social-Media-Mindestalter: EU-Experten geben Empfehlung ab",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-social-media-alter-100.html",
-      "published": "13 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T03:25:12+02:00"
-    },
-    {
-      "title": "Berichte über Tote bei israelischen Angriffen in Gaza",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-gaza-108.html",
-      "published": "12 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-12T21:38:00+02:00"
     }
   ],
   "Food": []
