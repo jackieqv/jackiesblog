@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Why Am I Left-Handed?",
+      "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
+      "published": "13 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-13T14:22:22+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 11)",
       "link": "https://singularityhub.com/2026/07/11/this-weeks-awesome-tech-stories-from-around-the-web-through-july-11-2/",
       "published": "11 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "09 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-09T22:34:39+00:00"
-    },
-    {
-      "title": "Will We Ever Find Alien Civilizations?",
-      "link": "https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/",
-      "published": "09 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-09T13:39:13+00:00"
     }
   ],
   "News": [
     {
-      "title": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
-      "link": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
+      "title": "Mehr Tourismus und Zuzug: Wie Asturien von Spaniens großer Hitze profitiert",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-asturien-balearen-100.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T13:58:54+02:00"
+      "sort_date": "2026-07-13T18:54:23+02:00"
     },
     {
-      "title": "EU-Experten empfehlen Social-Media-Verbot für Kinder unter 13 Jahren",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-social-media-vorgaben-kinder-100.html",
+      "title": "Marktbericht: DAX startet robust in die neue Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-dow-iran-100.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T13:13:48+02:00"
+      "sort_date": "2026-07-13T18:51:20+02:00"
     },
     {
-      "title": "VW-Chef Blume: Bis zu 50.000 Stellen könnten wegfallen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-blume-sparplaene-100.html",
+      "title": "Berlin-Wahl: Finanzsenator Evers ist neuer CDU-Spitzenkandidat",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-stefan-evers-zum-neuen-spitzenkandidat-der-berliner-cdu-gewaehlt-102.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T13:10:33+02:00"
+      "sort_date": "2026-07-13T18:47:10+02:00"
     },
     {
-      "title": "Hubig will Entschädigung für zu Unrecht inhaftierte anheben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/justiz-entschaedigung-zu-unrecht-inhaftiert-gesetz-100.html",
+      "title": "Mordfall Widdecombe: Terrorabwehr übernimmt Ermittlungen",
+      "link": "https://www.tagesschau.de/ausland/europa/widdecombe-mordfall-terror-100.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T13:09:34+02:00"
+      "sort_date": "2026-07-13T18:30:07+02:00"
     },
     {
-      "title": "Frankreich: Großer Brand im Wald von Fontainebleau bei Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbrand-nahe-paris-100.html",
+      "title": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
+      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T12:57:08+02:00"
+      "sort_date": "2026-07-13T18:26:57+02:00"
     }
   ],
   "Food": []
