@@ -76,11 +76,18 @@
   ],
   "News": [
     {
-      "title": "Europäer schmieden Bündnis für Raketenabwehr",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html",
+      "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html",
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T21:04:45+02:00"
+      "sort_date": "2026-07-13T21:56:21+02:00"
+    },
+    {
+      "title": "Massiver IT-Ausfall bei der Berliner Justiz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html",
+      "published": "13 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-13T21:46:05+02:00"
     },
     {
       "title": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
@@ -102,13 +109,6 @@
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-13T20:24:05+02:00"
-    },
-    {
-      "title": "Pläne der Koalition: Warum das Rauchen teurer werden soll",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/faq-tabaksteuer-100.html",
-      "published": "13 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T19:19:39+02:00"
     }
   ],
   "Food": []
