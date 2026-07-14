@@ -76,39 +76,39 @@
   ],
   "News": [
     {
-      "title": "Hinweise auf schwere Mängel nach Feuer in Bangkok",
-      "link": "https://www.tagesschau.de/ausland/asien/bangkok-feuer-102.html",
+      "title": "ADAC: Viele kleine Rastplätze fallen bei Test durch",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-raststaetten-test-100.html",
       "published": "14 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T08:45:29+02:00"
+      "sort_date": "2026-07-14T12:00:15+02:00"
     },
     {
-      "title": "Pflegekosten: Eigenanteil für Pflege im Heim erneut gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegekosten-gestiegen-100.html",
+      "title": "Nach schwerem Hagel im Norden: DWD warnt vor weiteren Unwettern",
+      "link": "https://www.tagesschau.de/inland/unwetter-hagel-norddeutschland-aussichten-100.html",
       "published": "14 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T08:13:04+02:00"
+      "sort_date": "2026-07-14T11:23:08+02:00"
     },
     {
-      "title": "Marktbericht: Hält sich der DAX über 25.000 Punkten?",
+      "title": "Nahrungsergänzungsmittel LaVita erhält Negativpreis",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/negativpreis-goldener-windbeutel-fruchtsaft-100.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T11:13:54+02:00"
+    },
+    {
+      "title": "Einwanderungsbehörde: Wieder tödliche ICE-Einsätze in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ice-einsatz-tote-100.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T10:32:45+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX kämpft mit 25.000-Punkte-Marke",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
       "published": "14 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T07:36:26+02:00"
-    },
-    {
-      "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T07:32:28+02:00"
-    },
-    {
-      "title": "Anträge auf Kriegsdienstverweigerung laut Bericht deutlich gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerung-anstieg-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T07:30:15+02:00"
+      "sort_date": "2026-07-14T10:13:19+02:00"
     }
   ],
   "Food": []
