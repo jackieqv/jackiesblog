@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "Trump will nun doch keine Gebühren für Hormus-Durchfahrt erheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-gebuehren-hormus-100.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T19:23:13+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX hält sich über 25.000-Punkte-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T18:48:12+02:00"
+    },
+    {
+      "title": "Mehr als 50 Millionen US-Dollar: Rekord für T-Rex bei Auktion in New York",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-rekord-versteigerung-dinosaurier-gus-100.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T18:44:29+02:00"
+    },
+    {
       "title": "Warum die Bundesregierung die Tabaksteuer stärker erhöhen will",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bundeshaushalt-tabaksteuer-rauchen-wird-teurer-100.html",
       "published": "14 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "14 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-14T17:04:50+02:00"
-    },
-    {
-      "title": "Mehrere Tote bei Gebäudebrand in Brüsseler Innenstadt",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-gebaeudebrand-bruessel-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T16:59:53+02:00"
-    },
-    {
-      "title": "China-Politik: Wie Deutschland seine Industrie schützen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/china-wettbewerb-deutschland-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T16:37:33+02:00"
-    },
-    {
-      "title": "Bevölkerungszahl der EU geht bis 2100 laut Studie um fast 52 Millionen zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-sinkende-bevoelkerungszahl-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T16:29:08+02:00"
     }
   ],
   "Food": []
