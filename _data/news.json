@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "In a First, a Humanoid Robot Performed Live Surgery Under a Surgeon’s Control",
+      "link": "https://singularityhub.com/2026/07/13/in-a-first-a-humanoid-robot-performed-live-surgery-under-a-surgeons-control/",
+      "published": "13 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-13T23:10:32+00:00"
+    },
+    {
       "title": "Why Am I Left-Handed?",
       "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
       "published": "13 Jul 2026",
@@ -65,16 +72,16 @@
       "published": "10 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-10T14:00:00+00:00"
-    },
-    {
-      "title": "This Synthetic Cell Grows, Copies Its DNA, and Produces Offspring—But It Isn’t Alive",
-      "link": "https://singularityhub.com/2026/07/09/this-synthetic-cell-grows-copies-its-dna-and-produces-offspring-but-it-isnt-alive/",
-      "published": "09 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-09T22:34:39+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-hormus-100.html",
+      "published": "14 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-14T04:00:02+02:00"
+    },
     {
       "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
       "link": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html",
@@ -102,13 +109,6 @@
       "published": "13 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-13T20:42:35+02:00"
-    },
-    {
-      "title": "Fünf Jahre nach der Flut: \"Man darf nicht vergessen\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/flut-rheinbach-gedenken-wiederaufbau-100.html",
-      "published": "13 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-13T20:24:05+02:00"
     }
   ],
   "Food": []
