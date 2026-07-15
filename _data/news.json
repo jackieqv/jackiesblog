@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Fußball-Weltmeisterschaft: Argentinien zieht mit 2:1 gegen England ins Finale",
+      "link": "https://www.tagesschau.de/sport/wm-argentinien-england-100.html",
+      "published": "15 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-15T23:13:30+02:00"
+    },
+    {
+      "title": "US-Militär verkündet Start neuer Angriffswelle auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/us-angriffe-iran-100.html",
+      "published": "15 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-15T22:13:46+02:00"
+    },
+    {
       "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html",
       "published": "15 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-15T19:49:08+02:00"
-    },
-    {
-      "title": "Bundeskanzler Merz: Sommerbilanz mit angezogener Handbremse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html",
-      "published": "15 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T19:40:38+02:00"
-    },
-    {
-      "title": "Was unternimmt das russische Militär im Grenzgebiet zu Finnland?",
-      "link": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
-      "published": "15 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T19:38:28+02:00"
     }
   ],
   "Food": []
