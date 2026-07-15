@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "Abstimmung in Nationalversammlung: Frankreich will Sterbehilfe ermöglichen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-106.html",
+      "published": "15 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-15T03:43:06+02:00"
+    },
+    {
+      "title": "74-jähriger Mann in Florida hingerichtet - nach 40 Jahren Haft",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-74-jaehriger-florida-100.html",
+      "published": "15 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-15T03:39:00+02:00"
+    },
+    {
+      "title": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
+      "link": "https://www.tagesschau.de/ausland/neue-angriffswelle-iran-100.html",
+      "published": "15 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-15T01:44:23+02:00"
+    },
+    {
       "title": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
       "link": "https://www.tagesschau.de/sport/fussball-wm-halbfinale-spanien-sieg-100.html",
       "published": "14 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "14 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-14T21:43:38+02:00"
-    },
-    {
-      "title": "Ministerpräsident Schnieder entschuldigt sich für Staatsversagen im Ahrtal",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gedenken-flutkatastrophe-ahrtal-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T21:20:19+02:00"
-    },
-    {
-      "title": "Trump will nun doch keine Gebühren für Hormus-Durchfahrt erheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-gebuehren-hormus-100.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T19:23:13+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX hält sich über 25.000-Punkte-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
-      "published": "14 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-14T18:48:12+02:00"
     }
   ],
   "Food": []
