@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Thermodynamic Computers Go With the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "published": "15 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-15T15:24:33+00:00"
+    },
+    {
       "title": "Scientists Find a Surprising New Way Stress Cascades From Brain to Body",
       "link": "https://singularityhub.com/2026/07/14/scientists-find-a-surprising-new-way-stress-cascades-from-brain-to-body/",
       "published": "14 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "11 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-11T14:00:00+00:00"
-    },
-    {
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
-      "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "published": "10 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-10T14:51:48+00:00"
     }
   ],
   "News": [
     {
-      "title": "Sommerpressekonferenz des Kanzlers: \"Die Koalition hat Tritt gefasst\"",
-      "link": "https://www.tagesschau.de/inland/merz-pk-108.html",
+      "title": "Irritation und Kritik nach AfD-Veranstaltung in Dessau-Roßlau",
+      "link": "https://www.tagesschau.de/inland/afd-wahlkampfauftritt-100.html",
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T15:39:20+02:00"
+      "sort_date": "2026-07-15T18:02:41+02:00"
     },
     {
-      "title": "\"Entlastungskabinett\" beschließt Maßnahmen zum Bürokratieabbau",
-      "link": "https://www.tagesschau.de/inland/regierung-buerokratie-abbau-100.html",
+      "title": "Israel: Oberstes Gericht kassiert vorerst Sonderrechte für Ultraorthodoxe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gerichtshof-ultraorthodoxe-100.html",
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T15:31:18+02:00"
+      "sort_date": "2026-07-15T17:30:43+02:00"
     },
     {
-      "title": "Analyse: Wie der Putschversuch 2016 und Erdoğans Machtgewinn zusammenhängen",
-      "link": "https://www.tagesschau.de/ausland/asien/10-jahre-putsch-tuerkei-100.html",
+      "title": "US-Kurs gegenüber Iran: \"Trumps Politik ist von Strategielosigkeit geprägt\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-dilemma-100.html",
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T15:13:55+02:00"
+      "sort_date": "2026-07-15T17:24:18+02:00"
     },
     {
-      "title": "Gesetzentwurf zum Unterhaltsvorschuss soll im Juli ins Kabinett",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-kabinett-100.html",
+      "title": "Plattform für Niedrigwasser: Wo Deutschland das Wasser ausgeht",
+      "link": "https://www.tagesschau.de/inland/trockenheit-niedrigwasser-plattform-bundesumweltministerium-100.html",
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T14:37:50+02:00"
+      "sort_date": "2026-07-15T17:14:55+02:00"
     },
     {
-      "title": "Wettbewerb im Fernverkehr: Monopolkommission stärkt Italo-Pläne",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/wettbewerb-fernverkehr-monopolkommission-100.html",
+      "title": "Mehr Gemüse statt Fleisch - wie das die Landwirtschaft verändern würde",
+      "link": "https://www.tagesschau.de/wissen/klima/ernaehrungswende-landwirtschaft-100.html",
       "published": "15 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-15T14:30:32+02:00"
+      "sort_date": "2026-07-15T17:12:52+02:00"
     }
   ],
   "Food": []
