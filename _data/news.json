@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html",
+      "published": "16 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-16T21:16:53+02:00"
+    },
+    {
       "title": "Wieder fremdenfeindliche Proteste in Südafrika - aus dem Ausland gesteuert? -",
       "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-proteste-100.html",
       "published": "16 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "16 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-16T18:41:56+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX kann Verluste eindämmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html",
-      "published": "16 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-16T18:12:32+02:00"
     }
   ],
   "Food": []
