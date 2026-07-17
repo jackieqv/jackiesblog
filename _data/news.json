@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Is AI Making Us Dumber?",
+      "link": "https://singularityhub.com/2026/07/16/is-ai-making-us-dumber/",
+      "published": "16 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-16T23:03:59+00:00"
+    },
+    {
       "title": "Thermodynamic Computers Go With the (Energy) Flow",
       "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
       "published": "15 Jul 2026",
@@ -65,16 +72,23 @@
       "published": "13 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-13T14:22:22+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 11)",
-      "link": "https://singularityhub.com/2026/07/11/this-weeks-awesome-tech-stories-from-around-the-web-through-july-11-2/",
-      "published": "11 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-11T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Iranische Medien: USA greifen Brücken und Flughafen an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
+      "published": "17 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-17T03:24:59+02:00"
+    },
+    {
+      "title": "Warken rechnet mit 650 Millionen Euro Einnahmen aus Zuckersteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-warken-100.html",
+      "published": "17 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-17T02:44:36+02:00"
+    },
     {
       "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html",
@@ -95,20 +109,6 @@
       "published": "16 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-16T18:51:09+02:00"
-    },
-    {
-      "title": "Für die UN heißt es sparen, sparen, sparen - und umziehen",
-      "link": "https://www.tagesschau.de/ausland/europa/un-einrichtungen-umzug-100.html",
-      "published": "16 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-16T18:42:15+02:00"
-    },
-    {
-      "title": "Iran-Krieg: Golfstaaten fürchten neue Eskalation",
-      "link": "https://www.tagesschau.de/ausland/asien/doha-130.html",
-      "published": "16 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-16T18:41:56+02:00"
     }
   ],
   "Food": []
