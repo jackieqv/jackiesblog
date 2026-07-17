@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Jens Spahn (CDU) verteidigt Leihmutterschaft gegen Kritik",
+      "link": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
+      "published": "17 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-17T20:22:19+02:00"
+    },
+    {
       "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
       "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "published": "17 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-17T16:57:59+02:00"
-    },
-    {
-      "title": "Russland: Kriegsgegner Nadeschdin zu Bußgeld verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-kremlkritiker-nadeschdin-geldstrafe-100.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T15:50:45+02:00"
     }
   ],
   "Food": []
