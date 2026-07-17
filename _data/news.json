@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Martin Picard’s Mitochondrial Theory of Mind",
+      "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+      "published": "17 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-17T14:31:05+00:00"
+    },
+    {
       "title": "Is AI Making Us Dumber?",
       "link": "https://singularityhub.com/2026/07/16/is-ai-making-us-dumber/",
       "published": "16 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "13 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-13T23:10:32+00:00"
-    },
-    {
-      "title": "Why Am I Left-Handed?",
-      "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
-      "published": "13 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-13T14:22:22+00:00"
     }
   ],
   "News": [
     {
-      "title": "Debatte über Leihmutterschaft: CDU-Landeschef fordert Spahns Rücktritt",
-      "link": "https://www.tagesschau.de/inland/jens-spahn-leihmutter-debatte-100.html",
+      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T15:08:52+02:00"
+      "sort_date": "2026-07-17T18:10:55+02:00"
     },
     {
-      "title": "China weist Trumps Wahlmanipulations-Vorwürfe als \"Lügenmärchen\" zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/china-reaktion-trump-vorwuerfe-wahlmanipulation-100.html",
+      "title": "Israels Parlament löst sich auf - Wahlkampf beginnt",
+      "link": "https://www.tagesschau.de/ausland/asien/knesset-israel-106.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T14:54:57+02:00"
+      "sort_date": "2026-07-17T17:12:31+02:00"
     },
     {
-      "title": "Chinesisches KI-Start-up Moonshot fordert US-Konkurrenz heraus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-konkurrenz-china-usa-100.html",
+      "title": "Neuer Labour-Chef Andy Burnham: Sein Rezept heißt Regionalisierung",
+      "link": "https://www.tagesschau.de/ausland/europa/andy-burnham-portraet-100.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T14:51:12+02:00"
+      "sort_date": "2026-07-17T16:59:00+02:00"
     },
     {
-      "title": "Machtfaktor Humor: So sexistisch war das Fernsehen der 90er",
-      "link": "https://www.tagesschau.de/kultur/sexismus-fernsehen-90er-jahre-100.html",
+      "title": "Geteilte Reaktionen auf EU-Vorschlag zum Emissionshandel",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-102.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T14:26:31+02:00"
+      "sort_date": "2026-07-17T16:57:59+02:00"
     },
     {
-      "title": "Regierungswechsel in London: Andy Burnham wird Labour-Chef",
-      "link": "https://www.tagesschau.de/ausland/europa/england-burnham-wird-neuer-labour-chef-100.html",
+      "title": "Russland: Kriegsgegner Nadeschdin zu Bußgeld verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-kremlkritiker-nadeschdin-geldstrafe-100.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T14:12:26+02:00"
+      "sort_date": "2026-07-17T15:50:45+02:00"
     }
   ],
   "Food": []
