@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Anthropic Says Chatbots Have What May Be a Key Feature of Consciousness. Are They Right?",
+      "link": "https://singularityhub.com/2026/07/17/anthropic-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right/",
+      "published": "17 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-17T19:57:06+00:00"
+    },
+    {
       "title": "Martin Picard’s Mitochondrial Theory of Mind",
       "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
       "published": "17 Jul 2026",
@@ -65,22 +72,22 @@
       "published": "14 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-14T21:48:06+00:00"
-    },
-    {
-      "title": "In a First, a Humanoid Robot Performed Live Surgery Under a Surgeon’s Control",
-      "link": "https://singularityhub.com/2026/07/13/in-a-first-a-humanoid-robot-performed-live-surgery-under-a-surgeons-control/",
-      "published": "13 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-13T23:10:32+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
+      "published": "17 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-17T22:07:23+02:00"
+    },
     {
       "title": "Jens Spahn (CDU) verteidigt Leihmutterschaft gegen Kritik",
       "link": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T20:22:19+02:00"
+      "sort_date": "2026-07-17T22:01:53+02:00"
     },
     {
       "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
@@ -102,13 +109,6 @@
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-17T16:59:00+02:00"
-    },
-    {
-      "title": "Geteilte Reaktionen auf EU-Vorschlag zum Emissionshandel",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-102.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T16:57:59+02:00"
     }
   ],
   "Food": []
