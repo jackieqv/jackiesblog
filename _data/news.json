@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Ehrgeiz und Wille zur Macht: Spahns politische Karriere",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-spahn-102.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T14:55:33+02:00"
+    },
+    {
+      "title": "Debatte um Leihmutterschaft: Unions-Fraktionschef Spahn tritt zurück",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T14:49:54+02:00"
+    },
+    {
+      "title": "Nach dem Rücktritt von Spahn stellt sich die Frage nach dem Nachfolger",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-104.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T14:44:26+02:00"
+    },
+    {
+      "title": "Polens Präsident Nawrocki: Mit Vetos macht er Tusk das Regieren schwer",
+      "link": "https://www.tagesschau.de/ausland/europa/nawrocki-polen-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T13:02:00+02:00"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html",
       "published": "18 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T12:14:28+02:00"
-    },
-    {
-      "title": "Leihmutterschaft-Debatte: Weitere CDU-Politiker fordern Spahns Rücktritt",
-      "link": "https://www.tagesschau.de/inland/spahn-ruecktrittsforderungen-cdu-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T12:10:04+02:00"
-    },
-    {
-      "title": "Wie das Rätsel um einen Holocaust-Täter gelöst wurde",
-      "link": "https://www.tagesschau.de/inland/jakobus-onnen-holocaust-foto-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T10:59:15+02:00"
-    },
-    {
-      "title": "Waldbrände in Kanada: Trump droht mit Zöllen wegen Luftverschmutzung",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-waldbrand-trump-zoelle-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T09:46:52+02:00"
-    },
-    {
-      "title": "Trump droht Kanada wegen Waldbränden mit zusätzlichen Zöllen",
-      "link": "https://www.dw.com/de/trump-droht-kanada-wegen-waldbränden-mit-zusätzlichen-zöllen/a-78017766?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-18T09:33:00+00:00"
+      "sort_date": "2026-07-18T12:49:37+02:00"
     }
   ],
   "Food": []
