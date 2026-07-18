@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Tote und Verletzte nach Erdrutsch im Westen Chinas",
+      "link": "https://www.tagesschau.de/ausland/asien/china-erdrutsch-130.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T05:38:31+02:00"
+    },
+    {
+      "title": "Nach Entlassung von Minister Fedorow: Erneut Proteste in Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-proteste-entlassung-fedorow-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T05:38:00+02:00"
+    },
+    {
+      "title": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T05:10:36+02:00"
+    },
+    {
+      "title": "Südafrika: Dunkle Schatten auf Mandelas Vision von Einheit",
+      "link": "https://www.dw.com/de/südafrika-dunkle-schatten-auf-mandelas-vision-von-einheit/a-77978534?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "18 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-18T04:41:00+00:00"
+    },
+    {
       "title": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-104.html",
       "published": "18 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-18T03:21:13+02:00"
-    },
-    {
-      "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T22:07:23+02:00"
-    },
-    {
-      "title": "Jens Spahn (CDU) verteidigt Leihmutterschaft gegen Kritik",
-      "link": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T22:01:53+02:00"
-    },
-    {
-      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T18:10:55+02:00"
-    },
-    {
-      "title": "Israels Parlament löst sich auf - Wahlkampf beginnt",
-      "link": "https://www.tagesschau.de/ausland/asien/knesset-israel-106.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T17:12:31+02:00"
     }
   ],
   "Food": []
