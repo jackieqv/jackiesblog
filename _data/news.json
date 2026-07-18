@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 18)",
+      "link": "https://singularityhub.com/2026/07/18/this-weeks-awesome-tech-stories-from-around-the-web-through-july-18-2/",
+      "published": "18 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-18T14:00:00+00:00"
+    },
+    {
       "title": "Anthropic Says Chatbots Have What May Be a Key Feature of Consciousness. Are They Right?",
       "link": "https://singularityhub.com/2026/07/17/anthropic-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right/",
       "published": "17 Jul 2026",
@@ -65,16 +72,30 @@
       "published": "15 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-15T15:24:33+00:00"
-    },
-    {
-      "title": "Scientists Find a Surprising New Way Stress Cascades From Brain to Body",
-      "link": "https://singularityhub.com/2026/07/14/scientists-find-a-surprising-new-way-stress-cascades-from-brain-to-body/",
-      "published": "14 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-14T21:48:06+00:00"
     }
   ],
   "News": [
+    {
+      "title": "NRW-AfD beendet turbulente Listenaufstellung - Machtkampf im Landesverband",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-parteitag-nrw-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T17:22:06+02:00"
+    },
+    {
+      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T16:27:42+02:00"
+    },
+    {
+      "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
+      "link": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T16:14:02+02:00"
+    },
     {
       "title": "Ehrgeiz und Wille zur Macht: Spahns politische Karriere",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-spahn-102.html",
@@ -83,32 +104,11 @@
       "sort_date": "2026-07-18T14:55:33+02:00"
     },
     {
-      "title": "Debatte um Leihmutterschaft: Unions-Fraktionschef Spahn tritt zurück",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T14:49:54+02:00"
-    },
-    {
       "title": "Nach dem Rücktritt von Spahn stellt sich die Frage nach dem Nachfolger",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-104.html",
       "published": "18 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-18T14:44:26+02:00"
-    },
-    {
-      "title": "Polens Präsident Nawrocki: Mit Vetos macht er Tusk das Regieren schwer",
-      "link": "https://www.tagesschau.de/ausland/europa/nawrocki-polen-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T13:02:00+02:00"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T12:49:37+02:00"
     }
   ],
   "Food": []
