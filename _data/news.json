@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-104.html",
+      "published": "18 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-18T03:21:13+02:00"
+    },
+    {
       "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
       "published": "17 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "17 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-17T17:12:31+02:00"
-    },
-    {
-      "title": "Neuer Labour-Chef Andy Burnham: Sein Rezept heißt Regionalisierung",
-      "link": "https://www.tagesschau.de/ausland/europa/andy-burnham-portraet-100.html",
-      "published": "17 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-17T16:59:00+02:00"
     }
   ],
   "Food": []
