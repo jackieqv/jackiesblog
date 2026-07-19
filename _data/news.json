@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T21:53:43+02:00"
+    },
+    {
+      "title": "Eskalation zwischen USA und Iran: Wie geht es in der Golfregion weiter?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-102.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T21:39:15+02:00"
+    },
+    {
       "title": "USA verlegen offenbar weitere Kampfjets nach Nahost",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-100.html",
       "published": "19 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "19 Jul 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-07-19T18:27:00+00:00"
-    },
-    {
-      "title": "Andrew Burnham: Der \"König des Nordens\" übernimmt das Zepter",
-      "link": "https://www.dw.com/de/andrew-burnham-der-könig-des-nordens-übernimmt-das-zepter/a-77985273?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-19T18:14:00+00:00"
-    },
-    {
-      "title": "Bahn-Boom: Wie der Wettbewerb in Italien den Fernverkehr verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/italo-fernverkehr-italien-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T18:10:39+02:00"
     }
   ],
   "Food": []
