@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "US-Militär meldet neue Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T04:04:13+02:00"
+    },
+    {
+      "title": "Erneut russischer Raketenangriff auf Kiew - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T03:50:41+02:00"
+    },
+    {
+      "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
+      "link": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T02:45:49+02:00"
+    },
+    {
       "title": "Norwegische Inselgruppe: Lofoten erheben Abgabe gegen \"Overtourism\"",
       "link": "https://www.tagesschau.de/ausland/europa/tourismusabgabe-norwegen-100.html",
       "published": "18 Jul 2026",
@@ -83,32 +104,11 @@
       "sort_date": "2026-07-18T20:59:37+02:00"
     },
     {
-      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T20:54:34+02:00"
-    },
-    {
       "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
       "published": "18 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-18T20:21:25+02:00"
-    },
-    {
-      "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
-      "link": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T20:02:22+02:00"
-    },
-    {
-      "title": "Wie weit ist die Hamas mit der Machtübergabe in Gaza?",
-      "link": "https://www.dw.com/de/wie-weit-ist-die-hamas-mit-der-machtübergabe-in-gaza/a-78007911?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-18T19:36:00+00:00"
     }
   ],
   "Food": []
