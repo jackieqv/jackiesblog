@@ -76,18 +76,25 @@
   ],
   "News": [
     {
-      "title": "US-Militär meldet neue Angriffe auf Iran",
+      "title": "Neue Angriffe zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "published": "19 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T04:04:13+02:00"
+      "sort_date": "2026-07-19T05:34:03+02:00"
     },
     {
-      "title": "Erneut russischer Raketenangriff auf Kiew - mehrere Verletzte",
+      "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
+      "link": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T05:26:56+02:00"
+    },
+    {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
       "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
       "published": "19 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T03:50:41+02:00"
+      "sort_date": "2026-07-19T04:39:41+02:00"
     },
     {
       "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
@@ -102,13 +109,6 @@
       "published": "18 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-18T20:59:37+02:00"
-    },
-    {
-      "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T20:21:25+02:00"
     }
   ],
   "Food": []
