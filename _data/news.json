@@ -76,6 +76,27 @@
   ],
   "News": [
     {
+      "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T17:36:16+02:00"
+    },
+    {
+      "title": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T16:26:55+02:00"
+    },
+    {
+      "title": "Wut in Venezuela: \"Ihr habt Müll gebaut!\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-wut-baupfusch-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T16:13:51+02:00"
+    },
+    {
       "title": "Warum Pflegefachkraft in Australien ein Traumjob ist",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pflege-australien-100.html",
       "published": "19 Jul 2026",
@@ -88,27 +109,6 @@
       "published": "19 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-19T13:39:28+02:00"
-    },
-    {
-      "title": "Nach Studie: Was tut sich gegen Rassismus in Behörden?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/inra-studie-rassismus-behoerden-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T13:02:56+02:00"
-    },
-    {
-      "title": "Große Firmen dürfen unverkaufte Mode nicht mehr wegwerfen",
-      "link": "https://www.dw.com/de/große-firmen-dürfen-unverkaufte-mode-nicht-mehr-wegwerfen/a-78025684?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-19T12:53:00+00:00"
-    },
-    {
-      "title": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
-      "link": "https://www.tagesschau.de/ausland/europa/ministerrat-abwesenheit-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T12:09:09+02:00"
     }
   ],
   "Food": []
