@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T09:35:47+02:00"
+    },
+    {
+      "title": "Führerschein für viele Menschen unbezahlbar",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fuehrerschein-in-deutschland-immer-teurer-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T09:11:05+02:00"
+    },
+    {
+      "title": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
+      "published": "19 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-19T08:12:45+02:00"
+    },
+    {
+      "title": "Rache im Krieg: US-Militär \"bestraft\" den Iran",
+      "link": "https://www.dw.com/de/rache-im-krieg-us-militär-bestraft-den-iran/a-78022949?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-19T06:32:00+00:00"
+    },
+    {
       "title": "Neue Angriffe zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "published": "19 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-19T05:34:03+02:00"
-    },
-    {
-      "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
-      "link": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T05:26:56+02:00"
-    },
-    {
-      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T04:39:41+02:00"
-    },
-    {
-      "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
-      "link": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T02:45:49+02:00"
-    },
-    {
-      "title": "Norwegische Inselgruppe: Lofoten erheben Abgabe gegen \"Overtourism\"",
-      "link": "https://www.tagesschau.de/ausland/europa/tourismusabgabe-norwegen-100.html",
-      "published": "18 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-18T20:59:37+02:00"
     }
   ],
   "Food": []
