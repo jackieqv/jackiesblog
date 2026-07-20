@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Spanien feiert seine Fußballweltmeister",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T22:05:48+02:00"
+    },
+    {
       "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html",
       "published": "20 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "20 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-20T20:02:34+02:00"
-    },
-    {
-      "title": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-neuer-premier-burnham-100.html",
-      "published": "20 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-20T18:32:27+02:00"
     }
   ],
   "Food": []
