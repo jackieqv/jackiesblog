@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T07:38:39+02:00"
+    },
+    {
+      "title": "Was von dieser WM der Widersprüche bleibt",
+      "link": "https://www.tagesschau.de/ausland/amerika/wm-bilanz-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T07:31:00+02:00"
+    },
+    {
+      "title": "Bäcker im Interview: \"Ein Beruf mit Zukunft\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/baeckereien-pleiten-interview-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T06:00:27+02:00"
+    },
+    {
+      "title": "Iran-Krieg: Mehr Kooperation am Golf trotz Differenzen",
+      "link": "https://www.dw.com/de/iran-krieg-mehr-kooperation-am-golf-trotz-differenzen/a-78005626?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "20 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-20T05:02:00+00:00"
+    },
+    {
       "title": "US-Armee meldet neue Angriffe auf Iran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-102.html",
       "published": "20 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-20T04:34:03+02:00"
-    },
-    {
-      "title": "Ukraine wirft Russland Angriff auf ziviles Schiff vor",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html",
-      "published": "20 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-20T01:59:26+02:00"
-    },
-    {
-      "title": "Spanien ist Fußball-Weltmeister 2026",
-      "link": "https://www.tagesschau.de/sport/spanien-fussball-weltmeister-100.html",
-      "published": "20 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-20T00:27:23+02:00"
-    },
-    {
-      "title": "Spanien triumphiert bei XXL-Weltmeisterschaft",
-      "link": "https://www.dw.com/de/spanien-triumphiert-bei-xxl-weltmeisterschaft/a-78028669?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-19T22:20:00+00:00"
-    },
-    {
-      "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T21:53:43+02:00"
     }
   ],
   "Food": []
