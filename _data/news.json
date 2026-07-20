@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "US-Armee meldet neue Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-102.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T04:34:03+02:00"
+    },
+    {
+      "title": "Ukraine wirft Russland Angriff auf ziviles Schiff vor",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T01:59:26+02:00"
+    },
+    {
+      "title": "Spanien ist Fußball-Weltmeister 2026",
+      "link": "https://www.tagesschau.de/sport/spanien-fussball-weltmeister-100.html",
+      "published": "20 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-20T00:27:23+02:00"
+    },
+    {
+      "title": "Spanien triumphiert bei XXL-Weltmeisterschaft",
+      "link": "https://www.dw.com/de/spanien-triumphiert-bei-xxl-weltmeisterschaft/a-78028669?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-19T22:20:00+00:00"
+    },
+    {
       "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html",
       "published": "19 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-19T21:53:43+02:00"
-    },
-    {
-      "title": "Eskalation zwischen USA und Iran: Wie geht es in der Golfregion weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-102.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T21:39:15+02:00"
-    },
-    {
-      "title": "USA verlegen offenbar weitere Kampfjets nach Nahost",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T20:25:27+02:00"
-    },
-    {
-      "title": "Das Sommerinterview mit Grünen-Chefin Brantner im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-brantner-100.html",
-      "published": "19 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-19T19:21:17+02:00"
-    },
-    {
-      "title": "Furcht vor Abschiebung: Russische Deserteure in Deutschland",
-      "link": "https://www.dw.com/de/furcht-vor-abschiebung-russische-deserteure-in-deutschland/a-78005855?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-19T18:27:00+00:00"
     }
   ],
   "Food": []
