@@ -39,7 +39,7 @@
   "Technology": [],
   "Science": [
     {
-      "title": "Rocket Launch Costs Have Fallen 96% Since 1960. They Aren’t Done Yet.",
+      "title": "Spaceflight Nears Its Steamship Era",
       "link": "https://singularityhub.com/2026/07/20/space-launch-costs-have-fallen-96-since-1960-they-arent-done-yet/",
       "published": "20 Jul 2026",
       "source": "SingularityHub",
@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Seeblockade: Huthi-Miliz zwingt offenbar Schiffe zur Umkehr",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-seeblockade-saudi-arabien-100.html",
+      "published": "21 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-21T19:32:50+02:00"
+    },
+    {
+      "title": "Chalil al-Haja: Was die Wahl des neuen Hamas-Chefs bedeutet",
+      "link": "https://www.tagesschau.de/ausland/asien/hamas-neuer-chef-100.html",
+      "published": "21 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-21T18:52:50+02:00"
+    },
+    {
       "title": "Marktbericht: DAX hält sich auf hohem Niveau",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-102.html",
       "published": "21 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "21 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-21T17:02:11+02:00"
-    },
-    {
-      "title": "Bundeskartellamt verhängt Millionenbußgeld wegen Reifenpreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/kartellamt-bussgeld-reifen-100.html",
-      "published": "21 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-21T17:01:47+02:00"
-    },
-    {
-      "title": "Ein Alkoholverbot gegen die Gewalt an Bahnhöfen?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alkoholverbot-bahnhof-koeln-100.html",
-      "published": "21 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-21T17:01:29+02:00"
     }
   ],
   "Food": []
