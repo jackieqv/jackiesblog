@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Rocket Launch Costs Have Fallen 96% Since 1960. They Aren’t Done Yet.",
+      "link": "https://singularityhub.com/2026/07/20/space-launch-costs-have-fallen-96-since-1960-they-arent-done-yet/",
+      "published": "20 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-20T22:09:06+00:00"
+    },
+    {
       "title": "The Organisms That Make Earth’s Harshest Places Home",
       "link": "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/",
       "published": "20 Jul 2026",
@@ -65,16 +72,23 @@
       "published": "17 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-17T14:31:05+00:00"
-    },
-    {
-      "title": "Is AI Making Us Dumber?",
-      "link": "https://singularityhub.com/2026/07/16/is-ai-making-us-dumber/",
-      "published": "16 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-16T23:03:59+00:00"
     }
   ],
   "News": [
+    {
+      "title": "DR Kongo: Zahl der Ebola-Infizierten steigt weiter",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-122.html",
+      "published": "21 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-21T02:48:28+02:00"
+    },
+    {
+      "title": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html",
+      "published": "21 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-21T00:40:52+02:00"
+    },
     {
       "title": "Spanien feiert seine Fußballweltmeister",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
@@ -95,20 +109,6 @@
       "published": "20 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-20T21:04:22+02:00"
-    },
-    {
-      "title": "Gedenken an Hitler-Attentat im Bendlerblock - mit Zwischenfall",
-      "link": "https://www.tagesschau.de/inland/gedenken-bendlerblock-afd-kranz-100.html",
-      "published": "20 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-20T20:24:00+02:00"
-    },
-    {
-      "title": "USA: Mexikanischer Drogenboss \"El Mayo\" zu lebenslanger Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-el-mayo-verurteilung-100.html",
-      "published": "20 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-20T20:02:34+02:00"
     }
   ],
   "Food": []
