@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Iran-Krieg: Erstmals wieder Explosionen in Teheran",
+      "link": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T04:20:48+02:00"
+    },
+    {
+      "title": "Brandmauer-Debatte: Kretschmer für Gespräche mit allen Parteien",
+      "link": "https://www.tagesschau.de/inland/kretschmer-brandmauer-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T03:37:48+02:00"
+    },
+    {
+      "title": "Mittelamerika: Nicaraguas Präsident Ortega will Wahlen abschaffen",
+      "link": "https://www.tagesschau.de/ausland/ortega-nicaragua-wahlen-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T02:27:52+02:00"
+    },
+    {
+      "title": "Frankreich: Die Not der Weinbauern nach den Waldbränden",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-weinbauern-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T00:38:36+02:00"
+    },
+    {
       "title": "Ukrainischer Präsident Selenskyj entlässt Oberbefehlshaber Syrskyj",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-oberbefehlshaber-entlassen-100.html",
       "published": "21 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-21T22:46:37+02:00"
-    },
-    {
-      "title": "Frankreich beschließt Social-Media-Verbot für Kinder unter 15 Jahren",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-102.html",
-      "published": "21 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-21T22:11:42+02:00"
-    },
-    {
-      "title": "Warum die Gaza-Mission weiter auf sich warten lässt",
-      "link": "https://www.dw.com/de/warum-die-gaza-mission-weiter-auf-sich-warten-lässt/a-78049088?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-21T19:39:00+00:00"
-    },
-    {
-      "title": "Seeblockade: Huthi-Miliz zwingt offenbar Schiffe zur Umkehr",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-seeblockade-saudi-arabien-100.html",
-      "published": "21 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-21T19:32:50+02:00"
-    },
-    {
-      "title": "Chalil al-Haja: Was die Wahl des neuen Hamas-Chefs bedeutet",
-      "link": "https://www.tagesschau.de/ausland/asien/hamas-neuer-chef-100.html",
-      "published": "21 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-21T18:52:50+02:00"
     }
   ],
   "Food": []
