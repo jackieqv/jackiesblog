@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Scientists Inch Closer to Creating Human Sperm in the Lab",
+      "link": "https://singularityhub.com/2026/07/22/scientists-inch-closer-to-creating-human-sperm-in-the-lab/",
+      "published": "22 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-22T14:00:00+00:00"
+    },
+    {
       "title": "Spaceflight Nears Its Steamship Era",
       "link": "https://singularityhub.com/2026/07/20/space-launch-costs-have-fallen-96-since-1960-they-arent-done-yet/",
       "published": "20 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "17 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-17T19:57:06+00:00"
-    },
-    {
-      "title": "Martin Picard’s Mitochondrial Theory of Mind",
-      "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
-      "published": "17 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-17T14:31:05+00:00"
     }
   ],
   "News": [
     {
-      "title": "ARD-Korrespondent: \"Merz hat mit Frei jemanden geholt, der klar auf Kurs ist\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktionsvorsitz-100.html",
+      "title": "Frei als Fraktionschef: Stühlerücken für mehr Stabilität in der Union?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fraktionschef-frei-union-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T15:50:19+02:00"
+      "sort_date": "2026-07-22T18:00:24+02:00"
     },
     {
-      "title": "Tech-Firmen am Finanzmarkt: Was KI kostet und wer das alles bezahlt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kuenstliche-intelligenz-kosten-100.html",
+      "title": "Mutmaßlicher Epstein-Komplize tot aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/verdaechtiger-epstein-komplize-tot-aufgefunden-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T15:32:22+02:00"
+      "sort_date": "2026-07-22T17:45:34+02:00"
     },
     {
-      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html",
+      "title": "EU will \"Chatkontrollen\" teilweise wieder ermöglichen",
+      "link": "https://www.tagesschau.de/ausland/europa/einigung-eu-chatkontrollen-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T15:04:19+02:00"
+      "sort_date": "2026-07-22T17:25:12+02:00"
     },
     {
-      "title": "Galeria prüft mögliche Schließungen von 33 Filialen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galeria-filialen-pruefstand-schliessung-100.html",
+      "title": "Uber und Delivery Hero: Lieferdienste setzen auf Quick Commerce",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-delivery-hero-lieferdienste-markt-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T14:53:35+02:00"
+      "sort_date": "2026-07-22T17:11:51+02:00"
     },
     {
-      "title": "Großeinsatz in JVA Siegburg - Aufstand geplant?",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizeieinsatz-jva-siegburg-100.html",
+      "title": "Justizreform in Ungarn: Generalstaatsanwalt Nagy tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-justizreform-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T14:48:37+02:00"
+      "sort_date": "2026-07-22T16:27:26+02:00"
     }
   ],
   "Food": []
