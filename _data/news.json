@@ -76,39 +76,39 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: DAX tritt auf der Stelle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-iran-oel-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T10:10:18+02:00"
+    },
+    {
+      "title": "Zehn Jahre nach OEZ-Anschlag: Hinterbliebene fühlen sich im Stich gelassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/oez-attentat-muenchen-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T09:28:53+02:00"
+    },
+    {
+      "title": "Lob für Alkoholverbot an Bahnhöfen - aber Fragen zur Umsetzung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-alkoholverbot-bahnhoefe-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T09:21:58+02:00"
+    },
+    {
+      "title": "Bis zu 200 Prozent: Trump kündigt Zölle auf Arzneimittel an",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-arnzeimittel-generika-100.html",
+      "published": "22 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-22T08:55:28+02:00"
+    },
+    {
       "title": "KI von OpenAI steuert eigenständig Hackerangriff",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html",
       "published": "22 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-22T07:46:49+02:00"
-    },
-    {
-      "title": "Hegseth beziffert Kriegskosten in Iran auf 37,5 Milliarden Dollar",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-haushaltsausschuss-irankrieg-100.html",
-      "published": "22 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T07:41:20+02:00"
-    },
-    {
-      "title": "Handelsroute: Nordwestpassage als neuer globaler Seeweg?",
-      "link": "https://www.tagesschau.de/ausland/nordwestpassage-kanada-100.html",
-      "published": "22 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T07:35:58+02:00"
-    },
-    {
-      "title": "Braunau in Österreich: Hitlers Geburtshaus wird zu Polizeistation",
-      "link": "https://www.tagesschau.de/ausland/europa/hitler-geburtshaus-polizei-100.html",
-      "published": "22 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T06:50:17+02:00"
-    },
-    {
-      "title": "Londoner Polizei: Festnahmen mithilfe von Gesichtserkennung",
-      "link": "https://www.tagesschau.de/ausland/europa/london-gesichtserkennung-100.html",
-      "published": "22 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-22T06:23:02+02:00"
     }
   ],
   "Food": []
