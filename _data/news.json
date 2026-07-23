@@ -39,6 +39,27 @@
   "Technology": [],
   "Science": [
     {
+      "title": "How Fast Is the Universe Really Expanding?",
+      "link": "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T14:53:45+00:00"
+    },
+    {
+      "title": "Fields and Abacus Medals 2026",
+      "link": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T14:20:31+00:00"
+    },
+    {
+      "title": "A Master of the Traveling Salesperson Problem Finds His Own Path",
+      "link": "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T14:18:20+00:00"
+    },
+    {
       "title": "Living Fully in the Math World Means Threading the Needle",
       "link": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
       "published": "23 Jul 2026",
@@ -51,64 +72,43 @@
       "published": "23 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-23T13:47:40+00:00"
-    },
-    {
-      "title": "The Quietest Mathematician Has Always Been Worth Listening To",
-      "link": "https://www.quantamagazine.org/john-pardon-wins-the-2026-fields-medal-for-work-in-symplectic-geometry-20260723/",
-      "published": "23 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-23T13:40:17+00:00"
-    },
-    {
-      "title": "Amid Life’s Chaos, a Meticulous Mathematician Finds Stability",
-      "link": "https://www.quantamagazine.org/yu-deng-wins-the-fields-medal-2026-for-his-work-on-the-random-data-problem-20260723/",
-      "published": "23 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-23T13:34:39+00:00"
-    },
-    {
-      "title": "Scientists Inch Closer to Creating Human Sperm in the Lab",
-      "link": "https://singularityhub.com/2026/07/22/scientists-inch-closer-to-creating-human-sperm-in-the-lab/",
-      "published": "22 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-22T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Frühstartrente: Wie Altersvorsorge im Kindesalter klappen soll",
-      "link": "https://www.tagesschau.de/inland/fruehstartrente-100.html",
+      "title": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T15:25:47+02:00"
+      "sort_date": "2026-07-23T18:16:57+02:00"
     },
     {
-      "title": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheidung-juli-100.html",
+      "title": "Marktbericht: Der DAX knickt ein",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T15:14:29+02:00"
+      "sort_date": "2026-07-23T18:16:23+02:00"
     },
     {
-      "title": "Wie gerecht ist das Reformpaket der Koalition?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformpaket-koalition-100.html",
+      "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
+      "link": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T14:38:17+02:00"
+      "sort_date": "2026-07-23T18:13:16+02:00"
     },
     {
-      "title": "Batteriehersteller in der Krise: Varta soll zerschlagen werden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterieunternehmen-zerschlagung-100.html",
+      "title": "EU verhängt weiteres Sanktionspaket gegen Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-140.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T14:36:10+02:00"
+      "sort_date": "2026-07-23T18:07:54+02:00"
     },
     {
-      "title": "Nach schweren Gefechten: Thailand baut Grenzzaun zu Kambodscha",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-grenzzaun-100.html",
+      "title": "US-Atomabkommen mit Saudi-Arabien: Ein Deal, der Sorgen macht",
+      "link": "https://www.tagesschau.de/kommentar/saudi-arabien-atomkraft-102.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T14:09:59+02:00"
+      "sort_date": "2026-07-23T17:33:32+02:00"
     }
   ],
   "Food": []
