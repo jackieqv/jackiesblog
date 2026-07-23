@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "OpenAI Agent Breaks Free and Hacks Hugging Face",
+      "link": "https://singularityhub.com/2026/07/23/openai-agent-breaks-free-and-hacks-hugging-face/",
+      "published": "23 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-23T20:48:40+00:00"
+    },
+    {
       "title": "How Fast Is the Universe Really Expanding?",
       "link": "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
       "published": "23 Jul 2026",
@@ -65,16 +72,23 @@
       "published": "23 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-23T13:55:53+00:00"
-    },
-    {
-      "title": "Sometimes Being First Means Seeing the End Before Anyone Else",
-      "link": "https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for-andre-oort-conjecture-proof-20260723/",
-      "published": "23 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-23T13:47:40+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Linnemann: \"Einfach mal machen\" im Gesundheitsministerium?",
+      "link": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T21:40:02+02:00"
+    },
+    {
+      "title": "Außenminister Wadephul trifft Amtskollegen Lamolla in Südafrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-suedafrika-100.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T21:21:04+02:00"
+    },
     {
       "title": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
       "link": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html",
@@ -95,20 +109,6 @@
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-23T18:42:08+02:00"
-    },
-    {
-      "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
-      "link": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T18:41:19+02:00"
-    },
-    {
-      "title": "Marktbericht: Der DAX knickt ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T18:16:23+02:00"
     }
   ],
   "Food": []
