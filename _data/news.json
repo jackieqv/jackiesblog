@@ -76,39 +76,39 @@
   ],
   "News": [
     {
-      "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T07:47:47+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger schwanken zwischen Bilanzen und Ölpreisen",
+      "title": "Marktbericht: Anleger blicken auf Ölpreise und die EZB",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T07:26:58+02:00"
+      "sort_date": "2026-07-23T10:24:05+02:00"
     },
     {
-      "title": "Huthi-Miliz beschießt saudischen Tanker im Roten Meer",
-      "link": "https://www.tagesschau.de/ausland/huthi-rotes-meer-104.html",
+      "title": "US-Repräsentantenhaus billigt mehr als eine Billion Dollar fürs Pentagon",
+      "link": "https://www.tagesschau.de/ausland/amerika/militaeretat--usa-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T07:12:43+02:00"
+      "sort_date": "2026-07-23T10:19:32+02:00"
     },
     {
-      "title": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-lagarde-104.html",
+      "title": "Innenministerium will wohl härtere Einschnitte am Informationsfreiheitsgesetz",
+      "link": "https://www.tagesschau.de/investigativ/mdr/ifg-bundesinnenministerium-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T06:30:10+02:00"
+      "sort_date": "2026-07-23T10:15:40+02:00"
     },
     {
-      "title": "Buddhistische Gruppen: Manipulation in Buddhas Namen?",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/seelenfaenger-buddhistische-gruppen-100.html",
+      "title": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
+      "link": "https://www.tagesschau.de/ausland/asien/rubio-lawrow-treffen-manila-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T06:00:28+02:00"
+      "sort_date": "2026-07-23T09:39:09+02:00"
+    },
+    {
+      "title": "Abkommen mit den USA: Das saudische Streben nach Atomkraft",
+      "link": "https://www.tagesschau.de/ausland/saudi-arabien-atomprogramm-100.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T09:13:29+02:00"
     }
   ],
   "Food": []
