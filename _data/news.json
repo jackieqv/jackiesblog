@@ -39,76 +39,76 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Living Fully in the Math World Means Threading the Needle",
+      "link": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T13:55:53+00:00"
+    },
+    {
+      "title": "Sometimes Being First Means Seeing the End Before Anyone Else",
+      "link": "https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for-andre-oort-conjecture-proof-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T13:47:40+00:00"
+    },
+    {
+      "title": "The Quietest Mathematician Has Always Been Worth Listening To",
+      "link": "https://www.quantamagazine.org/john-pardon-wins-the-2026-fields-medal-for-work-in-symplectic-geometry-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T13:40:17+00:00"
+    },
+    {
+      "title": "Amid Life’s Chaos, a Meticulous Mathematician Finds Stability",
+      "link": "https://www.quantamagazine.org/yu-deng-wins-the-fields-medal-2026-for-his-work-on-the-random-data-problem-20260723/",
+      "published": "23 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-23T13:34:39+00:00"
+    },
+    {
       "title": "Scientists Inch Closer to Creating Human Sperm in the Lab",
       "link": "https://singularityhub.com/2026/07/22/scientists-inch-closer-to-creating-human-sperm-in-the-lab/",
       "published": "22 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-22T14:00:00+00:00"
-    },
-    {
-      "title": "Spaceflight Nears Its Steamship Era",
-      "link": "https://singularityhub.com/2026/07/20/space-launch-costs-have-fallen-96-since-1960-they-arent-done-yet/",
-      "published": "20 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-20T22:09:06+00:00"
-    },
-    {
-      "title": "The Organisms That Make Earth’s Harshest Places Home",
-      "link": "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/",
-      "published": "20 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-20T15:03:48+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 18)",
-      "link": "https://singularityhub.com/2026/07/18/this-weeks-awesome-tech-stories-from-around-the-web-through-july-18-2/",
-      "published": "18 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-18T14:00:00+00:00"
-    },
-    {
-      "title": "Anthropic Says Chatbots Have What May Be a Key Feature of Consciousness. Are They Right?",
-      "link": "https://singularityhub.com/2026/07/17/anthropic-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right/",
-      "published": "17 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-17T19:57:06+00:00"
     }
   ],
   "News": [
     {
-      "title": "Rotes Meer: Huthi beschießen Tanker aus Saudi-Arabien",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-oeltanker-angriff-100.html",
+      "title": "Frühstartrente: Wie Altersvorsorge im Kindesalter klappen soll",
+      "link": "https://www.tagesschau.de/inland/fruehstartrente-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T12:55:25+02:00"
+      "sort_date": "2026-07-23T15:25:47+02:00"
     },
     {
-      "title": "Mehr als 1.000 Ebola-Tote in Demokratischer Republik Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-tote-102.html",
+      "title": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheidung-juli-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T12:51:01+02:00"
+      "sort_date": "2026-07-23T15:14:29+02:00"
     },
     {
-      "title": "Reiseverkehr: ADAC warnt vor erhöhter Staugefahr am Wochenende",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/reise-verkehr-sommerferien-deutschland-100.html",
+      "title": "Wie gerecht ist das Reformpaket der Koalition?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformpaket-koalition-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T12:44:40+02:00"
+      "sort_date": "2026-07-23T14:38:17+02:00"
     },
     {
-      "title": "Wacken Open Air 2026: Zwischen Dorfacker und Wall Street",
-      "link": "https://www.tagesschau.de/kultur/heavy-metal-festival-wacken-als-marke-100.html",
+      "title": "Batteriehersteller in der Krise: Varta soll zerschlagen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterieunternehmen-zerschlagung-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T12:32:17+02:00"
+      "sort_date": "2026-07-23T14:36:10+02:00"
     },
     {
-      "title": "Klage gegen Bundesregierung: Ehefrau von Deutschem sitzt in Gaza fest",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-gaza-klage-100.html",
+      "title": "Nach schweren Gefechten: Thailand baut Grenzzaun zu Kambodscha",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-grenzzaun-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T12:29:24+02:00"
+      "sort_date": "2026-07-23T14:09:59+02:00"
     }
   ],
   "Food": []
