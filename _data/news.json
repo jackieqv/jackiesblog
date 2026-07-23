@@ -76,11 +76,32 @@
   ],
   "News": [
     {
-      "title": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
+      "title": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html",
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T18:16:57+02:00"
+      "sort_date": "2026-07-23T20:05:23+02:00"
+    },
+    {
+      "title": "Rubio-Lawrow-Treffen in Manila: \"Nicht übermäßig optimistisch\"",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-usa-lawrow-rubio-100.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T18:43:11+02:00"
+    },
+    {
+      "title": "Abschiebungen nach Afghanistan bald nicht nur für Straftäter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-144.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T18:42:08+02:00"
+    },
+    {
+      "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
+      "link": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
+      "published": "23 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-23T18:41:19+02:00"
     },
     {
       "title": "Marktbericht: Der DAX knickt ein",
@@ -88,27 +109,6 @@
       "published": "23 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-23T18:16:23+02:00"
-    },
-    {
-      "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
-      "link": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T18:13:16+02:00"
-    },
-    {
-      "title": "EU verhängt weiteres Sanktionspaket gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-140.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T18:07:54+02:00"
-    },
-    {
-      "title": "US-Atomabkommen mit Saudi-Arabien: Ein Deal, der Sorgen macht",
-      "link": "https://www.tagesschau.de/kommentar/saudi-arabien-atomkraft-102.html",
-      "published": "23 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-23T17:33:32+02:00"
     }
   ],
   "Food": []
