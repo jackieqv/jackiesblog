@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Scientists Are Designing CRISPR Gene Editors With AI",
+      "link": "https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/",
+      "published": "24 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-24T21:47:42+00:00"
+    },
+    {
       "title": "OpenAI Agent Breaks Free and Hacks Hugging Face",
       "link": "https://singularityhub.com/2026/07/23/openai-agent-breaks-free-and-hacks-hugging-face/",
       "published": "23 Jul 2026",
@@ -65,16 +72,16 @@
       "published": "23 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-23T14:18:20+00:00"
-    },
-    {
-      "title": "Living Fully in the Math World Means Threading the Needle",
-      "link": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
-      "published": "23 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-23T13:55:53+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt",
+      "link": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html",
+      "published": "24 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-24T22:50:16+02:00"
+    },
     {
       "title": "Trump droht nach Google-Strafe der EU mit neuen Zöllen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-google-eu-100.html",
@@ -102,13 +109,6 @@
       "published": "24 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-24T19:22:54+02:00"
-    },
-    {
-      "title": "US-Atomdeal: Droht ein nukleares Wettrüsten in Nahost?",
-      "link": "https://www.dw.com/de/us-atomdeal-droht-ein-nukleares-wettrüsten-in-nahost/a-78102754?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-24T18:33:00+00:00"
     }
   ],
   "Food": []
