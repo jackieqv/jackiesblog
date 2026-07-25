@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Berliner CSD abgebrochen - mutmaßlich Fahrzeug in Menschenmenge gefahren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T23:22:06+02:00"
+    },
+    {
+      "title": "ARD-Korrespondent: \"Dimensionen, die Frankreich bisher nicht kannte\"",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-102.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T21:32:04+02:00"
+    },
+    {
       "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
       "link": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html",
       "published": "25 Jul 2026",
@@ -90,25 +104,11 @@
       "sort_date": "2026-07-25T20:22:06+02:00"
     },
     {
-      "title": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
+      "title": "Bekommt die Bundeswehr die richtigen Waffen?",
+      "link": "https://www.dw.com/de/bekommt-die-bundeswehr-die-richtigen-waffen/a-78097014?maca=de-rss-de-top-1016-xml-mrss",
       "published": "25 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T19:37:22+02:00"
-    },
-    {
-      "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
-      "published": "25 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T18:10:14+02:00"
-    },
-    {
-      "title": "Linnemann weist Zweifel an Eignung als Gesundheitsminister zurück",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-gesundheitsminister-100.html",
-      "published": "25 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T17:39:32+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-25T19:54:00+00:00"
     }
   ],
   "Food": []
