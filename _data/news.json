@@ -76,11 +76,18 @@
   ],
   "News": [
     {
+      "title": "Zukünftiger Unionsfraktionschef Frei nennt Panne bei Regierungsumbildung \"Pech\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T11:48:18+02:00"
+    },
+    {
       "title": "Hunderttausende beim CSD in Berlin erwartet",
       "link": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html",
       "published": "25 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T09:47:40+02:00"
+      "sort_date": "2026-07-25T11:17:30+02:00"
     },
     {
       "title": "So schützen Kleingärten vor Hitze",
@@ -97,18 +104,11 @@
       "sort_date": "2026-07-25T09:06:30+02:00"
     },
     {
-      "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html",
+      "title": "Trump plant Zölle gegen Mexiko wegen Durchfall-Parasiten",
+      "link": "https://www.dw.com/de/trump-plant-zölle-gegen-mexiko-wegen-durchfall-parasiten/a-78109625?maca=de-rss-de-top-1016-xml-mrss",
       "published": "25 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T08:39:57+02:00"
-    },
-    {
-      "title": "CSD 2026: Queere Räume in Berlin unter Druck",
-      "link": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html",
-      "published": "25 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-25T06:24:50+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-25T09:01:00+00:00"
     }
   ],
   "Food": []
