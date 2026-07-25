@@ -76,11 +76,32 @@
   ],
   "News": [
     {
+      "title": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
+      "link": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T03:44:24+02:00"
+    },
+    {
+      "title": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T02:41:42+02:00"
+    },
+    {
+      "title": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html",
+      "published": "25 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-25T01:40:06+02:00"
+    },
+    {
       "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt",
       "link": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html",
-      "published": "24 Jul 2026",
+      "published": "25 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-24T22:50:16+02:00"
+      "sort_date": "2026-07-25T00:50:53+02:00"
     },
     {
       "title": "Trump droht nach Google-Strafe der EU mit neuen Zöllen",
@@ -88,27 +109,6 @@
       "published": "24 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-24T21:20:15+02:00"
-    },
-    {
-      "title": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html",
-      "published": "24 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-24T20:18:38+02:00"
-    },
-    {
-      "title": "Russische Zentralbank senkt Leitzins erneut",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-leitzins-102.html",
-      "published": "24 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-24T19:45:12+02:00"
-    },
-    {
-      "title": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
-      "published": "24 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-24T19:22:54+02:00"
     }
   ],
   "Food": []
