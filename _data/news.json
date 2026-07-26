@@ -76,39 +76,39 @@
   ],
   "News": [
     {
-      "title": "Liveblog zu Angriff auf CSD: ++ Fahndung laut Dobrindt mit \"\"sehr hohem\" Einsatz ++",
+      "title": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft soll Ermittlungen übernehmen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T15:15:18+02:00"
+      "sort_date": "2026-07-26T17:38:50+02:00"
+    },
+    {
+      "title": "Angriff auf CSD Berlin: Tatverdächtiger polizeibekannter Islamist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
+      "published": "26 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-26T17:03:18+02:00"
     },
     {
       "title": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html",
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T14:57:12+02:00"
+      "sort_date": "2026-07-26T16:51:05+02:00"
     },
     {
-      "title": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
-      "link": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
+      "title": "Volksparteien im Osten: Die Geschichte einer Entfremdung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/volksparteien-ostdeutschland-100.html",
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T14:10:03+02:00"
+      "sort_date": "2026-07-26T16:06:15+02:00"
     },
     {
-      "title": "Waldbrände in Spanien: Neuer Brand bei Valencia",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
+      "title": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
+      "link": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html",
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T13:49:54+02:00"
-    },
-    {
-      "title": "Waldsiedlung in Berlin-Zehlendorf gehört jetzt zum UNESCO-Welterbe",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-waldsiedlung-zehlendorf-unesco-welterbe-100.html",
-      "published": "26 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T12:52:41+02:00"
+      "sort_date": "2026-07-26T15:46:21+02:00"
     }
   ],
   "Food": []
