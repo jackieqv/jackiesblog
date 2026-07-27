@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere",
+      "link": "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/",
+      "published": "27 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-27T14:40:59+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 25)",
       "link": "https://singularityhub.com/2026/07/25/this-weeks-awesome-tech-stories-from-around-the-web-through-july-25-2/",
       "published": "25 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "23 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-23T14:53:45+00:00"
-    },
-    {
-      "title": "Fields and Abacus Medals 2026",
-      "link": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/",
-      "published": "23 Jul 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-07-23T14:20:31+00:00"
     }
   ],
   "News": [
     {
-      "title": "Chiphersteller CXMT: Spektakuläres Börsendebüt in China",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boersengang-cxmt-100.html",
+      "title": "Kabinettsumbau sorgt für Ärger mit CDU-Fraktion in Rheinland-Pfalz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-schnieder-rheinland-pfalz-100.html",
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T13:53:42+02:00"
+      "sort_date": "2026-07-27T18:48:16+02:00"
     },
     {
-      "title": "Hoppermann ist neue CDU-Generalsekretärin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-hoppermann-generalsekretaerin-100.html",
+      "title": "Marktbericht: Günstiger Nachrichtenmix treibt DAX an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-100.html",
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T13:45:07+02:00"
+      "sort_date": "2026-07-27T18:24:41+02:00"
     },
     {
-      "title": "Leichenpräparator Gunther von Hagens gestorben",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gunther-von-hagens-gestorben-100.html",
+      "title": "Anschlag auf CSD: BKA stufte Abdul B. als \"Hochrisikoperson\" ein",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/anschlag-berlin-tatverdaechtiger-100.html",
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T12:59:32+02:00"
+      "sort_date": "2026-07-27T17:53:45+02:00"
     },
     {
-      "title": "Venedig nimmt mehr als fünf Millionen Euro Eintritt ein",
-      "link": "https://www.tagesschau.de/ausland/europa/venedig-eintritt-104.html",
+      "title": "Kabinettsumbau als vertane Chance  - Das Vertrauen in Merz schrumpft",
+      "link": "https://www.tagesschau.de/kommentar/regierung-umbildung-merz-100.html",
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T12:43:22+02:00"
+      "sort_date": "2026-07-27T17:52:41+02:00"
     },
     {
-      "title": "Deradikalisierungsprogramm: \"Wir haben sehr viele Hochrisikopersonen\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/anschlag-csd-interview-muecke-100.html",
+      "title": "FAQ nach CSD-Anschlag: Wann gilt Jugendstrafrecht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/anschlag-csd-jugendstrafrecht-100.html",
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T11:41:22+02:00"
+      "sort_date": "2026-07-27T17:25:29+02:00"
     }
   ],
   "Food": []
