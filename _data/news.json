@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Dobrindt nach Anschlag auf CSD: \"Präventivhaft für Gefährder zwingend notwendig\"",
+      "link": "https://www.tagesschau.de/inland/dobrindt-anschlag-csd-100.html",
+      "published": "27 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-27T20:36:37+02:00"
+    },
+    {
+      "title": "Großbritannien: Burnham empfängt Selenskyj - erster ausländischer Besucher",
+      "link": "https://www.tagesschau.de/ausland/gb-ukraine-usa-selenskyj-100.html",
+      "published": "27 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-27T20:36:26+02:00"
+    },
+    {
       "title": "Kabinettsumbau sorgt für Ärger mit CDU-Fraktion in Rheinland-Pfalz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-schnieder-rheinland-pfalz-100.html",
       "published": "27 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-27T17:53:45+02:00"
-    },
-    {
-      "title": "Kabinettsumbau als vertane Chance  - Das Vertrauen in Merz schrumpft",
-      "link": "https://www.tagesschau.de/kommentar/regierung-umbildung-merz-100.html",
-      "published": "27 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T17:52:41+02:00"
-    },
-    {
-      "title": "FAQ nach CSD-Anschlag: Wann gilt Jugendstrafrecht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/anschlag-csd-jugendstrafrecht-100.html",
-      "published": "27 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T17:25:29+02:00"
     }
   ],
   "Food": []
