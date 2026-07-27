@@ -76,18 +76,25 @@
   ],
   "News": [
     {
+      "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
+      "link": "https://www.tagesschau.de/ausland/europa/mallorca-proteste-106.html",
+      "published": "27 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-27T03:43:26+02:00"
+    },
+    {
+      "title": "Söder verteidigt Merz' Kabinettsumbau nach Kritik an Hängepartie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-kabinettsumbau-100.html",
+      "published": "27 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-27T02:41:31+02:00"
+    },
+    {
       "title": "Steffen Bilger soll neuer Verkehrsminister werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-26T21:03:10+02:00"
-    },
-    {
-      "title": "Angriff auf CSD Berlin: Tatverdächtiger war polizeibekannter Islamist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
-      "published": "26 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T20:51:06+02:00"
     },
     {
       "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
@@ -102,13 +109,6 @@
       "published": "26 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-26T19:35:36+02:00"
-    },
-    {
-      "title": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
-      "link": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html",
-      "published": "26 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-26T18:17:33+02:00"
     }
   ],
   "Food": []
