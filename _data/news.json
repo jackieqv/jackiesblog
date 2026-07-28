@@ -76,6 +76,13 @@
   ],
   "News": [
     {
+      "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-sicherheitsallianz-techunternehmen-100.html",
+      "published": "28 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-28T02:23:46+02:00"
+    },
+    {
       "title": "Dobrindt nach Anschlag auf CSD: \"Präventivhaft für Gefährder zwingend notwendig\"",
       "link": "https://www.tagesschau.de/inland/dobrindt-anschlag-csd-100.html",
       "published": "27 Jul 2026",
@@ -102,13 +109,6 @@
       "published": "27 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-27T18:24:41+02:00"
-    },
-    {
-      "title": "Anschlag auf CSD: BKA stufte Abdul B. als \"Hochrisikoperson\" ein",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/anschlag-berlin-tatverdaechtiger-100.html",
-      "published": "27 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-27T17:53:45+02:00"
     }
   ],
   "Food": []
