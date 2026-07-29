@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Why Scientists Redesigned the Botox Enzyme With AI",
+      "link": "https://singularityhub.com/2026/07/28/why-scientists-redesigned-the-botox-enzyme-with-ai/",
+      "published": "28 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-28T23:11:22+00:00"
+    },
+    {
       "title": "Weak AI Regulation Could Be Worse Than None at All",
       "link": "https://singularityhub.com/2026/07/27/weak-ai-regulation-could-be-worse-than-none-at-all/",
       "published": "27 Jul 2026",
@@ -65,16 +72,23 @@
       "published": "24 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-24T21:47:42+00:00"
-    },
-    {
-      "title": "OpenAI Agent Breaks Free and Hacks Hugging Face",
-      "link": "https://singularityhub.com/2026/07/23/openai-agent-breaks-free-and-hacks-hugging-face/",
-      "published": "23 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-23T20:48:40+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Zahl der Toten in Japan steigt auf mindestens 13",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-172.html",
+      "published": "29 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-29T04:11:03+02:00"
+    },
+    {
+      "title": "US-Militär wehrt offenbar Raketen aus Iran ab",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-iran-100.html",
+      "published": "29 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-29T02:31:14+02:00"
+    },
     {
       "title": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html",
@@ -95,20 +109,6 @@
       "published": "28 Jul 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-07-28T19:54:00+00:00"
-    },
-    {
-      "title": "Messerangriff in Regensburg: Verdächtiger in Psychiatrie verlegt",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/messerangriff-regensburg-102.html",
-      "published": "28 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-28T19:47:06+02:00"
-    },
-    {
-      "title": "Prozess um Anschlag auf ver.di-Demo: Anklage fordert lebenslange Haft",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/prozess-anschlag-verdi-100.html",
-      "published": "28 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-28T19:21:44+02:00"
     }
   ],
   "Food": []
