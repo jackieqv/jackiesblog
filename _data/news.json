@@ -76,6 +76,20 @@
   ],
   "News": [
     {
+      "title": "Personalumbau in der CDU: Merz hat jetzt kein Schutzschild mehr",
+      "link": "https://www.tagesschau.de/analyse-cdu-personalumbau-100.html",
+      "published": "29 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-29T22:18:56+02:00"
+    },
+    {
+      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "published": "29 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-29T21:44:32+02:00"
+    },
+    {
       "title": "US-Notenbank Fed lässt Zinssatz erneut unverändert",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-notenbank-leitzins-100.html",
       "published": "29 Jul 2026",
@@ -95,20 +109,6 @@
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-29T18:55:44+02:00"
-    },
-    {
-      "title": "Meilenstein bei Bauarbeiten am Brennerbasistunnel erreicht",
-      "link": "https://www.tagesschau.de/ausland/europa/brennerbasistunnel-114.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T18:33:10+02:00"
-    },
-    {
-      "title": "Marktbericht: Gute Quartalszahlen grenzen DAX-Verluste ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-102.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T18:23:48+02:00"
     }
   ],
   "Food": []
