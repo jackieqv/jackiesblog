@@ -39,6 +39,13 @@
   "Technology": [],
   "Science": [
     {
+      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
+      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "published": "29 Jul 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-07-29T14:53:08+00:00"
+    },
+    {
       "title": "Why Scientists Redesigned the Botox Enzyme With AI",
       "link": "https://singularityhub.com/2026/07/28/why-scientists-redesigned-the-botox-enzyme-with-ai/",
       "published": "28 Jul 2026",
@@ -65,50 +72,43 @@
       "published": "25 Jul 2026",
       "source": "SingularityHub",
       "sort_date": "2026-07-25T14:00:00+00:00"
-    },
-    {
-      "title": "Scientists Are Designing CRISPR Gene Editors With AI",
-      "link": "https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/",
-      "published": "24 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-24T21:47:42+00:00"
     }
   ],
   "News": [
     {
-      "title": "Autobauer in der Krise: Warum auch BMW jetzt viele Stellen streicht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-sparprogramm-102.html",
+      "title": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
+      "link": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T15:36:09+02:00"
+      "sort_date": "2026-07-29T17:32:16+02:00"
     },
     {
-      "title": "Frei zum neuen Vorsitzenden der Unionsfraktion gewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-wahl-fraktionschef-100.html",
+      "title": "Kommentar: Die Fraktion steht noch, der Kanzler wackelt",
+      "link": "https://www.tagesschau.de/kommentar/kabinettsumbau-merz-100.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T15:31:01+02:00"
+      "sort_date": "2026-07-29T17:24:50+02:00"
     },
     {
-      "title": "Russland schreibt Telegram-Gründer Pawel Durow zur Fahndung aus",
-      "link": "https://www.tagesschau.de/ausland/asien/telegram-fahndung-100.html",
+      "title": "Irischer Musiker Glen Hansard bei Motorradunfall gestorben",
+      "link": "https://www.tagesschau.de/kultur/glenhansard-motorradunfall-100.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T15:18:26+02:00"
+      "sort_date": "2026-07-29T17:09:31+02:00"
     },
     {
-      "title": "Niedrigwasser auf Rhein und Donau schränkt Schifffahrt ein",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-rhein-donau-100.html",
+      "title": "Disziplinarverfahren gegen Münchens Ex-Oberbürgermeister Reiter beendet",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-disziplinarverfahren-gegen-muenchens-alt-ob-reiter-eingestellt-102.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T14:56:55+02:00"
+      "sort_date": "2026-07-29T16:45:51+02:00"
     },
     {
-      "title": "Lufthansa-Tochter ITA erlaubt jetzt große Hunde in der Kabine",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hund-flugzeug-urlaub-100.html",
+      "title": "Faktenfinder: Falschbehauptungen über Waldbrände in Südeuropa",
+      "link": "https://www.tagesschau.de/faktenfinder/waldbraende-falschbehauptungen-102.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T14:23:50+02:00"
+      "sort_date": "2026-07-29T16:43:21+02:00"
     }
   ],
   "Food": []
