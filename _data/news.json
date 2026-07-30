@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Exporting Top-Down Org-Position-Employee XML Master Data in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/exporting-top-down-org-position-employee-xml-master-data-in-sap/ba-p/14452740",
+      "published": "30 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-30T17:32:25+00:00"
+    },
+    {
       "title": "SuccessFactors: Convert or migrate AssignmentIdExternal",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-convert-or-migrate-assignmentidexternal/ba-p/14452654",
       "published": "30 Jul 2026",
@@ -64,16 +71,16 @@
       "published": "29 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-07-29T13:00:00+00:00"
-    },
-    {
-      "title": "In Defence of Custom Promotion: A Practical Alternative to Standard Promotion in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/in-defence-of-custom-promotion-a-practical-alternative-to-standard/ba-p/14443774",
-      "published": "29 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-29T05:44:50+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "‘Hello There the Jacobian Conjecture Is False Thanx’: Why a Tiny Social Media Post Has Mathematicians Rethinking AI",
+      "link": "https://singularityhub.com/2026/07/30/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai/",
+      "published": "30 Jul 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-07-30T18:08:36+00:00"
+    },
     {
       "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
       "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
@@ -101,50 +108,43 @@
       "published": "27 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-27T14:40:59+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through July 25)",
-      "link": "https://singularityhub.com/2026/07/25/this-weeks-awesome-tech-stories-from-around-the-web-through-july-25-2/",
-      "published": "25 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-25T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
+      "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
+      "link": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T17:51:43+02:00"
+      "sort_date": "2026-07-30T21:21:57+02:00"
     },
     {
-      "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "link": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
+      "title": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html",
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T17:25:00+02:00"
+      "sort_date": "2026-07-30T20:21:12+02:00"
     },
     {
-      "title": "Verhindert Israel humanitäre Hilfe im Gazastreifen?",
-      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-humanitaere-hilfe-100.html",
+      "title": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T16:12:54+02:00"
+      "sort_date": "2026-07-30T19:24:31+02:00"
     },
     {
-      "title": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html",
+      "title": "Rakete in Polens Luftraum alarmiert NATO",
+      "link": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T15:49:09+02:00"
+      "sort_date": "2026-07-30T18:51:23+02:00"
     },
     {
-      "title": "Inflation im Juli auf voraussichtlich 2,8 Prozent gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-juli-102.html",
+      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
+      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T15:39:56+02:00"
+      "sort_date": "2026-07-30T18:49:56+02:00"
     }
   ],
   "Food": []
