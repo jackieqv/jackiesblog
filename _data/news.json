@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T00:02:26+02:00"
+    },
+    {
+      "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
+      "link": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T23:51:57+02:00"
+    },
+    {
       "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
       "link": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
       "published": "30 Jul 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-07-30T20:21:12+02:00"
     },
     {
-      "title": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
+      "title": "CSD-Anschlag in Berlin: Was Islamisten und Rechte verbindet",
+      "link": "https://www.dw.com/de/csd-anschlag-in-berlin-was-islamisten-und-rechte-verbindet/a-78151327?maca=de-rss-de-top-1016-xml-mrss",
       "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T19:24:31+02:00"
-    },
-    {
-      "title": "Rakete in Polens Luftraum alarmiert NATO",
-      "link": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T18:51:23+02:00"
-    },
-    {
-      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T18:49:56+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-30T20:00:00+00:00"
     }
   ],
   "Food": []
