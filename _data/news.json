@@ -36,7 +36,43 @@
       "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
-  "Technology": [],
+  "Technology": [
+    {
+      "title": "Purging old PM forms data from 10+ years ago: how to mass backup PM forms as PDFs and load to MDF",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/purging-old-pm-forms-data-from-10-years-ago-how-to-mass-backup-pm-forms-as/ba-p/14451875",
+      "published": "29 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-29T18:27:55+00:00"
+    },
+    {
+      "title": "End of Service Benefit in Saudi Arabia: From Flexibility to Standardization",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/end-of-service-benefit-in-saudi-arabia-from-flexibility-to-standardization/ba-p/14451581",
+      "published": "29 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-29T13:00:00+00:00"
+    },
+    {
+      "title": "In Defence of Custom Promotion: A Practical Alternative to Standard Promotion in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/in-defence-of-custom-promotion-a-practical-alternative-to-standard/ba-p/14443774",
+      "published": "29 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-29T05:44:50+00:00"
+    },
+    {
+      "title": "Managing Off-Cycle Payrolls in SAP SuccessFactors Employee Central Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-off-cycle-payrolls-in-sap-successfactors-employee-central-payroll/ba-p/14450891",
+      "published": "28 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-28T19:28:57+00:00"
+    },
+    {
+      "title": "SuccessFactors Onboarding: Streamlining the E-Verify Experience, 2H 2026 Updates and Beyond",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-onboarding-streamlining-the-e-verify-experience-2h-2026/ba-p/14450787",
+      "published": "28 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-28T16:00:16+00:00"
+    }
+  ],
   "Science": [
     {
       "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
@@ -76,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T03:59:02+02:00"
+    },
+    {
+      "title": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T01:40:41+02:00"
+    },
+    {
+      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T00:42:29+02:00"
+    },
+    {
+      "title": "Bilger: Stimmung in der Union und Pläne im Verkehrsministerium",
+      "link": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T00:01:20+02:00"
+    },
+    {
       "title": "Personalumbau in der CDU: Merz hat jetzt kein Schutzschild mehr",
       "link": "https://www.tagesschau.de/analyse-cdu-personalumbau-100.html",
       "published": "29 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-29T22:18:56+02:00"
-    },
-    {
-      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T21:44:32+02:00"
-    },
-    {
-      "title": "US-Notenbank Fed lässt Zinssatz erneut unverändert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-notenbank-leitzins-100.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T21:11:14+02:00"
-    },
-    {
-      "title": "Russland: Nach Durow fahnden und Telegram weiter einschränken?",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-fahndung-durow-telegram-100.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T19:36:22+02:00"
-    },
-    {
-      "title": "CSD-Attentäter: IS-Flaggen, Dschihad-Lieder und kämpfende Cousins",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/is-attentaeter-100.html",
-      "published": "29 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-29T18:55:44+02:00"
     }
   ],
   "Food": []
