@@ -38,18 +38,25 @@
   ],
   "Technology": [
     {
-      "title": "How We Built Rapid Migration: Simplifying SAP Integration Suite Migration from Neo to Cloud Foundry",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-rapid-migration-simplifying-sap-integration-suite-migration/ba-p/14450180",
+      "title": "SuccessFactors: Convert or migrate AssignmentIdExternal",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-convert-or-migrate-assignmentidexternal/ba-p/14452654",
       "published": "30 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-30T09:46:27+00:00"
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-30T16:09:23+00:00"
     },
     {
       "title": "Purging old PM forms data from 10+ years ago: how to mass backup PM forms as PDFs and load to MDF",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/purging-old-pm-forms-data-from-10-years-ago-how-to-mass-backup-pm-forms-as/ba-p/14451875",
       "published": "30 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-30T03:04:24+00:00"
+      "sort_date": "2026-07-30T15:59:26+00:00"
+    },
+    {
+      "title": "How We Built Rapid Migration: Simplifying SAP Integration Suite Migration from Neo to Cloud Foundry",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-rapid-migration-simplifying-sap-integration-suite-migration/ba-p/14450180",
+      "published": "30 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-30T09:46:27+00:00"
     },
     {
       "title": "End of Service Benefit in Saudi Arabia: From Flexibility to Standardization",
@@ -64,13 +71,6 @@
       "published": "29 Jul 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-07-29T05:44:50+00:00"
-    },
-    {
-      "title": "Managing Off-Cycle Payrolls in SAP SuccessFactors Employee Central Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/managing-off-cycle-payrolls-in-sap-successfactors-employee-central-payroll/ba-p/14450891",
-      "published": "28 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-28T19:28:57+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T17:51:43+02:00"
+    },
+    {
+      "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
+      "link": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T17:25:00+02:00"
+    },
+    {
+      "title": "Verhindert Israel humanitäre Hilfe im Gazastreifen?",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-humanitaere-hilfe-100.html",
+      "published": "30 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-30T16:12:54+02:00"
+    },
+    {
       "title": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html",
       "published": "30 Jul 2026",
@@ -124,27 +145,6 @@
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-30T15:39:56+02:00"
-    },
-    {
-      "title": "Welche Themen bewegen Deutschland? Machen Sie mit bei \"ARD - Deine Meinung zählt\"",
-      "link": "https://www.tagesschau.de/ard-deine-meinung-zaehlt-106.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T15:19:59+02:00"
-    },
-    {
-      "title": "Neuer Streit zwischen USA und China wegen humanoider Roboter",
-      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-102.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T14:29:15+02:00"
-    },
-    {
-      "title": "El Niño und Waldbrände: Warum die Feuergefahr steigt",
-      "link": "https://www.tagesschau.de/wissen/el-nino-waldbraende-100.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T14:19:10+02:00"
     }
   ],
   "Food": []
