@@ -38,11 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "Business Intent Led Job Architecture in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/business-intent-led-job-architecture-in-sap-successfactors/ba-p/14437242",
+      "published": "31 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-31T18:16:44+00:00"
+    },
+    {
       "title": "Boost Your AI Adoption in SAP SuccessFactors: Three New WalkMe Process Guides Now Available",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/boost-your-ai-adoption-in-sap-successfactors-three-new-walkme-process/ba-p/14453434",
       "published": "31 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-31T14:05:01+00:00"
+      "sort_date": "2026-07-31T17:25:41+00:00"
     },
     {
       "title": "Exporting Top-Down Org-Position-Employee XML Master Data in SAP SuccessFactors",
@@ -64,13 +71,6 @@
       "published": "30 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-07-30T15:59:26+00:00"
-    },
-    {
-      "title": "How We Built Rapid Migration: Simplifying SAP Integration Suite Migration from Neo to Cloud Foundry",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-rapid-migration-simplifying-sap-integration-suite-migration/ba-p/14450180",
-      "published": "30 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-30T09:46:27+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T20:40:48+02:00"
+    },
+    {
+      "title": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
+      "link": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T20:36:05+02:00"
+    },
+    {
+      "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T18:55:18+02:00"
+    },
+    {
       "title": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
       "link": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html",
       "published": "31 Jul 2026",
@@ -124,27 +145,6 @@
       "published": "31 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-31T18:15:52+02:00"
-    },
-    {
-      "title": "UN-Generalsekretär Guterres fordert neue Zypern-Gespräche",
-      "link": "https://www.tagesschau.de/ausland/europa/guterres-fordert-neue-un-gespraeche-zypern-100.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T17:54:32+02:00"
-    },
-    {
-      "title": "Wie \"Rave the Planet\" die Loveparade weiterdenkt",
-      "link": "https://www.tagesschau.de/kultur/loveparade-revival-rave-the-planet-100.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T17:41:03+02:00"
-    },
-    {
-      "title": "Dobrindt will Grenzkontrollen in Deutschland verlängern",
-      "link": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-116.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T17:31:11+02:00"
     }
   ],
   "Food": []
