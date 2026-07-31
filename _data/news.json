@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: DAX könnte wieder Kurs Richtung Rekord nehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T07:28:25+02:00"
+    },
+    {
+      "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T05:23:02+02:00"
+    },
+    {
+      "title": "Studie belegt den Einfluss des Klimawandels auf Feuerwetter",
+      "link": "https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T05:17:17+02:00"
+    },
+    {
       "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "published": "31 Jul 2026",
@@ -124,27 +145,6 @@
       "published": "31 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-31T00:02:26+02:00"
-    },
-    {
-      "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
-      "link": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T23:51:57+02:00"
-    },
-    {
-      "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
-      "link": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T21:21:57+02:00"
-    },
-    {
-      "title": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html",
-      "published": "30 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-30T20:21:12+02:00"
     }
   ],
   "Food": []
