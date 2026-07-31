@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Boost Your AI Adoption in SAP SuccessFactors: Three New WalkMe Process Guides Now Available",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/boost-your-ai-adoption-in-sap-successfactors-three-new-walkme-process/ba-p/14453434",
+      "published": "31 Jul 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-07-31T13:58:00+00:00"
+    },
+    {
       "title": "Exporting Top-Down Org-Position-Employee XML Master Data in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/exporting-top-down-org-position-employee-xml-master-data-in-sap/ba-p/14452740",
       "published": "30 Jul 2026",
@@ -64,13 +71,6 @@
       "published": "30 Jul 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-07-30T09:46:27+00:00"
-    },
-    {
-      "title": "End of Service Benefit in Saudi Arabia: From Flexibility to Standardization",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/end-of-service-benefit-in-saudi-arabia-from-flexibility-to-standardization/ba-p/14451581",
-      "published": "29 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-29T13:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html",
+      "title": "Ganz Deutschland hat Ferien: ADAC rechnet mit vollen Straßen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/stauprognose-sommerferien-ratgeber-100.html",
       "published": "31 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T13:20:51+02:00"
+      "sort_date": "2026-07-31T15:32:21+02:00"
+    },
+    {
+      "title": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
+      "link": "https://www.tagesschau.de/kultur/urteil-gema-vs-suno-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T13:47:13+02:00"
+    },
+    {
+      "title": "Nach Berlin-Anschlag: Wie bereiten sich die kommenden CSD-Paraden vor?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-sicherheit-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T13:26:56+02:00"
+    },
+    {
+      "title": "Ceuta: Zehntausende Migranten überwinden EU-Außengrenze",
+      "link": "https://www.dw.com/de/ceuta-zehntausende-migranten-überwinden-eu-außengrenze/a-78187794?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "31 Jul 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-07-31T13:03:00+00:00"
     },
     {
       "title": "Ein weiterer Schritt Richtung Frieden in Gaza?",
@@ -124,27 +145,6 @@
       "published": "31 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-31T12:35:00+02:00"
-    },
-    {
-      "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T12:27:04+02:00"
-    },
-    {
-      "title": "Debatte über Fünf-Prozent-Hürde: Ist die Sperrklausel noch zeitgemäß?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-sperrklausel-wahlen-100.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T12:23:13+02:00"
-    },
-    {
-      "title": "Verwirrung über von Trump verkündete Gaza-Einigung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-150.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T11:53:43+02:00"
     }
   ],
   "Food": []
