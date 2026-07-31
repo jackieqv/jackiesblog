@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
+      "published": "31 Jul 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-07-31T03:15:49+02:00"
+    },
+    {
       "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
       "published": "31 Jul 2026",
@@ -138,13 +145,6 @@
       "published": "30 Jul 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-07-30T20:21:12+02:00"
-    },
-    {
-      "title": "CSD-Anschlag in Berlin: Was Islamisten und Rechte verbindet",
-      "link": "https://www.dw.com/de/csd-anschlag-in-berlin-was-islamisten-und-rechte-verbindet/a-78151327?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "30 Jul 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-07-30T20:00:00+00:00"
     }
   ],
   "Food": []
