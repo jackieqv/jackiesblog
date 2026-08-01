@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Ab August greift Rechtsanspruch auf Ganztagsbetreuung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-grundschule-start-100.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T07:51:23+02:00"
+    },
+    {
+      "title": "Neue Waldbrände in Griechenland ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/europa/walbraende-griechenland-100.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T05:39:23+02:00"
+    },
+    {
+      "title": "Erneut russischer Angriff auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T05:20:01+02:00"
+    },
+    {
+      "title": "Wie zwei Kriege und El Niño den Hunger weltweit beeinflussen",
+      "link": "https://www.dw.com/de/wie-zwei-kriege-und-el-niño-den-hunger-weltweit-beeinflussen/a-78192532?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "01 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-01T05:11:00+00:00"
+    },
+    {
       "title": "Kommentar: Marokko setzt die Not seiner Bevölkerung als Druckmittel ein",
       "link": "https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-01T03:34:43+02:00"
-    },
-    {
-      "title": "FIFA-Chef Infantino gibt umstrittene Investorenpläne für Fußball-WM auf",
-      "link": "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T03:25:13+02:00"
-    },
-    {
-      "title": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T01:28:37+02:00"
-    },
-    {
-      "title": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
-      "link": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T00:25:42+02:00"
-    },
-    {
-      "title": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
-      "link": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
-      "published": "31 Jul 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-07-31T20:36:05+02:00"
     }
   ],
   "Food": []
