@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
+      "link": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T18:57:14+02:00"
+    },
+    {
+      "title": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T18:17:44+02:00"
+    },
+    {
       "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "published": "01 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-01T16:44:45+02:00"
-    },
-    {
-      "title": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
-      "link": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T16:26:46+02:00"
-    },
-    {
-      "title": "Zehntausende Migranten verlassen Ceuta",
-      "link": "https://www.dw.com/de/zehntausende-migranten-verlassen-ceuta/a-78200832?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-01T15:56:00+00:00"
     }
   ],
   "Food": []
