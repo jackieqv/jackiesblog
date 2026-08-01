@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 1)",
+      "link": "https://singularityhub.com/2026/08/01/this-weeks-awesome-tech-stories-from-around-the-web-through-august-1-2/",
+      "published": "01 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-01T14:00:00+00:00"
+    },
+    {
       "title": "Europe Approves Bionic Eye to Restore Vision Lost to Blindness",
       "link": "https://singularityhub.com/2026/07/31/europe-approves-bionic-eye-to-restore-vision-lost-to-blindness/",
       "published": "31 Jul 2026",
@@ -101,50 +108,43 @@
       "published": "29 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-29T14:53:08+00:00"
-    },
-    {
-      "title": "Why Scientists Redesigned the Botox Enzyme With AI",
-      "link": "https://singularityhub.com/2026/07/28/why-scientists-redesigned-the-botox-enzyme-with-ai/",
-      "published": "28 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-28T23:11:22+00:00"
     }
   ],
   "News": [
     {
-      "title": "Tricks gegen Hitze in der Stadt: Von A nach B - möglichst im Schatten",
-      "link": "https://www.tagesschau.de/wissen/klima/hitze-schatten-staedtebau-versiegelung-klimawandel-100.html",
+      "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T14:45:42+02:00"
+      "sort_date": "2026-08-01T17:34:53+02:00"
     },
     {
-      "title": "Mindestens zehn Tote und viele Verletzte bei russischem Angriff auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
+      "title": "Flüge nach Afghanistan: Deutschland, die Taliban und Abschiebungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-146.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T14:41:03+02:00"
+      "sort_date": "2026-08-01T16:46:23+02:00"
     },
     {
-      "title": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
-      "link": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html",
+      "title": "Wie viel Vorbereitung braucht der Neustart im Ausland?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auswandern-beratung-kosten-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T14:31:39+02:00"
+      "sort_date": "2026-08-01T16:44:45+02:00"
     },
     {
-      "title": "EU-Staaten wollen Ceuta-Treffen - und kritisieren Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
+      "title": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
+      "link": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T14:04:02+02:00"
+      "sort_date": "2026-08-01T16:26:46+02:00"
     },
     {
-      "title": "Trump und Iran: Neue Angriffswelle - oder doch nur eine Drohung?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-102.html",
+      "title": "Zehntausende Migranten verlassen Ceuta",
+      "link": "https://www.dw.com/de/zehntausende-migranten-verlassen-ceuta/a-78200832?maca=de-rss-de-top-1016-xml-mrss",
       "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T13:36:52+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-01T15:56:00+00:00"
     }
   ],
   "Food": []
