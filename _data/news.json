@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "SPD und Union streiten über Rente nach 45 Beitragsjahren",
+      "link": "https://www.tagesschau.de/inland/rentenreform-vorschlag-cdu-reaktionen-100.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T12:12:33+02:00"
+    },
+    {
+      "title": "Rekord-Niedrigwasser im Rhein belastet Binnenschifffahrt in NRW",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/niedrigwasser-rhein-104.html",
+      "published": "01 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-01T12:04:26+02:00"
+    },
+    {
       "title": "Nach Ansturm auf Ceuta: Migranten kehren zurück, Europa diskutiert",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T08:30:49+02:00"
+      "sort_date": "2026-08-01T11:29:53+02:00"
     },
     {
-      "title": "Kusama-Ausstellung in Köln knackt Besucherrekord",
-      "link": "https://www.tagesschau.de/kultur/yayoi-kusama-museum-ludwig-100.html",
+      "title": "Ansturm auf Exklave: Was Ceuta für die EU bedeutet",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T08:08:21+02:00"
+      "sort_date": "2026-08-01T10:58:53+02:00"
     },
     {
-      "title": "Russlands Signale im Ärmelkanal",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html",
+      "title": "Forderung nach Neuwahlen: Wie die USA die Demokratie in Venezuela bremsen",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-1190.html",
       "published": "01 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T08:05:00+02:00"
-    },
-    {
-      "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T07:54:42+02:00"
-    },
-    {
-      "title": "Kampf gegen Dengue in Brasilien: 190 Millionen Mücken pro Woche",
-      "link": "https://www.tagesschau.de/ausland/amerika/mueckenfabrik-brasilien-100.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T07:52:40+02:00"
+      "sort_date": "2026-08-01T10:58:49+02:00"
     }
   ],
   "Food": []
