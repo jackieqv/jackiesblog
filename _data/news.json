@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
+      "link": "https://www.tagesschau.de/ausland/asien/suedchinesisches-meer-philippinen-china-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T17:46:16+02:00"
+    },
+    {
+      "title": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T16:51:02+02:00"
+    },
+    {
+      "title": "Maßnahmen gegen Migration: Was folgt auf die Ereignisse in Ceuta?",
+      "link": "https://www.tagesschau.de/ausland/ceuta-ansturm-massnahmen-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T15:59:52+02:00"
+    },
+    {
       "title": "Wie Diebe nachts Lastwagen aufschlitzen und Ware klauen",
       "link": "https://www.tagesschau.de/wirtschaft/lkw-schlitzer-autobahnraststaetten-100.html",
       "published": "02 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-02T15:10:47+02:00"
-    },
-    {
-      "title": "Rhein verzeichnet historisch niedrige Wasserstände",
-      "link": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T13:51:15+02:00"
-    },
-    {
-      "title": "Tote bei Bombenanschlag auf Moskauer Edelrestaurant",
-      "link": "https://www.dw.com/de/tote-bei-bombenanschlag-auf-moskauer-edelrestaurant/a-78207576?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-02T13:12:00+00:00"
-    },
-    {
-      "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
-      "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T12:15:04+02:00"
     }
   ],
   "Food": []
