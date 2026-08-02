@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T10:06:08+02:00"
+    },
+    {
       "title": "Trump sagt Angriffe auf Iran vorerst ab",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T05:25:18+02:00"
+      "sort_date": "2026-08-02T09:12:40+02:00"
     },
     {
-      "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
-      "link": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
+      "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T03:13:08+02:00"
+      "sort_date": "2026-08-02T09:04:54+02:00"
     },
     {
-      "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
-      "link": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html",
+      "title": "Wie sicher sind KI-Wasserzeichen?",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-eu-wasserzeichen-kennzeichnungspflicht-100.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T02:54:52+02:00"
+      "sort_date": "2026-08-02T08:36:56+02:00"
     },
     {
-      "title": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html",
+      "title": "Migrationskrise in Ceuta entzweit die Europäische Union",
+      "link": "https://www.dw.com/de/migrationskrise-in-ceuta-entzweit-die-europäische-union/a-78206375?maca=de-rss-de-top-1016-xml-mrss",
       "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T01:22:00+02:00"
-    },
-    {
-      "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
-      "link": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
-      "published": "01 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-01T23:53:30+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-02T08:18:00+00:00"
     }
   ],
   "Food": []
