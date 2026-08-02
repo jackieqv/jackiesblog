@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Wie Diebe nachts Lastwagen aufschlitzen und Ware klauen",
+      "link": "https://www.tagesschau.de/wirtschaft/lkw-schlitzer-autobahnraststaetten-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T15:12:51+02:00"
+    },
+    {
+      "title": "Könnten Smart Glasses in Deutschland verboten werden?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-102.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T15:10:47+02:00"
+    },
+    {
+      "title": "Rhein verzeichnet historisch niedrige Wasserstände",
+      "link": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T13:51:15+02:00"
+    },
+    {
+      "title": "Tote bei Bombenanschlag auf Moskauer Edelrestaurant",
+      "link": "https://www.dw.com/de/tote-bei-bombenanschlag-auf-moskauer-edelrestaurant/a-78207576?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "02 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-02T13:12:00+00:00"
+    },
+    {
       "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
       "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-02T12:15:04+02:00"
-    },
-    {
-      "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - zwei Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T12:00:36+02:00"
-    },
-    {
-      "title": "Wo Parken, Abwasser und Müll am meisten kosten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T11:37:44+02:00"
-    },
-    {
-      "title": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T10:58:48+02:00"
-    },
-    {
-      "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T10:06:08+02:00"
     }
   ],
   "Food": []
