@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
+      "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T12:15:04+02:00"
+    },
+    {
+      "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - zwei Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T12:00:36+02:00"
+    },
+    {
+      "title": "Wo Parken, Abwasser und Müll am meisten kosten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T11:37:44+02:00"
+    },
+    {
+      "title": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
+      "published": "02 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-02T10:58:48+02:00"
+    },
+    {
       "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-02T10:06:08+02:00"
-    },
-    {
-      "title": "Trump sagt Angriffe auf Iran vorerst ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T09:12:40+02:00"
-    },
-    {
-      "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T09:04:54+02:00"
-    },
-    {
-      "title": "Wie sicher sind KI-Wasserzeichen?",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-eu-wasserzeichen-kennzeichnungspflicht-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T08:36:56+02:00"
-    },
-    {
-      "title": "Migrationskrise in Ceuta entzweit die Europäische Union",
-      "link": "https://www.dw.com/de/migrationskrise-in-ceuta-entzweit-die-europäische-union/a-78206375?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-02T08:18:00+00:00"
     }
   ],
   "Food": []
