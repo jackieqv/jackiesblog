@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T23:52:19+02:00"
+    },
+    {
+      "title": "US-Verhandlungen mit Iran: Trump sagt, es wird wieder geredet",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-102.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T21:43:16+02:00"
+    },
+    {
       "title": "Selenskyj hofft auf Kriegsende bis Herbst",
       "link": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html",
       "published": "03 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-03T18:36:22+02:00"
-    },
-    {
-      "title": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
-      "published": "03 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T18:25:40+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX auf Rekordfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-142.html",
-      "published": "03 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T18:24:31+02:00"
     }
   ],
   "Food": []
