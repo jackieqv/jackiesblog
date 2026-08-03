@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Marokko macht Falschinformationen für Ceuta-Migration verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/afrika/ceuta-marokko-migranten-100.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T04:32:16+02:00"
+    },
+    {
+      "title": "Trump kündigt neue Iran-Gespräche an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T02:47:47+02:00"
+    },
+    {
+      "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T00:38:56+02:00"
+    },
+    {
+      "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T00:06:11+02:00"
+    },
+    {
       "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
       "link": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html",
       "published": "02 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-02T21:05:01+02:00"
-    },
-    {
-      "title": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzeschutz-klimaskepsis-tschechien-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T20:43:24+02:00"
-    },
-    {
-      "title": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
-      "link": "https://www.tagesschau.de/ausland/afrika/fnideq-nachbarstadt-ceuta-100.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T20:41:43+02:00"
-    },
-    {
-      "title": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
-      "link": "https://www.tagesschau.de/ausland/europa/niedrigwasser-donau-120.html",
-      "published": "02 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T20:39:49+02:00"
-    },
-    {
-      "title": "Von Petitionen zu Memes: Protest früher und heute",
-      "link": "https://www.dw.com/de/von-petitionen-zu-memes-protest-früher-und-heute/a-78196191?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-02T19:48:00+00:00"
     }
   ],
   "Food": []
