@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Adding URLs to SuccessFactors Pages in Custom Document Generation Alerts and Workflows",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/adding-urls-to-successfactors-pages-in-custom-document-generation-alerts/ba-p/14453699",
+      "published": "31 Jul 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-07-31T22:56:53+00:00"
+    },
+    {
       "title": "Business Intent Led Job Architecture in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/business-intent-led-job-architecture-in-sap-successfactors/ba-p/14437242",
       "published": "31 Jul 2026",
@@ -64,13 +71,6 @@
       "published": "30 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-07-30T16:09:23+00:00"
-    },
-    {
-      "title": "Purging old PM forms data from 10+ years ago: how to mass backup PM forms as PDFs and load to MDF",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/purging-old-pm-forms-data-from-10-years-ago-how-to-mass-backup-pm-forms-as/ba-p/14451875",
-      "published": "30 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-30T15:59:26+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marokko macht Falschinformationen für Ceuta-Migration verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/afrika/ceuta-marokko-migranten-100.html",
+      "title": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T04:32:16+02:00"
+      "sort_date": "2026-08-03T07:44:02+02:00"
     },
     {
-      "title": "Trump kündigt neue Iran-Gespräche an",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
+      "title": "Marktbericht: DAX dürfte neues Allzeithoch erreichen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-142.html",
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T02:47:47+02:00"
+      "sort_date": "2026-08-03T07:43:04+02:00"
     },
     {
-      "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html",
+      "title": "Wachsender Protest gegen Rechenzentren in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-rechenzentren-proteste-100.html",
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T00:38:56+02:00"
+      "sort_date": "2026-08-03T07:12:19+02:00"
     },
     {
-      "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html",
+      "title": "Polizei sichert mit Archäologie Spuren unter der Erde",
+      "link": "https://www.tagesschau.de/wissen/forschung/polizei-forensik-archaeologie-spurensicherung-100.html",
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T00:06:11+02:00"
+      "sort_date": "2026-08-03T06:37:29+02:00"
     },
     {
-      "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html",
-      "published": "02 Aug 2026",
+      "title": "Etliche Auslandseinsätze von Priestern nach Missbrauchsvorwürfen",
+      "link": "https://www.tagesschau.de/investigativ/missbrauchsvorwuerfe-priester-versetzung-100.html",
+      "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-02T21:05:01+02:00"
+      "sort_date": "2026-08-03T06:02:57+02:00"
     }
   ],
   "Food": []
