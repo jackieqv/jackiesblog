@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
+      "published": "03 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-03T19:10:34+00:00"
+    },
+    {
       "title": "Standing Still on Skills: The Hidden Cost of \"We're Fine for Now\"",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/standing-still-on-skills-the-hidden-cost-of-quot-we-re-fine-for-now-quot/ba-p/14454308",
       "published": "03 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "31 Jul 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-07-31T17:25:41+00:00"
-    },
-    {
-      "title": "Exporting Top-Down Org-Position-Employee XML Master Data in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/exporting-top-down-org-position-employee-xml-master-data-in-sap/ba-p/14452740",
-      "published": "30 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-30T17:32:25+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Selenskyj hofft auf Kriegsende bis Herbst",
+      "link": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html",
+      "published": "03 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-03T20:31:59+02:00"
+    },
+    {
+      "title": "Wer trägt die Verantwortung für den Grenzsturm von Ceuta?",
+      "link": "https://www.dw.com/de/wer-trägt-die-verantwortung-für-den-grenzsturm-von-ceuta/a-78221054?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "03 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-03T19:30:00+00:00"
+    },
+    {
       "title": "Unbekanntes Virus bei Rindern in Süddeutschland nachgewiesen",
       "link": "https://www.tagesschau.de/inland/virus-rinder-100.html",
       "published": "03 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "03 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-03T18:24:31+02:00"
-    },
-    {
-      "title": "Neue Angriffe im Gazastreifen: Hoffnung weicht Resignation",
-      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-angriffe-116.html",
-      "published": "03 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T17:17:34+02:00"
-    },
-    {
-      "title": "Stromkrise durch Niedrigwasser der Donau - Rumänien sprengt Felsen",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-donau-100.html",
-      "published": "03 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T17:10:41+02:00"
     }
   ],
   "Food": []
