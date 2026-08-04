@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
+      "link": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T21:28:30+02:00"
+    },
+    {
+      "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T20:47:49+02:00"
+    },
+    {
+      "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T19:57:34+02:00"
+    },
+    {
+      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T18:57:32+02:00"
+    },
+    {
       "title": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
       "link": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
       "published": "04 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-04T18:36:25+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T18:16:05+02:00"
-    },
-    {
-      "title": "Zahl der Asylerstanträge im Juli auf 4.311 gesunken",
-      "link": "https://www.tagesschau.de/inland/asylzahlen-juli-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T18:15:52+02:00"
-    },
-    {
-      "title": "Kommentar zu Ceuta: Die EU hat diesen Test nicht bestanden",
-      "link": "https://www.tagesschau.de/kommentar/eu-ceuta-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T17:29:29+02:00"
-    },
-    {
-      "title": "Kommentar zur Entwaffnung der Hamas: Ein Deal, der keiner ist",
-      "link": "https://www.tagesschau.de/kommentar/trump-gaza-106.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T17:04:07+02:00"
     }
   ],
   "Food": []
