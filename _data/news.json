@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Verletzte, Schäden und Verkehrsprobleme durch Unwetter",
+      "link": "https://www.tagesschau.de/inland/wetter-unwetter-102.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T12:22:27+02:00"
+    },
+    {
+      "title": "Kleinstes Modell von Boeings 737-Max-Reihe zugelassen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-zulassung-flugzeug-737max7-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T12:14:13+02:00"
+    },
+    {
+      "title": "Zahl der Erdbebenopfer in Venezuela steigt auf mehr als 6.000",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-106.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T11:13:52+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX markiert neue Rekordstände",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T11:03:56+02:00"
+    },
+    {
       "title": "Waldbrand in den Niederlanden  - Warnung vor Brandrauch in NRW",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
       "published": "04 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T10:16:00+02:00"
-    },
-    {
-      "title": "US-Datenfirma Palantir steigert Umsatz um mehr als 90 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/datenanalyse-ki-palantir-umsatzplus-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T10:00:34+02:00"
-    },
-    {
-      "title": "USA: Waldbrände um Spokane wüten weiter - Verdächtiger festgenommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-washington-festnahme-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T09:12:51+02:00"
-    },
-    {
-      "title": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T09:09:06+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger in Rekordlaune",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T07:38:35+02:00"
+      "sort_date": "2026-08-04T11:01:00+02:00"
     }
   ],
   "Food": []
