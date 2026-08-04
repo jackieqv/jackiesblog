@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Heat Is an Orbital Data Center’s Greatest Foe. These Tiles  Dump It at the Source.",
+      "link": "https://singularityhub.com/2026/08/04/heat-is-an-orbital-data-centers-greatest-foe-these-tiles-dump-it-at-the-source/",
+      "published": "04 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-04T20:10:46+00:00"
+    },
+    {
       "title": "Why the Legendary Erdős Problems Are Falling to AI",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
       "published": "03 Aug 2026",
@@ -101,13 +108,6 @@
       "published": "31 Jul 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-07-31T14:50:11+00:00"
-    },
-    {
-      "title": "‘Hello There the Jacobian Conjecture Is False Thanx’: Why a Tiny Social Media Post Has Mathematicians Rethinking AI",
-      "link": "https://singularityhub.com/2026/07/30/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai/",
-      "published": "30 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-30T18:08:36+00:00"
     }
   ],
   "News": [
