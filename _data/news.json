@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Waldbrand in den Niederlanden  - Warnung vor Brandrauch in NRW",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T10:16:00+02:00"
+    },
+    {
+      "title": "US-Datenfirma Palantir steigert Umsatz um mehr als 90 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/datenanalyse-ki-palantir-umsatzplus-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T10:00:34+02:00"
+    },
+    {
+      "title": "USA: Waldbrände um Spokane wüten weiter - Verdächtiger festgenommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-washington-festnahme-100.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T09:12:51+02:00"
+    },
+    {
+      "title": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T09:09:06+02:00"
+    },
+    {
       "title": "Marktbericht: Anleger in Rekordlaune",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
       "published": "04 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-04T07:38:35+02:00"
-    },
-    {
-      "title": "25 Demokratische US-Bundesstaaten klagen gegen Trumps neue Zölle",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-klage-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T07:28:28+02:00"
-    },
-    {
-      "title": "Vier Verletzte nach Schüssen in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T07:23:14+02:00"
-    },
-    {
-      "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-eu-ceuta-marokko-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T07:18:48+02:00"
-    },
-    {
-      "title": "Ceuta-Krise: EU-Innenminister beraten über Konsequenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-krisentreffen-ceuta-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T05:00:08+02:00"
     }
   ],
   "Food": []
