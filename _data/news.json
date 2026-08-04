@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Purging PM forms data from 10+ years ago: how to mass backup PM forms as PDFs and load to MDF",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/purging-pm-forms-data-from-10-years-ago-how-to-mass-backup-pm-forms-as-pdfs/ba-p/14451875",
+      "published": "03 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-03T23:29:24+00:00"
+    },
+    {
       "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
       "published": "03 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "31 Jul 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-07-31T18:16:44+00:00"
-    },
-    {
-      "title": "Boost Your AI Adoption in SAP SuccessFactors: Three New WalkMe Process Guides Now Available",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/boost-your-ai-adoption-in-sap-successfactors-three-new-walkme-process/ba-p/14453434",
-      "published": "31 Jul 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-07-31T17:25:41+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Debatte um Frühverrentung: Frei sieht keinen Spielraum für Verhandlungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentendebatte-106.html",
+      "published": "04 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-04T03:25:48+02:00"
+    },
+    {
       "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
       "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html",
       "published": "03 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "03 Aug 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-08-03T19:30:00+00:00"
-    },
-    {
-      "title": "Unbekanntes Virus bei Rindern in Süddeutschland nachgewiesen",
-      "link": "https://www.tagesschau.de/inland/virus-rinder-100.html",
-      "published": "03 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-03T18:36:22+02:00"
     }
   ],
   "Food": []
