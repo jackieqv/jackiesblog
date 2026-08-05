@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Candidate Messaging in SmartRecruiters for SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/candidate-messaging-in-smartrecruiters-for-sap-successfactors/ba-p/14453395",
+      "published": "05 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-05T08:24:05+00:00"
+    },
+    {
       "title": "Update from the Future of Work Research Lab",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/update-from-the-future-of-work-research-lab/ba-p/14455641",
       "published": "05 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "03 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-03T07:52:12+00:00"
-    },
-    {
-      "title": "Adding URLs to SuccessFactors Pages in Custom Document Generation Alerts and Workflows",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/adding-urls-to-successfactors-pages-in-custom-document-generation-alerts/ba-p/14453699",
-      "published": "31 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-31T22:56:53+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: DAX bleibt auf Rekordkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
+      "title": "Schwache Konjunktur: Mittelstand steckt in der Kreditklemme",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mittelstand-kredite-100.html",
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T07:31:07+02:00"
+      "sort_date": "2026-08-05T10:04:03+02:00"
     },
     {
-      "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html",
+      "title": "Cyclospora-Parasit: Mehr als 10.000 Durchfall-Infektionen in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-parasit-durchfall-erkrankungen-100.html",
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T07:24:36+02:00"
+      "sort_date": "2026-08-05T09:25:43+02:00"
     },
     {
-      "title": "Hunderte Menschen nach Vulkanausbruch in Guatemala evakuiert",
-      "link": "https://www.tagesschau.de/ausland/amerika/guatemala-vulkan-ausbruch-100.html",
+      "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-erste-quartalszahlen-verlust-100.html",
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T05:14:48+02:00"
+      "sort_date": "2026-08-05T08:34:40+02:00"
     },
     {
-      "title": "\"Rente mit 63\": Wer sie nutzt - und wer sich darum streitet",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/debatte-abschlagsfreie-rente-100.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T05:03:45+02:00"
-    },
-    {
-      "title": "Steht Russland eine neue Mobilmachung bevor?",
-      "link": "https://www.dw.com/de/steht-russland-eine-neue-mobilmachung-bevor/a-78234204?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "USA und Iran offenbar vor Übergangsdeal zu Straße von Hormus",
+      "link": "https://www.dw.com/de/usa-und-iran-offenbar-vor-übergangsdeal-zu-straße-von-hormus/a-78240750?maca=de-rss-de-top-1016-xml-mrss",
       "published": "05 Aug 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-05T05:03:00+00:00"
+      "sort_date": "2026-08-05T08:14:00+00:00"
+    },
+    {
+      "title": "Verhaltene Reaktionen von Sozialverbänden auf Zivildienstpläne",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zivildienst-gestaltung-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T08:09:33+02:00"
     }
   ],
   "Food": []
