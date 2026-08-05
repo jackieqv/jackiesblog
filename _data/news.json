@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
+      "published": "05 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-05T16:52:38+00:00"
+    },
+    {
       "title": "Resolving BP Sync Error: \"Identification Category HCM012 is Not Assigned\" After S/4HANA Upgrade",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/resolving-bp-sync-error-quot-identification-category-hcm012-is-not-assigned/ba-p/14453892",
       "published": "05 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "05 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-05T01:52:30+00:00"
-    },
-    {
-      "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
-      "published": "04 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-04T15:32:29+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T20:50:11+02:00"
+    },
+    {
+      "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T19:29:32+02:00"
+    },
+    {
+      "title": "E-Autos: CSU will Förderung zugunsten deutscher Hersteller ändern",
+      "link": "https://www.tagesschau.de/inland/e-autos-foerderung-csu-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T18:53:00+02:00"
+    },
+    {
       "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "published": "05 Aug 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-08-05T18:40:46+02:00"
     },
     {
-      "title": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T18:38:28+02:00"
-    },
-    {
       "title": "Marktbericht: DAX beendet Klettertour",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-05T18:26:12+02:00"
-    },
-    {
-      "title": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T18:22:10+02:00"
-    },
-    {
-      "title": "SPD uneins über Abschaffung der Rente mit 63",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T17:55:48+02:00"
     }
   ],
   "Food": []
