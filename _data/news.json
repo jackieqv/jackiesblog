@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Update from the Future of Work Research Lab",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/update-from-the-future-of-work-research-lab/ba-p/14455641",
+      "published": "05 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-05T01:52:30+00:00"
+    },
+    {
       "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
       "published": "04 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "31 Jul 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-07-31T22:56:53+00:00"
-    },
-    {
-      "title": "Business Intent Led Job Architecture in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/business-intent-led-job-architecture-in-sap-successfactors/ba-p/14437242",
-      "published": "31 Jul 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-07-31T18:16:44+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Russische Angriffe: Kiew wieder unter Raketenbeschuss",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T04:18:18+02:00"
+    },
+    {
+      "title": "Prozess erst im März: Warner-Übernahme durch Paramount verzögert",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-prozess-uebernahme-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T03:06:37+02:00"
+    },
+    {
+      "title": "Welternährungsprogramm: Hungerkrise in Afghanistan spitzt sich zu",
+      "link": "https://www.tagesschau.de/ausland/hunger-afghanistan-kinder-100.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T02:53:10+02:00"
+    },
+    {
       "title": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
       "link": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html",
       "published": "04 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "04 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-04T20:47:49+02:00"
-    },
-    {
-      "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T19:57:34+02:00"
-    },
-    {
-      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T18:57:32+02:00"
-    },
-    {
-      "title": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
-      "link": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
-      "published": "04 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-04T18:36:25+02:00"
     }
   ],
   "Food": []
