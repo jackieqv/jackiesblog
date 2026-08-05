@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html",
+      "title": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
+      "link": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html",
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T20:50:11+02:00"
+      "sort_date": "2026-08-05T23:35:23+02:00"
+    },
+    {
+      "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+      "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html",
+      "published": "05 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-05T21:55:09+02:00"
+    },
+    {
+      "title": "Japan: Immer mehr Unterstützer für Friedensbewegung",
+      "link": "https://www.dw.com/de/japan-immer-mehr-unterstützer-für-friedensbewegung/a-78237988?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "05 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-05T19:56:00+00:00"
     },
     {
       "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
@@ -131,20 +145,6 @@
       "published": "05 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-05T18:53:00+02:00"
-    },
-    {
-      "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T18:40:46+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX beendet Klettertour",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
-      "published": "05 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-05T18:26:12+02:00"
     }
   ],
   "Food": []
