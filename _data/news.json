@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "How Does Touch Lead To Pain Or Pleasure?",
+      "link": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
+      "published": "06 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-06T13:37:48+00:00"
+    },
+    {
       "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
       "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
       "published": "05 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "01 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-01T14:00:00+00:00"
-    },
-    {
-      "title": "Europe Approves Bionic Eye to Restore Vision Lost to Blindness",
-      "link": "https://singularityhub.com/2026/07/31/europe-approves-bionic-eye-to-restore-vision-lost-to-blindness/",
-      "published": "31 Jul 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-07-31T23:06:45+00:00"
     }
   ],
   "News": [
     {
-      "title": "Sicherheitsdebatte nach Drohnenfund am Flughafen Leipzig/Halle",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohne-flughafen-leipzig-debatte-sicherheit-100.html",
+      "title": "Ifo-Chef spricht sich für einheitlichen Mehrwertsteuersatz aus",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/forderung-ifo-mehrwertsteuer-erhoehung-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T13:10:23+02:00"
+      "sort_date": "2026-08-06T15:51:24+02:00"
     },
     {
-      "title": "Lebenslange Haft nach Auto-Anschlag auf ver.di-Demo in München",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-verdi-demonstration-100.html",
+      "title": "Bundesverfassungsgericht ermahnt Bundestag zu zeitnaher Wahlprüfung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeserfassungsgericht-ermahnt-bundestag-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T12:28:07+02:00"
+      "sort_date": "2026-08-06T15:05:14+02:00"
     },
     {
-      "title": "Leipzig: Flugzeug neben Sprengstoff-Drohne war mit Munition beladen",
-      "link": "https://www.tagesschau.de/investigativ/drohnenfund-leipzig-100.html",
+      "title": "Warum George R. R. Martin seine Fans warten lässt",
+      "link": "https://www.tagesschau.de/kultur/die-unendliche-geschichte-von-westeros,fortsetzung-game-of-thrones-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T12:04:37+02:00"
+      "sort_date": "2026-08-06T15:04:41+02:00"
     },
     {
-      "title": "Russisches Haus in Berlin: Tarnung für russische Geheimdienste?",
-      "link": "https://www.tagesschau.de/investigativ/russisches-haus-104.html",
+      "title": "Unterstützung für die Ukraine: Jede Hilfslieferung ist eine Botschaft",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-hilfslieferungen-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T12:00:21+02:00"
+      "sort_date": "2026-08-06T14:59:50+02:00"
     },
     {
-      "title": "Robert Koch-Institut: Zahl der Hitzetoten höher als angenommen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/rki-hitzetote-2026-100.html",
+      "title": "Telekom überrascht die Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T11:56:22+02:00"
+      "sort_date": "2026-08-06T14:40:03+02:00"
     }
   ],
   "Food": []
