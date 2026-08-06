@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Why Do Some People Never Get Cancer? The Answer May Be in Their Blood",
+      "link": "https://singularityhub.com/2026/08/06/why-do-some-people-never-get-cancer-the-answer-may-be-in-their-blood/",
+      "published": "06 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-06T20:48:17+00:00"
+    },
+    {
       "title": "How Does Touch Lead To Pain Or Pleasure?",
       "link": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
       "published": "06 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "03 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-03T15:05:20+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 1)",
-      "link": "https://singularityhub.com/2026/08/01/this-weeks-awesome-tech-stories-from-around-the-web-through-august-1-2/",
-      "published": "01 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-01T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Ifo-Chef spricht sich für einheitlichen Mehrwertsteuersatz aus",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/forderung-ifo-mehrwertsteuer-erhoehung-100.html",
-      "published": "06 Aug 2026",
+      "title": "Oman: Gestrandeter Öltanker könnte Umweltkatastrophe verursachen",
+      "link": "https://www.tagesschau.de/ausland/asien/oman-oeltanker-102.html",
+      "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T15:51:24+02:00"
+      "sort_date": "2026-08-07T00:04:28+02:00"
     },
     {
-      "title": "Bundesverfassungsgericht ermahnt Bundestag zu zeitnaher Wahlprüfung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeserfassungsgericht-ermahnt-bundestag-100.html",
+      "title": "Flughafen Leipzig/Halle: Bundesanwaltschaft ermittelt zu Sprengstoff-Drohne",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesanwaltschaft-leipzig-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T15:05:14+02:00"
+      "sort_date": "2026-08-06T20:59:08+02:00"
     },
     {
-      "title": "Warum George R. R. Martin seine Fans warten lässt",
-      "link": "https://www.tagesschau.de/kultur/die-unendliche-geschichte-von-westeros,fortsetzung-game-of-thrones-100.html",
+      "title": "US-Arzneimittelbehörde lässt neuen mRNA-Impfstoff gegen Grippe zu",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-mrna-grippe-impfstoff-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T15:04:41+02:00"
+      "sort_date": "2026-08-06T19:46:30+02:00"
     },
     {
-      "title": "Unterstützung für die Ukraine: Jede Hilfslieferung ist eine Botschaft",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-hilfslieferungen-100.html",
+      "title": "Niedriger Wasserstand der Donau bedroht Stromversorgung",
+      "link": "https://www.dw.com/de/niedriger-wasserstand-der-donau-bedroht-stromversorgung/a-78262091?maca=de-rss-de-top-1016-xml-mrss",
       "published": "06 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T14:59:50+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-06T19:00:00+00:00"
     },
     {
-      "title": "Telekom überrascht die Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-100.html",
+      "title": "Strategiepapier zeigt Infantinos Zukunftsvision für die FIFA",
+      "link": "https://www.tagesschau.de/sport/fifa-infantino-investoren-jpmorgan-100.html",
       "published": "06 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T14:40:03+02:00"
+      "sort_date": "2026-08-06T18:54:18+02:00"
     }
   ],
   "Food": []
