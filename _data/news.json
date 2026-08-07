@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Mindestens sieben Tote bei Schüssen an Schule in Thailand",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-tote-schuesse-schule-100.html",
+      "published": "07 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-07T08:57:00+02:00"
+    },
+    {
+      "title": "Marktbericht: Anleger vor US-Jobdaten zurückhaltend",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html",
+      "published": "07 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-07T07:38:43+02:00"
+    },
+    {
+      "title": "Schattenflotten-Tanker verseucht Küste vor Oman - News kompakt: Das Wichtigste kurz gefasst",
+      "link": "https://www.dw.com/de/schattenflotten-tanker-verseucht-küste-vor-oman-news-kompakt-das-wichtigste-kurz-gefasst/a-78273572?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "07 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-07T07:00:00+00:00"
+    },
+    {
       "title": "Kolumbiens neuer Präsident: Zurück zur harten Linie gegen Banden",
       "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-amtsantritt-delaespriella-100.html",
       "published": "07 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-07T06:25:50+02:00"
-    },
-    {
-      "title": "Kündigungen wegen des Iran-Kriegs: \"Schlechte Stimmung in der US-Truppe\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-armee-kuendigungen-iran-100.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T05:03:23+02:00"
-    },
-    {
-      "title": "Abrissarbeiten an Bonner Nordbrücke beginnen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/beginn-abriss-nordbruecke-bonn-100.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T05:02:00+02:00"
-    },
-    {
-      "title": "Kinderschutz: Meta soll 567 Millionen Dollar Strafe zahlen",
-      "link": "https://www.tagesschau.de/ausland/amerika/meta-strafe-kinderschutz-100.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T04:53:19+02:00"
     }
   ],
   "Food": []
