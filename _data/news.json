@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Trotz Supreme Court-Niederlage: Trump schränkt erneut Geburtsrecht ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-geburtsrecht-dekret-100.html",
+      "published": "07 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-07T04:14:30+02:00"
+    },
+    {
       "title": "Oman: Gestrandeter Öltanker könnte Umweltkatastrophe verursachen",
       "link": "https://www.tagesschau.de/ausland/asien/oman-oeltanker-102.html",
       "published": "07 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "06 Aug 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-08-06T19:00:00+00:00"
-    },
-    {
-      "title": "Strategiepapier zeigt Infantinos Zukunftsvision für die FIFA",
-      "link": "https://www.tagesschau.de/sport/fifa-infantino-investoren-jpmorgan-100.html",
-      "published": "06 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-06T18:54:18+02:00"
     }
   ],
   "Food": []
