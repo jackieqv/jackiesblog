@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "Sam Altman Says We’re ‘in the Singularity’ With AI. Here’s Why He’s Wrong.",
+      "link": "https://singularityhub.com/2026/08/07/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong/",
+      "published": "07 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-07T14:00:00+00:00"
+    },
+    {
+      "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+      "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "published": "07 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-07T13:55:32+00:00"
+    },
+    {
       "title": "Why Do Some People Never Get Cancer? The Answer May Be in Their Blood",
       "link": "https://singularityhub.com/2026/08/06/why-do-some-people-never-get-cancer-the-answer-may-be-in-their-blood/",
       "published": "06 Aug 2026",
@@ -94,57 +108,43 @@
       "published": "05 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-05T15:40:41+00:00"
-    },
-    {
-      "title": "Heat Is an Orbital Data Center’s Greatest Foe. These Tiles  Dump It at the Source.",
-      "link": "https://singularityhub.com/2026/08/04/heat-is-an-orbital-data-centers-greatest-foe-these-tiles-dump-it-at-the-source/",
-      "published": "04 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-04T20:10:46+00:00"
-    },
-    {
-      "title": "Why the Legendary Erdős Problems Are Falling to AI",
-      "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "published": "03 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-03T15:05:20+00:00"
     }
   ],
   "News": [
     {
-      "title": "Türkei, Pakistan und Saudi-Arabien schließen Verteidigungsabkommen",
-      "link": "https://www.tagesschau.de/ausland/asien/militaerpakt-tuerkei-saudi-arabien-pakistan-100.html",
+      "title": "Vorschlag von Verkehrsminister: Debatte über Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html",
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T14:58:25+02:00"
+      "sort_date": "2026-08-07T17:26:06+02:00"
     },
     {
-      "title": "Mitarbeitende bei Landtagsabgeordneten: \"Mit Wahlkreisarbeit hat das nichts zu tun\"",
-      "link": "https://www.tagesschau.de/investigativ/fakt/landtagsabgeordnete-mitarbeiter-budget-100.html",
+      "title": "Ukraine greift erneut russischen Onlinehändler Wildberries an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-250.html",
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T14:32:58+02:00"
+      "sort_date": "2026-08-07T17:05:14+02:00"
     },
     {
-      "title": "Allianz und Münchener Rück fest auf Gewinnkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-alv-muv-100.html",
+      "title": "Verdächtiger Drohnenflug über \"Patriot-Werft\"",
+      "link": "https://www.tagesschau.de/investigativ/drohnenueberfluge-100.html",
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T14:14:03+02:00"
+      "sort_date": "2026-08-07T17:02:20+02:00"
     },
     {
-      "title": "Mehr als sieben Millionen Fahrzeuge mit \"Heimatkennzeichen\" unterwegs",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auto-pkw-kennzeichen-heimatkennzeichen-100.html",
+      "title": "Ceuta-Krise - Madrid droht Rom im Streit um Grenzkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T13:47:33+02:00"
+      "sort_date": "2026-08-07T16:53:55+02:00"
     },
     {
-      "title": "Dürre in Deutschland: Agrarminister sieht keinen akuten Handlungsbedarf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/duerre-landwirte-ernteeinbussen-100.html",
+      "title": "Ebolavirus in DR Kongo verbreitet sich schneller als je zuvor",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-rasanter-anstieg-100.html",
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T12:21:25+02:00"
+      "sort_date": "2026-08-07T16:46:17+02:00"
     }
   ],
   "Food": []
