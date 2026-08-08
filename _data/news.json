@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Berliner Volksbühne eröffnet Schwimmbad vor der Theatersaison",
+      "link": "https://www.tagesschau.de/kultur/berlin-volksbuehne-schwimmbecken-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T08:30:41+02:00"
+    },
+    {
+      "title": "CDU-Spitze würde AfD-Koalition im Osten nicht dulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-cdu-afd-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T08:25:50+02:00"
+    },
+    {
+      "title": "Südafrika setzt nach fremdenfeindlichen Krawallen auf Schadensbegrenzung",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-krawalle-wogen-glaetten-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T08:12:47+02:00"
+    },
+    {
       "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
       "published": "08 Aug 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-08-08T05:37:50+02:00"
     },
     {
-      "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
+      "title": "Der heißeste Sommer? So werden Temperatur-Rekorde gemessen",
+      "link": "https://www.dw.com/de/der-heißeste-sommer-so-werden-temperatur-rekorde-gemessen/a-78277509?maca=de-rss-de-top-1016-xml-mrss",
       "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T03:45:58+02:00"
-    },
-    {
-      "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
-      "link": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T02:41:36+02:00"
-    },
-    {
-      "title": "US-Senat beschließt verschärfte Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T22:47:25+02:00"
-    },
-    {
-      "title": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T22:09:51+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-08T05:11:00+00:00"
     }
   ],
   "Food": []
