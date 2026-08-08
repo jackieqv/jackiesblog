@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T05:37:50+02:00"
+    },
+    {
+      "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T03:45:58+02:00"
+    },
+    {
       "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html",
       "published": "08 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "07 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-07T22:09:51+02:00"
-    },
-    {
-      "title": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T21:22:13+02:00"
-    },
-    {
-      "title": "US-Gericht stoppt vorerst Bau von Trumps Ballsaal",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ballsall-100.html",
-      "published": "07 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-07T20:42:41+02:00"
     }
   ],
   "Food": []
