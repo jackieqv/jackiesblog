@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Custom Duration Calculations in SuccessFactors: Dynamic Format {YY} Years {MM} Months {DD} Days",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/custom-duration-calculations-in-successfactors-dynamic-format-yy-years-mm/ba-p/14459992",
+      "published": "08 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-08T14:45:14+00:00"
+    },
+    {
       "title": "Onboarding USA I-9 Compliance and Hires with No-SSN",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/onboarding-usa-i-9-compliance-and-hires-with-no-ssn/ba-p/14455458",
       "published": "07 Aug 2026",
@@ -64,16 +71,16 @@
       "published": "05 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-05T08:44:52+00:00"
-    },
-    {
-      "title": "Error: Picklist configurations are missing and they are required for processing the 'No-Show' action",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/error-picklist-configurations-are-missing-and-they-are-required-for/ba-p/14443404",
-      "published": "05 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-05T08:34:31+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 8)",
+      "link": "https://singularityhub.com/2026/08/08/this-weeks-awesome-tech-stories-from-around-the-web-through-august-8-2/",
+      "published": "08 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-08T14:00:00+00:00"
+    },
     {
       "title": "Sam Altman Says We’re ‘in the Singularity’ With AI. Here’s Why He’s Wrong.",
       "link": "https://singularityhub.com/2026/08/07/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong/",
@@ -101,22 +108,36 @@
       "published": "06 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-06T13:37:48+00:00"
-    },
-    {
-      "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
-      "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
-      "published": "05 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-05T15:40:41+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mehr als 200 Menschen vor Waldbrand am Gardasee in Sicherheit gebracht",
+      "title": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
       "published": "08 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T14:18:53+02:00"
+      "sort_date": "2026-08-08T17:10:38+02:00"
+    },
+    {
+      "title": "Himalaya: Fünf vermisste Bergsteiger tot in Nepal gefunden",
+      "link": "https://www.tagesschau.de/ausland/asien/leichenfund-yalung-ri-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T16:38:30+02:00"
+    },
+    {
+      "title": "BUND kritisiert Lockerung des Sonntagsfahrverbots für Lkw",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-sonntagsfahrverbot-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T16:27:40+02:00"
+    },
+    {
+      "title": "Kann der neue britische Premier Burnham Obdachlosigkeit beenden?",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-burnham-obdachlosigkeit-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T15:52:21+02:00"
     },
     {
       "title": "Ukraine: Schutzlos gegen ballistische Raketen",
@@ -124,27 +145,6 @@
       "published": "08 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-08T13:49:08+02:00"
-    },
-    {
-      "title": "US-Senat bestätigt Todd Blanche als Justizminister",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-blanche-justizminister-102.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T13:21:02+02:00"
-    },
-    {
-      "title": "\"Bauernhofeffekt\": Warum der Kuhstall Kinder vor Allergien schützen kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/allergie-kinder-bauernhof-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T12:10:21+02:00"
-    },
-    {
-      "title": "Ukraine meldet Tote bei Luftangriffen auf Vorort von Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-angriffe-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T11:35:38+02:00"
     }
   ],
   "Food": []
