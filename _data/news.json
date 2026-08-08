@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
+      "link": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T21:39:39+02:00"
+    },
+    {
+      "title": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html",
+      "published": "08 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-08T21:26:38+02:00"
+    },
+    {
       "title": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-100.html",
       "published": "08 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "08 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-08T18:25:54+02:00"
-    },
-    {
-      "title": "Großer Zulauf auch bei kleineren CSD-Demos",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-demos-102.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T18:15:26+02:00"
-    },
-    {
-      "title": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi?",
-      "link": "https://www.dw.com/de/iran-welchen-einfluss-hat-kronprinz-reza-pahlavi/a-78257365?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "08 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-08T17:47:00+00:00"
     }
   ],
   "Food": []
