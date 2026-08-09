@@ -112,11 +112,32 @@
   ],
   "News": [
     {
+      "title": "SPD kritisiert Härtefallregel bei Familiennachzug als viel zu streng",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-familiennachzug-haertefall-kritik-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T18:34:56+02:00"
+    },
+    {
       "title": "Bilger will Boni bei der Bahn mehr an Ziele knüpfen - und bekommt Zuspruch",
       "link": "https://www.tagesschau.de/inland/bilger-bahn-boni-100.html",
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T17:24:06+02:00"
+      "sort_date": "2026-08-09T18:21:19+02:00"
+    },
+    {
+      "title": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-hamas-trump-netanjahu-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T17:56:41+02:00"
+    },
+    {
+      "title": "Straßenfest \"Hey Hillbrow! Let’s Dlala!\" belebt ein Problemviertel",
+      "link": "https://www.tagesschau.de/ausland/afrika/hillbrow-johannesburg-strassenfest-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T17:46:29+02:00"
     },
     {
       "title": "Afghanistan - Tourismus bei den Taliban",
@@ -124,27 +145,6 @@
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-09T16:32:09+02:00"
-    },
-    {
-      "title": "Waldbrand am Gardasee unter Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-gardasee-waldbrand-unter-kontrolle-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T16:21:40+02:00"
-    },
-    {
-      "title": "Ganztagsbetreuuung: Kraftakt für Kommunen - Gewinn für Kinder",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-schulen-kommunen-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T15:26:10+02:00"
-    },
-    {
-      "title": "Was, wenn Israel das Al-Aksa-Moschee-Gelände übernimmt?",
-      "link": "https://www.dw.com/de/was-wenn-israel-das-al-aksa-moschee-gelände-übernimmt/a-78293452?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "09 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-09T15:26:00+00:00"
     }
   ],
   "Food": []
