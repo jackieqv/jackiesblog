@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T02:52:07+02:00"
+    },
+    {
       "title": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
       "link": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
       "published": "08 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "08 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-08T18:39:02+02:00"
-    },
-    {
-      "title": "Wenn über Wasser verhandelt wird - das Beispiel Ungarn und Slowakei",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-ungarn-niedrigwasser-donau-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T18:25:54+02:00"
     }
   ],
   "Food": []
