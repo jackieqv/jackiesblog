@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+      "title": "Schiffswrack aus der Römerzeit: Hunderte antike Krüge vor Sizilien gefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/schiffswrack-amphoren-sizilien-100.html",
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T11:30:21+02:00"
+      "sort_date": "2026-08-09T14:24:41+02:00"
+    },
+    {
+      "title": "EU-Außengrenze in Lettland: Wo sich Ceuta nicht wiederholen soll",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-migration-belarus-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T14:02:04+02:00"
+    },
+    {
+      "title": "Hamburgs Bürgermeister Tschentscher kritisiert schwarz-rote Steuerpolitik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tschentscher-steuerpolitik-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T13:11:37+02:00"
     },
     {
       "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
@@ -126,25 +140,11 @@
       "sort_date": "2026-08-09T11:19:11+02:00"
     },
     {
-      "title": "Brasilien: Abholzung im Amazonas auf Zehnjahrestief",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-zehnjahrestief-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T10:13:27+02:00"
-    },
-    {
-      "title": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung",
-      "link": "https://www.dw.com/de/straße-von-hormus-iran-stellt-harte-forderungen-vor-öffnung/a-78293294?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Was, wenn Israel das Al-Aksa-Moschee-Gelände übernimmt?",
+      "link": "https://www.dw.com/de/was-wenn-israel-das-al-aksa-moschee-gelände-übernimmt/a-78293452?maca=de-rss-de-top-1016-xml-mrss",
       "published": "09 Aug 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-09T09:20:00+00:00"
-    },
-    {
-      "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T09:19:55+02:00"
+      "sort_date": "2026-08-09T10:22:00+00:00"
     }
   ],
   "Food": []
