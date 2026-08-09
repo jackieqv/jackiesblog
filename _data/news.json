@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T06:03:52+02:00"
+    },
+    {
+      "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T04:58:12+02:00"
+    },
+    {
+      "title": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T04:57:35+02:00"
+    },
+    {
       "title": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
       "published": "09 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "08 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-08T21:39:39+02:00"
-    },
-    {
-      "title": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
-      "link": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T21:26:38+02:00"
-    },
-    {
-      "title": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T19:59:01+02:00"
-    },
-    {
-      "title": "Ukraine und Serbien wollen stärker kooperieren - trotz Belgrads Kreml-Nähe",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-serbien-vucic-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T18:39:02+02:00"
     }
   ],
   "Food": []
