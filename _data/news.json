@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T08:37:58+02:00"
+    },
+    {
+      "title": "Vom Feuer umzingelt: Waldbrand-Notstand in Westkanada",
+      "link": "https://www.dw.com/de/vom-feuer-umzingelt-waldbrand-notstand-in-westkanada/a-78292775?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "09 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-09T06:37:00+00:00"
+    },
+    {
+      "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T06:34:19+02:00"
+    },
+    {
       "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
       "published": "09 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-09T04:58:12+02:00"
-    },
-    {
-      "title": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T04:57:35+02:00"
-    },
-    {
-      "title": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T02:52:07+02:00"
-    },
-    {
-      "title": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
-      "link": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
-      "published": "08 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-08T21:39:39+02:00"
     }
   ],
   "Food": []
