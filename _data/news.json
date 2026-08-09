@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Budgeting In SAP Successfactors Employee Central - A Custom MDF Approach",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/budgeting-in-sap-successfactors-employee-central-a-custom-mdf-approach/ba-p/14460133",
+      "published": "09 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-09T09:36:37+00:00"
+    },
+    {
       "title": "Join us at Success Connect in 2026 - Register today!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-us-at-success-connect-in-2026-register-today/ba-p/14460030",
       "published": "08 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "07 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-07T10:45:53+00:00"
-    },
-    {
-      "title": "Compliance Closure Gating: Ensuring Regulatory Completeness Before Closing Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-closure-gating-ensuring-regulatory-completeness-before-closing/ba-p/14454778",
-      "published": "05 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-05T16:52:38+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T08:37:58+02:00"
-    },
-    {
-      "title": "Vom Feuer umzingelt: Waldbrand-Notstand in Westkanada",
-      "link": "https://www.dw.com/de/vom-feuer-umzingelt-waldbrand-notstand-in-westkanada/a-78292775?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "09 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-09T06:37:00+00:00"
-    },
-    {
       "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T06:34:19+02:00"
+      "sort_date": "2026-08-09T11:30:21+02:00"
     },
     {
-      "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
+      "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html",
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T06:03:52+02:00"
+      "sort_date": "2026-08-09T11:19:11+02:00"
     },
     {
-      "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
+      "title": "Brasilien: Abholzung im Amazonas auf Zehnjahrestief",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-zehnjahrestief-100.html",
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T04:58:12+02:00"
+      "sort_date": "2026-08-09T10:13:27+02:00"
+    },
+    {
+      "title": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung",
+      "link": "https://www.dw.com/de/straße-von-hormus-iran-stellt-harte-forderungen-vor-öffnung/a-78293294?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "09 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-09T09:20:00+00:00"
+    },
+    {
+      "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
+      "published": "09 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-09T09:19:55+02:00"
     }
   ],
   "Food": []
