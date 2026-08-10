@@ -112,18 +112,18 @@
   ],
   "News": [
     {
+      "title": "Erdbeben in Kolumbien - viele Tote befürchtet",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
+      "published": "10 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-10T21:07:15+02:00"
+    },
+    {
       "title": "Russische Oppositionspartei Jabloko von Parlamentswahl ausgeschlossen",
       "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-100.html",
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-10T20:48:40+02:00"
-    },
-    {
-      "title": "Erdbeben in Kolumbien - viele Tote befürchtet",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T20:41:40+02:00"
     },
     {
       "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
