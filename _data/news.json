@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/rhein-niedrigwasser-zweiteilung-binnenschiffer-100.html",
+      "published": "10 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-10T03:17:33+02:00"
+    },
+    {
+      "title": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html",
+      "published": "10 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-10T02:30:55+02:00"
+    },
+    {
+      "title": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
+      "published": "10 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-10T01:01:26+02:00"
+    },
+    {
       "title": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html",
       "published": "09 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "09 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-09T21:24:19+02:00"
-    },
-    {
-      "title": "Russland: Putins Strafe für Kremlkritiker im Exil",
-      "link": "https://www.dw.com/de/russland-putins-strafe-für-kremlkritiker-im-exil/a-78281012?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "09 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-09T19:06:00+00:00"
-    },
-    {
-      "title": "SPD kritisiert Härtefallregel bei Familiennachzug als viel zu streng",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-familiennachzug-haertefall-kritik-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T18:34:56+02:00"
-    },
-    {
-      "title": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-hamas-trump-netanjahu-100.html",
-      "published": "09 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-09T17:56:41+02:00"
     }
   ],
   "Food": []
