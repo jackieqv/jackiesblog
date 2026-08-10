@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "First Time Enablement of Agency Hiring in SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/first-time-enablement-of-agency-hiring-in-smartrecruiters/ba-p/14433138",
+      "published": "10 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-10T09:58:03+00:00"
+    },
+    {
       "title": "Budgeting In SAP Successfactors Employee Central - A Custom MDF Approach",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/budgeting-in-sap-successfactors-employee-central-a-custom-mdf-approach/ba-p/14460133",
       "published": "09 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "07 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-07T10:47:15+00:00"
-    },
-    {
-      "title": "Joule Work Desktop Through an HCM Lens",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/joule-work-desktop-through-an-hcm-lens/ba-p/14457386",
-      "published": "07 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-07T10:45:53+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Fast 30 Jahre nach Mord an Tupac Shakur: Prozessbeginn in Los Angeles",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-tupac-shakur-mord-prozess-100.html",
+      "title": "Mehrere Tote bei ukrainischem Drohnenangriff in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriff-104.html",
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T09:21:43+02:00"
+      "sort_date": "2026-08-10T12:08:08+02:00"
     },
     {
-      "title": "Trump setzt auf wirtschaftlichen Druck gegen Iran",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-wirtschaftlicher-druck-iran-100.html",
+      "title": "Warum werden in Malta kaum Asylanträge gestellt?",
+      "link": "https://www.tagesschau.de/ausland/europa/malta-migration-100.html",
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T09:00:26+02:00"
+      "sort_date": "2026-08-10T12:01:02+02:00"
     },
     {
-      "title": "Weltweit 350 Hilfskräfte bei humanitären Einsätzen getötet",
-      "link": "https://www.tagesschau.de/ausland/europa/hilfskraefte-helfer-gaza-100.html",
+      "title": "Auch Bilger will Drohnenabwehr an deutschen Flughäfen verbessern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-bilger-100.html",
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T08:08:47+02:00"
+      "sort_date": "2026-08-10T11:43:49+02:00"
     },
     {
-      "title": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
+      "title": "Anteil junger Menschen in Deutschland bleibt historisch niedrig",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anteil-junger-menschen-100.html",
+      "published": "10 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-10T11:19:03+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX rückt vorsichtig vor",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T07:45:17+02:00"
-    },
-    {
-      "title": "Waldbrände in Kanada weiter außer Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-kanada-136.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T07:22:54+02:00"
+      "sort_date": "2026-08-10T10:36:01+02:00"
     }
   ],
   "Food": []
