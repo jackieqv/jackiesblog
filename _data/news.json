@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
+      "title": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T17:38:52+02:00"
+      "sort_date": "2026-08-11T20:20:43+02:00"
+    },
+    {
+      "title": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T19:58:05+02:00"
+    },
+    {
+      "title": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
+      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T19:00:56+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX erreicht neue Höhen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T18:15:59+02:00"
     },
     {
       "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
@@ -124,27 +145,6 @@
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-11T17:28:26+02:00"
-    },
-    {
-      "title": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T16:07:53+02:00"
-    },
-    {
-      "title": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T15:19:02+02:00"
-    },
-    {
-      "title": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
-      "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T14:51:02+02:00"
     }
   ],
   "Food": []
