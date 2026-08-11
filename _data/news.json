@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP PartnerEdge Build Track for SAP SuccessFactors: A Complete Guide to Getting Started",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-partneredge-build-track-for-sap-successfactors-a-complete-guide-to/ba-p/14457011",
+      "published": "11 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-11T10:17:35+00:00"
+    },
+    {
       "title": "Portlets in PMGM: The Small Building Blocks That Make People Profile Actually Useful",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/portlets-in-pmgm-the-small-building-blocks-that-make-people-profile/ba-p/14459353",
       "published": "11 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "11 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-11T07:49:59+00:00"
-    },
-    {
-      "title": "The lack of opportunities to newcomers",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-lack-of-opportunities-to-newcomers/ba-p/14451686",
-      "published": "11 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-11T06:45:14+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
+      "title": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
+      "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T11:50:35+02:00"
+      "sort_date": "2026-08-11T14:51:02+02:00"
     },
     {
-      "title": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzeschutz-schulen-100.html",
+      "title": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T11:44:58+02:00"
+      "sort_date": "2026-08-11T14:05:20+02:00"
     },
     {
-      "title": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
-      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-tourismus-100.html",
+      "title": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T11:42:37+02:00"
+      "sort_date": "2026-08-11T13:34:32+02:00"
     },
     {
-      "title": "Doppelt so viele Mädchen wegen Essstörungen im Krankenhaus",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/essstoerung-krankenhaus-magersucht-100.html",
+      "title": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T11:19:52+02:00"
+      "sort_date": "2026-08-11T13:12:32+02:00"
     },
     {
-      "title": "Autohersteller verdienen im Schnitt deutlich weniger pro Auto",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/autohersteller-gewinn-fahrzeug-100.html",
+      "title": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
+      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T10:55:32+02:00"
+      "sort_date": "2026-08-11T13:04:01+02:00"
     }
   ],
   "Food": []
