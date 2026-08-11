@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Mindestens fünf Tote: Neue russische Luftangriffe auf Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T05:41:59+02:00"
+    },
+    {
+      "title": "Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T05:32:39+02:00"
+    },
+    {
+      "title": "Erdbeben mit mehr als 100 Toten: Notstand in Kolumbien",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T05:24:18+02:00"
+    },
+    {
+      "title": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T03:59:10+02:00"
+    },
+    {
       "title": "Parlament in der Türkei billigt Gesetz für Frieden mit der PKK",
       "link": "https://www.tagesschau.de/ausland/tuerkei-pkk-gesetz-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-11T00:05:47+02:00"
-    },
-    {
-      "title": "Erdbeben in Kolumbien - viele Tote befürchtet",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T21:07:15+02:00"
-    },
-    {
-      "title": "Russische Oppositionspartei Jabloko von Parlamentswahl ausgeschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-100.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T20:48:40+02:00"
-    },
-    {
-      "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mv-bayern-lkw-fahrverbot-100.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T20:12:50+02:00"
-    },
-    {
-      "title": "Flughafen Leipzig/Halle - Die Methode \"Drohne\"",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-russland-104.html",
-      "published": "10 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-10T19:15:49+02:00"
     }
   ],
   "Food": []
