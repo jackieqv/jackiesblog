@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Configuring Rating Sources: Integrating SAP SuccessFactors Compensation with Performance Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuring-rating-sources-integrating-sap-successfactors-compensation-with/ba-p/14459208",
+      "published": "10 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-10T21:44:44+00:00"
+    },
+    {
       "title": "SAP PartnerEdge Build Track for SAP SuccessFactors: A Complete Guide to Getting Started",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-partneredge-build-track-for-sap-successfactors-a-complete-guide-to/ba-p/14457011",
       "published": "10 Aug 2026",
@@ -64,16 +71,16 @@
       "published": "09 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-09T09:36:37+00:00"
-    },
-    {
-      "title": "Join us at Success Connect in 2026 - Register today!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/join-us-at-success-connect-in-2026-register-today/ba-p/14460030",
-      "published": "08 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-08T17:08:02+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Monochrome No More: New Night-Vision Glasses Show Color",
+      "link": "https://singularityhub.com/2026/08/10/monochrome-no-more-new-night-vision-glasses-show-color/",
+      "published": "10 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-10T22:36:58+00:00"
+    },
     {
       "title": "Why Are Rivers So Mathematical?",
       "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
@@ -101,16 +108,16 @@
       "published": "07 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-07T13:55:32+00:00"
-    },
-    {
-      "title": "Why Do Some People Never Get Cancer? The Answer May Be in Their Blood",
-      "link": "https://singularityhub.com/2026/08/06/why-do-some-people-never-get-cancer-the-answer-may-be-in-their-blood/",
-      "published": "06 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-06T20:48:17+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Parlament in der Türkei billigt Gesetz für Frieden mit der PKK",
+      "link": "https://www.tagesschau.de/ausland/tuerkei-pkk-gesetz-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T00:05:47+02:00"
+    },
     {
       "title": "Erdbeben in Kolumbien - viele Tote befürchtet",
       "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
@@ -138,13 +145,6 @@
       "published": "10 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-10T19:15:49+02:00"
-    },
-    {
-      "title": "Flugabwehr: Wie Kyjiw aus der US-Abhängigkeit kommen will",
-      "link": "https://www.dw.com/de/flugabwehr-wie-kyjiw-aus-der-us-abhängigkeit-kommen-will/a-78307835?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "10 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-10T18:52:00+00:00"
     }
   ],
   "Food": []
