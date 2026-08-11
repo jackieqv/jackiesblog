@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Million-Person Study Finds a Rare Gene Variant That Slashes the Risk of Diabetes and Heart Disease",
+      "link": "https://singularityhub.com/2026/08/11/million-person-study-finds-a-rare-gene-variant-that-slashes-the-risk-of-diabetes-and-heart-disease/",
+      "published": "11 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-11T14:00:00+00:00"
+    },
+    {
       "title": "Monochrome No More: New Night-Vision Glasses Show Color",
       "link": "https://singularityhub.com/2026/08/10/monochrome-no-more-new-night-vision-glasses-show-color/",
       "published": "10 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "07 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-07T14:00:00+00:00"
-    },
-    {
-      "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
-      "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "published": "07 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-07T13:55:32+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T17:38:52+02:00"
+    },
+    {
+      "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T17:28:26+02:00"
+    },
+    {
+      "title": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T16:07:53+02:00"
+    },
+    {
+      "title": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html",
+      "published": "11 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-11T15:19:02+02:00"
+    },
     {
       "title": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
       "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-11T14:51:02+02:00"
-    },
-    {
-      "title": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T14:05:20+02:00"
-    },
-    {
-      "title": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T13:34:32+02:00"
-    },
-    {
-      "title": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T13:12:32+02:00"
-    },
-    {
-      "title": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
-      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T13:04:01+02:00"
     }
   ],
   "Food": []
