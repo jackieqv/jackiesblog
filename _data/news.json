@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "published": "12 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-12T14:14:42+00:00"
+    },
+    {
       "title": "Million-Person Study Finds a Rare Gene Variant That Slashes the Risk of Diabetes and Heart Disease",
       "link": "https://singularityhub.com/2026/08/11/million-person-study-finds-a-rare-gene-variant-that-slashes-the-risk-of-diabetes-and-heart-disease/",
       "published": "11 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "08 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-08T14:00:00+00:00"
-    },
-    {
-      "title": "Sam Altman Says We’re ‘in the Singularity’ With AI. Here’s Why He’s Wrong.",
-      "link": "https://singularityhub.com/2026/08/07/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong/",
-      "published": "07 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-07T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
+      "title": "Liveblog zur Sonnenfinsternis: ++ Alaska macht den Anfang ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T14:59:19+02:00"
+      "sort_date": "2026-08-12T17:51:05+02:00"
     },
     {
-      "title": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnenabwehr-europa-100.html",
+      "title": "Die Sonnenfinsternis im Livestream",
+      "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T14:41:43+02:00"
+      "sort_date": "2026-08-12T17:14:11+02:00"
     },
     {
-      "title": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
+      "title": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/spotify-ki-kennzeichnung-musikstreaming-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T14:03:31+02:00"
+      "sort_date": "2026-08-12T17:13:54+02:00"
     },
     {
-      "title": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html",
+      "title": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T13:52:36+02:00"
+      "sort_date": "2026-08-12T16:52:09+02:00"
     },
     {
-      "title": "Marktbericht: TUI macht weniger Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
+      "title": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T13:44:40+02:00"
+      "sort_date": "2026-08-12T16:10:07+02:00"
     }
   ],
   "Food": []
