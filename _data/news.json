@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T05:50:28+02:00"
+    },
+    {
+      "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T05:47:15+02:00"
+    },
+    {
+      "title": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T05:08:27+02:00"
+    },
+    {
       "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
       "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
       "published": "12 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-12T00:09:02+02:00"
-    },
-    {
-      "title": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T21:26:29+02:00"
-    },
-    {
-      "title": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T20:20:43+02:00"
-    },
-    {
-      "title": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T19:58:05+02:00"
     }
   ],
   "Food": []
