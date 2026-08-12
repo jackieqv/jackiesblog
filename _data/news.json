@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Restricting Talent Pool Visibility to the Pool Creator in SAP SuccessFactors Succession",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/restricting-talent-pool-visibility-to-the-pool-creator-in-sap/ba-p/14461365",
+      "published": "12 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-12T08:01:35+00:00"
+    },
+    {
       "title": "SAP PartnerEdge Build Track for SAP SuccessFactors: A Complete Guide to Getting Started",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-partneredge-build-track-for-sap-successfactors-a-complete-guide-to/ba-p/14457011",
       "published": "11 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "11 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-11T08:11:12+00:00"
-    },
-    {
-      "title": "Six Position Management Pitfalls I Have Seen in SAP SuccessFactors Implementations",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/six-position-management-pitfalls-i-have-seen-in-sap-successfactors/ba-p/14454132",
-      "published": "11 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-11T07:49:59+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Erdbeben in Kolumbien: Suche nach Verschütteten unter Zeitdruck",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-katastrophenschutz-100.html",
+      "title": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/totale-sonnenfinsternis-1999-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T09:18:34+02:00"
+      "sort_date": "2026-08-12T11:23:59+02:00"
     },
     {
-      "title": "Social-Media-Prozess in den USA gegen Meta startet",
-      "link": "https://www.tagesschau.de/ausland/amerika/meta-klage-social-media-100.html",
+      "title": "Mindestens 15 Tote bei Bootsunglück auf Kariba-Stausee in Simbabwe",
+      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T08:59:39+02:00"
+      "sort_date": "2026-08-12T11:14:46+02:00"
     },
     {
-      "title": "SED-Opferbeauftragte: Schüler sollen Gedenkstätten besuchen müssen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gedenkstaetten-ddr-mauerbau-100.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T08:36:56+02:00"
-    },
-    {
-      "title": "Vor US-Daten zur Inflation: DAX bleibt nahe Rekordhoch",
+      "title": "Marktbericht: Spannung vor US-Inflationsdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T08:30:16+02:00"
+      "sort_date": "2026-08-12T10:26:51+02:00"
     },
     {
-      "title": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html",
+      "title": "Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-drohnenueberfluege-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T08:09:36+02:00"
+      "sort_date": "2026-08-12T10:22:15+02:00"
+    },
+    {
+      "title": "Island erwartet totale Sonnenfinsternis mit vielen Besuchern",
+      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-island-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T10:17:02+02:00"
     }
   ],
   "Food": []
