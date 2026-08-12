@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
+      "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T02:26:47+02:00"
+    },
+    {
+      "title": "US-Militär beschießt Tanker im Golf von Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T00:09:02+02:00"
+    },
+    {
       "title": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
       "published": "11 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "11 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-11T19:58:05+02:00"
-    },
-    {
-      "title": "\"Neubauten auf Friedhof\" - Wer kauft Wohnungen in Mariupol?",
-      "link": "https://www.dw.com/de/neubauten-auf-friedhof-wer-kauft-wohnungen-in-mariupol/a-78309875?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "11 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-11T19:19:00+00:00"
-    },
-    {
-      "title": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
-      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
-      "published": "11 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-11T19:00:56+02:00"
     }
   ],
   "Food": []
