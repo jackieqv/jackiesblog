@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Exciting 2026 SAP SuccessFactors Expert (SFX) Update: SFX Exams Live on SAP Learning!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/exciting-2026-sap-successfactors-expert-sfx-update-sfx-exams-live-on-sap/ba-p/14455563",
+      "published": "12 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-12T16:36:37+00:00"
+    },
+    {
       "title": "Restricting Talent Pool Visibility to the Pool Creator in SAP SuccessFactors Succession",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/restricting-talent-pool-visibility-to-the-pool-creator-in-sap/ba-p/14461365",
       "published": "12 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "11 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-11T08:26:57+00:00"
-    },
-    {
-      "title": "BP Sync errors resolved: Enter a value for field Last Name of Business Partner (Person)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/bp-sync-errors-resolved-enter-a-value-for-field-last-name-of-business/ba-p/14456780",
-      "published": "11 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-11T08:11:12+00:00"
     }
   ],
   "Science": [
@@ -112,14 +112,28 @@
   ],
   "News": [
     {
-      "title": "Liveblog zur Sonnenfinsternis: ++ Alaska macht den Anfang ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
+      "title": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
+      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T17:51:05+02:00"
+      "sort_date": "2026-08-12T19:46:21+02:00"
     },
     {
-      "title": "Die Sonnenfinsternis im Livestream",
+      "title": "Marktbericht: Ernüchterung nach Rekordfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T18:55:55+02:00"
+    },
+    {
+      "title": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
+      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
+      "published": "12 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-12T18:49:45+02:00"
+    },
+    {
+      "title": "Verfolgen Sie die Sonnenfinsternis live",
       "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -131,20 +145,6 @@
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-12T17:13:54+02:00"
-    },
-    {
-      "title": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T16:52:09+02:00"
-    },
-    {
-      "title": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T16:10:07+02:00"
     }
   ],
   "Food": []
