@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
+      "link": "https://www.tagesschau.de/ausland/afrika/wahl-sambia-106.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T06:43:52+02:00"
+    },
+    {
+      "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T06:00:09+02:00"
+    },
+    {
+      "title": "Drohnen-Bedrohung: Wo Deutschlands Schutz versagt",
+      "link": "https://www.dw.com/de/drohnen-bedrohung-wo-deutschlands-schutz-versagt/a-78332745?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "13 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-13T04:13:00+00:00"
+    },
+    {
       "title": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html",
       "published": "13 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "13 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-13T03:46:58+02:00"
-    },
-    {
-      "title": "Ätna sorgt weiter für Reisechaos auf Sizilien",
-      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T00:22:33+02:00"
-    },
-    {
-      "title": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
-      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T00:16:30+02:00"
-    },
-    {
-      "title": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T22:17:27+02:00"
     }
   ],
   "Food": []
