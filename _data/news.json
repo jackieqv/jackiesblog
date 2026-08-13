@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Prozess um WM-Katar 2022: Whistleblower an Ausreise gehindert",
+      "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T20:16:07+02:00"
+    },
+    {
+      "title": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T19:57:17+02:00"
+    },
+    {
+      "title": "Marktbericht: Rekordserie geht erstmal nicht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T18:25:34+02:00"
+    },
+    {
+      "title": "Urteil gegen Airline: Passagiere dürfen mehrere Handgepäckstücke mitnehmen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T18:02:24+02:00"
+    },
+    {
       "title": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
       "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
       "published": "13 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-13T17:30:17+02:00"
-    },
-    {
-      "title": "Was könnte gegen Niedrigwasser helfen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T17:29:49+02:00"
-    },
-    {
-      "title": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T16:50:05+02:00"
-    },
-    {
-      "title": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T15:41:24+02:00"
-    },
-    {
-      "title": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"",
-      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T15:37:15+02:00"
     }
   ],
   "Food": []
