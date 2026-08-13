@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors on the SAP Architecture Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-on-the-sap-architecture-center/ba-p/14462856",
+      "published": "13 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-13T08:44:43+00:00"
+    },
+    {
       "title": "Form I-9 Section 2 and Section 3 Delegation: Keep Employment Verification Moving",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/form-i-9-section-2-and-section-3-delegation-keep-employment-verification/ba-p/14462522",
       "published": "12 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "11 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-11T10:17:35+00:00"
-    },
-    {
-      "title": "Portlets in PMGM: The Small Building Blocks That Make People Profile Actually Useful",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/portlets-in-pmgm-the-small-building-blocks-that-make-people-profile/ba-p/14459353",
-      "published": "11 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-11T08:38:43+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T10:55:20+02:00"
+    },
+    {
+      "title": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T10:52:18+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T10:27:01+02:00"
+    },
+    {
+      "title": "Trump-\"Sprachrohr\" Leavitt zieht sich zurück",
+      "link": "https://www.dw.com/de/trump-sprachrohr-leavitt-zieht-sich-zurück/a-78348500?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "13 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-13T09:48:00+00:00"
+    },
+    {
       "title": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
       "link": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html",
       "published": "13 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-13T09:09:07+02:00"
-    },
-    {
-      "title": "Kuba erinnert an Fidel Castro: Geburtstagsfeiern ohne Feierlaune",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T08:35:34+02:00"
-    },
-    {
-      "title": "Kampf gegen die Berliner Mauer - für Achim Neumann ein Lebensthema",
-      "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T08:33:43+02:00"
-    },
-    {
-      "title": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
-      "link": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T08:05:33+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger trauen sich zurück in den Markt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T07:36:04+02:00"
     }
   ],
   "Food": []
