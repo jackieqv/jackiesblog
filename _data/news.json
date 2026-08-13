@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T03:47:02+02:00"
+    },
+    {
+      "title": "Darmparasit Cyclospora breitet sich in den USA aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T03:46:58+02:00"
+    },
+    {
+      "title": "Ätna sorgt weiter für Reisechaos auf Sizilien",
+      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T00:22:33+02:00"
+    },
+    {
+      "title": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
+      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
+      "published": "13 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-13T00:16:30+02:00"
+    },
+    {
       "title": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "published": "12 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-12T22:17:27+02:00"
-    },
-    {
-      "title": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
-      "link": "https://www.tagesschau.de/ausland/ebola-838.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T21:49:46+02:00"
-    },
-    {
-      "title": "Millionen verfolgen Sonnenfinsternis über Deutschland",
-      "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T20:36:27+02:00"
-    },
-    {
-      "title": "Marktbericht: Ernüchterung nach Rekordfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T18:55:55+02:00"
-    },
-    {
-      "title": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
-      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
-      "published": "12 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-12T18:49:45+02:00"
     }
   ],
   "Food": []
