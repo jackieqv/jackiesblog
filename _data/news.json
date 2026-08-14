@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
+      "published": "14 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-14T06:28:28+02:00"
+    },
+    {
+      "title": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
+      "link": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
+      "published": "14 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-14T06:28:09+02:00"
+    },
+    {
+      "title": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
+      "published": "14 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-14T06:00:13+02:00"
+    },
+    {
+      "title": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
+      "link": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
+      "published": "14 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-14T05:40:02+02:00"
+    },
+    {
       "title": "Bauernverband befürchtet teils totalen Ernteausfall",
       "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
       "published": "14 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-14T02:47:51+02:00"
-    },
-    {
-      "title": "Gericht weist Klage der US-Regierung gegen Harvard ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
-      "published": "14 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-14T02:47:45+02:00"
-    },
-    {
-      "title": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
-      "published": "14 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-14T00:00:27+02:00"
-    },
-    {
-      "title": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T22:08:42+02:00"
-    },
-    {
-      "title": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
-      "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
-      "published": "13 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-13T20:16:07+02:00"
     }
   ],
   "Food": []
