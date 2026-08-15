@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Waldbrände in Europa: Wo es gerade brennt",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T14:23:54+02:00"
+    },
+    {
+      "title": "Streit um den Sabbat in Israel: Ein Café als Ort des Kulturkampfs",
+      "link": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T13:43:49+02:00"
+    },
+    {
+      "title": "Tote bei schwerem israelischem Angriff im Libanon",
+      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T12:56:25+02:00"
+    },
+    {
+      "title": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
+      "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T11:40:13+02:00"
+    },
+    {
       "title": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
       "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-15T11:15:56+02:00"
-    },
-    {
-      "title": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T11:06:20+02:00"
-    },
-    {
-      "title": "Deutsche Bahn will alte Güterwaggons wieder in Betrieb nehmen",
-      "link": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T10:20:55+02:00"
-    },
-    {
-      "title": "Millionen-Goldfund auf belgischer Baustelle",
-      "link": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T09:24:23+02:00"
-    },
-    {
-      "title": "Fünf Jahre Taliban-Herrschaft - zwei Schwestern blicken zurück",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/afghanistan-gefluechtete-schwestern-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T09:17:17+02:00"
     }
   ],
   "Food": []
