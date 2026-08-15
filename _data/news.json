@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-sachsen-anhalt-banaszak-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T08:26:57+02:00"
+    },
+    {
+      "title": "Patientenschützer wollen Hitze als Todesursache erfassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T08:04:47+02:00"
+    },
+    {
+      "title": "Kampf gegen die Flammen im Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T05:51:24+02:00"
+    },
+    {
       "title": "Schweres Erdbeben erschüttert Ostindonesien",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
       "published": "15 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-15T04:13:14+02:00"
-    },
-    {
-      "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T03:12:08+02:00"
-    },
-    {
-      "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T03:10:58+02:00"
-    },
-    {
-      "title": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T01:34:43+02:00"
     }
   ],
   "Food": []
