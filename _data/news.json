@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
+      "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T22:44:39+02:00"
+    },
+    {
+      "title": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T22:14:55+02:00"
+    },
+    {
+      "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T21:38:07+02:00"
+    },
+    {
+      "title": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
+      "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
+      "published": "15 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-15T21:09:14+02:00"
+    },
+    {
       "title": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-15T20:23:44+02:00"
-    },
-    {
-      "title": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-      "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T20:04:47+02:00"
-    },
-    {
-      "title": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T19:19:29+02:00"
-    },
-    {
-      "title": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T18:15:34+02:00"
-    },
-    {
-      "title": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T18:13:41+02:00"
     }
   ],
   "Food": []
