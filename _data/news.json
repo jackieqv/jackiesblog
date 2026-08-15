@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 15)",
+      "link": "https://singularityhub.com/2026/08/15/this-weeks-awesome-tech-stories-from-around-the-web-through-august-15-2/",
+      "published": "15 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-15T14:00:00+00:00"
+    },
+    {
       "title": "Biology Needs an AI Declaration",
       "link": "https://singularityhub.com/2026/08/14/biology-needs-its-own-ai-declaration/",
       "published": "14 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "12 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-12T14:14:42+00:00"
-    },
-    {
-      "title": "Million-Person Study Finds a Rare Gene Variant That Slashes the Risk of Diabetes and Heart Disease",
-      "link": "https://singularityhub.com/2026/08/11/million-person-study-finds-a-rare-gene-variant-that-slashes-the-risk-of-diabetes-and-heart-disease/",
-      "published": "11 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-11T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Waldbrände in Europa: Wo es gerade brennt",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "title": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
+      "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T14:23:54+02:00"
+      "sort_date": "2026-08-15T17:07:03+02:00"
     },
     {
-      "title": "Streit um den Sabbat in Israel: Ein Café als Ort des Kulturkampfs",
-      "link": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html",
+      "title": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T13:43:49+02:00"
+      "sort_date": "2026-08-15T16:48:34+02:00"
     },
     {
-      "title": "Tote bei schwerem israelischem Angriff im Libanon",
-      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "title": "Indiens Premier Modi verspricht der Jugend Gratis-Kurse",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-jugendproteste-kakerlakenbewegung-bildung-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T12:56:25+02:00"
+      "sort_date": "2026-08-15T16:10:13+02:00"
     },
     {
-      "title": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
-      "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
+      "title": "Wo ist der \"Geist von Anchorage\"?",
+      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T11:40:13+02:00"
+      "sort_date": "2026-08-15T15:29:17+02:00"
     },
     {
-      "title": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
-      "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html",
+      "title": "Rekord: Die größte Marienstatue Europas steht in Polen",
+      "link": "https://www.dw.com/de/rekord-die-größte-marienstatue-europas-steht-in-polen/a-78383770?maca=de-rss-de-top-1016-xml-mrss",
       "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T11:15:56+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-15T14:52:00+00:00"
     }
   ],
   "Food": []
