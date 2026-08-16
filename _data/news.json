@@ -112,18 +112,18 @@
   ],
   "News": [
     {
+      "title": "Brand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T02:24:13+02:00"
+    },
+    {
       "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
       "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-15T22:44:39+02:00"
-    },
-    {
-      "title": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T22:14:55+02:00"
     },
     {
       "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
