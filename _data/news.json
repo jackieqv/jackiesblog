@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How to Create Video-Driven Presentations in Story Reporting",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-create-video-driven-presentations-in-story-reporting/ba-p/14464583",
+      "published": "16 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-16T11:12:08+00:00"
+    },
+    {
       "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
       "published": "16 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "13 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-13T12:50:37+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors on the SAP Architecture Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-on-the-sap-architecture-center/ba-p/14462856",
-      "published": "13 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-13T08:44:43+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
+      "title": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T11:18:50+02:00"
+      "sort_date": "2026-08-16T14:02:04+02:00"
     },
     {
-      "title": "NATO-Kampfjet schießt Drohne über Rumänien ab",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
+      "title": "Spanische Exklave: Ceuta - Europas verschlossene Tür",
+      "link": "https://www.tagesschau.de/ausland/europa/marokko-spanien-ceuta-migration-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T10:35:21+02:00"
+      "sort_date": "2026-08-16T13:45:22+02:00"
     },
     {
-      "title": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
-      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
+      "title": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T09:23:29+02:00"
+      "sort_date": "2026-08-16T13:31:57+02:00"
     },
     {
-      "title": "Russland greift Kiew erneut mit ballistischen Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "title": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tagesgeld-sparen-lockangebote-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T09:02:40+02:00"
+      "sort_date": "2026-08-16T13:07:56+02:00"
     },
     {
-      "title": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
-      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
+      "title": "USA: Alaskas Rohstoffe abbauen - aber wie?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T08:59:34+02:00"
+      "sort_date": "2026-08-16T12:20:49+02:00"
     }
   ],
   "Food": []
