@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
+      "published": "16 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-16T03:35:48+00:00"
+    },
+    {
       "title": "HCM Brasil - Crédito do Trabalhador: Importação de Parcelas - Extensão para Garantia Rescisória",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-importa%C3%A7%C3%A3o-de-parcelas-extens%C3%A3o-para/ba-p/14464160",
       "published": "14 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "13 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-13T08:44:43+00:00"
-    },
-    {
-      "title": "Form I-9 Section 2 and Section 3 Delegation: Keep Employment Verification Moving",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/form-i-9-section-2-and-section-3-delegation-keep-employment-verification/ba-p/14462522",
-      "published": "12 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-12T20:45:57+00:00"
     }
   ],
   "Science": [
@@ -112,11 +112,18 @@
   ],
   "News": [
     {
-      "title": "Brand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
+      "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T04:54:06+02:00"
+    },
+    {
+      "title": "Brand nahe Monschau: Sorge in Grenzregion wegen Feuer in Belgien",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T02:24:13+02:00"
+      "sort_date": "2026-08-16T04:48:24+02:00"
     },
     {
       "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
@@ -138,13 +145,6 @@
       "published": "15 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-15T21:09:14+02:00"
-    },
-    {
-      "title": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T20:23:44+02:00"
     }
   ],
   "Food": []
