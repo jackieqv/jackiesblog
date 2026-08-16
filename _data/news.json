@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
+      "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T22:24:50+02:00"
+    },
+    {
+      "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
+      "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T21:44:47+02:00"
+    },
+    {
+      "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T20:55:58+02:00"
+    },
+    {
       "title": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
       "published": "16 Aug 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-08-16T19:10:26+02:00"
     },
     {
-      "title": "Überblick: Waldbrände in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T18:40:31+02:00"
-    },
-    {
       "title": "Dieser Sommer ist selbst für Italien extrem",
       "link": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-16T17:16:26+02:00"
-    },
-    {
-      "title": "Nach der Hitze gibt es in Teilen Deutschlands Abkühlung und Regen",
-      "link": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-gewitter-hitze-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T17:06:30+02:00"
-    },
-    {
-      "title": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T16:01:13+02:00"
     }
   ],
   "Food": []
