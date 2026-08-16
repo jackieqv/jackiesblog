@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T08:02:35+02:00"
+    },
+    {
+      "title": "Warum sind Luxusdüfte so teuer?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T07:46:13+02:00"
+    },
+    {
+      "title": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T06:03:05+02:00"
+    },
+    {
+      "title": "\"Lala\" unterbricht Stromversorgung auf Hawaii",
+      "link": "https://www.dw.com/de/lala-unterbricht-stromversorgung-auf-hawaii/a-78386750?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "16 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-16T05:51:00+00:00"
+    },
+    {
       "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
       "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-16T04:54:06+02:00"
-    },
-    {
-      "title": "Brand nahe Monschau: Sorge in Grenzregion wegen Feuer in Belgien",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T04:48:24+02:00"
-    },
-    {
-      "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
-      "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T22:44:39+02:00"
-    },
-    {
-      "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T21:38:07+02:00"
-    },
-    {
-      "title": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
-      "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
-      "published": "15 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-15T21:09:14+02:00"
     }
   ],
   "Food": []
