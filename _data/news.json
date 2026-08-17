@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Südkorea und USA beginnen gemeinsame Militärübung",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "published": "17 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-17T03:53:36+02:00"
+    },
+    {
       "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
       "published": "17 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-16T21:44:47+02:00"
-    },
-    {
-      "title": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T19:10:26+02:00"
     }
   ],
   "Food": []
