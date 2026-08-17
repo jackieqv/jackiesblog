@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Consolidated Time Recording for Public Sector with SAP S/4HANA (PCE) and SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-for-public-sector-with-sap-s-4hana-pce-and-sap/ba-p/14465032",
+      "published": "17 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-17T08:40:10+00:00"
+    },
+    {
       "title": "How to Create Video-Driven Presentations in Story Reporting",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-create-video-driven-presentations-in-story-reporting/ba-p/14464583",
       "published": "16 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "14 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-14T14:17:20+00:00"
-    },
-    {
-      "title": "SuccessFactors Business AI - Skill Standardization",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/successfactors-business-ai-skill-standardization/ba-p/14462975",
-      "published": "13 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-13T12:50:37+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
-      "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
+      "title": "Was hinter dem Erfolg der rechten One Nation Party in Australien steckt",
+      "link": "https://www.tagesschau.de/ausland/asien/one-nation-party-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T07:59:22+02:00"
+      "sort_date": "2026-08-17T11:28:12+02:00"
     },
     {
-      "title": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
-      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "title": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T07:50:46+02:00"
+      "sort_date": "2026-08-17T10:54:09+02:00"
     },
     {
-      "title": "Marktbericht: Anleger halten DAX in Reichweite des Rekords",
+      "title": "Marktbericht: Anleger blicken gelassen in den Nahen Osten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T07:43:24+02:00"
+      "sort_date": "2026-08-17T10:34:25+02:00"
     },
     {
-      "title": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
+      "title": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T07:20:23+02:00"
+      "sort_date": "2026-08-17T09:58:19+02:00"
     },
     {
-      "title": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
+      "title": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T06:24:17+02:00"
+      "sort_date": "2026-08-17T09:25:30+02:00"
     }
   ],
   "Food": []
