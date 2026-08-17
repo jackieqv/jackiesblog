@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
+      "published": "17 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-17T12:10:05+00:00"
+    },
+    {
+      "title": "Incorrect BP/vendor sync for Re-hired employees",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/incorrect-bp-vendor-sync-for-re-hired-employees/ba-p/14449858",
+      "published": "17 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-17T10:10:50+00:00"
+    },
+    {
+      "title": "How Manages_Org_Unit Play a major role in data replication and workflow",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-manages-org-unit-play-a-major-role-in-data-replication-and-workflow/ba-p/14449855",
+      "published": "17 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-17T10:07:05+00:00"
+    },
+    {
       "title": "Consolidated Time Recording for Public Sector with SAP S/4HANA (PCE) and SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-for-public-sector-with-sap-s-4hana-pce-and-sap/ba-p/14465032",
       "published": "17 Aug 2026",
@@ -50,27 +71,6 @@
       "published": "16 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-16T11:12:08+00:00"
-    },
-    {
-      "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
-      "published": "16 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-16T03:35:48+00:00"
-    },
-    {
-      "title": "HCM Brasil - Crédito do Trabalhador: Importação de Parcelas - Extensão para Garantia Rescisória",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-importa%C3%A7%C3%A3o-de-parcelas-extens%C3%A3o-para/ba-p/14464160",
-      "published": "14 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-14T19:02:45+00:00"
-    },
-    {
-      "title": "SAP SPM – Advance Workflow   White Paper   Different Ways to Create a New Case",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-spm-advance-workflow-white-paper-different-ways-to-create-a-new-case/ba-p/14463886",
-      "published": "14 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-14T14:17:20+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Was hinter dem Erfolg der rechten One Nation Party in Australien steckt",
-      "link": "https://www.tagesschau.de/ausland/asien/one-nation-party-100.html",
+      "title": "Die politische Risse hinter der Militärparade in Warschau",
+      "link": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T11:28:12+02:00"
+      "sort_date": "2026-08-17T14:19:02+02:00"
     },
     {
-      "title": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
+      "title": "Wie gerecht ist die deutsche Klimapolitik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T10:54:09+02:00"
+      "sort_date": "2026-08-17T14:14:08+02:00"
     },
     {
-      "title": "Marktbericht: Anleger blicken gelassen in den Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
+      "title": "Ukraine-Krieg: Wie Forensiker den Toten ihre Namen zurückgeben",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T10:34:25+02:00"
+      "sort_date": "2026-08-17T13:51:10+02:00"
     },
     {
-      "title": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
+      "title": "Wachstum verlangsamt: Chinas Strukturkrise hält an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-wachstum-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T09:58:19+02:00"
+      "sort_date": "2026-08-17T13:42:49+02:00"
     },
     {
-      "title": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
+      "title": "Deutsche verreisen häufiger im Inland",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-privat-geschaeftlich-deutschland-ausland-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T09:25:30+02:00"
+      "sort_date": "2026-08-17T12:46:23+02:00"
     }
   ],
   "Food": []
