@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Südkorea und USA beginnen gemeinsame Militärübung",
+      "title": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
+      "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
+      "published": "17 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-17T07:59:22+02:00"
+    },
+    {
+      "title": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T03:53:36+02:00"
+      "sort_date": "2026-08-17T07:50:46+02:00"
     },
     {
-      "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+      "title": "Marktbericht: Anleger halten DAX in Reichweite des Rekords",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
       "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T02:53:26+02:00"
+      "sort_date": "2026-08-17T07:43:24+02:00"
     },
     {
-      "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
-      "published": "16 Aug 2026",
+      "title": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
+      "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T23:22:36+02:00"
+      "sort_date": "2026-08-17T07:20:23+02:00"
     },
     {
-      "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
-      "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
-      "published": "16 Aug 2026",
+      "title": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
+      "published": "17 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T22:24:50+02:00"
-    },
-    {
-      "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
-      "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T21:44:47+02:00"
+      "sort_date": "2026-08-17T06:24:17+02:00"
     }
   ],
   "Food": []
