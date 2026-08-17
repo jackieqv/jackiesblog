@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+      "published": "17 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-17T02:53:26+02:00"
+    },
+    {
+      "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "published": "16 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-16T23:22:36+02:00"
+    },
+    {
       "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
       "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
       "published": "16 Aug 2026",
@@ -126,25 +140,11 @@
       "sort_date": "2026-08-16T21:44:47+02:00"
     },
     {
-      "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T20:55:58+02:00"
-    },
-    {
       "title": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
       "published": "16 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-16T19:10:26+02:00"
-    },
-    {
-      "title": "Dieser Sommer ist selbst für Italien extrem",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
-      "published": "16 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-16T17:16:26+02:00"
     }
   ],
   "Food": []
