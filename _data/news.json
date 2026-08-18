@@ -38,18 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "When a Vacant Position Breaks the Workflow: How to find the Next Manager with Matrix Relationships",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/when-a-vacant-position-breaks-the-workflow-how-to-find-the-next-manager/ba-p/14462351",
+      "published": "18 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-18T11:39:05+00:00"
+    },
+    {
+      "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
+      "published": "18 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-18T11:18:57+00:00"
+    },
+    {
       "title": "SAP SPM – Advance Workflow   White Paper   Different Ways to Create a New Case",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-spm-advance-workflow-white-paper-different-ways-to-create-a-new-case/ba-p/14463886",
       "published": "18 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-18T03:15:32+00:00"
-    },
-    {
-      "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
-      "published": "17 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-17T12:10:05+00:00"
     },
     {
       "title": "Incorrect BP/vendor sync for Re-hired employees",
@@ -64,13 +71,6 @@
       "published": "17 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-17T10:07:05+00:00"
-    },
-    {
-      "title": "Consolidated Time Recording for Public Sector with SAP S/4HANA (PCE) and SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-for-public-sector-with-sap-s-4hana-pce-and-sap/ba-p/14465032",
-      "published": "17 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-17T08:40:10+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: DAX-Schwäche hält bislang an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
+      "title": "Frasers verfehlt Mehrheit bei Hugo Boss knapp",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hugo-boss-frasers-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T11:01:14+02:00"
+      "sort_date": "2026-08-18T14:02:46+02:00"
     },
     {
-      "title": "Stärkster Anstieg der Baugenehmigungen seit 2016",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohngebaeude-deutschland-100.html",
+      "title": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T10:13:25+02:00"
+      "sort_date": "2026-08-18T13:18:28+02:00"
     },
     {
-      "title": "Ernteeinbußen erwartet: Landwirtschaftsminister will Bauern helfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/agrarminister-bauern-trockenheit-100.html",
+      "title": "Forschungszentrum soll Drohnenabwehr verbessern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-forschungszentrum-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T10:12:04+02:00"
+      "sort_date": "2026-08-18T12:59:09+02:00"
     },
     {
-      "title": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
+      "title": "Schlechte Erntebilanz wegen Hitze und Trockenheit",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/erntebilanz-120.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T09:59:47+02:00"
+      "sort_date": "2026-08-18T12:54:37+02:00"
     },
     {
-      "title": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
-      "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
+      "title": "Angriffe über queere Datingplattformen",
+      "link": "https://www.tagesschau.de/investigativ/fake-dates-angriffe-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T09:48:55+02:00"
+      "sort_date": "2026-08-18T12:39:00+02:00"
     }
   ],
   "Food": []
