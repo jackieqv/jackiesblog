@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T20:50:31+02:00"
+    },
+    {
       "title": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
       "link": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
       "published": "18 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-18T18:13:29+02:00"
-    },
-    {
-      "title": "Assad-Cousin in Syrien zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-cousin-todesurteil-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T18:03:42+02:00"
     }
   ],
   "Food": []
