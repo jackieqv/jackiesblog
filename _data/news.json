@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "SADC-Gipfel: Fremdenfeindlichkeit schadet Südafrikas Ansehen",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T08:13:05+02:00"
+    },
+    {
+      "title": "Ukraine greift Moskau mit Hunderten Drohnen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T07:44:31+02:00"
+    },
+    {
+      "title": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T07:38:07+02:00"
+    },
+    {
       "title": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
       "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
       "published": "18 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-18T04:59:10+02:00"
-    },
-    {
-      "title": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-kuenstliche-intelligenz-schulen-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T04:58:39+02:00"
-    },
-    {
-      "title": "So können Drohnen im Katastrophenfall helfen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-testzentrum-katastrophenschutz-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T04:57:57+02:00"
-    },
-    {
-      "title": "Wie sich Nordkoreas Diktator Kim aus der Isolation löst",
-      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-russland-usa-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T04:57:34+02:00"
     }
   ],
   "Food": []
