@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SPM – Advance Workflow   White Paper   Different Ways to Create a New Case",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-spm-advance-workflow-white-paper-different-ways-to-create-a-new-case/ba-p/14463886",
+      "published": "18 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-18T03:15:32+00:00"
+    },
+    {
       "title": "End-to-End solution for Work Schedule built on SAP BTP with SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/end-to-end-solution-for-work-schedule-built-on-sap-btp-with-successfactors/ba-p/14464471",
       "published": "17 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "17 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-17T08:40:10+00:00"
-    },
-    {
-      "title": "How to Create Video-Driven Presentations in Story Reporting",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-create-video-driven-presentations-in-story-reporting/ba-p/14464583",
-      "published": "16 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-16T11:12:08+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
-      "published": "17 Aug 2026",
+      "title": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
+      "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T22:10:26+02:00"
+      "sort_date": "2026-08-18T05:27:51+02:00"
     },
     {
-      "title": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/notlandung-flughafen-muenchen-interview-100.html",
-      "published": "17 Aug 2026",
+      "title": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
+      "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T19:23:54+02:00"
+      "sort_date": "2026-08-18T04:59:10+02:00"
     },
     {
-      "title": "Deutsch-belgische Grenzregion: Waldbrand-Lage stabil - doch es droht Wind",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
-      "published": "17 Aug 2026",
+      "title": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-kuenstliche-intelligenz-schulen-100.html",
+      "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T19:04:10+02:00"
+      "sort_date": "2026-08-18T04:58:39+02:00"
     },
     {
-      "title": "Vorstoß zu Klimaanpassung: Rückt eine Grundgesetzänderung näher?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
-      "published": "17 Aug 2026",
+      "title": "So können Drohnen im Katastrophenfall helfen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-testzentrum-katastrophenschutz-100.html",
+      "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T18:47:30+02:00"
+      "sort_date": "2026-08-18T04:57:57+02:00"
     },
     {
-      "title": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
-      "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
-      "published": "17 Aug 2026",
+      "title": "Wie sich Nordkoreas Diktator Kim aus der Isolation löst",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-russland-usa-100.html",
+      "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-17T17:59:09+02:00"
+      "sort_date": "2026-08-18T04:57:34+02:00"
     }
   ],
   "Food": []
