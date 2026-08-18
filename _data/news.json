@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "SADC-Gipfel: Fremdenfeindlichkeit schadet Südafrikas Ansehen",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T08:13:05+02:00"
-    },
-    {
-      "title": "Ukraine greift Moskau mit Hunderten Drohnen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T07:44:31+02:00"
-    },
-    {
-      "title": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
+      "title": "Marktbericht: DAX-Schwäche hält bislang an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T07:38:07+02:00"
+      "sort_date": "2026-08-18T11:01:14+02:00"
     },
     {
-      "title": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
+      "title": "Stärkster Anstieg der Baugenehmigungen seit 2016",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohngebaeude-deutschland-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T05:27:51+02:00"
+      "sort_date": "2026-08-18T10:13:25+02:00"
     },
     {
-      "title": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
+      "title": "Ernteeinbußen erwartet: Landwirtschaftsminister will Bauern helfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/agrarminister-bauern-trockenheit-100.html",
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T04:59:10+02:00"
+      "sort_date": "2026-08-18T10:12:04+02:00"
+    },
+    {
+      "title": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T09:59:47+02:00"
+    },
+    {
+      "title": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
+      "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
+      "published": "18 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-18T09:48:55+02:00"
     }
   ],
   "Food": []
