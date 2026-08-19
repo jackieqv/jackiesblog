@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Scrapping Even a New Gas Car for an Electric One Could Cut Emissions, Study Finds",
+      "link": "https://singularityhub.com/2026/08/19/scrapping-even-a-new-gas-car-for-an-electric-one-could-cut-emissions-study-finds/",
+      "published": "19 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-19T17:12:23+00:00"
+    },
+    {
       "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
       "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
       "published": "19 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "15 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-15T14:00:00+00:00"
-    },
-    {
-      "title": "Biology Needs an AI Declaration",
-      "link": "https://singularityhub.com/2026/08/14/biology-needs-its-own-ai-declaration/",
-      "published": "14 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-14T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
+      "title": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
       "published": "19 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T17:16:24+02:00"
+      "sort_date": "2026-08-19T20:29:18+02:00"
     },
     {
-      "title": "UV-Strahlung hat in Europa  deutlich zugenommen",
-      "link": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
+      "title": "Fast jeder vierte Erwachsene schläft zu wenig",
+      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
       "published": "19 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T17:04:19+02:00"
+      "sort_date": "2026-08-19T18:54:15+02:00"
     },
     {
-      "title": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
+      "title": "Kaufzurückhaltung: DAX tritt auf der Stelle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
       "published": "19 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T16:39:03+02:00"
+      "sort_date": "2026-08-19T18:53:35+02:00"
     },
     {
-      "title": "Wie KI in der öffentlichen Verwaltung helfen kann",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-oeffentliche-verwaltung-100.html",
+      "title": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
       "published": "19 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T16:37:16+02:00"
+      "sort_date": "2026-08-19T18:40:30+02:00"
     },
     {
-      "title": "Obdachlosigkeit in Großbritannien: Burnham will Obdachlose von Straße holen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-obdachlosigkeit-100.html",
+      "title": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
+      "link": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
       "published": "19 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T16:21:24+02:00"
+      "sort_date": "2026-08-19T17:58:21+02:00"
     }
   ],
   "Food": []
