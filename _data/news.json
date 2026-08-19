@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
+      "published": "19 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-19T01:43:27+02:00"
+    },
+    {
       "title": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
       "published": "18 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "18 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-18T19:13:05+02:00"
-    },
-    {
-      "title": "Marktbericht: Den DAX verlassen die Kräfte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "published": "18 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-18T18:13:29+02:00"
     }
   ],
   "Food": []
