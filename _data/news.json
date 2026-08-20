@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Importance of Date format in Updating dependent details during data replication",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/importance-of-date-format-in-updating-dependent-details-during-data/ba-p/14449849",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-20T09:57:07+00:00"
+    },
+    {
+      "title": "Bank Key overwritten by IBAN",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/bank-key-overwritten-by-iban/ba-p/14465238",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-20T09:51:49+00:00"
+    },
+    {
+      "title": "SAP FI Posting Error: \"No Debtor Found\" Even When the Customer Account Exists",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-fi-posting-error-quot-no-debtor-found-quot-even-when-the-customer/ba-p/14465008",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-20T09:33:27+00:00"
+    },
+    {
       "title": "Calculate number of working days in PCR using FXXT operation",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/calculate-number-of-working-days-in-pcr-using-fxxt-operation/ba-p/14449873",
       "published": "20 Aug 2026",
@@ -50,27 +71,6 @@
       "published": "19 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-19T22:57:36+00:00"
-    },
-    {
-      "title": "Rehire on old employment with a future date termination.",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/rehire-on-old-employment-with-a-future-date-termination/ba-p/14467702",
-      "published": "19 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-19T15:00:20+00:00"
-    },
-    {
-      "title": "Custom solution for Sick Leave according to Saudi law - Time off",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/custom-solution-for-sick-leave-according-to-saudi-law-time-off/ba-p/14467667",
-      "published": "19 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-19T14:34:23+00:00"
-    },
-    {
-      "title": "When a Vacant Position Breaks the Workflow: How to find the Next Manager with Matrix Relationships",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/when-a-vacant-position-breaks-the-workflow-how-to-find-the-next-manager/ba-p/14462351",
-      "published": "18 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-18T11:39:05+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "China bleibt Deutschlands Top-Handelspartner",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
+      "title": "Forschungserfolg treibt Aktien von Moderna & Co.",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T11:27:37+02:00"
+      "sort_date": "2026-08-20T14:34:28+02:00"
     },
     {
-      "title": "Vermögensungleichheit leicht gesunken - bleibt auf hohem Niveau",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/vermoegensungleichheit-deutschland-100.html",
+      "title": "Medizinischer Dienst: Mehr Todesfälle durch Behandlungsfehler",
+      "link": "https://www.tagesschau.de/inland/statistik-behandlungsfehler-patienten-102.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T11:27:34+02:00"
+      "sort_date": "2026-08-20T14:22:24+02:00"
     },
     {
-      "title": "RKI meldet mehr als 14.000 hitzebedingte Todesfälle seit Jahresbeginn",
-      "link": "https://www.tagesschau.de/inland/hitze-todesfaelle-rki-100.html",
+      "title": "Nord-Stream-Pipelines: Ein Anschlag mit politischer Sprengkraft?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T11:25:24+02:00"
+      "sort_date": "2026-08-20T14:14:11+02:00"
     },
     {
-      "title": "Studie warnt vor deutlich mehr Waldbränden in Europa",
-      "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
+      "title": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T11:01:46+02:00"
+      "sort_date": "2026-08-20T14:10:48+02:00"
     },
     {
-      "title": "Marktbericht: Schwacher DAX-Trend hält an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
+      "title": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
+      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T10:40:51+02:00"
+      "sort_date": "2026-08-20T13:13:00+02:00"
     }
   ],
   "Food": []
