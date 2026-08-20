@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Rethinking Internal Mobility with SAP SuccessFactors Talent Solutions",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/rethinking-internal-mobility-with-sap-successfactors-talent-solutions/ba-p/14468395",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-20T13:33:53+00:00"
+    },
+    {
+      "title": "Rehire on old employment with a future date termination.",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/rehire-on-old-employment-with-a-future-date-termination/ba-p/14467702",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-20T12:51:09+00:00"
+    },
+    {
       "title": "Importance of Date format in Updating dependent details during data replication",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/importance-of-date-format-in-updating-dependent-details-during-data/ba-p/14449849",
       "published": "20 Aug 2026",
@@ -57,23 +71,23 @@
       "published": "20 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-20T09:33:27+00:00"
-    },
-    {
-      "title": "Calculate number of working days in PCR using FXXT operation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/calculate-number-of-working-days-in-pcr-using-fxxt-operation/ba-p/14449873",
-      "published": "20 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-20T09:24:48+00:00"
-    },
-    {
-      "title": "Automating Time-Bound SAP SuccessFactors RBP Access with Entra ID and Cloud Identity Services",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-time-bound-sap-successfactors-rbp-access-with-entra-id-and-cloud/ba-p/14467360",
-      "published": "19 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-19T22:57:36+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Long Foreseen, the Problem of AI Alignment Is Finally Reality. Solving It Won’t Be Easy.",
+      "link": "https://singularityhub.com/2026/08/20/long-foreseen-the-problem-of-ai-alignment-is-finally-reality-solving-it-wont-be-easy/",
+      "published": "20 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-20T14:56:20+00:00"
+    },
+    {
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "published": "20 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-20T14:04:40+00:00"
+    },
     {
       "title": "Scrapping a New Gas Car for an Electric One Could Cut Emissions, Study Finds",
       "link": "https://singularityhub.com/2026/08/19/scrapping-even-a-new-gas-car-for-an-electric-one-could-cut-emissions-study-finds/",
@@ -94,57 +108,43 @@
       "published": "17 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-17T22:42:15+00:00"
-    },
-    {
-      "title": "Theory of Fluids Enters the 21st Century",
-      "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-      "published": "17 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-17T15:11:17+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 15)",
-      "link": "https://singularityhub.com/2026/08/15/this-weeks-awesome-tech-stories-from-around-the-web-through-august-15-2/",
-      "published": "15 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-15T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Forschungserfolg treibt Aktien von Moderna & Co.",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
+      "title": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T14:34:28+02:00"
+      "sort_date": "2026-08-20T17:12:43+02:00"
     },
     {
-      "title": "Medizinischer Dienst: Mehr Todesfälle durch Behandlungsfehler",
-      "link": "https://www.tagesschau.de/inland/statistik-behandlungsfehler-patienten-102.html",
+      "title": "DR Kongo bekommt 70.000 Impfdosen gegen Ebola und hofft auf Wirksamkeit",
+      "link": "https://www.tagesschau.de/ausland/afrika/ervebo-impfstoff-ebola-kongo-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T14:22:24+02:00"
+      "sort_date": "2026-08-20T17:12:08+02:00"
     },
     {
-      "title": "Nord-Stream-Pipelines: Ein Anschlag mit politischer Sprengkraft?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
+      "title": "Kurs der Bundesregierung: \"Klimapolitik von der Kür zur Pflicht machen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimapolitik-bundesregierung-partzsch-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T14:14:11+02:00"
+      "sort_date": "2026-08-20T17:11:19+02:00"
     },
     {
-      "title": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
+      "title": "Ungarns öffentlich-rechtliches Fernsehen sendet wieder Nachrichten",
+      "link": "https://www.tagesschau.de/ausland/ungarn-oerr-nachrichten-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T14:10:48+02:00"
+      "sort_date": "2026-08-20T17:08:15+02:00"
     },
     {
-      "title": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
-      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
+      "title": "Kinderärzte: Neue U-Untersuchung für Neun- bis Zehnjährige kommt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T13:13:00+02:00"
+      "sort_date": "2026-08-20T16:45:23+02:00"
     }
   ],
   "Food": []
