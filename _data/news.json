@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Calculate number of working days in PCR using FXXT operation",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/calculate-number-of-working-days-in-pcr-using-fxxt-operation/ba-p/14449873",
+      "published": "20 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-20T09:24:48+00:00"
+    },
+    {
       "title": "Automating Time-Bound SAP SuccessFactors RBP Access with Entra ID and Cloud Identity Services",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-time-bound-sap-successfactors-rbp-access-with-entra-id-and-cloud/ba-p/14467360",
       "published": "19 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "18 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-18T11:39:05+00:00"
-    },
-    {
-      "title": "SAP SPM – Advance Workflow   White Paper   Different Ways to Create a New Case",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-spm-advance-workflow-white-paper-different-ways-to-create-a-new-case/ba-p/14463886",
-      "published": "18 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-18T03:15:32+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
+      "title": "China bleibt Deutschlands Top-Handelspartner",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T11:27:37+02:00"
+    },
+    {
+      "title": "Vermögensungleichheit leicht gesunken - bleibt auf hohem Niveau",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/vermoegensungleichheit-deutschland-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T11:27:34+02:00"
+    },
+    {
+      "title": "RKI meldet mehr als 14.000 hitzebedingte Todesfälle seit Jahresbeginn",
+      "link": "https://www.tagesschau.de/inland/hitze-todesfaelle-rki-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T11:25:24+02:00"
+    },
+    {
+      "title": "Studie warnt vor deutlich mehr Waldbränden in Europa",
+      "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T11:01:46+02:00"
+    },
+    {
+      "title": "Marktbericht: Schwacher DAX-Trend hält an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T07:47:37+02:00"
-    },
-    {
-      "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T07:31:24+02:00"
-    },
-    {
-      "title": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T07:27:15+02:00"
-    },
-    {
-      "title": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T05:05:04+02:00"
-    },
-    {
-      "title": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T05:04:50+02:00"
+      "sort_date": "2026-08-20T10:40:51+02:00"
     }
   ],
   "Food": []
