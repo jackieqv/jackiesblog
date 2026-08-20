@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T07:47:37+02:00"
+    },
+    {
       "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T05:35:37+02:00"
+      "sort_date": "2026-08-20T07:31:24+02:00"
+    },
+    {
+      "title": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
+      "published": "20 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-20T07:27:15+02:00"
     },
     {
       "title": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
@@ -131,20 +145,6 @@
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-20T05:04:50+02:00"
-    },
-    {
-      "title": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
-      "published": "19 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T20:48:36+02:00"
-    },
-    {
-      "title": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
-      "published": "19 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-19T20:29:18+02:00"
     }
   ],
   "Food": []
