@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Erdbeben erschüttert Andenregion in Peru",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T02:30:43+02:00"
+    },
+    {
       "title": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
       "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
       "published": "20 Aug 2026",
@@ -131,13 +138,6 @@
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-20T20:31:09+02:00"
-    },
-    {
-      "title": "Ballett: Tanzen unter Druck an deutschen Theatern",
-      "link": "https://www.tagesschau.de/kultur/ballett-staatstheater-saarbruecken-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T20:21:48+02:00"
     },
     {
       "title": "Ukraine: Wird Fedorow zur Herausforderung für Selenskyj?",
