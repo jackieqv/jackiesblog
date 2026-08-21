@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T05:31:37+02:00"
+    },
+    {
       "title": "Erdbeben erschüttert Andenregion in Peru",
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
       "published": "21 Aug 2026",
@@ -131,13 +138,6 @@
       "published": "20 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-20T21:43:06+02:00"
-    },
-    {
-      "title": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
-      "link": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T20:31:09+02:00"
     },
     {
       "title": "Ukraine: Wird Fedorow zur Herausforderung für Selenskyj?",
