@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Behindertenbeauftragter fordert besseren Schutz für Frauen mit Behinderung",
+      "link": "https://www.tagesschau.de/investigativ/swr/gewalt-frauen-behinderung-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T08:01:23+02:00"
+    },
+    {
+      "title": "Marktbericht: Anleger finden keine Kaufgründe",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T07:28:58+02:00"
+    },
+    {
+      "title": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T07:27:24+02:00"
+    },
+    {
+      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
+      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T06:45:28+02:00"
+    },
+    {
       "title": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
       "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-21T05:31:37+02:00"
-    },
-    {
-      "title": "Erdbeben erschüttert Andenregion in Peru",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T02:30:43+02:00"
-    },
-    {
-      "title": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
-      "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T22:15:53+02:00"
-    },
-    {
-      "title": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
-      "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
-      "published": "20 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-20T21:43:06+02:00"
-    },
-    {
-      "title": "Ukraine: Wird Fedorow zur Herausforderung für Selenskyj?",
-      "link": "https://www.dw.com/de/ukraine-wird-fedorow-zur-herausforderung-für-selenskyj/a-78446152?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "20 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-20T20:02:00+00:00"
     }
   ],
   "Food": []
