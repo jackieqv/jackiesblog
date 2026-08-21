@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T22:26:30+02:00"
+    },
+    {
+      "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T21:27:17+02:00"
+    },
+    {
       "title": "Korruptionsskandal in der Ukraine weitet sich aus",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
       "published": "21 Aug 2026",
@@ -119,11 +133,11 @@
       "sort_date": "2026-08-21T20:30:11+02:00"
     },
     {
-      "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+      "title": "Treibstoffkrise in Russland erhöht Druck auf den Kreml",
+      "link": "https://www.dw.com/de/treibstoffkrise-in-russland-erhöht-druck-auf-den-kreml/a-78459231?maca=de-rss-de-top-1016-xml-mrss",
       "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T20:12:58+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-21T20:02:00+00:00"
     },
     {
       "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
@@ -131,20 +145,6 @@
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-21T18:35:44+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX geht mit Gewinn aus der Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T18:27:50+02:00"
-    },
-    {
-      "title": "Jahrhundertsommer? Warum Forschende neu denken müssen",
-      "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T18:00:46+02:00"
     }
   ],
   "Food": []
