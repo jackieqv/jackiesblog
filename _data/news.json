@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "We May Be Wrong About How the Brain Stores Memory",
+      "link": "https://singularityhub.com/2026/08/21/we-may-be-wrong-about-how-the-brain-stores-memory/",
+      "published": "21 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-21T18:25:19+00:00"
+    },
+    {
       "title": "‘Huge Breakthrough’ in the Math of Imbalance",
       "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
       "published": "21 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "19 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-19T17:12:23+00:00"
-    },
-    {
-      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
-      "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
-      "published": "19 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-19T14:16:03+00:00"
     }
   ],
   "News": [
     {
-      "title": "Irans Präsident Peseschkian wirbt für Kriegsende mit den USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-peseschkian-100.html",
+      "title": "Korruptionsskandal in der Ukraine weitet sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T17:21:40+02:00"
+      "sort_date": "2026-08-21T20:30:11+02:00"
     },
     {
-      "title": "Mehrere Verletzte bei Angriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T16:19:32+02:00"
+      "sort_date": "2026-08-21T20:12:58+02:00"
     },
     {
-      "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
+      "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T15:53:16+02:00"
+      "sort_date": "2026-08-21T18:35:44+02:00"
     },
     {
-      "title": "Südkorea und USA beenden Militärübung vorzeitig",
-      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
+      "title": "Marktbericht: DAX geht mit Gewinn aus der Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T15:35:51+02:00"
+      "sort_date": "2026-08-21T18:27:50+02:00"
     },
     {
-      "title": "Wo Cannabis boomt und wo es Probleme gibt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
+      "title": "Jahrhundertsommer? Warum Forschende neu denken müssen",
+      "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T15:34:40+02:00"
+      "sort_date": "2026-08-21T18:00:46+02:00"
     }
   ],
   "Food": []
