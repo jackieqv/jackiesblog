@@ -38,11 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "The SAP Knowledge That's Retiring: Why This Isn't a Documentation Problem",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-sap-knowledge-that-s-retiring-why-this-isn-t-a-documentation-problem/ba-p/14468595",
+      "published": "21 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-21T08:02:17+00:00"
+    },
+    {
+      "title": "IT0014 Replication for a Non-Localized Country in Employee Central Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/it0014-replication-for-a-non-localized-country-in-employee-central-payroll/ba-p/14467150",
+      "published": "21 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-21T07:42:48+00:00"
+    },
+    {
       "title": "Who Just Logged Into My SuccessFactors Instance?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/who-just-logged-into-my-successfactors-instance/ba-p/14468660",
-      "published": "20 Aug 2026",
+      "published": "21 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-20T18:39:52+00:00"
+      "sort_date": "2026-08-21T06:49:59+00:00"
     },
     {
       "title": "Rethinking Internal Mobility with SAP SuccessFactors Talent Solutions",
@@ -57,20 +71,6 @@
       "published": "20 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-20T12:51:09+00:00"
-    },
-    {
-      "title": "Importance of Date format in Updating dependent details during data replication",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/importance-of-date-format-in-updating-dependent-details-during-data/ba-p/14449849",
-      "published": "20 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-20T09:57:07+00:00"
-    },
-    {
-      "title": "Bank Key overwritten by IBAN",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/bank-key-overwritten-by-iban/ba-p/14465238",
-      "published": "20 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-20T09:51:49+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Behindertenbeauftragter fordert besseren Schutz für Frauen mit Behinderung",
-      "link": "https://www.tagesschau.de/investigativ/swr/gewalt-frauen-behinderung-100.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T08:01:23+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger finden keine Kaufgründe",
+      "title": "Marktbericht: Anleger ringen um die Marke von 26.000 Punkten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T07:28:58+02:00"
+      "sort_date": "2026-08-21T10:36:43+02:00"
     },
     {
-      "title": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
+      "title": "Schneider besucht die Ukraine: Umweltschutz in Kriegszeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/schneider-ukraine-umweltschutz-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T07:27:24+02:00"
+      "sort_date": "2026-08-21T10:12:16+02:00"
     },
     {
-      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
-      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
+      "title": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T06:45:28+02:00"
+      "sort_date": "2026-08-21T10:00:22+02:00"
     },
     {
-      "title": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "title": "Studie: Aufmerksamkeit kann Juckreiz lindern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T05:31:37+02:00"
+      "sort_date": "2026-08-21T09:54:39+02:00"
+    },
+    {
+      "title": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
+      "published": "21 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-21T09:22:46+02:00"
     }
   ],
   "Food": []
