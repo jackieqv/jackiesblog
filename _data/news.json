@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+      "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "published": "21 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-21T14:53:32+00:00"
+    },
+    {
       "title": "Long Foreseen, the Problem of AI Alignment Is Finally Reality. Solving It Won’t Be Easy.",
       "link": "https://singularityhub.com/2026/08/20/long-foreseen-the-problem-of-ai-alignment-is-finally-reality-solving-it-wont-be-easy/",
       "published": "20 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "19 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-19T14:16:03+00:00"
-    },
-    {
-      "title": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting",
-      "link": "https://singularityhub.com/2026/08/17/deepminds-weather-ai-accurately-predicts-hurricanes-a-day-earlier-than-traditional-forecasting-tools/",
-      "published": "17 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-17T22:42:15+00:00"
     }
   ],
   "News": [
     {
-      "title": "Aktivisten von Tiananmen-Mahnwachen in Hongkong verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/hongkong-urteil-aktivisten-104.html",
+      "title": "Irans Präsident Peseschkian wirbt für Kriegsende mit den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-peseschkian-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T14:28:59+02:00"
+      "sort_date": "2026-08-21T17:21:40+02:00"
     },
     {
-      "title": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
-      "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html",
+      "title": "Mehrere Verletzte bei Angriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T14:11:09+02:00"
+      "sort_date": "2026-08-21T16:19:32+02:00"
     },
     {
-      "title": "Deutsche Industrie wächst so stark wie zuletzt 2022",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-mittagsschwerpunkt-100.html",
+      "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T13:53:00+02:00"
+      "sort_date": "2026-08-21T15:53:16+02:00"
     },
     {
-      "title": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "title": "Südkorea und USA beenden Militärübung vorzeitig",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T13:09:18+02:00"
+      "sort_date": "2026-08-21T15:35:51+02:00"
     },
     {
-      "title": "Nord-Stream-Verdächtiger kommt nach Festnahme in Kroatien in U-Haft",
-      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-untersuchungshaft-100.html",
+      "title": "Wo Cannabis boomt und wo es Probleme gibt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T12:52:09+02:00"
+      "sort_date": "2026-08-21T15:34:40+02:00"
     }
   ],
   "Food": []
