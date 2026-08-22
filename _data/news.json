@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T03:03:05+02:00"
+    },
+    {
+      "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T00:04:29+02:00"
+    },
+    {
       "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
       "published": "21 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "21 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-21T20:30:11+02:00"
-    },
-    {
-      "title": "Treibstoffkrise in Russland erhöht Druck auf den Kreml",
-      "link": "https://www.dw.com/de/treibstoffkrise-in-russland-erhöht-druck-auf-den-kreml/a-78459231?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-21T20:02:00+00:00"
-    },
-    {
-      "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T18:35:44+02:00"
     }
   ],
   "Food": []
