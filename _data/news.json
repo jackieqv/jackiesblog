@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T21:29:05+02:00"
+    },
+    {
       "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
       "published": "22 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "22 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-22T17:06:54+02:00"
-    },
-    {
-      "title": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T16:41:06+02:00"
     }
   ],
   "Food": []
