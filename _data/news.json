@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T17:09:13+02:00"
+    },
+    {
+      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T17:06:54+02:00"
+    },
+    {
+      "title": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
+      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T16:41:06+02:00"
+    },
+    {
+      "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T15:34:42+02:00"
+    },
+    {
       "title": "Kanzler Merz besucht Waldbrandgebiet in NRW",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
       "published": "22 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-22T14:12:54+02:00"
-    },
-    {
-      "title": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T14:10:42+02:00"
-    },
-    {
-      "title": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T13:35:22+02:00"
-    },
-    {
-      "title": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T13:23:43+02:00"
-    },
-    {
-      "title": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T13:02:46+02:00"
     }
   ],
   "Food": []
