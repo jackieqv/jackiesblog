@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
+      "published": "22 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-22T08:06:16+02:00"
+    },
+    {
+      "title": "Warum baut Israel seine Präsenz in Syrien aus?",
+      "link": "https://www.dw.com/de/warum-baut-israel-seine-präsenz-in-syrien-aus/a-78459919?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "22 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-22T05:27:00+00:00"
+    },
+    {
       "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
       "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
       "published": "22 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "22 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-22T03:03:05+02:00"
-    },
-    {
-      "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
-      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T00:04:29+02:00"
-    },
-    {
-      "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
-      "published": "21 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-21T21:27:17+02:00"
     }
   ],
   "Food": []
