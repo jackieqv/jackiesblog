@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T08:17:34+02:00"
+    },
+    {
+      "title": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T06:37:22+02:00"
+    },
+    {
+      "title": "Deutschland: Bahngewerkschaft EVG droht mit Streiks",
+      "link": "https://www.dw.com/de/deutschland-bahngewerkschaft-evg-droht-mit-streiks/a-78473716?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "23 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-23T05:58:00+00:00"
+    },
+    {
       "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "published": "23 Aug 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-08-23T05:07:24+02:00"
     },
     {
-      "title": "Einkammerparlament statt Zweikammersystem",
+      "title": "Kasachstan wählt neues Parlament",
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T05:03:07+02:00"
-    },
-    {
-      "title": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
-      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T03:29:20+02:00"
-    },
-    {
-      "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T02:21:07+02:00"
-    },
-    {
-      "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T02:04:59+02:00"
     }
   ],
   "Food": []
