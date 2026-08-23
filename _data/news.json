@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T02:21:07+02:00"
+    },
+    {
+      "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T02:04:59+02:00"
+    },
+    {
       "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
       "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
       "published": "22 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "22 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-22T18:25:33+02:00"
-    },
-    {
-      "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T17:09:13+02:00"
-    },
-    {
-      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T17:06:54+02:00"
     }
   ],
   "Food": []
