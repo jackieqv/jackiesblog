@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Understanding SuccessFactors SSO with IAS and IPS: A Simple Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-successfactors-sso-with-ias-and-ips-a-simple-guide/ba-p/14470078",
+      "published": "23 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-23T11:24:15+00:00"
+    },
+    {
       "title": "The SAP Knowledge That's Retiring: Why This Isn't a Documentation Problem",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-sap-knowledge-that-s-retiring-why-this-isn-t-a-documentation-problem/ba-p/14468595",
       "published": "21 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "20 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-20T13:33:53+00:00"
-    },
-    {
-      "title": "Rehire on old employment with a future date termination.",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/rehire-on-old-employment-with-a-future-date-termination/ba-p/14467702",
-      "published": "20 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-20T12:51:09+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Gottesanbeterin breitet sich in Deutschland aus",
-      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "title": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T10:28:46+02:00"
+      "sort_date": "2026-08-23T14:22:33+02:00"
     },
     {
-      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "title": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
+      "link": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T09:19:06+02:00"
+      "sort_date": "2026-08-23T13:54:24+02:00"
     },
     {
-      "title": "Krieg gegen die Ukraine: Urlaub unter Beschuss an Russlands Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
+      "title": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T09:02:36+02:00"
+      "sort_date": "2026-08-23T13:27:04+02:00"
     },
     {
-      "title": "Südkorea schickt erstmals Frachter über Arktis nach Europa",
-      "link": "https://www.dw.com/de/südkorea-schickt-erstmals-frachter-über-arktis-nach-europa/a-78474386?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-23T08:18:00+00:00"
-    },
-    {
-      "title": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
-      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
+      "title": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T08:17:34+02:00"
+      "sort_date": "2026-08-23T12:16:47+02:00"
+    },
+    {
+      "title": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klein-antisemitismusbeauftragter-siedlungspolitik-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T11:48:08+02:00"
     }
   ],
   "Food": []
