@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T05:07:24+02:00"
+    },
+    {
+      "title": "Einkammerparlament statt Zweikammersystem",
+      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T05:03:07+02:00"
+    },
+    {
+      "title": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T03:29:20+02:00"
+    },
+    {
       "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
       "published": "23 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T02:04:59+02:00"
-    },
-    {
-      "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T21:29:05+02:00"
-    },
-    {
-      "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T19:59:00+02:00"
-    },
-    {
-      "title": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
-      "published": "22 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-22T18:25:33+02:00"
     }
   ],
   "Food": []
