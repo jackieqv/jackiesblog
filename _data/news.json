@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T20:34:43+02:00"
+    },
+    {
       "title": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "published": "23 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T17:25:53+02:00"
-    },
-    {
-      "title": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T16:21:56+02:00"
     }
   ],
   "Food": []
