@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A New Framework for How the Brain Compresses Our Noisy World",
+      "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+      "published": "24 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-24T14:00:55+00:00"
+    },
+    {
       "title": "We May Be Wrong About How the Brain Stores Memory",
       "link": "https://singularityhub.com/2026/08/21/we-may-be-wrong-about-how-the-brain-stores-memory/",
       "published": "21 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "20 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-20T14:04:40+00:00"
-    },
-    {
-      "title": "Scrapping a New Gas Car for an Electric One Could Cut Emissions, Study Finds",
-      "link": "https://singularityhub.com/2026/08/19/scrapping-even-a-new-gas-car-for-an-electric-one-could-cut-emissions-study-finds/",
-      "published": "19 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-19T17:12:23+00:00"
     }
   ],
   "News": [
+    {
+      "title": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
+      "link": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T17:15:43+02:00"
+    },
+    {
+      "title": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T17:04:43+02:00"
+    },
+    {
+      "title": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
+      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T16:43:53+02:00"
+    },
+    {
+      "title": "Industrie oder Trinkwasser? Brandenburgs Wasserkonflikt",
+      "link": "https://www.dw.com/de/industrie-oder-trinkwasser-brandenburgs-wasserkonflikt/a-78422447?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "24 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-24T15:16:00+00:00"
+    },
     {
       "title": "Marktbericht: Bitcoin meldet sich fulminant zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
       "published": "24 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-24T14:25:38+02:00"
-    },
-    {
-      "title": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T13:12:53+02:00"
-    },
-    {
-      "title": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T13:07:30+02:00"
-    },
-    {
-      "title": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T12:52:11+02:00"
-    },
-    {
-      "title": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T12:09:10+02:00"
     }
   ],
   "Food": []
