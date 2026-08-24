@@ -112,18 +112,25 @@
   ],
   "News": [
     {
+      "title": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
+      "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T00:44:33+02:00"
+    },
+    {
+      "title": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
+      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
+      "published": "23 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-23T23:38:32+02:00"
+    },
+    {
       "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T20:34:43+02:00"
-    },
-    {
-      "title": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T20:05:46+02:00"
     },
     {
       "title": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
@@ -138,13 +145,6 @@
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T18:15:18+02:00"
-    },
-    {
-      "title": "Iran reagiert mit Drohungen auf US-Drohungen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T17:25:53+02:00"
     }
   ],
   "Food": []
