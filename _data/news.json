@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "HCM Brasil – Crédito do Trabalhador: Dedução de Garantia na Rescisão por Ajuste",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-dedu%C3%A7%C3%A3o-de-garantia-na-rescis%C3%A3o-por/ba-p/14471209",
+      "published": "24 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-24T20:43:05+00:00"
+    },
+    {
       "title": "Adding new field to an existing LSMW program without re-recording",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/adding-new-field-to-an-existing-lsmw-program-without-re-recording/ba-p/14465367",
       "published": "24 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "21 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-21T08:02:17+00:00"
-    },
-    {
-      "title": "IT0014 Replication for a Non-Localized Country in Employee Central Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/it0014-replication-for-a-non-localized-country-in-employee-central-payroll/ba-p/14467150",
-      "published": "21 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-21T07:42:48+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T22:56:51+02:00"
+    },
+    {
+      "title": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T21:38:42+02:00"
+    },
+    {
       "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
       "published": "24 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "24 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-24T18:48:03+02:00"
-    },
-    {
-      "title": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
-      "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T18:44:15+02:00"
-    },
-    {
-      "title": "Marktbericht: Seitwärts in die neue Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T18:42:05+02:00"
     }
   ],
   "Food": []
