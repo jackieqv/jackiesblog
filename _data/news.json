@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Adding new field to an existing LSMW program without re-recording",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/adding-new-field-to-an-existing-lsmw-program-without-re-recording/ba-p/14465367",
+      "published": "24 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-24T08:44:59+00:00"
+    },
+    {
       "title": "How to Mass Import Payment Information details in Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-mass-import-payment-information-details-in-employee-central/ba-p/14466981",
       "published": "24 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "21 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-21T07:42:48+00:00"
-    },
-    {
-      "title": "Who Just Logged Into My SuccessFactors Instance?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/who-just-logged-into-my-successfactors-instance/ba-p/14468660",
-      "published": "21 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-21T06:49:59+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Marktbericht: DAX vor schwunglosem Wochenstart",
+      "title": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T11:42:47+02:00"
+    },
+    {
+      "title": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
+      "link": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T11:34:48+02:00"
+    },
+    {
+      "title": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
+      "link": "https://www.tagesschau.de/wirtschaft/eilmeldung-tod-kuehne-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T11:20:17+02:00"
+    },
+    {
+      "title": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
+      "link": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T11:17:12+02:00"
+    },
+    {
+      "title": "Marktbericht: Anstehende Nvidia-Zahlen machen Anleger nervös",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
       "published": "24 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T07:39:25+02:00"
-    },
-    {
-      "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T06:18:06+02:00"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T06:00:02+02:00"
-    },
-    {
-      "title": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T05:00:37+02:00"
-    },
-    {
-      "title": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
-      "published": "24 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-24T04:21:21+02:00"
+      "sort_date": "2026-08-24T11:09:59+02:00"
     }
   ],
   "Food": []
