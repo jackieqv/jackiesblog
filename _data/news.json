@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
+      "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T05:00:37+02:00"
+    },
+    {
+      "title": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T04:21:21+02:00"
+    },
+    {
+      "title": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
+      "published": "24 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-24T03:41:08+02:00"
+    },
+    {
       "title": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
       "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
       "published": "24 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "23 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-23T23:38:32+02:00"
-    },
-    {
-      "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T20:34:43+02:00"
-    },
-    {
-      "title": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T18:40:57+02:00"
-    },
-    {
-      "title": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-      "published": "23 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-23T18:15:18+02:00"
     }
   ],
   "Food": []
