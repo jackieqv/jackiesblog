@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "PPPAR Operation In PCR - Personnel Calculation Rule",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/pppar-operation-in-pcr-personnel-calculation-rule/ba-p/14449867",
+      "published": "25 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-25T07:03:33+00:00"
+    },
+    {
       "title": "HCM Brasil – Crédito do Trabalhador: Dedução de Garantia na Rescisão por Ajuste",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-dedu%C3%A7%C3%A3o-de-garantia-na-rescis%C3%A3o-por/ba-p/14471209",
       "published": "24 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "23 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-23T11:24:15+00:00"
-    },
-    {
-      "title": "The SAP Knowledge That's Retiring: Why This Isn't a Documentation Problem",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/the-sap-knowledge-that-s-retiring-why-this-isn-t-a-documentation-problem/ba-p/14468595",
-      "published": "21 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-21T08:02:17+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Tornado zieht über Südfrankreich - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T08:31:33+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
+      "title": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T07:31:32+02:00"
+      "sort_date": "2026-08-25T10:59:48+02:00"
     },
     {
-      "title": "Nach UN-Job: Baerbock wechselt an die Columbia-Universität",
-      "link": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html",
+      "title": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T07:30:03+02:00"
+      "sort_date": "2026-08-25T10:50:16+02:00"
     },
     {
-      "title": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html",
+      "title": "Deutsche Wirtschaft im Frühjahr etwas stärker gewachsen als erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T06:36:19+02:00"
+      "sort_date": "2026-08-25T10:16:09+02:00"
     },
     {
-      "title": "Leipziger Flughafen - Ermittler finden weitere Drohne und Sprengstoff",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohne-leipzig-110.html",
+      "title": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html",
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T06:00:46+02:00"
+      "sort_date": "2026-08-25T09:20:17+02:00"
+    },
+    {
+      "title": "Mit neuen Ideen gegen die Not im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-wiederaufbau-100.html",
+      "published": "25 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-25T09:07:07+02:00"
     }
   ],
   "Food": []
