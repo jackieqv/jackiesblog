@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Skills in SAP SuccessFactors: How to Quantify ROI on Your SuccessFactors Investments",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/skills-in-sap-successfactors-how-to-quantify-roi-on-your-successfactors/ba-p/14472012",
+      "published": "25 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-25T15:53:59+00:00"
+    },
+    {
       "title": "PPPAR Operation In PCR - Personnel Calculation Rule",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/pppar-operation-in-pcr-personnel-calculation-rule/ba-p/14449867",
       "published": "25 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "24 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-24T04:51:17+00:00"
-    },
-    {
-      "title": "Understanding SuccessFactors SSO with IAS and IPS: A Simple Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-successfactors-sso-with-ias-and-ips-a-simple-guide/ba-p/14470078",
-      "published": "23 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-23T11:24:15+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
+      "published": "25 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-25T18:46:12+02:00"
+    },
+    {
+      "title": "Firmen werden optimistischer - das Beispiel des Kabelherstellers Lapp",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
+      "published": "25 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-25T18:39:48+02:00"
+    },
+    {
+      "title": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "published": "25 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-25T18:23:57+02:00"
+    },
+    {
+      "title": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
+      "published": "25 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-25T17:42:47+02:00"
+    },
+    {
       "title": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
       "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-25T16:55:55+02:00"
-    },
-    {
-      "title": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T16:28:43+02:00"
-    },
-    {
-      "title": "Provokative Mao-Skulpturen - drei Jahren Gefängnis für chinesischen Künstler",
-      "link": "https://www.tagesschau.de/ausland/asien/china-kunst-justiz-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T16:16:39+02:00"
-    },
-    {
-      "title": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T15:48:01+02:00"
-    },
-    {
-      "title": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-zucker-steuer-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T14:40:54+02:00"
     }
   ],
   "Food": []
