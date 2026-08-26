@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Get pay range Issues",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/get-pay-range-issues/ba-p/14472748",
+      "published": "26 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-26T12:05:30+00:00"
+    },
+    {
       "title": "Skills in SAP SuccessFactors: How to Quantify ROI on Your SuccessFactors Investments",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/skills-in-sap-successfactors-how-to-quantify-roi-on-your-successfactors/ba-p/14472012",
       "published": "26 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "24 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-24T08:44:59+00:00"
-    },
-    {
-      "title": "How to Mass Import Payment Information details in Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-mass-import-payment-information-details-in-employee-central/ba-p/14466981",
-      "published": "24 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-24T04:51:17+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Viele Opfer bei Sturzflut in Nepal und Tibet befürchtet",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-100.html",
+      "title": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T11:29:22+02:00"
+      "sort_date": "2026-08-26T14:45:09+02:00"
     },
     {
-      "title": "Kreml bestätigt Besuch des CIA-Chefs in Moskau",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-cia-ratcliffe-russland-100.html",
+      "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T11:26:52+02:00"
+      "sort_date": "2026-08-26T14:43:15+02:00"
     },
     {
-      "title": "Marktbericht: DAX startet verhalten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "title": "Nach Kabinettsklausur: Merz fordert eine \"neue Zuversicht\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T10:50:21+02:00"
+      "sort_date": "2026-08-26T14:34:29+02:00"
     },
     {
-      "title": "\"Zombiefeuer\": Wie gefährlich sind diese wiederkehrenden Feuer?",
-      "link": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
+      "title": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T10:38:51+02:00"
+      "sort_date": "2026-08-26T14:02:04+02:00"
     },
     {
-      "title": "\"Airport-Malaria\": Ein Toter nach Infektion am Frankfurter Flughafen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
+      "title": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
+      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T10:36:31+02:00"
+      "sort_date": "2026-08-26T13:45:12+02:00"
     }
   ],
   "Food": []
