@@ -38,11 +38,11 @@
   ],
   "Technology": [
     {
-      "title": "Get pay range Issues",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/get-pay-range-issues/ba-p/14472748",
+      "title": "Get pay range Issues - need N/A option - just defaults range if exact one is not found",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/get-pay-range-issues-need-n-a-option-just-defaults-range-if-exact-one-is/ba-p/14472748",
       "published": "26 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-26T12:05:30+00:00"
+      "sort_date": "2026-08-26T13:58:04+00:00"
     },
     {
       "title": "Skills in SAP SuccessFactors: How to Quantify ROI on Your SuccessFactors Investments",
@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "In Hilbert Space, All Things Are Quantumly Possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "published": "26 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-26T14:30:35+00:00"
+    },
+    {
       "title": "Mini Brains Grown for Five Years Matured Like Human Brains",
       "link": "https://singularityhub.com/2026/08/25/mini-brains-grown-for-five-years-matured-like-human-brains/",
       "published": "25 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "21 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-21T18:25:19+00:00"
-    },
-    {
-      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-      "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-      "published": "21 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-21T14:53:32+00:00"
     }
   ],
   "News": [
     {
-      "title": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
+      "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T14:45:09+02:00"
+      "sort_date": "2026-08-26T18:07:35+02:00"
     },
     {
-      "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
+      "title": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T14:43:15+02:00"
+      "sort_date": "2026-08-26T18:00:07+02:00"
     },
     {
-      "title": "Nach Kabinettsklausur: Merz fordert eine \"neue Zuversicht\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html",
+      "title": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-alltag-folgen-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T14:34:29+02:00"
+      "sort_date": "2026-08-26T17:15:31+02:00"
     },
     {
-      "title": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html",
+      "title": "Deutsches Kino auf dem Vormarsch bei den Oscars",
+      "link": "https://www.tagesschau.de/kultur/vorauswahl-oscars-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T14:02:04+02:00"
+      "sort_date": "2026-08-26T17:13:30+02:00"
     },
     {
-      "title": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html",
+      "title": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
+      "link": "https://www.tagesschau.de/kultur/eurofurence-100.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T13:45:12+02:00"
+      "sort_date": "2026-08-26T16:27:30+02:00"
     }
   ],
   "Food": []
