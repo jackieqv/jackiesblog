@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
+      "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T20:55:17+02:00"
+    },
+    {
+      "title": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T20:31:54+02:00"
+    },
+    {
+      "title": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
+      "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T19:45:49+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T18:17:44+02:00"
+    },
+    {
       "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-26T18:07:35+02:00"
-    },
-    {
-      "title": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T18:00:07+02:00"
-    },
-    {
-      "title": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-alltag-folgen-100.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T17:15:31+02:00"
-    },
-    {
-      "title": "Deutsches Kino auf dem Vormarsch bei den Oscars",
-      "link": "https://www.tagesschau.de/kultur/vorauswahl-oscars-100.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T17:13:30+02:00"
-    },
-    {
-      "title": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
-      "link": "https://www.tagesschau.de/kultur/eurofurence-100.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T16:27:30+02:00"
     }
   ],
   "Food": []
