@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T02:43:47+02:00"
+    },
+    {
       "title": "Warken zu Reformvorhaben: \"Nicht im Voraus schon Dinge tot reden\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/warken-tagesthemen-100.html",
       "published": "25 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-25T20:42:34+02:00"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Kleine Parteien als Königsmacher?",
-      "link": "https://www.dw.com/de/wahl-in-sachsen-anhalt-kleine-parteien-als-königsmacher/a-78455059?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "25 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-25T19:51:00+00:00"
     }
   ],
   "Food": []
