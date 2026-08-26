@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
+      "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T05:35:12+02:00"
+    },
+    {
+      "title": "Kurdische SDF in Syrien verkündet Auflösung",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-104.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T05:28:47+02:00"
+    },
+    {
+      "title": "Kommentar: Verunsicherung vor US-Briefwahl als Strategie",
+      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
+      "published": "26 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-26T04:05:36+02:00"
+    },
+    {
       "title": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
       "published": "26 Aug 2026",
@@ -124,27 +145,6 @@
       "published": "25 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-25T22:08:17+02:00"
-    },
-    {
-      "title": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T22:01:08+02:00"
-    },
-    {
-      "title": "Film \"Everytime\" als deutscher Beitrag für Oscar-Verleihung nominiert",
-      "link": "https://www.tagesschau.de/kultur/everytime-film-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T20:44:57+02:00"
-    },
-    {
-      "title": "US-Medienberichte - CIA-Chef Ratcliffe zu Geheimbesuch in Moskau",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-russland-cia-100.html",
-      "published": "25 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-25T20:42:34+02:00"
     }
   ],
   "Food": []
