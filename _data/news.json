@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
+      "published": "27 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-27T13:16:04+00:00"
+    },
+    {
+      "title": "Reconciling EC Loan Advance Installments with ECP Payroll Results Using ABAP OData Integration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reconciling-ec-loan-advance-installments-with-ecp-payroll-results-using/ba-p/14473594",
+      "published": "27 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-27T08:51:40+00:00"
+    },
+    {
       "title": "Get pay range Issues - need N/A option - just defaults range if exact one is not found",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/get-pay-range-issues-need-n-a-option-just-defaults-range-if-exact-one-is/ba-p/14472748",
       "published": "26 Aug 2026",
@@ -57,20 +71,6 @@
       "published": "25 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-25T07:03:33+00:00"
-    },
-    {
-      "title": "HCM Brasil – Crédito do Trabalhador: Dedução de Garantia na Rescisão por Ajuste",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/hcm-brasil-cr%C3%A9dito-do-trabalhador-dedu%C3%A7%C3%A3o-de-garantia-na-rescis%C3%A3o-por/ba-p/14471209",
-      "published": "24 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-24T20:43:05+00:00"
-    },
-    {
-      "title": "Adding new field to an existing LSMW program without re-recording",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/adding-new-field-to-an-existing-lsmw-program-without-re-recording/ba-p/14465367",
-      "published": "24 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-24T08:44:59+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
-      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
+      "title": "Bosnisch-serbischer Kriegsverbrecher Ratko Mladic ist tot",
+      "link": "https://www.tagesschau.de/ausland/europa/mladic-tod-100.html",
       "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T02:15:31+02:00"
+      "sort_date": "2026-08-27T15:45:49+02:00"
     },
     {
-      "title": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
-      "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
-      "published": "26 Aug 2026",
+      "title": "Ein Jahr Nationaler Sicherheitsrat: Ein Projekt, das zu versanden droht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-110.html",
+      "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T20:55:17+02:00"
+      "sort_date": "2026-08-27T14:35:21+02:00"
     },
     {
-      "title": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
-      "published": "26 Aug 2026",
+      "title": "Steinmeier betont auf Gamescom Risiken und Stärken des Gaming",
+      "link": "https://www.tagesschau.de/inland/gamescom-steinmeier-100.html",
+      "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T20:31:54+02:00"
+      "sort_date": "2026-08-27T13:55:33+02:00"
     },
     {
-      "title": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
-      "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T19:45:49+02:00"
+      "title": "Rechtsextreme \"Artgemeinschaft\": Durchsuchungen nach Verbot",
+      "link": "https://www.dw.com/de/rechtsextreme-artgemeinschaft-durchsuchungen-nach-verbot/a-78531410?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Aug 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-08-27T13:40:00+00:00"
     },
     {
-      "title": "Marktbericht: DAX bleibt auf hohem Niveau",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
-      "published": "26 Aug 2026",
+      "title": "Marktbericht: Nvidia: Zahlen von einem anderen Stern",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-nvidia-100.html",
+      "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T18:17:44+02:00"
+      "sort_date": "2026-08-27T13:36:22+02:00"
     }
   ],
   "Food": []
