@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
+      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
+      "published": "27 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-27T02:15:31+02:00"
+    },
+    {
       "title": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
       "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
       "published": "26 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "26 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-26T18:17:44+02:00"
-    },
-    {
-      "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
-      "published": "26 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-26T18:07:35+02:00"
     }
   ],
   "Food": []
