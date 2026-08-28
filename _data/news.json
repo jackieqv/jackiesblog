@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Are We on the Verge of an Intelligence Explosion? Maybe Not.",
+      "link": "https://singularityhub.com/2026/08/28/are-we-on-the-verge-of-an-intelligence-explosion-maybe-not/",
+      "published": "28 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-28T16:45:11+00:00"
+    },
+    {
       "title": "Does Computer Science Need Computers?",
       "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
       "published": "28 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "25 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-25T20:35:27+00:00"
-    },
-    {
-      "title": "Unitree Claims New Humanoid Robot Outruns Usain Bolt",
-      "link": "https://singularityhub.com/2026/08/24/unitree-claims-new-humanoid-robot-outruns-usain-bolt/",
-      "published": "24 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-24T22:52:36+00:00"
     }
   ],
   "News": [
     {
-      "title": "Juwelenraub in Wien: Polizei fahndet nach bewaffneten Tätern",
-      "link": "https://www.tagesschau.de/ausland/europa/juwelenraub-wien-fahndung-100.html",
-      "published": "28 Aug 2026",
+      "title": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
+      "link": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
+      "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T16:37:32+02:00"
+      "sort_date": "2026-08-29T01:21:11+02:00"
     },
     {
-      "title": "Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-wahlkampfauftakt-praesidentschaftswahl-unternehmerverband-100.html",
+      "title": "Taliban auf Mission in Deutschland - Abschiebungen vorbereiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-taliban-100.html",
       "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T16:32:14+02:00"
+      "sort_date": "2026-08-28T22:57:28+02:00"
     },
     {
-      "title": "DR Kongo beginnt mit Impfungen gegen Ebola",
-      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-102.html",
+      "title": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
       "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T16:31:51+02:00"
+      "sort_date": "2026-08-28T21:54:08+02:00"
     },
     {
-      "title": "Neue Briefwahl-Regeln: US-Bundesrichterin hebt Trumps Erlass auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-briefwahl-erlass-100.html",
+      "title": "Chinas militärische Aufrüstung: Anlage in der Wüste wirft Fragen auf",
+      "link": "https://www.tagesschau.de/ausland/asien/china-militaer-aufruestung-100.html",
       "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T16:29:38+02:00"
+      "sort_date": "2026-08-28T21:02:24+02:00"
     },
     {
-      "title": "Hacker fordern Lösegeld nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-hackerangriff-senatsverwaltung-loesegeld-100.html",
+      "title": "Nach Betriebsversammlungen: Lauter offene Fragen bei VW",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-betriebsversammlungen-bilanz-100.html",
       "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T16:04:44+02:00"
+      "sort_date": "2026-08-28T19:57:27+02:00"
     }
   ],
   "Food": []
