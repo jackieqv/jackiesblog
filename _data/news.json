@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Expand Your SAP Fieldglass Conversations: New Positioning Course Now Available",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/expand-your-sap-fieldglass-conversations-new-positioning-course-now/ba-p/14474181",
+      "published": "27 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-27T17:09:05+00:00"
+    },
+    {
+      "title": "Payroll Canada Year-End 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/payroll-canada-year-end-2026/ba-p/14474174",
+      "published": "27 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-27T16:49:23+00:00"
+    },
+    {
       "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
       "published": "27 Aug 2026",
@@ -57,23 +71,16 @@
       "published": "26 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-26T13:58:04+00:00"
-    },
-    {
-      "title": "Skills in SAP SuccessFactors: How to Quantify ROI on Your SuccessFactors Investments",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/skills-in-sap-successfactors-how-to-quantify-roi-on-your-successfactors/ba-p/14472012",
-      "published": "26 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-26T08:13:39+00:00"
-    },
-    {
-      "title": "PPPAR Operation In PCR - Personnel Calculation Rule",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/pppar-operation-in-pcr-personnel-calculation-rule/ba-p/14449867",
-      "published": "25 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-25T07:03:33+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "An ‘AI Legal Team’ Has Won Its First Case. It’s a Rare Victory for Access to Justice.",
+      "link": "https://singularityhub.com/2026/08/27/an-ai-legal-team-wins-its-case-its-a-rare-victory-for-access-to-justice/",
+      "published": "27 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-27T21:13:16+00:00"
+    },
     {
       "title": "In Hilbert Space, All Things Are Quantumly Possible",
       "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
@@ -101,50 +108,43 @@
       "published": "24 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-24T14:00:55+00:00"
-    },
-    {
-      "title": "We May Be Wrong About How the Brain Stores Memory",
-      "link": "https://singularityhub.com/2026/08/21/we-may-be-wrong-about-how-the-brain-stores-memory/",
-      "published": "21 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-21T18:25:19+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bosnisch-serbischer Kriegsverbrecher Ratko Mladic ist tot",
-      "link": "https://www.tagesschau.de/ausland/europa/mladic-tod-100.html",
-      "published": "27 Aug 2026",
+      "title": "Streit zwischen USA und Kanada - Trump nennt Ontariosee um",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-streit-ontario-100.html",
+      "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T15:45:49+02:00"
+      "sort_date": "2026-08-28T00:26:50+02:00"
     },
     {
-      "title": "Ein Jahr Nationaler Sicherheitsrat: Ein Projekt, das zu versanden droht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-110.html",
+      "title": "Bündnis will Opfer rechtsextremer Angriffe unterstützen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/buendnis-fuer-demokratie-100.html",
       "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T14:35:21+02:00"
+      "sort_date": "2026-08-27T20:48:31+02:00"
     },
     {
-      "title": "Steinmeier betont auf Gamescom Risiken und Stärken des Gaming",
-      "link": "https://www.tagesschau.de/inland/gamescom-steinmeier-100.html",
+      "title": "Nepal: \"Sehr großer Bergsturz\" - und obendrauf ein Gletscher",
+      "link": "https://www.tagesschau.de/ausland/asien/gletschersturz-nepal-100.html",
       "published": "27 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T13:55:33+02:00"
+      "sort_date": "2026-08-27T20:47:42+02:00"
     },
     {
-      "title": "Rechtsextreme \"Artgemeinschaft\": Durchsuchungen nach Verbot",
-      "link": "https://www.dw.com/de/rechtsextreme-artgemeinschaft-durchsuchungen-nach-verbot/a-78531410?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
+      "published": "27 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-27T20:12:58+02:00"
+    },
+    {
+      "title": "Wohin steuert die Welt nach der Ära des Multilateralismus?",
+      "link": "https://www.dw.com/de/wohin-steuert-die-welt-nach-der-ära-des-multilateralismus/a-78533057?maca=de-rss-de-top-1016-xml-mrss",
       "published": "27 Aug 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-27T13:40:00+00:00"
-    },
-    {
-      "title": "Marktbericht: Nvidia: Zahlen von einem anderen Stern",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-nvidia-100.html",
-      "published": "27 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T13:36:22+02:00"
+      "sort_date": "2026-08-27T19:42:00+00:00"
     }
   ],
   "Food": []
