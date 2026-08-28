@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Does Computer Science Need Computers?",
+      "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "published": "28 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-28T13:30:34+00:00"
+    },
+    {
       "title": "An ‘AI Legal Team’ Has Won Its First Case. It’s a Rare Victory for Access to Justice.",
       "link": "https://singularityhub.com/2026/08/27/an-ai-legal-team-wins-its-case-its-a-rare-victory-for-access-to-justice/",
       "published": "27 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "24 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-24T22:52:36+00:00"
-    },
-    {
-      "title": "A New Framework for How the Brain Compresses Our Noisy World",
-      "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
-      "published": "24 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-24T14:00:55+00:00"
     }
   ],
   "News": [
     {
-      "title": "Streit zwischen USA und Kanada - Trump nennt Ontariosee um",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-streit-ontario-100.html",
+      "title": "Juwelenraub in Wien: Polizei fahndet nach bewaffneten Tätern",
+      "link": "https://www.tagesschau.de/ausland/europa/juwelenraub-wien-fahndung-100.html",
       "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-28T00:26:50+02:00"
+      "sort_date": "2026-08-28T16:37:32+02:00"
     },
     {
-      "title": "Bündnis will Opfer rechtsextremer Angriffe unterstützen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/buendnis-fuer-demokratie-100.html",
-      "published": "27 Aug 2026",
+      "title": "Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-wahlkampfauftakt-praesidentschaftswahl-unternehmerverband-100.html",
+      "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T20:48:31+02:00"
+      "sort_date": "2026-08-28T16:32:14+02:00"
     },
     {
-      "title": "Nepal: \"Sehr großer Bergsturz\" - und obendrauf ein Gletscher",
-      "link": "https://www.tagesschau.de/ausland/asien/gletschersturz-nepal-100.html",
-      "published": "27 Aug 2026",
+      "title": "DR Kongo beginnt mit Impfungen gegen Ebola",
+      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-102.html",
+      "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T20:47:42+02:00"
+      "sort_date": "2026-08-28T16:31:51+02:00"
     },
     {
-      "title": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
-      "published": "27 Aug 2026",
+      "title": "Neue Briefwahl-Regeln: US-Bundesrichterin hebt Trumps Erlass auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-briefwahl-erlass-100.html",
+      "published": "28 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-27T20:12:58+02:00"
+      "sort_date": "2026-08-28T16:29:38+02:00"
     },
     {
-      "title": "Wohin steuert die Welt nach der Ära des Multilateralismus?",
-      "link": "https://www.dw.com/de/wohin-steuert-die-welt-nach-der-ära-des-multilateralismus/a-78533057?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "27 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-27T19:42:00+00:00"
+      "title": "Hacker fordern Lösegeld nach Angriff auf Berliner Landesnetz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-hackerangriff-senatsverwaltung-loesegeld-100.html",
+      "published": "28 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-28T16:04:44+02:00"
     }
   ],
   "Food": []
