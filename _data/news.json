@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Haakon hält erste emotionale Ansprache als König von Norwegen",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
+      "published": "29 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-29T21:05:42+02:00"
+    },
+    {
+      "title": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+      "published": "29 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-29T20:42:43+02:00"
+    },
+    {
       "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
       "published": "29 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-29T17:20:56+02:00"
-    },
-    {
-      "title": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
-      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
-      "published": "29 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T16:34:23+02:00"
-    },
-    {
-      "title": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
-      "published": "29 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T16:05:28+02:00"
     }
   ],
   "Food": []
