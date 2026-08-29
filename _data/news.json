@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 29)",
+      "link": "https://singularityhub.com/2026/08/29/this-weeks-awesome-tech-stories-from-around-the-web-through-august-29-2/",
+      "published": "29 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-29T14:00:00+00:00"
+    },
+    {
       "title": "Are We on the Verge of an Intelligence Explosion? Maybe Not.",
       "link": "https://singularityhub.com/2026/08/28/are-we-on-the-verge-of-an-intelligence-explosion-maybe-not/",
       "published": "28 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "26 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-26T14:30:35+00:00"
-    },
-    {
-      "title": "Mini Brains Grown for Five Years Matured Like Human Brains",
-      "link": "https://singularityhub.com/2026/08/25/mini-brains-grown-for-five-years-matured-like-human-brains/",
-      "published": "25 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-25T20:35:27+00:00"
     }
   ],
   "News": [
     {
-      "title": "Schiefer als der in Pisa - der Turm von Michalovice",
-      "link": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
+      "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T14:09:11+02:00"
+      "sort_date": "2026-08-29T18:33:48+02:00"
     },
     {
-      "title": "Krieg gegen die Ukraine:  Viele Tote bei Luftangriff im Raum Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
+      "title": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T13:39:29+02:00"
+      "sort_date": "2026-08-29T18:16:37+02:00"
     },
     {
-      "title": "Estland als Testlabor für neue synthetische Drogen",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html",
+      "title": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T11:37:08+02:00"
+      "sort_date": "2026-08-29T17:20:56+02:00"
     },
     {
-      "title": "Sturzflut in Nepal und Tibet: Zahl der Toten steigt über 600",
-      "link": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html",
+      "title": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
+      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T11:31:12+02:00"
+      "sort_date": "2026-08-29T16:34:23+02:00"
     },
     {
-      "title": "USA sichern sich riesige Ölvorkommen in Venezuela",
-      "link": "https://www.dw.com/de/usa-sichern-sich-riesige-ölvorkommen-in-venezuela/a-78555800?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
       "published": "29 Aug 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-08-29T10:06:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-29T16:05:28+02:00"
     }
   ],
   "Food": []
