@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Nepal und Tibet: Opferzahl steigt und Suche nach Vermissten geht weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
+      "published": "30 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-30T05:48:48+02:00"
+    },
+    {
+      "title": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
+      "published": "30 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-30T04:14:23+02:00"
+    },
+    {
       "title": "Haakon hält erste emotionale Ansprache als König von Norwegen",
       "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
       "published": "29 Aug 2026",
@@ -131,20 +145,6 @@
       "published": "29 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-29T18:33:48+02:00"
-    },
-    {
-      "title": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
-      "published": "29 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T18:16:37+02:00"
-    },
-    {
-      "title": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
-      "published": "29 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-29T17:20:56+02:00"
     }
   ],
   "Food": []
