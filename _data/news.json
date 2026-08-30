@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "USA greifen offenbar iranische Raketenwerfer an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
+      "published": "31 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-31T00:22:06+02:00"
+    },
+    {
       "title": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
       "published": "30 Aug 2026",
@@ -138,13 +145,6 @@
       "published": "30 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-30T19:42:47+02:00"
-    },
-    {
-      "title": "Warum türkische TV-Serien so erfolgreich sind",
-      "link": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
-      "published": "30 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-30T17:56:19+02:00"
     }
   ],
   "Food": []
