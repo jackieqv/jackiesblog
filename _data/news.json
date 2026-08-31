@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
+      "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+      "published": "31 Aug 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-08-31T14:24:27+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through August 29)",
       "link": "https://singularityhub.com/2026/08/29/this-weeks-awesome-tech-stories-from-around-the-web-through-august-29-2/",
       "published": "29 Aug 2026",
@@ -101,50 +108,43 @@
       "published": "27 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-27T21:13:16+00:00"
-    },
-    {
-      "title": "In Hilbert Space, All Things Are Quantumly Possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "published": "26 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-26T14:30:35+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Ölpreise klettern wieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
+      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T14:42:21+02:00"
+      "sort_date": "2026-08-31T22:28:25+02:00"
     },
     {
-      "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
+      "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T14:36:46+02:00"
+      "sort_date": "2026-08-31T21:52:21+02:00"
     },
     {
-      "title": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-festnahme-100.html",
+      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T14:15:54+02:00"
+      "sort_date": "2026-08-31T20:30:16+02:00"
     },
     {
-      "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
+      "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T14:08:24+02:00"
+      "sort_date": "2026-08-31T19:00:05+02:00"
     },
     {
-      "title": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
+      "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T13:50:36+02:00"
+      "sort_date": "2026-08-31T18:46:46+02:00"
     }
   ],
   "Food": []
