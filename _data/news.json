@@ -112,18 +112,25 @@
   ],
   "News": [
     {
+      "title": "Nach Sturzflut im Grand Canyon: Suche nach 15 Menschen",
+      "link": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html",
+      "published": "31 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-31T03:11:11+02:00"
+    },
+    {
+      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "published": "31 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-31T02:28:59+02:00"
+    },
+    {
       "title": "USA greifen offenbar iranische Raketenwerfer an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T00:22:06+02:00"
-    },
-    {
-      "title": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
-      "published": "30 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-30T22:12:13+02:00"
+      "sort_date": "2026-08-31T01:35:59+02:00"
     },
     {
       "title": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
@@ -131,13 +138,6 @@
       "published": "30 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-30T20:35:28+02:00"
-    },
-    {
-      "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
-      "published": "30 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-30T19:55:49+02:00"
     },
     {
       "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
