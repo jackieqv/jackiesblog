@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Employee grouping account determination for expense account",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/employee-grouping-account-determination-for-expense-account/ba-p/14472996",
+      "published": "31 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-31T08:43:16+00:00"
+    },
+    {
+      "title": "Show Full-Year Entitlement and Monthly Accumulated/Earned Accrual Together in Time Off",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/show-full-year-entitlement-and-monthly-accumulated-earned-accrual-together/ba-p/14473023",
+      "published": "31 Aug 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-08-31T08:36:52+00:00"
+    },
+    {
+      "title": "UK Payroll: Making Payroll Results Easier to Read: SAP's RTI Table Refresh",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/uk-payroll-making-payroll-results-easier-to-read-sap-s-rti-table-refresh/ba-p/14474111",
+      "published": "31 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-31T08:31:41+00:00"
+    },
+    {
       "title": "Stop Reporting Tenure in Decimals: Build an Exact Years, Months, Days Formula in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/stop-reporting-tenure-in-decimals-build-an-exact-years-months-days-formula/ba-p/14475558",
       "published": "30 Aug 2026",
@@ -50,27 +71,6 @@
       "published": "27 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-27T17:09:05+00:00"
-    },
-    {
-      "title": "Payroll Canada Year-End 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/payroll-canada-year-end-2026/ba-p/14474174",
-      "published": "27 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-27T16:49:23+00:00"
-    },
-    {
-      "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
-      "published": "27 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-27T13:16:04+00:00"
-    },
-    {
-      "title": "Reconciling EC Loan Advance Installments with ECP Payroll Results Using ABAP OData Integration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reconciling-ec-loan-advance-installments-with-ecp-payroll-results-using/ba-p/14473594",
-      "published": "27 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-27T08:51:40+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nach Sturzflut im Grand Canyon: Suche nach 15 Menschen",
-      "link": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html",
+      "title": "Marktbericht: Ölpreise klettern wieder",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T03:11:11+02:00"
+      "sort_date": "2026-08-31T14:42:21+02:00"
     },
     {
-      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T02:28:59+02:00"
+      "sort_date": "2026-08-31T14:36:46+02:00"
     },
     {
-      "title": "USA greifen offenbar iranische Raketenwerfer an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
+      "title": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-festnahme-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T01:35:59+02:00"
+      "sort_date": "2026-08-31T14:15:54+02:00"
     },
     {
-      "title": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
-      "link": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
-      "published": "30 Aug 2026",
+      "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
+      "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-30T20:35:28+02:00"
+      "sort_date": "2026-08-31T14:08:24+02:00"
     },
     {
-      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-      "published": "30 Aug 2026",
+      "title": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
+      "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-30T19:42:47+02:00"
+      "sort_date": "2026-08-31T13:50:36+02:00"
     }
   ],
   "Food": []
