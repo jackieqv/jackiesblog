@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
+      "title": "USA und Iran melden erneut heftige Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+      "published": "02 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-02T00:37:46+02:00"
+    },
+    {
+      "title": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
+      "published": "01 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-01T21:56:04+02:00"
+    },
+    {
+      "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+      "published": "01 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-01T21:09:43+02:00"
+    },
+    {
+      "title": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-01T19:54:06+02:00"
     },
     {
-      "title": "\"The Art of Johnny Depp\" in Düsseldorf: Kitsch oder Imagepflege?",
-      "link": "https://www.tagesschau.de/kultur/kunst-von-johnny-depp-duesseldorf-schloss-benrath-100.html",
+      "title": "EU reagiert auf \"hybride Kriegsführung\" Russlands",
+      "link": "https://www.dw.com/de/eu-reagiert-auf-hybride-kriegsführung-russlands/a-78655230?maca=de-rss-de-top-1016-xml-mrss",
       "published": "01 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T19:22:05+02:00"
-    },
-    {
-      "title": "Ist der Hype um Shein & Co. vorbei?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
-      "published": "01 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T19:18:25+02:00"
-    },
-    {
-      "title": "Flutkatastrophe im Himalaya: Was die Katastrophe für Tibet bedeutet",
-      "link": "https://www.tagesschau.de/ausland/asien/tibet-sturzflut-nepal-100.html",
-      "published": "01 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T19:17:56+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX verliert erneut deutlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
-      "published": "01 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T18:33:27+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-01T19:44:00+00:00"
     }
   ],
   "Food": []
