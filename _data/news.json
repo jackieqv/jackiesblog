@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-demographic-challenge-to-labor-reform-how-sap-localization-supports/ba-p/14476749",
+      "published": "31 Aug 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-08-31T22:30:48+00:00"
+    },
+    {
       "title": "Employee grouping account determination for expense account",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/employee-grouping-account-determination-for-expense-account/ba-p/14472996",
       "published": "31 Aug 2026",
@@ -64,16 +71,16 @@
       "published": "30 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-30T17:15:58+00:00"
-    },
-    {
-      "title": "Expand Your SAP Fieldglass Conversations: New Positioning Course Now Available",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/expand-your-sap-fieldglass-conversations-new-positioning-course-now/ba-p/14474181",
-      "published": "27 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-27T17:09:05+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice.",
+      "link": "https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/",
+      "published": "31 Aug 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-08-31T21:33:36+00:00"
+    },
     {
       "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
       "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
@@ -101,29 +108,29 @@
       "published": "28 Aug 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-08-28T13:30:34+00:00"
-    },
-    {
-      "title": "An ‘AI Legal Team’ Has Won Its First Case. It’s a Rare Victory for Access to Justice.",
-      "link": "https://singularityhub.com/2026/08/27/an-ai-legal-team-wins-its-case-its-a-rare-victory-for-access-to-justice/",
-      "published": "27 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-27T21:13:16+00:00"
     }
   ],
   "News": [
     {
-      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
-      "published": "31 Aug 2026",
+      "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+      "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T22:28:25+02:00"
+      "sort_date": "2026-09-01T01:43:53+02:00"
     },
     {
       "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
       "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T21:52:21+02:00"
+      "sort_date": "2026-08-31T23:09:55+02:00"
+    },
+    {
+      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
+      "published": "31 Aug 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-08-31T22:28:25+02:00"
     },
     {
       "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
@@ -138,13 +145,6 @@
       "published": "31 Aug 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-08-31T19:00:05+02:00"
-    },
-    {
-      "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
-      "published": "31 Aug 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-08-31T18:46:46+02:00"
     }
   ],
   "Food": []
