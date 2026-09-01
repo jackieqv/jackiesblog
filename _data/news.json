@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
+      "published": "01 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-01T13:36:41+00:00"
+    },
+    {
       "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-demographic-challenge-to-labor-reform-how-sap-localization-supports/ba-p/14476749",
       "published": "31 Aug 2026",
@@ -64,13 +71,6 @@
       "published": "31 Aug 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-08-31T08:31:41+00:00"
-    },
-    {
-      "title": "Stop Reporting Tenure in Decimals: Build an Exact Years, Months, Days Formula in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/stop-reporting-tenure-in-decimals-build-an-exact-years-months-days-formula/ba-p/14475558",
-      "published": "30 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-30T17:15:58+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
-      "link": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html",
+      "title": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T08:55:01+02:00"
+      "sort_date": "2026-09-01T15:25:23+02:00"
     },
     {
-      "title": "Pflegebeauftragte: \"Die Pflegekassen werden nicht pleitegehen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html",
+      "title": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-paukenschlag-wechsel-arabische-partei-100.html",
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T08:45:08+02:00"
+      "sort_date": "2026-09-01T14:56:23+02:00"
     },
     {
-      "title": "Shein startet mit deutlichem Minus an Hongkonger Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html",
+      "title": "Marktbericht: Warum fällt der DAX?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T08:27:14+02:00"
+      "sort_date": "2026-09-01T14:50:59+02:00"
     },
     {
-      "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+      "title": "König Haakon VIII. legt Eid im norwegischen Parlament ab",
+      "link": "https://www.tagesschau.de/ausland/europa/koenig-norwegen-eid-100.html",
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T07:30:07+02:00"
+      "sort_date": "2026-09-01T14:43:54+02:00"
     },
     {
-      "title": "News kompakt: Luftalarm in Kyjiw vor Schuljahrsbeginn",
-      "link": "https://www.dw.com/de/news-kompakt-luftalarm-in-kyjiw-vor-schuljahrsbeginn/a-78582440?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Erstes Treffen der \"Mekka-Allianz\": Eine neue Ordnung im Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/asien/treffen-mekka-pakt-100.html",
       "published": "01 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-01T06:59:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-01T14:42:53+02:00"
     }
   ],
   "Food": []
