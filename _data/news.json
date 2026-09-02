@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Faster National ID Data Capture in Onboarding with DocAI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/faster-national-id-data-capture-in-onboarding-with-docai/ba-p/14478444",
+      "published": "02 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-02T18:17:05+00:00"
+    },
+    {
       "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
       "published": "02 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "31 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-31T08:43:16+00:00"
-    },
-    {
-      "title": "Show Full-Year Entitlement and Monthly Accumulated/Earned Accrual Together in Time Off",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/show-full-year-entitlement-and-monthly-accumulated-earned-accrual-together/ba-p/14473023",
-      "published": "31 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-31T08:36:52+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Stellenabbau bei Uber trifft auch Führungskräfte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
+      "title": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T17:46:08+02:00"
+      "sort_date": "2026-09-02T22:09:49+02:00"
     },
     {
-      "title": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
+      "title": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T17:03:41+02:00"
+      "sort_date": "2026-09-02T20:30:29+02:00"
     },
     {
-      "title": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
-      "link": "https://www.tagesschau.de/ausland/russland-geschaeftstraeger-drohne-100.html",
+      "title": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T17:03:13+02:00"
+      "sort_date": "2026-09-02T20:19:24+02:00"
     },
     {
-      "title": "Mindestens 22 Menschen sterben bei Busunglück in Ägypten",
-      "link": "https://www.tagesschau.de/ausland/afrika/busunglueck-aegypten-100.html",
+      "title": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T16:38:50+02:00"
+      "sort_date": "2026-09-02T20:06:02+02:00"
     },
     {
-      "title": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
+      "title": "Warum Parteien Wählende mit Migrationshintergrund verlieren",
+      "link": "https://www.dw.com/de/warum-parteien-wählende-mit-migrationshintergrund-verlieren/a-78604256?maca=de-rss-de-top-1016-xml-mrss",
       "published": "02 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T15:47:43+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-02T19:23:00+00:00"
     }
   ],
   "Food": []
