@@ -42,7 +42,14 @@
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
       "published": "02 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-02T07:47:15+00:00"
+      "sort_date": "2026-09-02T14:16:09+00:00"
+    },
+    {
+      "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-demographic-challenge-to-labor-reform-how-sap-localization-supports/ba-p/14476749",
+      "published": "02 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-02T13:26:39+00:00"
     },
     {
       "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
@@ -50,13 +57,6 @@
       "published": "01 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-01T13:36:41+00:00"
-    },
-    {
-      "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-demographic-challenge-to-labor-reform-how-sap-localization-supports/ba-p/14476749",
-      "published": "31 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-31T22:30:48+00:00"
     },
     {
       "title": "Employee grouping account determination for expense account",
@@ -74,6 +74,13 @@
     }
   ],
   "Science": [
+    {
+      "title": "Genome Duplication Is a Radical Evolutionary Gamble",
+      "link": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/",
+      "published": "02 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-02T14:21:02+00:00"
+    },
     {
       "title": "Content for Clicks: AI Is Tearing Up the Web’s Social Contract",
       "link": "https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/",
@@ -101,50 +108,43 @@
       "published": "29 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-29T14:00:00+00:00"
-    },
-    {
-      "title": "Are We on the Verge of an Intelligence Explosion? Maybe Not.",
-      "link": "https://singularityhub.com/2026/08/28/are-we-on-the-verge-of-an-intelligence-explosion-maybe-not/",
-      "published": "28 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-28T16:45:11+00:00"
     }
   ],
   "News": [
     {
-      "title": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
-      "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
+      "title": "Stellenabbau bei Uber trifft auch Führungskräfte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T12:24:21+02:00"
+      "sort_date": "2026-09-02T17:46:08+02:00"
     },
     {
-      "title": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
-      "link": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
+      "title": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T11:57:05+02:00"
+      "sort_date": "2026-09-02T17:03:41+02:00"
     },
     {
-      "title": "Nach Drohnenfund in Leipzig: EU berät neue Sanktionen gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/eu-treffen-russland-leipzig-drohnenvorfall-100.html",
+      "title": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
+      "link": "https://www.tagesschau.de/ausland/russland-geschaeftstraeger-drohne-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T11:56:32+02:00"
+      "sort_date": "2026-09-02T17:03:13+02:00"
     },
     {
-      "title": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
+      "title": "Mindestens 22 Menschen sterben bei Busunglück in Ägypten",
+      "link": "https://www.tagesschau.de/ausland/afrika/busunglueck-aegypten-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T11:32:51+02:00"
+      "sort_date": "2026-09-02T16:38:50+02:00"
     },
     {
-      "title": "Marktbericht: DAX bleibt unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+      "title": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T10:51:51+02:00"
+      "sort_date": "2026-09-02T15:47:43+02:00"
     }
   ],
   "Food": []
