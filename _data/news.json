@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+      "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+      "published": "03 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-03T00:56:35+02:00"
+    },
+    {
       "title": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
       "published": "02 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-02T20:06:02+02:00"
-    },
-    {
-      "title": "Warum Parteien Wählende mit Migrationshintergrund verlieren",
-      "link": "https://www.dw.com/de/warum-parteien-wählende-mit-migrationshintergrund-verlieren/a-78604256?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-02T19:23:00+00:00"
     }
   ],
   "Food": []
