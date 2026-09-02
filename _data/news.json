@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
+      "published": "02 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-02T07:47:15+00:00"
+    },
+    {
       "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
       "published": "01 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "31 Aug 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-08-31T08:36:52+00:00"
-    },
-    {
-      "title": "UK Payroll: Making Payroll Results Easier to Read: SAP's RTI Table Refresh",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/uk-payroll-making-payroll-results-easier-to-read-sap-s-rti-table-refresh/ba-p/14474111",
-      "published": "31 Aug 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-08-31T08:31:41+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Filmfestfan wartet seit Tagen am roten Teppich in Venedig",
-      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-lido-100.html",
+      "title": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
+      "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T03:46:49+02:00"
+      "sort_date": "2026-09-02T12:24:21+02:00"
     },
     {
-      "title": "Putin bezeichnet deutsche Strafmaßnahmen als schweren Fehler",
-      "link": "https://www.tagesschau.de/ausland/asien/putin-ukraine-deutschland-100.html",
+      "title": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
+      "link": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T02:43:28+02:00"
+      "sort_date": "2026-09-02T11:57:05+02:00"
     },
     {
-      "title": "USA und Iran melden erneut heftige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+      "title": "Nach Drohnenfund in Leipzig: EU berät neue Sanktionen gegen Russland",
+      "link": "https://www.tagesschau.de/ausland/eu-treffen-russland-leipzig-drohnenvorfall-100.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T01:02:44+02:00"
+      "sort_date": "2026-09-02T11:56:32+02:00"
     },
     {
-      "title": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
-      "published": "01 Sep 2026",
+      "title": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
+      "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T21:56:04+02:00"
+      "sort_date": "2026-09-02T11:32:51+02:00"
     },
     {
-      "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
-      "published": "01 Sep 2026",
+      "title": "Marktbericht: DAX bleibt unter Druck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+      "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T21:09:43+02:00"
+      "sort_date": "2026-09-02T10:51:51+02:00"
     }
   ],
   "Food": []
