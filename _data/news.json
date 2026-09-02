@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Content for Clicks: AI Is Tearing Up the Web’s Social Contract",
+      "link": "https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/",
+      "published": "01 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-01T23:37:23+00:00"
+    },
+    {
       "title": "This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice.",
       "link": "https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/",
       "published": "31 Aug 2026",
@@ -101,22 +108,29 @@
       "published": "28 Aug 2026",
       "source": "SingularityHub",
       "sort_date": "2026-08-28T16:45:11+00:00"
-    },
-    {
-      "title": "Does Computer Science Need Computers?",
-      "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-      "published": "28 Aug 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-08-28T13:30:34+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Filmfestfan wartet seit Tagen am roten Teppich in Venedig",
+      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-lido-100.html",
+      "published": "02 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-02T03:46:49+02:00"
+    },
+    {
+      "title": "Putin bezeichnet deutsche Strafmaßnahmen als schweren Fehler",
+      "link": "https://www.tagesschau.de/ausland/asien/putin-ukraine-deutschland-100.html",
+      "published": "02 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-02T02:43:28+02:00"
+    },
     {
       "title": "USA und Iran melden erneut heftige Angriffe",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T00:37:46+02:00"
+      "sort_date": "2026-09-02T01:02:44+02:00"
     },
     {
       "title": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
@@ -131,20 +145,6 @@
       "published": "01 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-01T21:09:43+02:00"
-    },
-    {
-      "title": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
-      "published": "01 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-01T19:54:06+02:00"
-    },
-    {
-      "title": "EU reagiert auf \"hybride Kriegsführung\" Russlands",
-      "link": "https://www.dw.com/de/eu-reagiert-auf-hybride-kriegsführung-russlands/a-78655230?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "01 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-01T19:44:00+00:00"
     }
   ],
   "Food": []
