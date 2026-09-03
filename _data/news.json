@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Bundeswehr startete 2001 geheim und ohne Mandat nach Afghanistan",
+      "link": "https://www.tagesschau.de/investigativ/ndr/bundeswehr-afghanistan-186.html",
+      "published": "03 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-03T05:00:16+02:00"
+    },
+    {
+      "title": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
+      "link": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+      "published": "03 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-03T03:34:38+02:00"
+    },
+    {
       "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
       "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
       "published": "03 Sep 2026",
@@ -131,20 +145,6 @@
       "published": "02 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-02T20:30:29+02:00"
-    },
-    {
-      "title": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
-      "published": "02 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T20:19:24+02:00"
-    },
-    {
-      "title": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
-      "published": "02 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T20:06:02+02:00"
     }
   ],
   "Food": []
