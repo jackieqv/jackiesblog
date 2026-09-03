@@ -38,18 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
+      "published": "03 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-03T06:06:46+00:00"
+    },
+    {
       "title": "Faster National ID Data Capture in Onboarding with DocAI",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/faster-national-id-data-capture-in-onboarding-with-docai/ba-p/14478444",
       "published": "02 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-02T18:17:05+00:00"
-    },
-    {
-      "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
-      "published": "02 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-02T14:16:09+00:00"
     },
     {
       "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bundeswehr startete 2001 geheim und ohne Mandat nach Afghanistan",
-      "link": "https://www.tagesschau.de/investigativ/ndr/bundeswehr-afghanistan-186.html",
+      "title": "Bundesgerichtshof klärt Sampling-Streit um Kraftwerk-Beat",
+      "link": "https://www.tagesschau.de/kultur/bgh-urteil-sampling-kraftwerk-100.html",
       "published": "03 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T05:00:16+02:00"
+      "sort_date": "2026-09-03T11:57:32+02:00"
     },
     {
-      "title": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-      "link": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+      "title": "El Niño wird laut WMO-Bericht sehr stark ausfallen",
+      "link": "https://www.tagesschau.de/wissen/klima/who-warnt-vor-el-nino-100.html",
       "published": "03 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T03:34:38+02:00"
+      "sort_date": "2026-09-03T10:54:55+02:00"
     },
     {
-      "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
-      "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+      "title": "Marktbericht: Unsichere Zinspolitik hält Anleger vom Kaufen ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
       "published": "03 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T00:56:35+02:00"
+      "sort_date": "2026-09-03T10:52:35+02:00"
     },
     {
-      "title": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
-      "published": "02 Sep 2026",
+      "title": "Super E10 erreicht neuen Höchststand infolge des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
+      "published": "03 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T22:09:49+02:00"
+      "sort_date": "2026-09-03T10:49:41+02:00"
     },
     {
-      "title": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
-      "published": "02 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-02T20:30:29+02:00"
+      "title": "Bündnis gegen Rechts rüstet sich für Angriffe auf Demokratie",
+      "link": "https://www.dw.com/de/bündnis-gegen-rechts-rüstet-sich-für-angriffe-auf-demokratie/a-78621859?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "03 Sep 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-03T10:07:00+00:00"
     }
   ],
   "Food": []
