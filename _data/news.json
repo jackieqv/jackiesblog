@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T00:05:27+02:00"
+    },
+    {
       "title": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
       "published": "04 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-04T18:46:03+02:00"
-    },
-    {
-      "title": "Geht es mit Deutschlands Wirtschaft endlich wieder bergauf?",
-      "link": "https://www.dw.com/de/geht-es-mit-deutschlands-wirtschaft-endlich-wieder-bergauf/a-79032738?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "04 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-04T18:29:00+00:00"
     }
   ],
   "Food": []
