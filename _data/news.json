@@ -38,11 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "How We Built a Unified, AI-Powered Monitoring Solution for the SAP Landscape Using SAP BTP",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-unified-ai-powered-monitoring-solution-for-the-sap-landscape/ba-p/14479601",
+      "published": "04 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-04T08:25:37+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors DRTM - A Complete overview.",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-drtm-a-complete-overview/ba-p/14475959",
+      "published": "04 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-04T06:35:40+00:00"
+    },
+    {
       "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
       "published": "04 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-04T03:03:56+00:00"
+      "sort_date": "2026-09-04T03:56:40+00:00"
     },
     {
       "title": "Faster National ID Data Capture in Onboarding with DocAI",
@@ -57,20 +71,6 @@
       "published": "02 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-02T13:26:39+00:00"
-    },
-    {
-      "title": "Automating HR Manager Job Relationships in SAP SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-hr-manager-job-relationships-in-sap-successfactors-employee/ba-p/14466651",
-      "published": "01 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-01T13:36:41+00:00"
-    },
-    {
-      "title": "Employee grouping account determination for expense account",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/employee-grouping-account-determination-for-expense-account/ba-p/14472996",
-      "published": "31 Aug 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-08-31T08:43:16+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
-      "published": "03 Sep 2026",
+      "title": "Wohl Sabotageversuch in Dormagen - Vorfälle in Aachen und Ganderkesee",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-stromnetz-dormagen-aachen-ganderkesee-100.html",
+      "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T21:45:37+02:00"
+      "sort_date": "2026-09-04T12:17:15+02:00"
     },
     {
-      "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
-      "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-      "published": "03 Sep 2026",
+      "title": "Waldbrände in Indonesien breiten sich unkontrolliert aus",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-waldbraende-100.html",
+      "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T21:40:23+02:00"
+      "sort_date": "2026-09-04T11:56:24+02:00"
     },
     {
-      "title": "Warum in der Wahl auch ein Risiko für die AfD steckt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
-      "published": "03 Sep 2026",
+      "title": "Wie eine Textzeile Chinas bekanntestem Comedian zum Verhängnis wurde",
+      "link": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
+      "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T20:00:34+02:00"
+      "sort_date": "2026-09-04T11:40:43+02:00"
     },
     {
-      "title": "Warum vielen Syrern die Verurteilung Assads nicht ausreicht",
-      "link": "https://www.dw.com/de/warum-vielen-syrern-die-verurteilung-assads-nicht-ausreicht/a-78864260?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "03 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-03T19:58:00+00:00"
+      "title": "Thüringen: Weitere Abgeordnete verlassen BSW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html",
+      "published": "04 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-04T11:33:45+02:00"
     },
     {
-      "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
-      "published": "03 Sep 2026",
+      "title": "Landtagswahl in Sachsen-Anhalt: Letztes Festlegen der Machtoptionen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-spitzenkandidaten-100.html",
+      "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-03T19:46:02+02:00"
+      "sort_date": "2026-09-04T10:46:08+02:00"
     }
   ],
   "Food": []
