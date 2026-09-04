@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Building a Skills-Based Organisation with SAP SuccessFactors: What Really Matters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/building-a-skills-based-organisation-with-sap-successfactors-what-really/ba-p/14478284",
+      "published": "04 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-04T17:32:13+00:00"
+    },
+    {
       "title": "How We Built a Unified, AI-Powered Monitoring Solution for the SAP Landscape Using SAP BTP",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-unified-ai-powered-monitoring-solution-for-the-sap-landscape/ba-p/14479601",
       "published": "04 Sep 2026",
@@ -64,16 +71,16 @@
       "published": "02 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-02T18:17:05+00:00"
-    },
-    {
-      "title": "From Demographic Challenge to Labor Reform: How SAP Localization Supports Greece",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-demographic-challenge-to-labor-reform-how-sap-localization-supports/ba-p/14476749",
-      "published": "02 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-02T13:26:39+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
+      "link": "https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/",
+      "published": "04 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-04T19:08:33+00:00"
+    },
     {
       "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
       "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
@@ -101,50 +108,43 @@
       "published": "01 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-01T23:37:23+00:00"
-    },
-    {
-      "title": "This Drug Makes New Neurons in the Brain. Scientists Say It Reversed Alzheimer’s Symptoms in Mice.",
-      "link": "https://singularityhub.com/2026/08/31/this-drug-makes-new-neurons-in-the-brain-scientists-say-it-reversed-alzheimers-symptoms-in-mice/",
-      "published": "31 Aug 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-08-31T21:33:36+00:00"
     }
   ],
   "News": [
     {
-      "title": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
+      "title": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
       "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T17:39:58+02:00"
+      "sort_date": "2026-09-04T21:30:24+02:00"
     },
     {
-      "title": "Bas fordert Erhalt der VW-Produktionsstätten in Deutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/vw-sparmassnahmen-politische-reaktionen-100.html",
-      "published": "04 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T16:12:47+02:00"
-    },
-    {
-      "title": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
-      "link": "https://www.tagesschau.de/ausland/europa/insel-schweden-gewonnen-100.html",
-      "published": "04 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T15:45:30+02:00"
-    },
-    {
-      "title": "AfD-nahe Stiftung stellt Strafanzeige gegen Dobrindt",
-      "link": "https://www.dw.com/de/afd-nahe-stiftung-stellt-strafanzeige-gegen-dobrindt/a-79006561?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Wie Deutschland vom Auswanderer- zum Einwandererland wurde",
+      "link": "https://www.dw.com/de/wie-deutschland-vom-auswanderer-zum-einwandererland-wurde/a-78641831?maca=de-rss-de-top-1016-xml-mrss",
       "published": "04 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-04T15:39:00+00:00"
+      "sort_date": "2026-09-04T19:51:00+00:00"
     },
     {
-      "title": "Wie mit \"Durchstechereien\" Politik gemacht wird",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/leaks-politik-bundesregierung-100.html",
+      "title": "Wie kann die kritische Infrastruktur besser geschützt werden?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
       "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T15:21:25+02:00"
+      "sort_date": "2026-09-04T18:59:41+02:00"
+    },
+    {
+      "title": "Wie geht es im Thüringer Landtag nun weiter?",
+      "link": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
+      "published": "04 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-04T18:46:03+02:00"
+    },
+    {
+      "title": "Geht es mit Deutschlands Wirtschaft endlich wieder bergauf?",
+      "link": "https://www.dw.com/de/geht-es-mit-deutschlands-wirtschaft-endlich-wieder-bergauf/a-79032738?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "04 Sep 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-04T18:29:00+00:00"
     }
   ],
   "Food": []
