@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 5)",
+      "link": "https://singularityhub.com/2026/09/05/this-weeks-awesome-tech-stories-from-around-the-web-through-september-5-2/",
+      "published": "05 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-05T18:27:05+00:00"
+    },
+    {
       "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
       "link": "https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/",
       "published": "04 Sep 2026",
@@ -101,16 +108,23 @@
       "published": "02 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-02T14:21:02+00:00"
-    },
-    {
-      "title": "Content for Clicks: AI Is Tearing Up the Web’s Social Contract",
-      "link": "https://singularityhub.com/2026/09/01/content-for-clicks-ai-is-tearing-up-the-webs-social-contract/",
-      "published": "01 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-01T23:37:23+00:00"
     }
   ],
   "News": [
+    {
+      "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T21:14:33+02:00"
+    },
+    {
+      "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T19:52:19+02:00"
+    },
     {
       "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
       "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
@@ -131,20 +145,6 @@
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-05T17:08:27+02:00"
-    },
-    {
-      "title": "Vermummte legen Hafen im südenglischen Dover lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T16:42:26+02:00"
-    },
-    {
-      "title": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T16:09:11+02:00"
     }
   ],
   "Food": []
