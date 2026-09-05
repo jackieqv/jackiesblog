@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "UN stimmen für neue Weltkarte - Afrika wächst",
+      "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T02:12:20+02:00"
+    },
+    {
       "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
       "published": "05 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "04 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-04T18:59:41+02:00"
-    },
-    {
-      "title": "Wie geht es im Thüringer Landtag nun weiter?",
-      "link": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
-      "published": "04 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T18:46:03+02:00"
     }
   ],
   "Food": []
