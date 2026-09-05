@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+      "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+      "published": "06 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T00:20:33+02:00"
+    },
+    {
+      "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T22:42:55+02:00"
+    },
+    {
       "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
       "published": "05 Sep 2026",
@@ -131,20 +145,6 @@
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-05T18:50:32+02:00"
-    },
-    {
-      "title": "USA greifen iranische Öltanker an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T17:17:36+02:00"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T17:08:27+02:00"
     }
   ],
   "Food": []
