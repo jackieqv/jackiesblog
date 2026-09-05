@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "UN stimmen für neue Weltkarte - Afrika wächst",
-      "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+      "title": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T02:12:20+02:00"
+      "sort_date": "2026-09-05T11:55:05+02:00"
     },
     {
-      "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
+      "title": "EU-Kommission plant schärfere Regeln für Airbnb & Co",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-regeln-kurzzeitvermietung-100.html",
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T00:05:27+02:00"
+      "sort_date": "2026-09-05T11:17:45+02:00"
     },
     {
-      "title": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
-      "published": "04 Sep 2026",
+      "title": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
+      "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T21:30:24+02:00"
+      "sort_date": "2026-09-05T10:45:50+02:00"
     },
     {
-      "title": "Wie Deutschland vom Auswanderer- zum Einwandererland wurde",
-      "link": "https://www.dw.com/de/wie-deutschland-vom-auswanderer-zum-einwandererland-wurde/a-78641831?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "04 Sep 2026",
+      "title": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
+      "link": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T09:41:02+02:00"
+    },
+    {
+      "title": "EU gegen Airbnb im Kampf für bezahlbaren Wohnraum",
+      "link": "https://www.dw.com/de/eu-gegen-airbnb-im-kampf-für-bezahlbaren-wohnraum/a-79045057?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "05 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-04T19:51:00+00:00"
-    },
-    {
-      "title": "Wie kann die kritische Infrastruktur besser geschützt werden?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
-      "published": "04 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-04T18:59:41+02:00"
+      "sort_date": "2026-09-05T09:33:00+00:00"
     }
   ],
   "Food": []
