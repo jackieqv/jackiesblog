@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
+      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T18:50:32+02:00"
+    },
+    {
+      "title": "USA greifen iranische Öltanker an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T17:17:36+02:00"
+    },
+    {
+      "title": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T17:08:27+02:00"
+    },
+    {
+      "title": "Vermummte legen Hafen im südenglischen Dover lahm",
+      "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
+      "published": "05 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-05T16:42:26+02:00"
+    },
+    {
       "title": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-05T16:09:11+02:00"
-    },
-    {
-      "title": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
-      "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T15:17:16+02:00"
-    },
-    {
-      "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T14:49:26+02:00"
-    },
-    {
-      "title": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T14:38:20+02:00"
-    },
-    {
-      "title": "BSI sieht Gefahren nach Cyberangriff auf Berliner Verwaltung",
-      "link": "https://www.dw.com/de/bsi-sieht-gefahren-nach-cyberangriff-auf-berliner-verwaltung/a-79047708?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "05 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-05T13:57:00+00:00"
     }
   ],
   "Food": []
