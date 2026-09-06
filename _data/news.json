@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
+      "published": "06 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T05:02:56+02:00"
+    },
+    {
+      "title": "Witkoff und Kushner erstmals in Kiew erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+      "published": "06 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T04:58:49+02:00"
+    },
+    {
+      "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+      "published": "06 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T00:58:14+02:00"
+    },
+    {
       "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
       "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
       "published": "06 Sep 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-09-06T00:20:33+02:00"
     },
     {
-      "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T22:42:55+02:00"
-    },
-    {
       "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
       "published": "05 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-05T21:14:33+02:00"
-    },
-    {
-      "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T19:52:19+02:00"
-    },
-    {
-      "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
-      "published": "05 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-05T18:50:32+02:00"
     }
   ],
   "Food": []
