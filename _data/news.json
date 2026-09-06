@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "AI-Powered SuccessFactors Data Migration: How to Automate & Streamline EC Import Template",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ai-powered-successfactors-data-migration-how-to-automate-amp-streamline-ec/ba-p/14480280",
+      "published": "06 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-06T10:50:58+00:00"
+    },
+    {
       "title": "Building a Skills-Based Organisation with SAP SuccessFactors: What Really Matters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/building-a-skills-based-organisation-with-sap-successfactors-what-really/ba-p/14478284",
       "published": "04 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "04 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-04T03:56:40+00:00"
-    },
-    {
-      "title": "Faster National ID Data Capture in Onboarding with DocAI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/faster-national-id-data-capture-in-onboarding-with-docai/ba-p/14478444",
-      "published": "02 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-02T18:17:05+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Tote und Verletzte bei neuen Angriffen Israels in Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html",
-      "published": "06 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T12:17:03+02:00"
-    },
-    {
-      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: AfD-Regierung würde laut Experten Wirtschaft schaden ++",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: So funktioniert die 18-Uhr-Prognose ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
       "published": "06 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T12:15:39+02:00"
+      "sort_date": "2026-09-06T16:56:14+02:00"
     },
     {
-      "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
+      "title": "Lawrow wirft Deutschland vor, Krieg gegen Russland zu führen",
+      "link": "https://www.tagesschau.de/ausland/europa/lawrow-deutschland-drohnen-100.html",
       "published": "06 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T11:23:44+02:00"
+      "sort_date": "2026-09-06T16:34:07+02:00"
     },
     {
-      "title": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
-      "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+      "title": "Berlin: Gedenkbaum für Opfer des CSD-Anschlags herausgerissen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gedenkbaum-csd-anschlag-herausgerissen-100.html",
       "published": "06 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T09:13:44+02:00"
+      "sort_date": "2026-09-06T16:30:20+02:00"
     },
     {
-      "title": "Vulkanausbruch lähmt Flughäfen in Indonesien",
-      "link": "https://www.dw.com/de/vulkanausbruch-lähmt-flughäfen-in-indonesien/a-79052104?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Bundespolitiker fordern Konsequenzen nach Hackerangriff in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hackerangriff-berlin-102.html",
       "published": "06 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-06T08:51:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T14:18:50+02:00"
+    },
+    {
+      "title": "Hambacher Forst: Großfahndung nach mutmaßlichem Stromnetz-Saboteur",
+      "link": "https://www.tagesschau.de/inland/fahndung-sabotage-infrastruktur-100.html",
+      "published": "06 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-06T14:14:36+02:00"
     }
   ],
   "Food": []
