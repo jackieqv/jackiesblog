@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Nach der Wahl: Wie geht es weiter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T04:55:15+02:00"
+    },
+    {
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T03:39:14+02:00"
+    },
+    {
+      "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T03:14:02+02:00"
+    },
+    {
       "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
       "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
       "published": "07 Sep 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-09-07T00:39:26+02:00"
     },
     {
-      "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "published": "06 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T23:53:59+02:00"
-    },
-    {
       "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
       "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
       "published": "06 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-06T23:52:36+02:00"
-    },
-    {
-      "title": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-gesellschaft-landtagswahl-sachsen-anhalt-100.html",
-      "published": "06 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T23:39:17+02:00"
-    },
-    {
-      "title": "Warum der Kanzler wackelt - und weitere Lehren aus der Wahl in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-erkenntnisse-100.html",
-      "published": "06 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T22:43:45+02:00"
     }
   ],
   "Food": []
