@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Automate Business Processes and Ensure Data Quality with Workflows in Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/automate-business-processes-and-ensure-data-quality-with-workflows-in/ba-p/14480478",
+      "published": "07 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-07T06:08:00+00:00"
+    },
+    {
       "title": "AI-Powered SuccessFactors Data Migration: How to Automate & Streamline EC Import Template",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ai-powered-successfactors-data-migration-how-to-automate-amp-streamline-ec/ba-p/14480280",
       "published": "06 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "04 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-04T06:35:40+00:00"
-    },
-    {
-      "title": "Consolidated Time Recording (CTR) in New SAP S/4HANA Public Cloud Timesheet App for Prof Services",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/consolidated-time-recording-ctr-in-new-sap-s-4hana-public-cloud-timesheet/ba-p/14477901",
-      "published": "04 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-04T03:56:40+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nach der Wahl: Wie geht es weiter?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
-      "published": "07 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T04:55:15+02:00"
-    },
-    {
-      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: ++ Kardinal Marx fordert Einsatz für Menschenwürde ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
       "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T03:39:14+02:00"
+      "sort_date": "2026-09-07T13:34:38+02:00"
     },
     {
-      "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "title": "Wahl in Sachsen-Anhalt: Siegmund will stabile Mehrheit suchen",
+      "link": "https://www.tagesschau.de/inland/afd-siegmund-100.html",
       "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T03:14:02+02:00"
+      "sort_date": "2026-09-07T12:29:03+02:00"
     },
     {
-      "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+      "title": "Meteorologen warnen vor Gesundheitsschäden durch Großfeuer",
+      "link": "https://www.tagesschau.de/wissen/klima/luftqualitaet-braende-feinstaub-wmo-100.html",
       "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T00:39:26+02:00"
+      "sort_date": "2026-09-07T11:56:13+02:00"
     },
     {
-      "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
-      "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
-      "published": "06 Sep 2026",
+      "title": "US-Sondergesandte in Kiew: \"Beide Seiten müssen Kompromisse eingehen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kiew-besuch-witkoff-kushner-100.html",
+      "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-06T23:52:36+02:00"
+      "sort_date": "2026-09-07T11:36:09+02:00"
+    },
+    {
+      "title": "Explosion in Umspannwerk: Berliner Polizei geht von Kurzschluss aus",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T11:33:12+02:00"
     }
   ],
   "Food": []
