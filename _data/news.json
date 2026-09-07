@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T21:11:43+02:00"
+    },
+    {
+      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
+      "published": "07 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-07T19:48:48+02:00"
+    },
+    {
       "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
       "link": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
       "published": "07 Sep 2026",
@@ -131,20 +145,6 @@
       "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-07T18:26:45+02:00"
-    },
-    {
-      "title": "Proteste gegen Aufnahme von Migranten im südenglischen Portsmouth",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-portsmouth-ausschreitungen-gegen-migranten-100.html",
-      "published": "07 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T17:49:32+02:00"
-    },
-    {
-      "title": "Russland schließt deutsches Konsulat in St. Petersburg",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-schliessung-konsulat-100.html",
-      "published": "07 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T17:49:18+02:00"
     }
   ],
   "Food": []
