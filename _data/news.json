@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+      "published": "08 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-08T05:09:42+02:00"
+    },
+    {
+      "title": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
+      "published": "08 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-08T04:20:08+02:00"
+    },
+    {
       "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
       "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
       "published": "07 Sep 2026",
@@ -131,20 +145,6 @@
       "published": "07 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-07T18:43:02+02:00"
-    },
-    {
-      "title": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html",
-      "published": "07 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T18:42:48+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX verteidigt runde Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
-      "published": "07 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T18:26:45+02:00"
     }
   ],
   "Food": []
