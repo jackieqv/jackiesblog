@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Global Benefits: Dynamic Benefit Enrollment End Date Workaround",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-global-benefits-dynamic-benefit-enrollment-end-date/ba-p/14481805",
+      "published": "08 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-08T18:05:46+00:00"
+    },
+    {
       "title": "Performance Management and Integration center: How to export ratings in every step via IC",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/performance-management-and-integration-center-how-to-export-ratings-in/ba-p/14481234",
       "published": "08 Sep 2026",
@@ -64,16 +71,23 @@
       "published": "07 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-07T06:08:00+00:00"
-    },
-    {
-      "title": "AI-Powered SuccessFactors Data Migration: How to Automate & Streamline EC Import Template",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/ai-powered-successfactors-data-migration-how-to-automate-amp-streamline-ec/ba-p/14480280",
-      "published": "06 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-06T10:50:58+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Could GLP-1 Drugs Help You Live a Longer, Healthier Life?",
+      "link": "https://singularityhub.com/2026/09/08/could-glp-1-drugs-help-you-live-a-longer-healthier-life/",
+      "published": "08 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-08T17:33:08+00:00"
+    },
+    {
+      "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "published": "08 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-08T08:43:52+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 5)",
       "link": "https://singularityhub.com/2026/09/05/this-weeks-awesome-tech-stories-from-around-the-web-through-september-5-2/",
@@ -94,57 +108,43 @@
       "published": "03 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-03T13:41:48+00:00"
-    },
-    {
-      "title": "In an Age of AI, a Physicist Seeks What Endures",
-      "link": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "published": "03 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-03T13:35:59+00:00"
-    },
-    {
-      "title": "Genome Duplication Is a Radical Evolutionary Gamble",
-      "link": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/",
-      "published": "02 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-02T14:21:02+00:00"
     }
   ],
   "News": [
     {
-      "title": "Liveblog zu Sachsen-Anhalt: ++ CDU-Vize in Mecklenburg-Vorpommern fordert Merz-Rücktritt ++",
+      "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T18:01:14+02:00"
+      "sort_date": "2026-09-08T22:18:14+02:00"
     },
     {
-      "title": "Zahl der Opfer durch Streubomben laut Hilfsorganisationen verdreifacht",
-      "link": "https://www.tagesschau.de/ausland/europa/streubomben-monitor-100.html",
+      "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T17:50:54+02:00"
+      "sort_date": "2026-09-08T22:03:18+02:00"
     },
     {
-      "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
+      "title": "Parteitag in Dallas: Wie Trump die Midterms prägen will",
+      "link": "https://www.dw.com/de/parteitag-in-dallas-wie-trump-die-midterms-prägen-will/a-79148305?maca=de-rss-de-top-1016-xml-mrss",
       "published": "08 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T17:28:36+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-08T19:35:00+00:00"
     },
     {
-      "title": "PISA-Ergebnisse entfachen neue Bildungsdebatte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html",
+      "title": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "link": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T17:24:49+02:00"
+      "sort_date": "2026-09-08T18:47:44+02:00"
     },
     {
-      "title": "NRW-Ministerpräsident Wüst für AfD-Prüfung durch Bund-Länder-Gruppe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsrecht-wuest-100.html",
+      "title": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T16:18:52+02:00"
+      "sort_date": "2026-09-08T18:44:06+02:00"
     }
   ],
   "Food": []
