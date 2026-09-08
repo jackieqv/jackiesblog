@@ -112,11 +112,18 @@
   ],
   "News": [
     {
+      "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "published": "09 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-09T01:08:56+02:00"
+    },
+    {
       "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T22:18:14+02:00"
+      "sort_date": "2026-09-08T23:01:22+02:00"
     },
     {
       "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
@@ -138,13 +145,6 @@
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-08T18:47:44+02:00"
-    },
-    {
-      "title": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
-      "published": "08 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T18:44:06+02:00"
     }
   ],
   "Food": []
