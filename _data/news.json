@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Performance Management and Integration center: How to export ratings in every step via IC",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/performance-management-and-integration-center-how-to-export-ratings-in/ba-p/14481234",
+      "published": "08 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-08T06:11:25+00:00"
+    },
+    {
+      "title": "Experiences Are Not Skills: Stable Talent Data for Insight, Action, and AI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/experiences-are-not-skills-stable-talent-data-for-insight-action-and-ai/ba-p/14437239",
+      "published": "08 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-08T04:30:59+00:00"
+    },
+    {
+      "title": "RCM to ONB Integration: Replicating the Candidate Nationality",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/rcm-to-onb-integration-replicating-the-candidate-nationality/ba-p/14477912",
+      "published": "08 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-08T04:19:29+00:00"
+    },
+    {
       "title": "Automate Business Processes and Ensure Data Quality with Workflows in Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/automate-business-processes-and-ensure-data-quality-with-workflows-in/ba-p/14480478",
       "published": "07 Sep 2026",
@@ -50,27 +71,6 @@
       "published": "06 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-06T10:50:58+00:00"
-    },
-    {
-      "title": "Building a Skills-Based Organisation with SAP SuccessFactors: What Really Matters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/building-a-skills-based-organisation-with-sap-successfactors-what-really/ba-p/14478284",
-      "published": "04 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-04T17:32:13+00:00"
-    },
-    {
-      "title": "How We Built a Unified, AI-Powered Monitoring Solution for the SAP Landscape Using SAP BTP",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-unified-ai-powered-monitoring-solution-for-the-sap-landscape/ba-p/14479601",
-      "published": "04 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-04T08:25:37+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors DRTM - A Complete overview.",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-drtm-a-complete-overview/ba-p/14475959",
-      "published": "04 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-04T06:35:40+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+      "title": "Liveblog zu Sachsen-Anhalt: ++ AfD will alle Parteien zu Sondierungen einladen ++",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T05:09:42+02:00"
+      "sort_date": "2026-09-08T12:29:48+02:00"
     },
     {
-      "title": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
+      "title": "EU-Rechnungshof: Defizite bei Bekämpfung von illegalem Tabakhandel",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-rechnungshof-zigaretten-100.html",
       "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T04:20:08+02:00"
+      "sort_date": "2026-09-08T12:00:07+02:00"
     },
     {
-      "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
-      "published": "07 Sep 2026",
+      "title": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
+      "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T21:11:43+02:00"
+      "sort_date": "2026-09-08T11:37:08+02:00"
     },
     {
-      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
-      "published": "07 Sep 2026",
+      "title": "Deutscher Buchpreis 2026: Diese sechs Romane sind nominiert",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/shortlist-deutscher-buchpreis-102.html",
+      "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T19:48:48+02:00"
+      "sort_date": "2026-09-08T10:38:50+02:00"
     },
     {
-      "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
-      "published": "07 Sep 2026",
+      "title": "Amazon-Flugzeug in Miami: Ermittler bergen beide Flugschreiber",
+      "link": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
+      "published": "08 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-07T18:43:02+02:00"
+      "sort_date": "2026-09-08T10:25:27+02:00"
     }
   ],
   "Food": []
