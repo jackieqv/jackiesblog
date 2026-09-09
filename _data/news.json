@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Norwegens König Harald V. wird in Oslo beigesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-beerdigung-koenig-harald-100.html",
+      "published": "09 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-09T05:08:50+02:00"
+    },
+    {
+      "title": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
+      "published": "09 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-09T05:08:34+02:00"
+    },
+    {
+      "title": "Wie der Konflikt im Jemen wieder aufflammt",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
+      "published": "09 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-09T05:08:13+02:00"
+    },
+    {
+      "title": "Generaldebatte mit Wahldesaster im Rücken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-wahl-sachsen-anhalt-100.html",
+      "published": "09 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-09T05:08:05+02:00"
+    },
+    {
       "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
       "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
       "published": "09 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-09T01:08:56+02:00"
-    },
-    {
-      "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-      "published": "08 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T23:01:22+02:00"
-    },
-    {
-      "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
-      "published": "08 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T22:03:18+02:00"
-    },
-    {
-      "title": "Parteitag in Dallas: Wie Trump die Midterms prägen will",
-      "link": "https://www.dw.com/de/parteitag-in-dallas-wie-trump-die-midterms-prägen-will/a-79148305?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "08 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-08T19:35:00+00:00"
-    },
-    {
-      "title": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
-      "published": "08 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-08T18:47:44+02:00"
     }
   ],
   "Food": []
