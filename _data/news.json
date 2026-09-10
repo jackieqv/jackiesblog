@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Europe’s First Private Rocket Reaches Orbit",
+      "link": "https://singularityhub.com/2026/09/10/europes-first-private-rocket-reaches-orbit/",
+      "published": "10 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-10T21:18:30+00:00"
+    },
+    {
       "title": "The Four-Color Theorem Gets a Rare New Proof",
       "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
       "published": "10 Sep 2026",
@@ -101,16 +108,16 @@
       "published": "08 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-08T08:43:52+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 5)",
-      "link": "https://singularityhub.com/2026/09/05/this-weeks-awesome-tech-stories-from-around-the-web-through-september-5-2/",
-      "published": "05 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-05T18:27:05+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Ermittlungen gegen Krach in drei Fällen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+      "published": "11 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-11T00:03:41+02:00"
+    },
     {
       "title": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
       "link": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
@@ -138,13 +145,6 @@
       "published": "10 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-09-10T19:50:00+00:00"
-    },
-    {
-      "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
-      "published": "10 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T19:18:47+02:00"
     }
   ],
   "Food": []
