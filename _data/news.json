@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "The Four-Color Theorem Gets a Rare New Proof",
+      "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "published": "10 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-10T14:27:36+00:00"
+    },
+    {
       "title": "What Is Math’s Mysterious Langlands Program Really About?",
       "link": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
       "published": "09 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "05 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-05T18:27:05+00:00"
-    },
-    {
-      "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
-      "link": "https://singularityhub.com/2026/09/04/anthropics-claude-can-now-autonomously-run-science-experiments-with-lab-equipment/",
-      "published": "04 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-04T19:08:33+00:00"
     }
   ],
   "News": [
     {
-      "title": "Ukrainische Journalisten fordern Pressekonferenz von Präsidenten Selenskyj",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-journalisten-100.html",
+      "title": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
+      "link": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T12:39:01+02:00"
+      "sort_date": "2026-09-10T17:49:51+02:00"
     },
     {
-      "title": "Wo die Verbraucherpreise am stärksten steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-deutschland-august-details-100.html",
+      "title": "Iran-Krieg: Wie die Golfstaaten US-Präsident Trump sehen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T12:21:08+02:00"
+      "sort_date": "2026-09-10T17:43:18+02:00"
     },
     {
-      "title": "25 Jahre nach 9/11: Auf die Anschläge folgte die Überwachung",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-innenpolitik-100.html",
+      "title": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
+      "link": "https://www.tagesschau.de/wissen/sturzflut-gefahr-alpen-100.html",
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T12:10:38+02:00"
+      "sort_date": "2026-09-10T17:09:37+02:00"
     },
     {
-      "title": "Tote nach russischem Angriff auf Einkaufszentrum in Sumy",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-108.html",
+      "title": "ARD-Vorwahlumfrage für Mecklenburg-Vorpommern: AfD klar vor SPD",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-mecklenburg-vorpommern-100.html",
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T11:33:23+02:00"
+      "sort_date": "2026-09-10T17:00:39+02:00"
     },
     {
-      "title": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+      "title": "Weltraumgipfel in Paris: Frankreichs Präsident Macron macht Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/weltraumgipfel-paris-100.html",
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T11:13:06+02:00"
+      "sort_date": "2026-09-10T16:58:47+02:00"
     }
   ],
   "Food": []
