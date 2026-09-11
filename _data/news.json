@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Wie der 11. September die deutsche Gesellschaft prägte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
+      "published": "11 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-11T03:37:15+02:00"
+    },
+    {
+      "title": "Mehrere Tote nach Busunglück in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
+      "published": "11 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-11T03:03:39+02:00"
+    },
+    {
+      "title": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
+      "published": "11 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-11T02:57:21+02:00"
+    },
+    {
       "title": "Ermittlungen gegen Krach in drei Fällen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
       "published": "11 Sep 2026",
@@ -124,27 +145,6 @@
       "published": "10 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-10T21:23:15+02:00"
-    },
-    {
-      "title": "Emirate investieren 40 Milliarden Euro in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
-      "published": "10 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T20:24:58+02:00"
-    },
-    {
-      "title": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
-      "published": "10 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-10T20:03:25+02:00"
-    },
-    {
-      "title": "25 Jahre 9/11: Al-Kaida ist nicht verschwunden",
-      "link": "https://www.dw.com/de/25-jahre-9-11-al-kaida-ist-nicht-verschwunden/a-79190066?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "10 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-10T19:50:00+00:00"
     }
   ],
   "Food": []
