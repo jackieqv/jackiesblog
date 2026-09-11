@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
+      "link": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
+      "published": "11 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-11T14:14:40+00:00"
+    },
+    {
       "title": "Europe’s First Private Rocket Reaches Orbit",
       "link": "https://singularityhub.com/2026/09/10/europes-first-private-rocket-reaches-orbit/",
       "published": "10 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "08 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-08T17:33:08+00:00"
-    },
-    {
-      "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
-      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-      "published": "08 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-08T08:43:52+00:00"
     }
   ],
   "News": [
     {
-      "title": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html",
+      "title": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-gedenken-102.html",
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-11T12:29:58+02:00"
+      "sort_date": "2026-09-11T17:13:02+02:00"
     },
     {
-      "title": "Wie der 11. September die US-Außenpolitik verändert hat",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
+      "title": "25 Jahre nach den Anschlägen - 9/11 ist nicht vorbei",
+      "link": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html",
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-11T11:33:10+02:00"
+      "sort_date": "2026-09-11T16:46:01+02:00"
     },
     {
-      "title": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
-      "link": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
+      "title": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-11T11:21:08+02:00"
+      "sort_date": "2026-09-11T15:41:00+02:00"
     },
     {
-      "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+      "title": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
+      "link": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-11T11:20:29+02:00"
+      "sort_date": "2026-09-11T15:37:59+02:00"
     },
     {
-      "title": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
+      "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-11T11:08:49+02:00"
+      "sort_date": "2026-09-11T15:37:07+02:00"
     }
   ],
   "Food": []
