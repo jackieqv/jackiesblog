@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy",
+      "link": "https://singularityhub.com/2026/09/11/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy/",
+      "published": "11 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-11T21:09:09+00:00"
+    },
+    {
       "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
       "link": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
       "published": "11 Sep 2026",
@@ -101,16 +108,16 @@
       "published": "09 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-09T14:44:13+00:00"
-    },
-    {
-      "title": "Could GLP-1 Drugs Help You Live a Longer, Healthier Life?",
-      "link": "https://singularityhub.com/2026/09/08/could-glp-1-drugs-help-you-live-a-longer-healthier-life/",
-      "published": "08 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-08T17:33:08+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+      "published": "11 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-11T23:31:05+02:00"
+    },
     {
       "title": "Seenotretter in England als Ziel rechter Anfeindung",
       "link": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
@@ -138,13 +145,6 @@
       "published": "11 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-11T18:50:32+02:00"
-    },
-    {
-      "title": "AfD setzt Deutschlands Ukraine-Hilfe unter Druck",
-      "link": "https://www.dw.com/de/afd-setzt-deutschlands-ukraine-hilfe-unter-druck/a-79226316?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "11 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-11T18:43:00+00:00"
     }
   ],
   "Food": []
