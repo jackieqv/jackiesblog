@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
+      "title": "Hochrechnung: Sozialdemokraten bei Wahl in Schweden vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
       "published": "13 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-13T17:08:51+02:00"
+      "sort_date": "2026-09-13T22:22:27+02:00"
+    },
+    {
+      "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T20:44:54+02:00"
+    },
+    {
+      "title": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
+      "link": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T19:43:05+02:00"
+    },
+    {
+      "title": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T17:56:14+02:00"
     },
     {
       "title": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
@@ -124,27 +145,6 @@
       "published": "13 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-13T16:28:14+02:00"
-    },
-    {
-      "title": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
-      "published": "13 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-13T16:09:26+02:00"
-    },
-    {
-      "title": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-      "published": "13 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-13T15:03:38+02:00"
-    },
-    {
-      "title": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
-      "link": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
-      "published": "13 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-13T13:24:56+02:00"
     }
   ],
   "Food": []
