@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T04:44:07+02:00"
+    },
+    {
+      "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T02:03:56+02:00"
+    },
+    {
+      "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+      "published": "13 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-13T01:53:35+02:00"
+    },
+    {
       "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
       "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
       "published": "12 Sep 2026",
@@ -124,27 +145,6 @@
       "published": "12 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-12T19:55:57+02:00"
-    },
-    {
-      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "published": "12 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-12T19:38:32+02:00"
-    },
-    {
-      "title": "Droht der nächste Ölpreis-Schock?",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-      "published": "12 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-12T19:31:20+02:00"
-    },
-    {
-      "title": "Nach Mladic-Beisetzung - Serbien in die EU?",
-      "link": "https://www.dw.com/de/nach-mladic-beisetzung-serbien-in-die-eu/a-79239464?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "12 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-12T19:23:00+00:00"
     }
   ],
   "Food": []
