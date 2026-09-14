@@ -75,6 +75,27 @@
   ],
   "Science": [
     {
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "published": "14 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-14T15:20:48+00:00"
+    },
+    {
+      "title": "Google’s Genome Atlas Predicts the Effect of Every Possible DNA Mutation",
+      "link": "https://singularityhub.com/2026/09/14/googles-genome-atlas-predicts-the-effect-of-every-possible-dna-mutation/",
+      "published": "14 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-14T14:01:00+00:00"
+    },
+    {
+      "title": "The Real AI Disruption Isn’t the Technology. It’s the Company.",
+      "link": "https://singularityhub.com/2026/09/14/the-real-ai-disruption-isnt-the-technology-its-the-company/",
+      "published": "14 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-14T14:00:00+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 12)",
       "link": "https://singularityhub.com/2026/09/12/this-weeks-awesome-tech-stories-from-around-the-web-through-september-12-2/",
       "published": "12 Sep 2026",
@@ -87,64 +108,43 @@
       "published": "11 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-11T21:09:09+00:00"
-    },
-    {
-      "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
-      "link": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
-      "published": "11 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-11T14:14:40+00:00"
-    },
-    {
-      "title": "Europe’s First Private Rocket Reaches Orbit",
-      "link": "https://singularityhub.com/2026/09/10/europes-first-private-rocket-reaches-orbit/",
-      "published": "10 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-10T21:18:30+00:00"
-    },
-    {
-      "title": "The Four-Color Theorem Gets a Rare New Proof",
-      "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
-      "published": "10 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-10T14:27:36+00:00"
     }
   ],
   "News": [
     {
-      "title": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html",
+      "title": "Oasis kündigt Konzerte in Deutschland an",
+      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
       "published": "14 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-14T13:09:07+02:00"
+      "sort_date": "2026-09-14T18:54:42+02:00"
     },
     {
-      "title": "Bundesanwaltschaft: Anklage gegen mutmaßliche Russland-Spionin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-spionin-russland-100.html",
+      "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
       "published": "14 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-14T13:03:53+02:00"
+      "sort_date": "2026-09-14T18:28:06+02:00"
     },
     {
-      "title": "Berlin-Wahl: Wie Stefan Evers zum CDU-Spitzenkandidaten wurde",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-evers-100.html",
+      "title": "Marktbericht: KI- und Zinssorgen bremsen DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
       "published": "14 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-14T12:22:07+02:00"
+      "sort_date": "2026-09-14T18:21:36+02:00"
     },
     {
-      "title": "Golftstaaten: Krisentreffen zur Lage in Straße von Hormus verschoben",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-naher-osten-oman-huthi-100.html",
+      "title": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
+      "link": "https://www.tagesschau.de/ausland/europa/litauen-brigade-verpflichtung-100.html",
       "published": "14 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-14T12:10:56+02:00"
+      "sort_date": "2026-09-14T18:20:32+02:00"
     },
     {
-      "title": "Knobloch: Der Gedanke an die NS-Zeit ist wieder alltäglich",
-      "link": "https://www.dw.com/de/knobloch-der-gedanke-an-die-ns-zeit-ist-wieder-alltäglich/a-79254969?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Drängt Moskau Schüler wegen Fachkräftemangel in den Arbeitsmarkt?",
+      "link": "https://www.tagesschau.de/ausland/europa/fachkraeftemangel-russland-schueler-100.html",
       "published": "14 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-14T10:59:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-14T17:06:02+02:00"
     }
   ],
   "Food": []
