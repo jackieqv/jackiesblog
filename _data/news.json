@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Introducing \"Unlocking AI for HR\" Podcast",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-quot-unlocking-ai-for-hr-quot-podcast/ba-p/14485600",
+      "published": "15 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-15T17:08:00+00:00"
+    },
+    {
       "title": "Your Runway to Autonomous Learning &Talent: Get ready for HCM Assistants - Series 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/your-runway-to-autonomous-learning-amp-talent-get-ready-for-hcm-assistants/ba-p/14485523",
       "published": "15 Sep 2026",
@@ -64,16 +71,16 @@
       "published": "11 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-11T06:28:42+00:00"
-    },
-    {
-      "title": "Replication Error: Query can't be created last modified date goes back more than 3 months",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replication-error-query-can-t-be-created-last-modified-date-goes-back-more/ba-p/14480718",
-      "published": "10 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-10T05:52:37+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Single CAR T Injection Eases Multiple Sclerosis Symptoms in Small Trial",
+      "link": "https://singularityhub.com/2026/09/15/single-car-t-injection-eases-multiple-sclerosis-symptoms-in-small-trial/",
+      "published": "15 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-15T19:45:41+00:00"
+    },
     {
       "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
       "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
@@ -101,50 +108,43 @@
       "published": "12 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-12T14:00:00+00:00"
-    },
-    {
-      "title": "OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy",
-      "link": "https://singularityhub.com/2026/09/11/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy/",
-      "published": "11 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-11T21:09:09+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Krisensignale häufen sich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
+      "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
+      "link": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T18:20:10+02:00"
+      "sort_date": "2026-09-15T21:30:53+02:00"
     },
     {
-      "title": "Türkei: Menschen bei LGBTQ-Solidaritätsdemo festgenommen",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-lgbtq-festnahmen-100.html",
+      "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T17:45:11+02:00"
+      "sort_date": "2026-09-15T21:17:52+02:00"
     },
     {
-      "title": "Klagen gegen Preiserhöhungen bei Streaming-Anbietern",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/streaminganbieter-rechtsstreit-preiserhoehungen-100.html",
+      "title": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T17:30:33+02:00"
+      "sort_date": "2026-09-15T20:42:47+02:00"
     },
     {
-      "title": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html",
+      "title": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T17:03:57+02:00"
+      "sort_date": "2026-09-15T19:05:36+02:00"
     },
     {
-      "title": "Mutmaßlicher Drohnen-Saboteur soll Kontakt zu russischem GRU-Oberst haben",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/leipzig-drohne-saboteur-100.html",
+      "title": "Bekannt aus \"Das Boot\": Schauspieler Ralf Richter ist tot",
+      "link": "https://www.tagesschau.de/kultur/ralf-richter-tot-102.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T17:01:17+02:00"
+      "sort_date": "2026-09-15T19:01:14+02:00"
     }
   ],
   "Food": []
