@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+      "published": "16 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-16T01:13:56+02:00"
+    },
+    {
       "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
       "link": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
       "published": "15 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-15T19:05:36+02:00"
-    },
-    {
-      "title": "Bekannt aus \"Das Boot\": Schauspieler Ralf Richter ist tot",
-      "link": "https://www.tagesschau.de/kultur/ralf-richter-tot-102.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T19:01:14+02:00"
     }
   ],
   "Food": []
