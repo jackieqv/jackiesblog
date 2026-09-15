@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Your Runway to Autonomous Learning &Talent: Get ready for HCM Assistants - Series 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/your-runway-to-autonomous-learning-amp-talent-get-ready-for-hcm-assistants/ba-p/14485523",
+      "published": "15 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-15T15:10:06+00:00"
+    },
+    {
+      "title": "SAP Success Factors: Perception vs. Reality",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-success-factors-perception-vs-reality/ba-p/14485490",
+      "published": "15 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-15T13:41:39+00:00"
+    },
+    {
       "title": "Smart Succession: Leveraging SuccessFactors ISC to Trigger Performance Feedback on Employee Exit",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/smart-succession-leveraging-successfactors-isc-to-trigger-performance/ba-p/14483490",
       "published": "11 Sep 2026",
@@ -57,20 +71,6 @@
       "published": "10 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-10T05:52:37+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Global Benefits: Dynamic Benefit Enrollment End Date Workaround",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-global-benefits-dynamic-benefit-enrollment-end-date/ba-p/14481805",
-      "published": "08 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-08T18:05:46+00:00"
-    },
-    {
-      "title": "Performance Management and Integration center: How to export ratings in every step via IC",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/performance-management-and-integration-center-how-to-export-ratings-in/ba-p/14481234",
-      "published": "08 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-08T06:11:25+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
-      "link": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T13:05:37+02:00"
-    },
-    {
-      "title": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T12:34:53+02:00"
-    },
-    {
-      "title": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
+      "title": "Marktbericht: Krisensignale häufen sich",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T10:58:41+02:00"
+      "sort_date": "2026-09-15T18:20:10+02:00"
     },
     {
-      "title": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
+      "title": "Türkei: Menschen bei LGBTQ-Solidaritätsdemo festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-lgbtq-festnahmen-100.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T10:43:00+02:00"
+      "sort_date": "2026-09-15T17:45:11+02:00"
     },
     {
-      "title": "Russischer Oligarch hat Hochzeit von Trump Jr. mitfinanziert",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-oligarch-trump-jr-hochzeitsfeier-100.html",
+      "title": "Klagen gegen Preiserhöhungen bei Streaming-Anbietern",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/streaminganbieter-rechtsstreit-preiserhoehungen-100.html",
       "published": "15 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T10:42:11+02:00"
+      "sort_date": "2026-09-15T17:30:33+02:00"
+    },
+    {
+      "title": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html",
+      "published": "15 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-15T17:03:57+02:00"
+    },
+    {
+      "title": "Mutmaßlicher Drohnen-Saboteur soll Kontakt zu russischem GRU-Oberst haben",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/leipzig-drohne-saboteur-100.html",
+      "published": "15 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-15T17:01:17+02:00"
     }
   ],
   "Food": []
