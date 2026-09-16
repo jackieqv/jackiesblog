@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Resolving \"Related BP Already Linked with a Different User\" Error During",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/resolving-quot-related-bp-already-linked-with-a-different-user-quot-error/ba-p/14482023",
+      "published": "16 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-16T06:24:40+00:00"
+    },
+    {
       "title": "Introducing \"Unlocking AI for HR\" Podcast",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-quot-unlocking-ai-for-hr-quot-podcast/ba-p/14485600",
       "published": "15 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "11 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-11T06:33:53+00:00"
-    },
-    {
-      "title": "Controlling Retroactive Payroll Data Changes in Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/controlling-retroactive-payroll-data-changes-in-employee-central/ba-p/14481423",
-      "published": "11 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-11T06:28:42+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
+      "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
+      "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T05:06:56+02:00"
+      "sort_date": "2026-09-16T12:02:53+02:00"
     },
     {
-      "title": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
-      "link": "https://www.tagesschau.de/investigativ/swr/maskendeals-100.html",
+      "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T05:02:36+02:00"
+      "sort_date": "2026-09-16T11:45:01+02:00"
     },
     {
-      "title": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
-      "link": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
+      "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T04:32:18+02:00"
+      "sort_date": "2026-09-16T11:42:18+02:00"
     },
     {
-      "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
-      "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
+      "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T02:17:12+02:00"
+      "sort_date": "2026-09-16T11:00:34+02:00"
     },
     {
-      "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+      "title": "ADAC: Mehr Staus in den Sommerferien 2026",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-stauradar-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T01:13:56+02:00"
+      "sort_date": "2026-09-16T10:16:57+02:00"
     }
   ],
   "Food": []
