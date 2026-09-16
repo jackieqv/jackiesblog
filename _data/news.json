@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
+      "published": "16 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-16T05:06:56+02:00"
+    },
+    {
+      "title": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
+      "link": "https://www.tagesschau.de/investigativ/swr/maskendeals-100.html",
+      "published": "16 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-16T05:02:36+02:00"
+    },
+    {
+      "title": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
+      "link": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
+      "published": "16 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-16T04:32:18+02:00"
+    },
+    {
+      "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
+      "published": "16 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-16T02:17:12+02:00"
+    },
+    {
       "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-16T01:13:56+02:00"
-    },
-    {
-      "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
-      "link": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T21:30:53+02:00"
-    },
-    {
-      "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T21:17:52+02:00"
-    },
-    {
-      "title": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T20:42:47+02:00"
-    },
-    {
-      "title": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
-      "published": "15 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-15T19:05:36+02:00"
     }
   ],
   "Food": []
