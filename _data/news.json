@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "published": "16 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-16T15:56:27+00:00"
+    },
+    {
       "title": "Single CAR T Injection Eases Multiple Sclerosis Symptoms in Small Trial",
       "link": "https://singularityhub.com/2026/09/15/single-car-t-injection-eases-multiple-sclerosis-symptoms-in-small-trial/",
       "published": "15 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "14 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-14T14:00:00+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 12)",
-      "link": "https://singularityhub.com/2026/09/12/this-weeks-awesome-tech-stories-from-around-the-web-through-september-12-2/",
-      "published": "12 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-12T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-      "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
+      "title": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T12:02:53+02:00"
+      "sort_date": "2026-09-16T17:39:25+02:00"
     },
     {
-      "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
+      "title": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
+      "link": "https://www.tagesschau.de/ausland/europa/grundsatzrede-kommission-bruessel-eu-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T11:45:01+02:00"
+      "sort_date": "2026-09-16T17:32:58+02:00"
     },
     {
-      "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
+      "title": "Wegen Flüchtlingsunterkunft: Dorf in England stimmt symbolisch für Unabhängigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/piddington-abstimmung-unabhaengigkeit-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T11:42:18+02:00"
+      "sort_date": "2026-09-16T17:18:10+02:00"
     },
     {
-      "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
+      "title": "Nach Gesprächen mit den USA: Belarus entlässt 25 politische Häftlinge",
+      "link": "https://www.tagesschau.de/ausland/asien/belarus-freilassung-haeftlinge-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T11:00:34+02:00"
+      "sort_date": "2026-09-16T17:09:33+02:00"
     },
     {
-      "title": "ADAC: Mehr Staus in den Sommerferien 2026",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-stauradar-100.html",
+      "title": "Zollreform: EU führt neue Gebühr für kleine Online-Pakete ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/online-shops-pakete-gebuehr-100.html",
       "published": "16 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-16T10:16:57+02:00"
+      "sort_date": "2026-09-16T16:44:20+02:00"
     }
   ],
   "Food": []
