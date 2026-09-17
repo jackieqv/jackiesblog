@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
+      "title": "Wie Russland den ukrainischen Buchmarkt angreift",
+      "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T17:13:34+02:00"
+      "sort_date": "2026-09-17T22:13:01+02:00"
+    },
+    {
+      "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
+      "published": "17 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-17T20:21:41+02:00"
+    },
+    {
+      "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
+      "published": "17 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-17T19:19:34+02:00"
+    },
+    {
+      "title": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+      "published": "17 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-17T18:40:52+02:00"
     },
     {
       "title": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
@@ -124,27 +145,6 @@
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-17T17:11:53+02:00"
-    },
-    {
-      "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
-      "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T17:11:09+02:00"
-    },
-    {
-      "title": "Bundesanwaltschaft: Islamist soll Anschlag auf Kirche vorbereitet haben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mutmasslicher-islamist-festgenommen-brandenburg-100.html",
-      "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T16:29:47+02:00"
-    },
-    {
-      "title": "Aufstieg der AfD: Die Alles-oder-Nichts-Partei",
-      "link": "https://www.dw.com/de/aufstieg-der-afd-die-alles-oder-nichts-partei/a-79309860?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "17 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-17T15:35:00+00:00"
     }
   ],
   "Food": []
