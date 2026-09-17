@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "人事領域のAI活用を支えるResponsible AIを理解しよう — 人事システム導入に関わる方へのラーニングガイド",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/%E4%BA%BA%E4%BA%8B%E9%A0%98%E5%9F%9F%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%82%92%E6%94%AF%E3%81%88%E3%82%8Bresponsible-ai%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86-%E4%BA%BA%E4%BA%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B0%8E%E5%85%A5%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E6%96%B9%E3%81%B8%E3%81%AE%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%AC%E3%82%A4%E3%83%89/ba-p/14486763",
+      "published": "17 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-17T11:25:30+00:00"
+    },
+    {
       "title": "Resolving \"Related BP Already Linked with a Different User\" Error During",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/resolving-quot-related-bp-already-linked-with-a-different-user-quot-error/ba-p/14482023",
       "published": "16 Sep 2026",
@@ -64,16 +71,16 @@
       "published": "15 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-15T13:41:39+00:00"
-    },
-    {
-      "title": "Smart Succession: Leveraging SuccessFactors ISC to Trigger Performance Feedback on Employee Exit",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/smart-succession-leveraging-successfactors-isc-to-trigger-performance/ba-p/14483490",
-      "published": "11 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-11T06:33:53+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Where Does the Quantum World End and Ours Begin?",
+      "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "published": "17 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-17T15:09:33+00:00"
+    },
     {
       "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
       "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
@@ -101,50 +108,43 @@
       "published": "14 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-14T14:01:00+00:00"
-    },
-    {
-      "title": "The Real AI Disruption Isn’t the Technology. It’s the Company.",
-      "link": "https://singularityhub.com/2026/09/14/the-real-ai-disruption-isnt-the-technology-its-the-company/",
-      "published": "14 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-14T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Was Wähler in Russlands Provinz beschäftigt",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-twer-stimmung-wahl-100.html",
+      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T12:33:12+02:00"
+      "sort_date": "2026-09-17T17:13:34+02:00"
     },
     {
-      "title": "Wie klimafreundlich sind die DAX-Unternehmen?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
+      "title": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html",
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T12:29:54+02:00"
+      "sort_date": "2026-09-17T17:11:53+02:00"
     },
     {
-      "title": "Erneute Läden in Frankfurt am Main durch Explosionen beschädigt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/explosionen-frankfurt-laeden-100.html",
+      "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T12:10:07+02:00"
+      "sort_date": "2026-09-17T17:11:09+02:00"
     },
     {
-      "title": "Marktbericht: DAX rückt nach US-Zinsentscheid weiter vor",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+      "title": "Bundesanwaltschaft: Islamist soll Anschlag auf Kirche vorbereitet haben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/mutmasslicher-islamist-festgenommen-brandenburg-100.html",
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T11:40:06+02:00"
+      "sort_date": "2026-09-17T16:29:47+02:00"
     },
     {
-      "title": "Klimawandel war ein Hauptgrund für Felssturz im Himalaya",
-      "link": "https://www.tagesschau.de/wissen/klima/sturzflut-himalaya-klimawandel-100.html",
+      "title": "Aufstieg der AfD: Die Alles-oder-Nichts-Partei",
+      "link": "https://www.dw.com/de/aufstieg-der-afd-die-alles-oder-nichts-partei/a-79309860?maca=de-rss-de-top-1016-xml-mrss",
       "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T11:29:24+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-17T15:35:00+00:00"
     }
   ],
   "Food": []
