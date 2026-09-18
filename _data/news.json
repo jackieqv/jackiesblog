@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Autonomous HCM: Delivering the Future of Work with Agentic AI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/autonomous-hcm-delivering-the-future-of-work-with-agentic-ai/ba-p/14487092",
+      "published": "18 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-18T00:35:13+00:00"
+    },
+    {
       "title": "人事領域のAI活用を支えるResponsible AIを理解しよう — 人事システム導入に関わる方へのラーニングガイド",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/%E4%BA%BA%E4%BA%8B%E9%A0%98%E5%9F%9F%E3%81%AEai%E6%B4%BB%E7%94%A8%E3%82%92%E6%94%AF%E3%81%88%E3%82%8Bresponsible-ai%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86-%E4%BA%BA%E4%BA%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B0%8E%E5%85%A5%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E6%96%B9%E3%81%B8%E3%81%AE%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%AC%E3%82%A4%E3%83%89/ba-p/14486763",
       "published": "17 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "15 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-15T15:10:06+00:00"
-    },
-    {
-      "title": "SAP Success Factors: Perception vs. Reality",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-success-factors-perception-vs-reality/ba-p/14485490",
-      "published": "15 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-15T13:41:39+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "EU-Finanzminister beraten in Dublin über mögliche Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzminister-uebergewinnsteuer-100.html",
+      "published": "18 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-18T04:55:53+02:00"
+    },
+    {
+      "title": "Nach Schließung des Konsulats: Deutschlands schwieriger Kurs gegenüber Russland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generalkonsulat-russland-schliessung-102.html",
+      "published": "18 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-18T04:52:54+02:00"
+    },
+    {
+      "title": "Polizei registriert Hunderte Straftaten im Berliner Wahlkampf",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/straftaten-berliner-wahlkampf-100.html",
+      "published": "18 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-18T04:01:20+02:00"
+    },
+    {
       "title": "Wie Russland den ukrainischen Buchmarkt angreift",
       "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
       "published": "17 Sep 2026",
@@ -124,27 +145,6 @@
       "published": "17 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-17T20:21:41+02:00"
-    },
-    {
-      "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
-      "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T19:19:34+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-      "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T18:40:52+02:00"
-    },
-    {
-      "title": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html",
-      "published": "17 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T17:11:53+02:00"
     }
   ],
   "Food": []
