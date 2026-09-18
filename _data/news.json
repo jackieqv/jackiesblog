@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "ENABLE RELIGION FIELD IN INFOTYPE 0002",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enable-religion-field-in-infotype-0002/ba-p/14486843",
+      "published": "18 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-18T10:20:05+00:00"
+    },
+    {
+      "title": "\"Maintain Non-Registered Reason\" - Issue during GOSI details Replication",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/quot-maintain-non-registered-reason-quot-issue-during-gosi-details/ba-p/14484522",
+      "published": "18 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-18T09:49:41+00:00"
+    },
+    {
       "title": "Autonomous HCM: Delivering the Future of Work with Agentic AI",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/autonomous-hcm-delivering-the-future-of-work-with-agentic-ai/ba-p/14487092",
       "published": "18 Sep 2026",
@@ -57,20 +71,6 @@
       "published": "16 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-16T06:24:40+00:00"
-    },
-    {
-      "title": "Introducing \"Unlocking AI for HR\" Podcast",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-quot-unlocking-ai-for-hr-quot-podcast/ba-p/14485600",
-      "published": "15 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-15T17:08:00+00:00"
-    },
-    {
-      "title": "Your Runway to Autonomous Learning &Talent: Get ready for HCM Assistants - Series 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/your-runway-to-autonomous-learning-amp-talent-get-ready-for-hcm-assistants/ba-p/14485523",
-      "published": "15 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-15T15:10:06+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU-Finanzminister beraten in Dublin über mögliche Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzminister-uebergewinnsteuer-100.html",
+      "title": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
       "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T04:55:53+02:00"
+      "sort_date": "2026-09-18T11:49:03+02:00"
     },
     {
-      "title": "Nach Schließung des Konsulats: Deutschlands schwieriger Kurs gegenüber Russland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/generalkonsulat-russland-schliessung-102.html",
+      "title": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
+      "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
       "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T04:52:54+02:00"
+      "sort_date": "2026-09-18T11:28:36+02:00"
     },
     {
-      "title": "Polizei registriert Hunderte Straftaten im Berliner Wahlkampf",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/straftaten-berliner-wahlkampf-100.html",
+      "title": "Marktbericht: Anleger trotz sinkender Ölpreise zurückhaltend",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
       "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T04:01:20+02:00"
+      "sort_date": "2026-09-18T10:59:44+02:00"
     },
     {
-      "title": "Wie Russland den ukrainischen Buchmarkt angreift",
-      "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
-      "published": "17 Sep 2026",
+      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
+      "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T22:13:01+02:00"
+      "sort_date": "2026-09-18T10:03:21+02:00"
     },
     {
-      "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
-      "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
-      "published": "17 Sep 2026",
+      "title": "Juristentag plädiert für Schutzkonzept bei Sterbehilfe",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/juristentag-sterbehilfe-100.html",
+      "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-17T20:21:41+02:00"
+      "sort_date": "2026-09-18T10:01:05+02:00"
     }
   ],
   "Food": []
