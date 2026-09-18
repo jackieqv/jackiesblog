@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
+      "link": "https://singularityhub.com/2026/09/18/virtual-biotech-company-puts-37000-ai-agents-to-work-on-drug-discovery/",
+      "published": "18 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-18T22:11:54+00:00"
+    },
+    {
       "title": "Mathematicians Build Long-Awaited Graph Sandwich",
       "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
       "published": "18 Sep 2026",
@@ -101,16 +108,30 @@
       "published": "16 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-16T15:56:27+00:00"
-    },
-    {
-      "title": "Single CAR T Injection Eases Multiple Sclerosis Symptoms in Small Trial",
-      "link": "https://singularityhub.com/2026/09/15/single-car-t-injection-eases-multiple-sclerosis-symptoms-in-small-trial/",
-      "published": "15 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-15T19:45:41+00:00"
     }
   ],
   "News": [
+    {
+      "title": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+      "published": "19 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-19T00:40:52+02:00"
+    },
+    {
+      "title": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+      "published": "19 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-19T00:00:25+02:00"
+    },
+    {
+      "title": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+      "published": "18 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-18T23:07:18+02:00"
+    },
     {
       "title": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
@@ -124,27 +145,6 @@
       "published": "18 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-18T19:42:39+02:00"
-    },
-    {
-      "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
-      "published": "18 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T19:03:15+02:00"
-    },
-    {
-      "title": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-      "link": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
-      "published": "18 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T19:02:36+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX gibt am großen Verfallstag nach",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-      "published": "18 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-18T18:25:06+02:00"
     }
   ],
   "Food": []
