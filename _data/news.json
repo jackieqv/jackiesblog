@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 19)",
+      "link": "https://singularityhub.com/2026/09/19/this-weeks-awesome-tech-stories-from-around-the-web-through-september-19-2/",
+      "published": "19 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-19T14:00:00+00:00"
+    },
+    {
       "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
       "link": "https://singularityhub.com/2026/09/18/virtual-biotech-company-puts-37000-ai-agents-to-work-on-drug-discovery/",
       "published": "18 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "17 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-17T15:09:33+00:00"
-    },
-    {
-      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
-      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "published": "16 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-16T15:56:27+00:00"
     }
   ],
   "News": [
     {
-      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
+      "title": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T11:47:49+02:00"
+      "sort_date": "2026-09-19T16:52:46+02:00"
     },
     {
-      "title": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
+      "title": "Auch Googles KI hackte Unternehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T11:17:23+02:00"
+      "sort_date": "2026-09-19T15:09:00+02:00"
     },
     {
-      "title": "Vier Kinofilme und eine neue Serie über die Beatles",
-      "link": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
+      "title": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T10:40:31+02:00"
+      "sort_date": "2026-09-19T15:08:46+02:00"
     },
     {
-      "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
+      "title": "Wie sich Lokaljournalismus weiterentwickelt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T10:18:52+02:00"
+      "sort_date": "2026-09-19T14:20:39+02:00"
     },
     {
-      "title": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion",
-      "link": "https://www.dw.com/de/iran-vollstreckt-todesurteil-gegen-angeblichen-mossad-spion/a-79336671?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Die Linke: Wie extrem ist die Partei?",
+      "link": "https://www.dw.com/de/die-linke-wie-extrem-ist-die-partei/a-79298734?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-19T09:39:00+00:00"
+      "sort_date": "2026-09-19T13:44:00+00:00"
     }
   ],
   "Food": []
