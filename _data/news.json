@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SuccessFactors MDF: Restrict Default Screen UI List to Matching Base Object Type",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-mdf-restrict-default-screen-ui-list-to-matching-base-object/ba-p/14487961",
+      "published": "19 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-19T04:39:01+00:00"
+    },
+    {
       "title": "Onboarding: US Compliance Update: What the 2026 Section 503 rule means for CC-305",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/onboarding-us-compliance-update-what-the-2026-section-503-rule-means-for-cc/ba-p/14487860",
       "published": "18 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "18 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-18T09:49:41+00:00"
-    },
-    {
-      "title": "Autonomous HCM: Delivering the Future of Work with Agentic AI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/autonomous-hcm-delivering-the-future-of-work-with-agentic-ai/ba-p/14487092",
-      "published": "18 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-18T00:35:13+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T05:14:59+02:00"
+      "sort_date": "2026-09-19T11:47:49+02:00"
     },
     {
-      "title": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
+      "title": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T05:10:46+02:00"
+      "sort_date": "2026-09-19T11:17:23+02:00"
     },
     {
-      "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+      "title": "Vier Kinofilme und eine neue Serie über die Beatles",
+      "link": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T05:09:49+02:00"
+      "sort_date": "2026-09-19T10:40:31+02:00"
     },
     {
-      "title": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
+      "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T05:04:33+02:00"
+      "sort_date": "2026-09-19T10:18:52+02:00"
     },
     {
-      "title": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
-      "link": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
+      "title": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion",
+      "link": "https://www.dw.com/de/iran-vollstreckt-todesurteil-gegen-angeblichen-mossad-spion/a-79336671?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T02:52:21+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-19T09:39:00+00:00"
     }
   ],
   "Food": []
