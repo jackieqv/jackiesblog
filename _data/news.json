@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T00:35:14+02:00"
+    },
+    {
+      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T00:30:49+02:00"
+    },
+    {
+      "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T00:29:07+02:00"
+    },
+    {
       "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:21:20+02:00"
+      "sort_date": "2026-09-20T23:21:39+02:00"
     },
     {
-      "title": "++ Liveblog zur Berlin-Wahl: Evers verliert Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:18:48+02:00"
-    },
-    {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: AfD laut Hochrechnung bei 32 Mandaten im Landtag ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:17:38+02:00"
-    },
-    {
-      "title": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
-      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:03:02+02:00"
-    },
-    {
-      "title": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:00:47+02:00"
+      "sort_date": "2026-09-20T22:23:11+02:00"
     }
   ],
   "Food": []
