@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Was die für Merz bedeuten könnten ++",
+      "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T22:21:20+02:00"
+    },
+    {
+      "title": "++ Liveblog zur Berlin-Wahl: Evers verliert Direktmandat ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T22:18:48+02:00"
+    },
+    {
+      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: AfD laut Hochrechnung bei 32 Mandaten im Landtag ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T16:50:00+02:00"
+      "sort_date": "2026-09-20T22:17:38+02:00"
     },
     {
-      "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
+      "title": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T15:46:29+02:00"
+      "sort_date": "2026-09-20T22:03:02+02:00"
     },
     {
-      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
+      "title": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T15:02:26+02:00"
-    },
-    {
-      "title": "Kenias Präsident setzt auf Stimmung gegen Migranten",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T14:09:09+02:00"
-    },
-    {
-      "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T13:59:35+02:00"
+      "sort_date": "2026-09-20T22:00:47+02:00"
     }
   ],
   "Food": []
