@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Automatic Launch of follow up Performance form based on initial form rating using Business Rules",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automatic-launch-of-follow-up-performance-form-based-on-initial-form-rating/ba-p/14488318",
+      "published": "20 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-20T14:28:06+00:00"
+    },
+    {
       "title": "SuccessFactors MDF: Restrict Default Screen UI List to Matching Base Object Type",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-mdf-restrict-default-screen-ui-list-to-matching-base-object/ba-p/14487961",
       "published": "19 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "18 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-18T10:20:05+00:00"
-    },
-    {
-      "title": "\"Maintain Non-Registered Reason\" - Issue during GOSI details Replication",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/quot-maintain-non-registered-reason-quot-issue-during-gosi-details/ba-p/14484522",
-      "published": "18 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-18T09:49:41+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Ludwig-Maximilians-Universität München von Hackerangriff betroffen",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-lmu-muenchen-100.html",
+      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Was die für Merz bedeuten könnten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T12:26:52+02:00"
+      "sort_date": "2026-09-20T16:50:00+02:00"
     },
     {
-      "title": "++ Liveticker zur Berlin-Wahl: Regierender Bürgermeister Wegner hat gewählt ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T12:21:59+02:00"
+      "sort_date": "2026-09-20T15:46:29+02:00"
     },
     {
-      "title": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
+      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T11:33:43+02:00"
+      "sort_date": "2026-09-20T15:02:26+02:00"
     },
     {
-      "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
+      "title": "Kenias Präsident setzt auf Stimmung gegen Migranten",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
       "published": "20 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T10:58:11+02:00"
+      "sort_date": "2026-09-20T14:09:09+02:00"
     },
     {
-      "title": "Russland und Ukraine melden neue tödliche Angriffe",
-      "link": "https://www.dw.com/de/russland-und-ukraine-melden-neue-tödliche-angriffe/a-79343514?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
       "published": "20 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-20T10:14:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T13:59:35+02:00"
     }
   ],
   "Food": []
