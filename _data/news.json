@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Duma-Wahl in Russland endet: Der Wahlsieger steht wohl jetzt schon fest",
+      "link": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T05:29:28+02:00"
+    },
+    {
+      "title": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T03:55:19+02:00"
+    },
+    {
+      "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T01:11:09+02:00"
+    },
+    {
+      "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+      "published": "20 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-20T01:10:56+02:00"
+    },
+    {
       "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
       "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
       "published": "19 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-19T20:32:06+02:00"
-    },
-    {
-      "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html",
-      "published": "19 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T20:03:33+02:00"
-    },
-    {
-      "title": "Manuela Schwesig: \"Frau gegen Blau\"",
-      "link": "https://www.dw.com/de/manuela-schwesig-frau-gegen-blau/a-79256929?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-19T20:03:00+00:00"
-    },
-    {
-      "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
-      "published": "19 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T19:58:34+02:00"
-    },
-    {
-      "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
-      "published": "19 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-19T17:53:33+02:00"
     }
   ],
   "Food": []
