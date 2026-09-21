@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Data Inspector: Reading the Raw Data Behind the Screen",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/data-inspector-reading-the-raw-data-behind-the-screen/ba-p/14489098",
+      "published": "21 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-21T16:15:03+00:00"
+    },
+    {
       "title": "Leveraging Joule Studio for SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/leveraging-joule-studio-for-sap-successfactors/ba-p/14483628",
       "published": "21 Sep 2026",
@@ -64,16 +71,16 @@
       "published": "18 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-18T18:26:26+00:00"
-    },
-    {
-      "title": "From Paper to Platform: Automating SuccessFactors Badge Recognition with Custom MDF & OData APIs",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-paper-to-platform-automating-successfactors-badge-recognition-with/ba-p/14487614",
-      "published": "18 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-18T13:03:22+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
+      "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+      "published": "21 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-21T14:12:36+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 19)",
       "link": "https://singularityhub.com/2026/09/19/this-weeks-awesome-tech-stories-from-around-the-web-through-september-19-2/",
@@ -101,50 +108,43 @@
       "published": "17 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-17T22:01:12+00:00"
-    },
-    {
-      "title": "Where Does the Quantum World End and Ours Begin?",
-      "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
-      "published": "17 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-17T15:09:33+00:00"
     }
   ],
   "News": [
     {
-      "title": "IG Metall macht mobil gegen Kahlschlag in der Autoindustrie",
-      "link": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-102.html",
-      "published": "21 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T13:42:16+02:00"
-    },
-    {
-      "title": "Liveticker: ++ Schwerdtner fordert Ende der Reformen ++",
+      "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T13:40:16+02:00"
+      "sort_date": "2026-09-21T21:26:21+02:00"
     },
     {
-      "title": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
-      "link": "https://www.tagesschau.de/ausland/asien/wahlergebnis-duma-russland-100.html",
+      "title": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T12:48:00+02:00"
+      "sort_date": "2026-09-21T20:03:50+02:00"
     },
     {
-      "title": "Was ein Notschalter für KI bringen könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
+      "title": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
+      "link": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T11:22:53+02:00"
+      "sort_date": "2026-09-21T19:20:54+02:00"
     },
     {
-      "title": "CDU sortiert sich nach Wahlniederlagen neu",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
+      "title": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T11:21:42+02:00"
+      "sort_date": "2026-09-21T19:11:31+02:00"
+    },
+    {
+      "title": "Landtagswahlen: Schwere Zeiten für Kanzler Friedrich Merz",
+      "link": "https://www.dw.com/de/landtagswahlen-schwere-zeiten-für-kanzler-friedrich-merz/a-79362260?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "21 Sep 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-21T18:35:00+00:00"
     }
   ],
   "Food": []
