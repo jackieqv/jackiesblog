@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Leveraging Joule Studio for SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/leveraging-joule-studio-for-sap-successfactors/ba-p/14483628",
+      "published": "21 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-21T04:20:19+00:00"
+    },
+    {
       "title": "Automatic Launch of follow up Performance form based on initial form rating using Business Rules",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automatic-launch-of-follow-up-performance-form-based-on-initial-form-rating/ba-p/14488318",
       "published": "20 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "18 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-18T13:03:22+00:00"
-    },
-    {
-      "title": "ENABLE RELIGION FIELD IN INFOTYPE 0002",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/enable-religion-field-in-infotype-0002/ba-p/14486843",
-      "published": "18 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-18T10:20:05+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Fünf Erkenntnisse aus den Wahlen in Mecklenburg-Vorpommern und Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+      "title": "IG Metall macht mobil gegen Kahlschlag in der Autoindustrie",
+      "link": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-102.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T05:26:35+02:00"
+      "sort_date": "2026-09-21T13:42:16+02:00"
     },
     {
-      "title": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
-      "link": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
+      "title": "Liveticker: ++ Schwerdtner fordert Ende der Reformen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T05:17:57+02:00"
+      "sort_date": "2026-09-21T13:40:16+02:00"
     },
     {
-      "title": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
-      "link": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
+      "title": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
+      "link": "https://www.tagesschau.de/ausland/asien/wahlergebnis-duma-russland-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T04:36:45+02:00"
+      "sort_date": "2026-09-21T12:48:00+02:00"
     },
     {
-      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "link": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "title": "Was ein Notschalter für KI bringen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T04:22:58+02:00"
+      "sort_date": "2026-09-21T11:22:53+02:00"
     },
     {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "title": "CDU sortiert sich nach Wahlniederlagen neu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T02:28:23+02:00"
+      "sort_date": "2026-09-21T11:21:42+02:00"
     }
   ],
   "Food": []
