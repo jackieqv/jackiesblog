@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "title": "Fünf Erkenntnisse aus den Wahlen in Mecklenburg-Vorpommern und Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T00:35:14+02:00"
+      "sort_date": "2026-09-21T05:26:35+02:00"
+    },
+    {
+      "title": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
+      "link": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T05:17:57+02:00"
+    },
+    {
+      "title": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
+      "link": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T04:36:45+02:00"
+    },
+    {
+      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "link": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T04:22:58+02:00"
     },
     {
       "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T00:30:49+02:00"
-    },
-    {
-      "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
-      "published": "21 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T00:29:07+02:00"
-    },
-    {
-      "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T23:21:39+02:00"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
-      "published": "20 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-20T22:23:11+02:00"
+      "sort_date": "2026-09-21T02:28:23+02:00"
     }
   ],
   "Food": []
