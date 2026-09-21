@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
+      "published": "22 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-22T00:55:54+02:00"
+    },
+    {
       "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T21:26:21+02:00"
+      "sort_date": "2026-09-21T23:20:07+02:00"
+    },
+    {
+      "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
+      "published": "21 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-21T22:59:55+02:00"
     },
     {
       "title": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
@@ -131,20 +145,6 @@
       "published": "21 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-21T19:20:54+02:00"
-    },
-    {
-      "title": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
-      "published": "21 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-21T19:11:31+02:00"
-    },
-    {
-      "title": "Landtagswahlen: Schwere Zeiten für Kanzler Friedrich Merz",
-      "link": "https://www.dw.com/de/landtagswahlen-schwere-zeiten-für-kanzler-friedrich-merz/a-79362260?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-21T18:35:00+00:00"
     }
   ],
   "Food": []
