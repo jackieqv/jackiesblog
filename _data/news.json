@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Three-Year-Old Boy’s Metastatic Cancer Disappears After Two Shots of Experimental Cell Therapy",
+      "link": "https://singularityhub.com/2026/09/22/three-year-old-boys-metastatic-cancer-disappears-after-two-shots-of-experimental-cell-therapy/",
+      "published": "22 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-22T18:41:15+00:00"
+    },
+    {
       "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
       "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
       "published": "21 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "18 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-18T13:55:50+00:00"
-    },
-    {
-      "title": "The Next Frontier Is Not Artificial Intelligence—It’s Artificial Societies",
-      "link": "https://singularityhub.com/2026/09/17/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies/",
-      "published": "17 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-17T22:01:12+00:00"
     }
   ],
   "News": [
     {
-      "title": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
+      "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
       "published": "22 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T18:12:08+02:00"
+      "sort_date": "2026-09-22T21:58:52+02:00"
     },
     {
-      "title": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
+      "title": "Merz und die Krankenkassen - was meinte der Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
       "published": "22 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T18:02:38+02:00"
+      "sort_date": "2026-09-22T20:27:10+02:00"
     },
     {
-      "title": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html",
+      "title": "Kommentar zum Grönland-Abkommen: Ein alter Deal in neuer Verpackung",
+      "link": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html",
       "published": "22 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T17:50:46+02:00"
+      "sort_date": "2026-09-22T20:11:15+02:00"
     },
     {
-      "title": "Union und SPD wollen noch mal über Reformen verhandeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
+      "title": "EU streicht zwei russische Oligarchen von Sanktionsliste",
+      "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
       "published": "22 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T17:49:08+02:00"
+      "sort_date": "2026-09-22T19:11:38+02:00"
     },
     {
-      "title": "Zweieinhalb Jahre Haft für österreichischen Investor Benko",
-      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-urteil-100.html",
+      "title": "Marokko wählt: Was das neue Parlament entscheiden kann",
+      "link": "https://www.dw.com/de/marokko-wählt-was-das-neue-parlament-entscheiden-kann/a-79374104?maca=de-rss-de-top-1016-xml-mrss",
       "published": "22 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T17:36:22+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-22T18:25:00+00:00"
     }
   ],
   "Food": []
