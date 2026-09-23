@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SuccessFactors OData Upsert from SAP CPI: Resolving the workflowConfirmed Error",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-odata-upsert-from-sap-cpi-resolving-the-workflowconfirmed/ba-p/14488970",
+      "published": "23 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-23T07:13:48+00:00"
+    },
+    {
       "title": "From Activation to Adoption: Five New WalkMe Process Guides for SAP SuccessFactors HCM",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-activation-to-adoption-five-new-walkme-process-guides-for-sap/ba-p/14490166",
       "published": "22 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "20 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-20T14:28:06+00:00"
-    },
-    {
-      "title": "SuccessFactors MDF: Restrict Default Screen UI List to Matching Base Object Type",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-mdf-restrict-default-screen-ui-list-to-matching-base-object/ba-p/14487961",
-      "published": "19 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-19T04:39:01+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
+      "title": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
       "published": "23 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-23T05:29:12+02:00"
+      "sort_date": "2026-09-23T12:13:52+02:00"
     },
     {
-      "title": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
+      "title": "Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
       "published": "23 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-23T04:43:48+02:00"
+      "sort_date": "2026-09-23T12:06:25+02:00"
     },
     {
-      "title": "Trump bei UN-Vollversammlung: Mehr Staatsmann und weniger Konfrontation",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+      "title": "Beratung über Strafverschärfung bei Delikten mit K.-o.-Tropfen",
+      "link": "https://www.tagesschau.de/inland/ko-tropfen-strafen-gesetzentwurf-100.html",
       "published": "23 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-23T00:44:43+02:00"
+      "sort_date": "2026-09-23T11:30:19+02:00"
     },
     {
-      "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
-      "published": "22 Sep 2026",
+      "title": "Warnungen vor Koalition mit der Linken in Berlin",
+      "link": "https://www.tagesschau.de/inland/linke-berlin-antisemitismus-100.html",
+      "published": "23 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T21:58:52+02:00"
+      "sort_date": "2026-09-23T11:08:41+02:00"
     },
     {
-      "title": "Merz und die Krankenkassen - was meinte der Kanzler?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
-      "published": "22 Sep 2026",
+      "title": "Marktbericht: DAX gibt frühe Gewinne ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+      "published": "23 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-22T20:27:10+02:00"
+      "sort_date": "2026-09-23T10:39:22+02:00"
     }
   ],
   "Food": []
