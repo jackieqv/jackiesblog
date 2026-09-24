@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Securing PII in SAP Incentive Management: Implementing Dynamic Data Masking in the EXT Schema",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/securing-pii-in-sap-incentive-management-implementing-dynamic-data-masking/ba-p/14491574",
+      "published": "24 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-24T15:50:39+00:00"
+    },
+    {
+      "title": "How We Built a Learning Assignment Management Solution for SAP SuccessFactors HCM Using SAP BAIP",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-learning-assignment-management-solution-for-sap/ba-p/14491351",
+      "published": "24 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-24T14:53:13+00:00"
+    },
+    {
       "title": "SAP Guidance - Mandating of Payrolling of Benefits April  2027",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-guidance-mandating-of-payrolling-of-benefits-april-2027/ba-p/14490405",
       "published": "24 Sep 2026",
@@ -57,20 +71,6 @@
       "published": "22 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-22T21:36:36+00:00"
-    },
-    {
-      "title": "Data Inspector: Reading the Raw Data Behind the Screen",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/data-inspector-reading-the-raw-data-behind-the-screen/ba-p/14489098",
-      "published": "21 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-21T16:15:03+00:00"
-    },
-    {
-      "title": "Leveraging Joule Studio for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/leveraging-joule-studio-for-sap-successfactors/ba-p/14483628",
-      "published": "21 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-21T04:20:19+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
-      "published": "24 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T12:28:36+02:00"
-    },
-    {
-      "title": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
-      "published": "24 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T12:09:28+02:00"
-    },
-    {
-      "title": "Immobilienpreise in Deutschland steigen nicht mehr so stark",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html",
-      "published": "24 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T10:59:05+02:00"
-    },
-    {
-      "title": "KI: OpenAI hackt australisches Behördennetzwerk",
-      "link": "https://www.dw.com/de/ki-openai-hackt-australisches-behördennetzwerk/a-79411147?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-24T10:59:00+00:00"
-    },
-    {
-      "title": "Marktbericht: DAX startet mit Verlusten",
+      "title": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
       "published": "24 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T10:58:38+02:00"
+      "sort_date": "2026-09-24T18:18:29+02:00"
+    },
+    {
+      "title": "Kommentar: Geheimdienst-Reform braucht ernsthafte Debatte",
+      "link": "https://www.tagesschau.de/kommentar/nachrichtendienste-mit-mehr-befugnissen-100.html",
+      "published": "24 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-24T17:52:07+02:00"
+    },
+    {
+      "title": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
+      "link": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
+      "published": "24 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-24T17:18:06+02:00"
+    },
+    {
+      "title": "Wie Wien erfolgreich gegen Wohnungsnot und hohe Mieten vorgeht",
+      "link": "https://www.tagesschau.de/ausland/europa/wie-der-wiener-wohnungsbau-gelingt-100.html",
+      "published": "24 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-24T16:58:34+02:00"
+    },
+    {
+      "title": "Trotz vorläufigen Richterspruchs: Weißes Haus weist Reporter weiter ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-100.html",
+      "published": "24 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-24T16:47:55+02:00"
     }
   ],
   "Food": []
