@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "A Digital Cell Predicts Which Drugs Will Be Most Effective in Deadly Breast Cancer",
+      "link": "https://singularityhub.com/2026/09/24/a-digital-cell-predicts-which-drugs-will-be-most-effective-in-deadly-breast-cancer/",
+      "published": "24 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-24T17:10:00+00:00"
+    },
+    {
       "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
       "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "published": "23 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "19 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-19T14:00:00+00:00"
-    },
-    {
-      "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
-      "link": "https://singularityhub.com/2026/09/18/virtual-biotech-company-puts-37000-ai-agents-to-work-on-drug-discovery/",
-      "published": "18 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-18T22:11:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+      "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
       "published": "24 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T18:18:29+02:00"
+      "sort_date": "2026-09-24T21:51:55+02:00"
     },
     {
-      "title": "Kommentar: Geheimdienst-Reform braucht ernsthafte Debatte",
-      "link": "https://www.tagesschau.de/kommentar/nachrichtendienste-mit-mehr-befugnissen-100.html",
+      "title": "Prunk und Pandas: Trump empfängt Xi in Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
       "published": "24 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T17:52:07+02:00"
+      "sort_date": "2026-09-24T21:43:38+02:00"
     },
     {
-      "title": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
-      "link": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
+      "title": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
       "published": "24 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T17:18:06+02:00"
+      "sort_date": "2026-09-24T19:54:13+02:00"
     },
     {
-      "title": "Wie Wien erfolgreich gegen Wohnungsnot und hohe Mieten vorgeht",
-      "link": "https://www.tagesschau.de/ausland/europa/wie-der-wiener-wohnungsbau-gelingt-100.html",
+      "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
       "published": "24 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T16:58:34+02:00"
+      "sort_date": "2026-09-24T19:50:55+02:00"
     },
     {
-      "title": "Trotz vorläufigen Richterspruchs: Weißes Haus weist Reporter weiter ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-100.html",
+      "title": "USA oder China? Geopolitische Richtungswahl zwischen Lula und Bolsonaro in Brasilien",
+      "link": "https://www.dw.com/de/usa-oder-china-geopolitische-richtungswahl-zwischen-lula-und-bolsonaro-in-brasilien/a-79411656?maca=de-rss-de-top-1016-xml-mrss",
       "published": "24 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-24T16:47:55+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-24T19:31:00+00:00"
     }
   ],
   "Food": []
