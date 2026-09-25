@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Enforcing Minimum Rest Period at Record Save in SAP SuccessFactors Time Tracking",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enforcing-minimum-rest-period-at-record-save-in-sap-successfactors-time/ba-p/14492010",
+      "published": "25 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-25T10:46:51+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Benefits - Education / Schooling Allowance Reimbursement per Child",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-benefits-education-schooling-allowance-reimbursement-per/ba-p/14491406",
+      "published": "25 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-25T07:23:22+00:00"
+    },
+    {
       "title": "Securing PII in SAP Incentive Management: Implementing Dynamic Data Masking in the EXT Schema",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/securing-pii-in-sap-incentive-management-implementing-dynamic-data-masking/ba-p/14491574",
       "published": "24 Sep 2026",
@@ -57,20 +71,6 @@
       "published": "24 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-24T09:40:07+00:00"
-    },
-    {
-      "title": "SuccessFactors OData Upsert from SAP CPI: Resolving the workflowConfirmed Error",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-odata-upsert-from-sap-cpi-resolving-the-workflowconfirmed/ba-p/14488970",
-      "published": "23 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-23T07:13:48+00:00"
-    },
-    {
-      "title": "From Activation to Adoption: Five New WalkMe Process Guides for SAP SuccessFactors HCM",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-activation-to-adoption-five-new-walkme-process-guides-for-sap/ba-p/14490166",
-      "published": "22 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-22T21:36:36+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Manipulationsskandal an der türkischen Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
+      "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
       "published": "25 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-25T05:22:52+02:00"
+      "sort_date": "2026-09-25T13:11:04+02:00"
     },
     {
-      "title": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-      "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
+      "title": "Kindergeld soll von 2027 an ohne Antrag ausgezahlt werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-antragsloses-kindergeld-100.html",
       "published": "25 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-25T05:22:44+02:00"
+      "sort_date": "2026-09-25T12:55:27+02:00"
     },
     {
-      "title": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+      "title": "Kommentar: Der \"Tankrabatt\" ist richtig",
+      "link": "https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html",
       "published": "25 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-25T05:22:34+02:00"
+      "sort_date": "2026-09-25T12:42:45+02:00"
     },
     {
-      "title": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html",
+      "title": "Staat steigt bei Condor aus - Finanzinvestor übernimmt Anteile",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/condor-bund-100.html",
       "published": "25 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-25T04:48:00+02:00"
+      "sort_date": "2026-09-25T12:31:17+02:00"
     },
     {
-      "title": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
+      "title": "VW, Audi müssen fast eine Million Autos in Deutschland zurückrufen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
       "published": "25 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-25T00:56:25+02:00"
+      "sort_date": "2026-09-25T12:24:16+02:00"
     }
   ],
   "Food": []
