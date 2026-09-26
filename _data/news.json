@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Berliner SPD will mit Linken und Grünen sondieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
+      "published": "26 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-26T22:07:54+02:00"
+    },
+    {
+      "title": "Wadephul trifft überraschend Lawrow in New York",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+      "published": "26 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-26T21:00:59+02:00"
+    },
+    {
+      "title": "Kommentar zur deutschen Olympiabewerbung: München ist qualifizierter Außenseiter",
+      "link": "https://www.tagesschau.de/kommentar/olympia-bewerbung-deutschland-kommentar-100.html",
+      "published": "26 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-26T20:23:42+02:00"
+    },
+    {
       "title": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
       "published": "26 Sep 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-09-26T17:50:22+02:00"
     },
     {
-      "title": "Pflege in Schweden: So lange wie möglich zu Hause",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
-      "published": "26 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-26T17:29:01+02:00"
-    },
-    {
-      "title": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
-      "link": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
-      "published": "26 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-26T17:27:14+02:00"
-    },
-    {
-      "title": "Papst Leo XIV. feiert Messe mit 700.000 Menschen in Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
-      "published": "26 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-26T17:10:43+02:00"
-    },
-    {
-      "title": "Papst Leo: Dorthin Hoffnung bringen, wo Entmutigung herrscht",
-      "link": "https://www.dw.com/de/papst-leo-dorthin-hoffnung-bringen-wo-entmutigung-herrscht/a-79444602?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Wadephul trifft Lawrow in New York",
+      "link": "https://www.dw.com/de/wadephul-trifft-lawrow-in-new-york/a-79445008?maca=de-rss-de-top-1016-xml-mrss",
       "published": "26 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-26T15:15:00+00:00"
+      "sort_date": "2026-09-26T17:42:00+00:00"
     }
   ],
   "Food": []
