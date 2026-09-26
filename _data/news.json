@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+      "link": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
+      "published": "27 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-27T00:29:36+02:00"
+    },
+    {
       "title": "Berliner SPD will mit Linken und Grünen sondieren",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
       "published": "26 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "26 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-26T17:50:22+02:00"
-    },
-    {
-      "title": "Wadephul trifft Lawrow in New York",
-      "link": "https://www.dw.com/de/wadephul-trifft-lawrow-in-new-york/a-79445008?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "26 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-26T17:42:00+00:00"
     }
   ],
   "Food": []
