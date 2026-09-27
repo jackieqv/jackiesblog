@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+      "published": "27 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-27T22:02:02+02:00"
+    },
+    {
+      "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
+      "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
+      "published": "27 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-27T20:34:10+02:00"
+    },
+    {
+      "title": "Anthropic-Bericht wirft Russland Desinformation per US-KI in Zentralafrika vor",
+      "link": "https://www.dw.com/de/anthropic-bericht-wirft-russland-desinformation-per-us-ki-in-zentralafrika-vor/a-79428691?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Sep 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-09-27T19:30:00+00:00"
+    },
+    {
       "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
       "published": "27 Sep 2026",
@@ -124,27 +145,6 @@
       "published": "27 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-27T16:31:58+02:00"
-    },
-    {
-      "title": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
-      "published": "27 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T16:30:59+02:00"
-    },
-    {
-      "title": "Milchprodukte könnten spürbar teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
-      "published": "27 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T14:44:33+02:00"
-    },
-    {
-      "title": "Sizilien: Ätna legt erneut Flugbetrieb in Catania lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/sizilien-catania-aetna-100.html",
-      "published": "27 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T14:40:57+02:00"
     }
   ],
   "Food": []
