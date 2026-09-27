@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Serbiens Präsident Vucic tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+      "published": "28 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-28T01:13:56+02:00"
+    },
+    {
       "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
       "published": "27 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "27 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-27T18:14:05+02:00"
-    },
-    {
-      "title": "Banaszak und Brantner treten wieder für Vorsitz von Bündnis 90/Die Grünen an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-banaszak-brantner-bundesvorsitz-100.html",
-      "published": "27 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T16:31:58+02:00"
     }
   ],
   "Food": []
