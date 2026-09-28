@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Solution Architecture Leading Practices",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-solution-architecture-leading-practices/ba-p/14490006",
+      "published": "28 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-28T09:38:48+00:00"
+    },
+    {
+      "title": "Defaulting Personal email to Other email using CPI in Successfactors.",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/defaulting-personal-email-to-other-email-using-cpi-in-successfactors/ba-p/14492241",
+      "published": "28 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-28T09:32:31+00:00"
+    },
+    {
+      "title": "Automating Learning Enrollment Communication with External Training Providers from LMS Using CPI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-learning-enrollment-communication-with-external-training/ba-p/14480492",
+      "published": "28 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-28T09:19:08+00:00"
+    },
+    {
       "title": "AI-Powered HR: Exploring Joule & AI Agent Capabilities in Employee Central - November 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-powered-hr-exploring-joule-amp-ai-agent-capabilities-in-employee-central/ba-p/14492379",
       "published": "25 Sep 2026",
@@ -50,27 +71,6 @@
       "published": "25 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-25T14:32:15+00:00"
-    },
-    {
-      "title": "Enforcing Minimum Rest Period at Record Save in SAP SuccessFactors Time Tracking",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enforcing-minimum-rest-period-at-record-save-in-sap-successfactors-time/ba-p/14492010",
-      "published": "25 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-25T10:46:51+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Benefits - Education / Schooling Allowance Reimbursement per Child",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-benefits-education-schooling-allowance-reimbursement-per/ba-p/14491406",
-      "published": "25 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-25T07:23:22+00:00"
-    },
-    {
-      "title": "Securing PII in SAP Incentive Management: Implementing Dynamic Data Masking in the EXT Schema",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/securing-pii-in-sap-incentive-management-implementing-dynamic-data-masking/ba-p/14491574",
-      "published": "24 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-24T15:50:39+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
-      "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T03:22:23+02:00"
+      "sort_date": "2026-09-28T14:18:56+02:00"
     },
     {
-      "title": "Serbiens Präsident Vucic tritt zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+      "title": "Spahn verzichtet offenbar auf Sitz im Haushaltsausschuss",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verzicht-haushaltsausschuss-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T01:13:56+02:00"
+      "sort_date": "2026-09-28T13:58:52+02:00"
     },
     {
-      "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
-      "published": "27 Sep 2026",
+      "title": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-indien-flutkatastrophe-100.html",
+      "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T22:02:02+02:00"
+      "sort_date": "2026-09-28T13:51:03+02:00"
     },
     {
-      "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
-      "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-      "published": "27 Sep 2026",
+      "title": "Steinmeier: \"Schützen wir unser Verfassungsgericht vor möglichen Angriffen\"",
+      "link": "https://www.tagesschau.de/inland/festakt-bundesverfassungsgericht-steinmeier-100.html",
+      "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T20:34:10+02:00"
+      "sort_date": "2026-09-28T13:41:05+02:00"
     },
     {
-      "title": "Anthropic-Bericht wirft Russland Desinformation per US-KI in Zentralafrika vor",
-      "link": "https://www.dw.com/de/anthropic-bericht-wirft-russland-desinformation-per-us-ki-in-zentralafrika-vor/a-79428691?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "27 Sep 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-09-27T19:30:00+00:00"
+      "title": "Frankreichs Designer-Nachwuchs geht neue Wege",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mode-nachwuchs-designer-paris-100.html",
+      "published": "28 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-28T13:08:12+02:00"
     }
   ],
   "Food": []
