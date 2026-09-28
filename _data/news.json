@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
+      "link": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+      "published": "28 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-28T14:35:21+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 26)",
       "link": "https://singularityhub.com/2026/09/26/this-weeks-awesome-tech-stories-from-around-the-web-through-september-26/",
       "published": "26 Sep 2026",
@@ -101,50 +108,43 @@
       "published": "24 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-24T17:10:00+00:00"
-    },
-    {
-      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
-      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "published": "23 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-23T14:16:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
+      "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T14:18:56+02:00"
+      "sort_date": "2026-09-28T21:53:21+02:00"
     },
     {
-      "title": "Spahn verzichtet offenbar auf Sitz im Haushaltsausschuss",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verzicht-haushaltsausschuss-100.html",
+      "title": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
+      "link": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T13:58:52+02:00"
+      "sort_date": "2026-09-28T21:05:03+02:00"
     },
     {
-      "title": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-indien-flutkatastrophe-100.html",
+      "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T13:51:03+02:00"
+      "sort_date": "2026-09-28T20:54:46+02:00"
     },
     {
-      "title": "Steinmeier: \"Schützen wir unser Verfassungsgericht vor möglichen Angriffen\"",
-      "link": "https://www.tagesschau.de/inland/festakt-bundesverfassungsgericht-steinmeier-100.html",
+      "title": "Griechenland will während EU-Ratsvorsitz Abschiebezentrum in Afrika einrichten",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-will-abschiebezentren-in-afrika-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T13:41:05+02:00"
+      "sort_date": "2026-09-28T20:34:20+02:00"
     },
     {
-      "title": "Frankreichs Designer-Nachwuchs geht neue Wege",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mode-nachwuchs-designer-paris-100.html",
+      "title": "Papst in Metz - Eine Rede an Europas Gewissen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
       "published": "28 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T13:08:12+02:00"
+      "sort_date": "2026-09-28T19:30:16+02:00"
     }
   ],
   "Food": []
