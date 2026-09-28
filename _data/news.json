@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "published": "28 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-28T03:22:23+02:00"
+    },
+    {
       "title": "Serbiens Präsident Vucic tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
       "published": "28 Sep 2026",
@@ -138,13 +145,6 @@
       "published": "27 Sep 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-09-27T19:30:00+00:00"
-    },
-    {
-      "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
-      "published": "27 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-27T18:14:05+02:00"
     }
   ],
   "Food": []
