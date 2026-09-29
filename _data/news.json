@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Unlock the Full Power  of Career Site Builder and SAP SmartRecruiters with Unified Data Model",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlock-the-full-power-of-career-site-builder-and-sap-smartrecruiters-with/ba-p/14493763",
+      "published": "29 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-29T00:22:40+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Solution Architecture Leading Practices",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-solution-architecture-leading-practices/ba-p/14490006",
       "published": "28 Sep 2026",
@@ -64,16 +71,16 @@
       "published": "25 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-25T18:06:29+00:00"
-    },
-    {
-      "title": "How to make not mandatory the ID number for Dependents",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-to-make-not-mandatory-the-id-number-for-dependents/ba-p/14492322",
-      "published": "25 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-25T14:32:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "US Launches $215 Million Race to Build an Error-Corrected Quantum Computer by 2028",
+      "link": "https://singularityhub.com/2026/09/28/us-launches-215-million-race-to-build-an-error-corrected-quantum-computer-by-2028/",
+      "published": "28 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-28T22:01:26+00:00"
+    },
     {
       "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
       "link": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
@@ -101,50 +108,43 @@
       "published": "25 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-25T14:00:00+00:00"
-    },
-    {
-      "title": "A Digital Cell Predicts Which Drugs Will Be Most Effective in Deadly Breast Cancer",
-      "link": "https://singularityhub.com/2026/09/24/a-digital-cell-predicts-which-drugs-will-be-most-effective-in-deadly-breast-cancer/",
-      "published": "24 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-24T17:10:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
-      "published": "28 Sep 2026",
+      "title": "Weltwirtschaftsforum in Davos: Festnahme wegen angeblicher Attentatspläne auf Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/wef-trump-verdacht-anschlag-100.html",
+      "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T21:53:21+02:00"
+      "sort_date": "2026-09-29T06:00:56+02:00"
     },
     {
-      "title": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
-      "link": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
-      "published": "28 Sep 2026",
+      "title": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
+      "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T21:05:03+02:00"
+      "sort_date": "2026-09-29T05:59:31+02:00"
     },
     {
-      "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
-      "published": "28 Sep 2026",
+      "title": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
+      "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T20:54:46+02:00"
+      "sort_date": "2026-09-29T05:00:33+02:00"
     },
     {
-      "title": "Griechenland will während EU-Ratsvorsitz Abschiebezentrum in Afrika einrichten",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-will-abschiebezentren-in-afrika-100.html",
-      "published": "28 Sep 2026",
+      "title": "Oktoberfest - Das Geschäft mit den Teufelsrad-Videos",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html",
+      "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T20:34:20+02:00"
+      "sort_date": "2026-09-29T05:00:27+02:00"
     },
     {
-      "title": "Papst in Metz - Eine Rede an Europas Gewissen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
-      "published": "28 Sep 2026",
+      "title": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+      "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-28T19:30:16+02:00"
+      "sort_date": "2026-09-29T02:31:37+02:00"
     }
   ],
   "Food": []
