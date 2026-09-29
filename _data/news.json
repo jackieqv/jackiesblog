@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Dynamic Historical Headcount in SAP SuccessFactors Story Reports Using Input Parameters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-historical-headcount-in-sap-successfactors-story-reports-using/ba-p/14494118",
+      "published": "29 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-29T14:24:56+00:00"
+    },
+    {
       "title": "Unlock the Full Power  of Career Site Builder and SAP SmartRecruiters with Unified Data Model",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlock-the-full-power-of-career-site-builder-and-sap-smartrecruiters-with/ba-p/14493763",
       "published": "29 Sep 2026",
@@ -64,13 +71,6 @@
       "published": "28 Sep 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-09-28T09:19:08+00:00"
-    },
-    {
-      "title": "AI-Powered HR: Exploring Joule & AI Agent Capabilities in Employee Central - November 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-powered-hr-exploring-joule-amp-ai-agent-capabilities-in-employee-central/ba-p/14492379",
-      "published": "25 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-25T18:06:29+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Kolumbiens Präsident macht karibisches Touristenmekka zur Kampfzone",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
+      "title": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
+      "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T13:57:43+02:00"
+      "sort_date": "2026-09-29T21:44:05+02:00"
     },
     {
-      "title": "Deutschland ist OECD-Spitzenreiter bei MINT-Abschlüssen",
-      "link": "https://www.tagesschau.de/inland/bildung-oecd-studie-100.html",
+      "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
+      "link": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T13:46:56+02:00"
+      "sort_date": "2026-09-29T21:11:36+02:00"
     },
     {
-      "title": "Schule in Hessen gewinnt Schulpreis",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutscher-schulpreis-2026-100.html",
+      "title": "Reformdebatte in der schwarz-roten Koalition",
+      "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T12:42:13+02:00"
+      "sort_date": "2026-09-29T20:25:40+02:00"
     },
     {
-      "title": "Hinrichtungen in Iran: Geflüchtet, zurückgekehrt, zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
+      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T12:31:09+02:00"
+      "sort_date": "2026-09-29T20:25:01+02:00"
     },
     {
-      "title": "Linnemann will Kinderkrankentage kürzen - SPD ist dagegen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-will-kinderkrankentage-kuerzen-100.html",
+      "title": "Marktbericht: Anleger weiter zuversichtlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T12:14:05+02:00"
+      "sort_date": "2026-09-29T18:37:28+02:00"
     }
   ],
   "Food": []
