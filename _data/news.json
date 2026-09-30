@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Robot Dog Crushed a Marathon Without Stopping to Recharge",
+      "link": "https://singularityhub.com/2026/09/29/this-robot-dog-crushed-a-marathon-without-stopping-to-recharge/",
+      "published": "29 Sep 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-09-29T20:19:08+00:00"
+    },
+    {
       "title": "US Launches $215 Million Race to Build an Error-Corrected Quantum Computer by 2028",
       "link": "https://singularityhub.com/2026/09/28/us-launches-215-million-race-to-build-an-error-corrected-quantum-computer-by-2028/",
       "published": "28 Sep 2026",
@@ -101,16 +108,23 @@
       "published": "25 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-25T14:40:26+00:00"
-    },
-    {
-      "title": "How Would AI Actually Kill All Humans? Here Are the Top 5 Scenarios",
-      "link": "https://singularityhub.com/2026/09/25/how-would-ai-actually-kill-all-humans-here-are-the-top-5-scenarios/",
-      "published": "25 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-25T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+      "published": "30 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-30T01:02:24+02:00"
+    },
+    {
+      "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
+      "published": "29 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-29T22:19:59+02:00"
+    },
     {
       "title": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
       "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
@@ -131,20 +145,6 @@
       "published": "29 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-29T20:25:40+02:00"
-    },
-    {
-      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-      "published": "29 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T20:25:01+02:00"
-    },
-    {
-      "title": "Marktbericht: Anleger weiter zuversichtlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
-      "published": "29 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-29T18:37:28+02:00"
     }
   ],
   "Food": []
