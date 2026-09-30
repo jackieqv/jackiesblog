@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Connecting the Candidate Journey:Career Site Integration with SmartRecruiters for SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/connecting-the-candidate-journey-career-site-integration-with/ba-p/14495033",
+      "published": "30 Sep 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-09-30T14:52:47+00:00"
+    },
+    {
+      "title": "How We Built a Learning Assignment Management Solution for SAP SuccessFactors HCM Using SAP BAIP",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-learning-assignment-management-solution-for-sap/ba-p/14491351",
+      "published": "30 Sep 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-09-30T10:46:45+00:00"
+    },
+    {
       "title": "Dynamic Historical Headcount in SAP SuccessFactors Story Reports Using Input Parameters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-historical-headcount-in-sap-successfactors-story-reports-using/ba-p/14494118",
       "published": "29 Sep 2026",
@@ -57,23 +71,16 @@
       "published": "28 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-28T09:38:48+00:00"
-    },
-    {
-      "title": "Defaulting Personal email to Other email using CPI in Successfactors.",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/defaulting-personal-email-to-other-email-using-cpi-in-successfactors/ba-p/14492241",
-      "published": "28 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-28T09:32:31+00:00"
-    },
-    {
-      "title": "Automating Learning Enrollment Communication with External Training Providers from LMS Using CPI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-learning-enrollment-communication-with-external-training/ba-p/14480492",
-      "published": "28 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-28T09:19:08+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "published": "30 Sep 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-09-30T14:52:12+00:00"
+    },
     {
       "title": "This Robot Dog Crushed a Marathon Without Stopping to Recharge",
       "link": "https://singularityhub.com/2026/09/29/this-robot-dog-crushed-a-marathon-without-stopping-to-recharge/",
@@ -101,50 +108,43 @@
       "published": "26 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-26T14:00:00+00:00"
-    },
-    {
-      "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "published": "25 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-25T14:40:26+00:00"
     }
   ],
   "News": [
     {
-      "title": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
+      "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T10:42:03+02:00"
+      "sort_date": "2026-09-30T19:23:51+02:00"
     },
     {
-      "title": "Tanken in Deutschland war noch nie so teuer wie im September",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
+      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T10:23:56+02:00"
+      "sort_date": "2026-09-30T19:04:59+02:00"
     },
     {
-      "title": "Razzia wegen Geldwäsche-Netzwerk um \"Hells Angels\"",
-      "link": "https://www.tagesschau.de/inland/razzia-geldwaesche-banden-hells-angels-100.html",
+      "title": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T10:12:20+02:00"
+      "sort_date": "2026-09-30T19:02:10+02:00"
     },
     {
-      "title": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html",
+      "title": "Unter einem Dach: Wie Kita-Kinder und Senioren voneinander lernen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegeheim-kita-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T09:13:56+02:00"
+      "sort_date": "2026-09-30T19:01:51+02:00"
     },
     {
-      "title": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
-      "link": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html",
+      "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
+      "link": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T09:08:37+02:00"
+      "sort_date": "2026-09-30T18:59:44+02:00"
     }
   ],
   "Food": []
