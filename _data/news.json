@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
+      "published": "30 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-30T22:31:18+02:00"
+    },
+    {
+      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
+      "published": "30 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-30T20:59:10+02:00"
+    },
+    {
+      "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
+      "published": "30 Sep 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-09-30T20:07:15+02:00"
+    },
+    {
       "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
       "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
       "published": "30 Sep 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-09-30T19:23:51+02:00"
     },
     {
-      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
-      "published": "30 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T19:04:59+02:00"
-    },
-    {
       "title": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
       "published": "30 Sep 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-09-30T19:02:10+02:00"
-    },
-    {
-      "title": "Unter einem Dach: Wie Kita-Kinder und Senioren voneinander lernen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegeheim-kita-100.html",
-      "published": "30 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T19:01:51+02:00"
-    },
-    {
-      "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
-      "link": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
-      "published": "30 Sep 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T18:59:44+02:00"
     }
   ],
   "Food": []
