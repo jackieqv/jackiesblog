@@ -38,18 +38,18 @@
   ],
   "Technology": [
     {
+      "title": "Recurring Time Accounts, Zero Middleware: A Business Rule Approach to Comp Leave Postings",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/recurring-time-accounts-zero-middleware-a-business-rule-approach-to-comp/ba-p/14483801",
+      "published": "01 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-01T03:30:00+00:00"
+    },
+    {
       "title": "Connecting the Candidate Journey:Career Site Integration with SmartRecruiters for SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/connecting-the-candidate-journey-career-site-integration-with/ba-p/14495033",
       "published": "30 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-30T14:52:47+00:00"
-    },
-    {
-      "title": "How We Built a Learning Assignment Management Solution for SAP SuccessFactors HCM Using SAP BAIP",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-learning-assignment-management-solution-for-sap/ba-p/14491351",
-      "published": "30 Sep 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-09-30T10:46:45+00:00"
     },
     {
       "title": "Dynamic Historical Headcount in SAP SuccessFactors Story Reports Using Input Parameters",
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-      "published": "30 Sep 2026",
+      "title": "EU-Innenminister in Luxemburg: \"Müssen jetzt über Ceuta sprechen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/treffen-eu-innenminister-ceuta-100.html",
+      "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T22:31:18+02:00"
+      "sort_date": "2026-10-01T05:26:32+02:00"
     },
     {
-      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
-      "published": "30 Sep 2026",
+      "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
+      "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T20:59:10+02:00"
+      "sort_date": "2026-10-01T04:55:03+02:00"
     },
     {
-      "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-      "published": "30 Sep 2026",
+      "title": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
+      "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T20:07:15+02:00"
+      "sort_date": "2026-10-01T04:40:55+02:00"
     },
     {
-      "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
-      "published": "30 Sep 2026",
+      "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+      "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T19:23:51+02:00"
+      "sort_date": "2026-10-01T02:28:55+02:00"
     },
     {
-      "title": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
-      "published": "30 Sep 2026",
+      "title": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+      "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-09-30T19:02:10+02:00"
+      "sort_date": "2026-10-01T01:16:22+02:00"
     }
   ],
   "Food": []
