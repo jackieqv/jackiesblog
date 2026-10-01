@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Dynamic Roles automation based on FO MDF Object",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/dynamic-roles-automation-based-on-fo-mdf-object/ba-p/14495703",
+      "published": "01 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-01T19:20:11+00:00"
+    },
+    {
       "title": "Accrual Rule Based on Anniversary Date and Service Milestones in Employee Central Time Off",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/accrual-rule-based-on-anniversary-date-and-service-milestones-in-employee/ba-p/14494442",
       "published": "01 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "29 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-29T14:24:56+00:00"
-    },
-    {
-      "title": "Unlock the Full Power  of Career Site Builder and SAP SmartRecruiters with Unified Data Model",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlock-the-full-power-of-career-site-builder-and-sap-smartrecruiters-with/ba-p/14493763",
-      "published": "29 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-29T00:22:40+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "published": "01 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-01T13:20:29+00:00"
+    },
     {
       "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
       "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
@@ -101,50 +108,43 @@
       "published": "28 Sep 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-09-28T14:35:21+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 26)",
-      "link": "https://singularityhub.com/2026/09/26/this-weeks-awesome-tech-stories-from-around-the-web-through-september-26/",
-      "published": "26 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-26T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
-      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
+      "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T13:59:27+02:00"
+      "sort_date": "2026-10-01T21:41:16+02:00"
     },
     {
-      "title": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
+      "title": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
+      "link": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T13:38:57+02:00"
+      "sort_date": "2026-10-01T21:11:40+02:00"
     },
     {
-      "title": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
+      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T13:11:49+02:00"
+      "sort_date": "2026-10-01T19:49:18+02:00"
     },
     {
-      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
+      "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T13:01:33+02:00"
+      "sort_date": "2026-10-01T19:25:59+02:00"
     },
     {
-      "title": "Abgeordnetenhauswahl in Berlin: Rot-Grün-Rot führt Vorgespräche",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
+      "title": "Todesstrafe in den USA: Die Grausamkeit der Giftspritze",
+      "link": "https://www.dw.com/de/todesstrafe-in-den-usa-die-grausamkeit-der-giftspritze/a-79506042?maca=de-rss-de-top-1016-xml-mrss",
       "published": "01 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T11:47:47+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-01T19:23:00+00:00"
     }
   ],
   "Food": []
