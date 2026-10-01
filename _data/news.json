@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Accrual Rule Based on Anniversary Date and Service Milestones in Employee Central Time Off",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/accrual-rule-based-on-anniversary-date-and-service-milestones-in-employee/ba-p/14494442",
+      "published": "01 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-01T04:28:45+00:00"
+    },
+    {
       "title": "Recurring Time Accounts, Zero Middleware: A Business Rule Approach to Comp Leave Postings",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/recurring-time-accounts-zero-middleware-a-business-rule-approach-to-comp/ba-p/14483801",
       "published": "01 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "29 Sep 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-09-29T00:22:40+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Solution Architecture Leading Practices",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-solution-architecture-leading-practices/ba-p/14490006",
-      "published": "28 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-28T09:38:48+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU-Innenminister in Luxemburg: \"Müssen jetzt über Ceuta sprechen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/treffen-eu-innenminister-ceuta-100.html",
+      "title": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
+      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T05:26:32+02:00"
+      "sort_date": "2026-10-01T13:59:27+02:00"
     },
     {
-      "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
+      "title": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T04:55:03+02:00"
+      "sort_date": "2026-10-01T13:38:57+02:00"
     },
     {
-      "title": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
-      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
+      "title": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T04:40:55+02:00"
+      "sort_date": "2026-10-01T13:11:49+02:00"
     },
     {
-      "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T02:28:55+02:00"
+      "sort_date": "2026-10-01T13:01:33+02:00"
     },
     {
-      "title": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+      "title": "Abgeordnetenhauswahl in Berlin: Rot-Grün-Rot führt Vorgespräche",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
       "published": "01 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-01T01:16:22+02:00"
+      "sort_date": "2026-10-01T11:47:47+02:00"
     }
   ],
   "Food": []
