@@ -38,18 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "Dynamic Roles automation based on FO MDF Object",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/dynamic-roles-automation-based-on-fo-mdf-object/ba-p/14495703",
+      "published": "02 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-02T11:25:28+00:00"
+    },
+    {
+      "title": "Say goodbye to cloning policy changed time recording profile! Effective-dated Time Valuation is here",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/say-goodbye-to-cloning-policy-changed-time-recording-profile-effective/ba-p/14489813",
+      "published": "02 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-02T11:20:24+00:00"
+    },
+    {
       "title": "Digital Adoption Is No Longer Just About Helping People Use Software",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/digital-adoption-is-no-longer-just-about-helping-people-use-software/ba-p/14495931",
       "published": "02 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-02T08:00:49+00:00"
-    },
-    {
-      "title": "Dynamic Roles automation based on FO MDF Object",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/dynamic-roles-automation-based-on-fo-mdf-object/ba-p/14495703",
-      "published": "01 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-01T19:20:11+00:00"
     },
     {
       "title": "Accrual Rule Based on Anniversary Date and Service Milestones in Employee Central Time Off",
@@ -64,16 +71,16 @@
       "published": "01 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-01T03:30:00+00:00"
-    },
-    {
-      "title": "Connecting the Candidate Journey:Career Site Integration with SmartRecruiters for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/connecting-the-candidate-journey-career-site-integration-with/ba-p/14495033",
-      "published": "30 Sep 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-09-30T14:52:47+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
+      "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "published": "02 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-02T14:45:02+00:00"
+    },
     {
       "title": "Star Catcher Is About to Beam Power Between Two Satellites for the First Time",
       "link": "https://singularityhub.com/2026/10/01/star-catcher-is-about-to-beam-power-between-two-satellites-for-the-first-time/",
@@ -101,50 +108,43 @@
       "published": "29 Sep 2026",
       "source": "SingularityHub",
       "sort_date": "2026-09-29T20:19:08+00:00"
-    },
-    {
-      "title": "US Launches $215 Million Race to Build an Error-Corrected Quantum Computer by 2028",
-      "link": "https://singularityhub.com/2026/09/28/us-launches-215-million-race-to-build-an-error-corrected-quantum-computer-by-2028/",
-      "published": "28 Sep 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-09-28T22:01:26+00:00"
     }
   ],
   "News": [
     {
-      "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
-      "link": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html",
-      "published": "02 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T11:17:56+02:00"
-    },
-    {
-      "title": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html",
-      "published": "02 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T11:08:12+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "title": "Marktbericht: DAX geht versöhnlich ins Wochenende",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
       "published": "02 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T10:15:46+02:00"
+      "sort_date": "2026-10-02T18:49:21+02:00"
     },
     {
-      "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
-      "link": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
+      "title": "Bilger erwartet von der Bahn bis 2029 \"spürbare Verbesserung\"",
+      "link": "https://www.tagesschau.de/inland/bilger-verspricht-besserung-bei-bahn-100.html",
       "published": "02 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T09:28:09+02:00"
+      "sort_date": "2026-10-02T18:18:24+02:00"
     },
     {
-      "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+      "title": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
+      "link": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
       "published": "02 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T09:19:51+02:00"
+      "sort_date": "2026-10-02T18:07:28+02:00"
+    },
+    {
+      "title": "USA: Trumps Republikaner unter Druck vor den Midterms",
+      "link": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
+      "published": "02 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-02T17:54:40+02:00"
+    },
+    {
+      "title": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
+      "link": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
+      "published": "02 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-02T17:04:08+02:00"
     }
   ],
   "Food": []
