@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 3)",
+      "link": "https://singularityhub.com/2026/10/03/this-weeks-awesome-tech-stories-from-around-the-web-through-october-3-2/",
+      "published": "03 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-03T14:00:00+00:00"
+    },
+    {
       "title": "The ‘WarGames’ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control",
       "link": "https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/",
       "published": "02 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "01 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-01T13:20:29+00:00"
-    },
-    {
-      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "published": "30 Sep 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-09-30T14:52:12+00:00"
     }
   ],
   "News": [
     {
-      "title": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html",
+      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
       "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-03T12:56:13+02:00"
+      "sort_date": "2026-10-03T16:59:21+02:00"
     },
     {
-      "title": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html",
+      "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
       "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-03T12:47:51+02:00"
+      "sort_date": "2026-10-03T16:22:55+02:00"
     },
     {
-      "title": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
+      "title": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
       "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-03T12:42:24+02:00"
+      "sort_date": "2026-10-03T16:03:39+02:00"
     },
     {
-      "title": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
+      "title": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
       "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-03T11:54:11+02:00"
+      "sort_date": "2026-10-03T14:54:53+02:00"
     },
     {
-      "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
+      "title": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
       "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-03T11:35:54+02:00"
+      "sort_date": "2026-10-03T14:29:08+02:00"
     }
   ],
   "Food": []
