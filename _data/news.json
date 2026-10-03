@@ -112,11 +112,18 @@
   ],
   "News": [
     {
-      "title": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-      "link": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
-      "published": "02 Oct 2026",
+      "title": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+      "published": "03 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-02T21:17:42+02:00"
+      "sort_date": "2026-10-03T05:32:08+02:00"
+    },
+    {
+      "title": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
+      "published": "03 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-03T03:55:59+02:00"
     },
     {
       "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
@@ -138,13 +145,6 @@
       "published": "02 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-02T19:53:12+02:00"
-    },
-    {
-      "title": "Überstellung gefangener Nordkoreaner wird zum Skandal zwischen der Ukraine und Südkorea",
-      "link": "https://www.dw.com/de/überstellung-gefangener-nordkoreaner-wird-zum-skandal-zwischen-der-ukraine-und-südkorea/a-79502588?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-02T19:15:00+00:00"
     }
   ],
   "Food": []
