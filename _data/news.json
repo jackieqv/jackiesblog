@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
+      "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+      "published": "05 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-05T01:24:40+02:00"
+    },
+    {
       "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
       "published": "04 Oct 2026",
@@ -138,13 +145,6 @@
       "published": "04 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-04T18:43:05+02:00"
-    },
-    {
-      "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-      "published": "04 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-04T18:06:59+02:00"
     }
   ],
   "Food": []
