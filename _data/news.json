@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 2H 2026: What's New in Employee Central Payroll",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-what-s-new-in-employee-central-payroll/ba-p/14496998",
+      "published": "05 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-05T01:43:36+00:00"
+    },
+    {
       "title": "List of Employee Central & Employee Central Payroll Guide Updates for the 2H 2026 Release",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/list-of-employee-central-amp-employee-central-payroll-guide-updates-for-the/ba-p/14494933",
       "published": "02 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "02 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-02T08:00:49+00:00"
-    },
-    {
-      "title": "Accrual Rule Based on Anniversary Date and Service Milestones in Employee Central Time Off",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/accrual-rule-based-on-anniversary-date-and-service-milestones-in-employee/ba-p/14494442",
-      "published": "01 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-01T04:28:45+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
-      "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+      "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T01:24:40+02:00"
+      "sort_date": "2026-10-05T05:39:00+02:00"
     },
     {
-      "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-      "published": "04 Oct 2026",
+      "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
+      "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-04T20:58:00+02:00"
+      "sort_date": "2026-10-05T05:04:40+02:00"
     },
     {
-      "title": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-      "published": "04 Oct 2026",
+      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+      "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-04T20:40:10+02:00"
+      "sort_date": "2026-10-05T05:00:50+02:00"
     },
     {
-      "title": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-      "published": "04 Oct 2026",
+      "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+      "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+      "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-04T19:43:26+02:00"
+      "sort_date": "2026-10-05T03:56:23+02:00"
     },
     {
-      "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-      "published": "04 Oct 2026",
+      "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+      "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-04T18:43:05+02:00"
+      "sort_date": "2026-10-05T02:33:07+02:00"
     }
   ],
   "Food": []
