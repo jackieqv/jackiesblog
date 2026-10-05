@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "2H2026 Release Update - What’s New in Document Management Service and OpenText Integration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-update-what-s-new-in-document-management-service-and/ba-p/14497610",
+      "published": "05 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-05T18:03:02+00:00"
+    },
+    {
       "title": "AI Is Everywhere. But Is It Your HR’s Priority?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-is-everywhere-but-is-it-your-hr-s-priority/ba-p/14497166",
       "published": "05 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "05 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-05T01:43:36+00:00"
-    },
-    {
-      "title": "Dynamic Roles automation based on FO MDF Object",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/dynamic-roles-automation-based-on-fo-mdf-object/ba-p/14495703",
-      "published": "02 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-02T11:25:28+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Google DeepMind Gives AI-Designed Proteins a Watermark",
+      "link": "https://singularityhub.com/2026/10/05/google-deepmind-gives-ai-designed-proteins-a-watermark/",
+      "published": "05 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-05T20:54:32+00:00"
+    },
     {
       "title": "Is AI the End of Math As We Know It?",
       "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
@@ -101,50 +108,43 @@
       "published": "02 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-02T14:45:02+00:00"
-    },
-    {
-      "title": "Star Catcher Is About to Beam Power Between Two Satellites for the First Time",
-      "link": "https://singularityhub.com/2026/10/01/star-catcher-is-about-to-beam-power-between-two-satellites-for-the-first-time/",
-      "published": "01 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-01T23:19:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Russland dementiert Pestfall nach Tod in Forschungslabor",
-      "link": "https://www.tagesschau.de/ausland/asien/sibirien-infektion-100.html",
+      "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
+      "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T14:45:09+02:00"
+      "sort_date": "2026-10-05T21:37:30+02:00"
     },
     {
-      "title": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
+      "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+      "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T14:11:06+02:00"
+      "sort_date": "2026-10-05T20:01:40+02:00"
     },
     {
-      "title": "Nach tagelangen Regenfällen: Auf Kreta beginnen die Aufräumarbeiten",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-ueberflutung-100.html",
+      "title": "America.gov: Digitaler Service oder Überwachung per KI?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T14:06:27+02:00"
+      "sort_date": "2026-10-05T19:12:58+02:00"
     },
     {
-      "title": "Moldau: Wassermangel trifft hohe Ölpreise",
-      "link": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
+      "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T13:43:42+02:00"
+      "sort_date": "2026-10-05T19:11:29+02:00"
     },
     {
-      "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+      "title": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T13:43:35+02:00"
+      "sort_date": "2026-10-05T19:10:20+02:00"
     }
   ],
   "Food": []
