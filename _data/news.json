@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "AI Is Everywhere. But Is It Your HR’s Priority?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-is-everywhere-but-is-it-your-hr-s-priority/ba-p/14497166",
+      "published": "05 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-05T09:05:17+00:00"
+    },
+    {
+      "title": "2H2026 Release Update - Role-Based Document View: A Centralized Home for All Employee Documents",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-update-role-based-document-view-a-centralized-home-for-all/ba-p/14495644",
+      "published": "05 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-05T07:24:11+00:00"
+    },
+    {
+      "title": "List of Employee Central & Employee Central Payroll Guide Updates for the 2H 2026 Release",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/list-of-employee-central-amp-employee-central-payroll-guide-updates-for-the/ba-p/14494933",
+      "published": "05 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-05T06:45:17+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 2H 2026: What's New in Employee Central Payroll",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-what-s-new-in-employee-central-payroll/ba-p/14496998",
       "published": "05 Oct 2026",
@@ -45,35 +66,21 @@
       "sort_date": "2026-10-05T01:43:36+00:00"
     },
     {
-      "title": "List of Employee Central & Employee Central Payroll Guide Updates for the 2H 2026 Release",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/list-of-employee-central-amp-employee-central-payroll-guide-updates-for-the/ba-p/14494933",
-      "published": "02 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-02T21:00:00+00:00"
-    },
-    {
       "title": "Dynamic Roles automation based on FO MDF Object",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/dynamic-roles-automation-based-on-fo-mdf-object/ba-p/14495703",
       "published": "02 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-02T11:25:28+00:00"
-    },
-    {
-      "title": "Say goodbye to cloning policy changed time recording profile! Effective-dated Time Valuation is here",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/say-goodbye-to-cloning-policy-changed-time-recording-profile-effective/ba-p/14489813",
-      "published": "02 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-02T11:20:24+00:00"
-    },
-    {
-      "title": "Digital Adoption Is No Longer Just About Helping People Use Software",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/digital-adoption-is-no-longer-just-about-helping-people-use-software/ba-p/14495931",
-      "published": "02 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-02T08:00:49+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Is AI the End of Math As We Know It?",
+      "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "published": "05 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-05T13:40:07+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 3)",
       "link": "https://singularityhub.com/2026/10/03/this-weeks-awesome-tech-stories-from-around-the-web-through-october-3-2/",
@@ -101,50 +108,43 @@
       "published": "01 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-01T23:19:54+00:00"
-    },
-    {
-      "title": "What Does the Fourth Dimension Actually Look Like?",
-      "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-      "published": "01 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-01T13:20:29+00:00"
     }
   ],
   "News": [
     {
-      "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+      "title": "Russland dementiert Pestfall nach Tod in Forschungslabor",
+      "link": "https://www.tagesschau.de/ausland/asien/sibirien-infektion-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T05:39:00+02:00"
+      "sort_date": "2026-10-05T14:45:09+02:00"
     },
     {
-      "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
+      "title": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T05:04:40+02:00"
+      "sort_date": "2026-10-05T14:11:06+02:00"
     },
     {
-      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+      "title": "Nach tagelangen Regenfällen: Auf Kreta beginnen die Aufräumarbeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-ueberflutung-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T05:00:50+02:00"
+      "sort_date": "2026-10-05T14:06:27+02:00"
     },
     {
-      "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-      "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+      "title": "Moldau: Wassermangel trifft hohe Ölpreise",
+      "link": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T03:56:23+02:00"
+      "sort_date": "2026-10-05T13:43:42+02:00"
     },
     {
-      "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-      "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+      "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
       "published": "05 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T02:33:07+02:00"
+      "sort_date": "2026-10-05T13:43:35+02:00"
     }
   ],
   "Food": []
