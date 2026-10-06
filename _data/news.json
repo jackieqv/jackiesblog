@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Deploying SAP SmartRecruiters Without SuccessFactors Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deploying-sap-smartrecruiters-without-successfactors-employee-central/ba-p/14498217",
+      "published": "06 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-06T17:49:00+00:00"
+    },
+    {
+      "title": "Understanding the New API Rate Limit Headers in SAP SuccessFactors (with a Real Response Example)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-the-new-api-rate-limit-headers-in-sap-successfactors-with-a/ba-p/14498138",
+      "published": "06 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-06T14:58:50+00:00"
+    },
+    {
+      "title": "Growth Portfolio integration",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/growth-portfolio-integration/ba-p/14474572",
+      "published": "06 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-06T14:19:18+00:00"
+    },
+    {
       "title": "SAP to Acquire TechWolf: Placing Work Intelligence at the Center of the Autonomous Enterprise",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-to-acquire-techwolf-placing-work-intelligence-at-the-center-of-the/ba-p/14498043",
       "published": "06 Oct 2026",
@@ -50,27 +71,6 @@
       "published": "06 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-06T06:00:59+00:00"
-    },
-    {
-      "title": "AI Is Everywhere. But Is It Your HR’s Priority?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ai-is-everywhere-but-is-it-your-hr-s-priority/ba-p/14497166",
-      "published": "05 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-05T09:05:17+00:00"
-    },
-    {
-      "title": "2H2026 Release Update - Role-Based Document View: A Centralized Home for All Employee Documents",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-update-role-based-document-view-a-centralized-home-for-all/ba-p/14495644",
-      "published": "05 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-05T07:24:11+00:00"
-    },
-    {
-      "title": "List of Employee Central & Employee Central Payroll Guide Updates for the 2H 2026 Release",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/list-of-employee-central-amp-employee-central-payroll-guide-updates-for-the/ba-p/14494933",
-      "published": "05 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-05T06:45:17+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Rheinmetall erschließt sich das Weltall",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
+      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
       "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T14:09:30+02:00"
+      "sort_date": "2026-10-06T21:54:16+02:00"
     },
     {
-      "title": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
+      "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
+      "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
       "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T13:47:11+02:00"
+      "sort_date": "2026-10-06T20:57:31+02:00"
     },
     {
-      "title": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen",
-      "link": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
+      "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
+      "link": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
       "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T13:10:17+02:00"
+      "sort_date": "2026-10-06T20:01:14+02:00"
     },
     {
-      "title": "Drohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html",
+      "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
       "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T13:00:35+02:00"
+      "sort_date": "2026-10-06T19:43:36+02:00"
     },
     {
-      "title": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-      "link": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
+      "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
       "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T11:36:32+02:00"
+      "sort_date": "2026-10-06T19:05:00+02:00"
     }
   ],
   "Food": []
