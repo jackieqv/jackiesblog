@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Say goodbye to cloning policy changed time recording profile! Effective-dated Time Valuation is here",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/say-goodbye-to-cloning-policy-changed-time-recording-profile-effective/ba-p/14489813",
+      "published": "06 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-06T04:16:13+00:00"
+    },
+    {
       "title": "2H2026 Release Update - What’s New in Document Management Service and OpenText Integration",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-update-what-s-new-in-document-management-service-and/ba-p/14497610",
       "published": "05 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "05 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-05T06:45:17+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors 2H 2026: What's New in Employee Central Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-what-s-new-in-employee-central-payroll/ba-p/14496998",
-      "published": "05 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-05T01:43:36+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-      "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
-      "published": "05 Oct 2026",
+      "title": "Hallo statt Privjet: An Lettlands Schulen ist Russisch verboten",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+      "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T21:37:30+02:00"
+      "sort_date": "2026-10-06T06:46:48+02:00"
     },
     {
-      "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
-      "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
-      "published": "05 Oct 2026",
+      "title": "Warum ein Studium keine Jobgarantie mehr ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+      "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T20:01:40+02:00"
+      "sort_date": "2026-10-06T06:23:54+02:00"
     },
     {
-      "title": "America.gov: Digitaler Service oder Überwachung per KI?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-      "published": "05 Oct 2026",
+      "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+      "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+      "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T19:12:58+02:00"
+      "sort_date": "2026-10-06T06:22:55+02:00"
     },
     {
-      "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
-      "published": "05 Oct 2026",
+      "title": "Wie starre Hierarchien in Kliniken Machtmissbrauch ermöglichen",
+      "link": "https://www.tagesschau.de/investigativ/ndr/medtoo-machtmissbrauch-krankenhaus-100.html",
+      "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T19:11:29+02:00"
+      "sort_date": "2026-10-06T06:21:58+02:00"
     },
     {
-      "title": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
-      "published": "05 Oct 2026",
+      "title": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+      "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+      "published": "06 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-05T19:10:20+02:00"
+      "sort_date": "2026-10-06T05:25:07+02:00"
     }
   ],
   "Food": []
