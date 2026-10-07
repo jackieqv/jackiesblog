@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Reusable Views on Classification and Lookup Table  for SAP Commissions Implementation",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reusable-views-on-classification-and-lookup-table-for-sap-commissions/ba-p/14498519",
+      "published": "07 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-07T06:41:02+00:00"
+    },
+    {
+      "title": "Automating Employee Contract Extension Based on Contract End Date in SAP SuccessFactors EC",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-employee-contract-extension-based-on-contract-end-date-in-sap/ba-p/14494023",
+      "published": "07 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-07T05:40:11+00:00"
+    },
+    {
+      "title": "Introducing Organizational Modeling in SAP SuccessFactors Employee Central",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-organizational-modeling-in-sap-successfactors-employee-central/ba-p/14495331",
+      "published": "07 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-07T03:51:42+00:00"
+    },
+    {
       "title": "Deploying SAP SmartRecruiters Without SuccessFactors Employee Central",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deploying-sap-smartrecruiters-without-successfactors-employee-central/ba-p/14498217",
       "published": "06 Oct 2026",
@@ -50,27 +71,6 @@
       "published": "06 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-06T14:58:50+00:00"
-    },
-    {
-      "title": "Growth Portfolio integration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/growth-portfolio-integration/ba-p/14474572",
-      "published": "06 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-06T14:19:18+00:00"
-    },
-    {
-      "title": "SAP to Acquire TechWolf: Placing Work Intelligence at the Center of the Autonomous Enterprise",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-to-acquire-techwolf-placing-work-intelligence-at-the-center-of-the/ba-p/14498043",
-      "published": "06 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-06T12:04:13+00:00"
-    },
-    {
-      "title": "2H 2026 Release Update - What’s New in Document Management Service and OpenText Integration",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-update-what-s-new-in-document-management-service-and/ba-p/14497610",
-      "published": "06 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-06T06:00:59+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "UN-Menschenrechtsrat: Der Versuch, Menschenrechte vor KI zu schützen",
-      "link": "https://www.tagesschau.de/ausland/europa/un-menschenrechte-ki-100.html",
+      "title": "Jetzt live: Wer bekommt den Chemie-Nobelpreis?",
+      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-livestream-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T02:11:57+02:00"
+      "sort_date": "2026-10-07T11:35:47+02:00"
     },
     {
-      "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
-      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
+      "title": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover",
+      "link": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T01:56:42+02:00"
+      "sort_date": "2026-10-07T10:58:04+02:00"
     },
     {
-      "title": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
+      "title": "DAX gibt Vortagesgewinn ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T00:05:31+02:00"
+      "sort_date": "2026-10-07T10:36:56+02:00"
     },
     {
-      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-      "published": "06 Oct 2026",
+      "title": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
+      "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T21:54:16+02:00"
+      "sort_date": "2026-10-07T10:21:57+02:00"
     },
     {
-      "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
-      "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
-      "published": "06 Oct 2026",
+      "title": "Jüdischer Alltag in Deutschland: Leben mit Sicherheitsvorkehrungen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/juedisches-leben-deutschland-106.html",
+      "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-06T20:57:31+02:00"
+      "sort_date": "2026-10-07T10:17:17+02:00"
     }
   ],
   "Food": []
