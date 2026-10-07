@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+      "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "published": "07 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-07T15:08:46+00:00"
+    },
+    {
       "title": "Epigenetic Editing Could Wipe Out Chronic Hepatitis B Infections",
       "link": "https://singularityhub.com/2026/10/06/epigenetic-editing-could-wipe-out-lingering-hepatitis-b/",
       "published": "06 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "03 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-03T14:00:00+00:00"
-    },
-    {
-      "title": "The ‘WarGames’ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control",
-      "link": "https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/",
-      "published": "02 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-02T20:54:15+00:00"
     }
   ],
   "News": [
     {
-      "title": "Jetzt live: Wer bekommt den Chemie-Nobelpreis?",
-      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-livestream-100.html",
+      "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T11:35:47+02:00"
+      "sort_date": "2026-10-07T20:21:05+02:00"
     },
     {
-      "title": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover",
-      "link": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
+      "title": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T10:58:04+02:00"
+      "sort_date": "2026-10-07T19:42:13+02:00"
     },
     {
-      "title": "DAX gibt Vortagesgewinn ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
+      "title": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T10:36:56+02:00"
+      "sort_date": "2026-10-07T19:31:36+02:00"
     },
     {
-      "title": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
+      "title": "3. Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
+      "link": "https://www.tagesschau.de/ausland/asien/dritter-jahrestag-hamas-israel-gedenken-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T10:21:57+02:00"
+      "sort_date": "2026-10-07T19:01:48+02:00"
     },
     {
-      "title": "Jüdischer Alltag in Deutschland: Leben mit Sicherheitsvorkehrungen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/juedisches-leben-deutschland-106.html",
+      "title": "Steinmeiers Abschiedsbesuch in Paris in stürmischen Zeiten",
+      "link": "https://www.tagesschau.de/inland/steinmeier-staatsbesuch-frankreich-100.html",
       "published": "07 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-07T10:17:17+02:00"
+      "sort_date": "2026-10-07T18:45:18+02:00"
     }
   ],
   "Food": []
