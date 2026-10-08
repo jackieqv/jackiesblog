@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Dynamic Shift Assignment based on Actual Clock-In Clock-Out – 2H 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-shift-assignment-based-on-actual-clock-in-clock-out-2h-2026/ba-p/14497098",
+      "published": "08 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-08T11:48:07+00:00"
+    },
+    {
       "title": "Reusable Views on Classification and Lookup Table  for SAP Commissions Implementation",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reusable-views-on-classification-and-lookup-table-for-sap-commissions/ba-p/14498519",
       "published": "07 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "06 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-06T17:49:00+00:00"
-    },
-    {
-      "title": "Understanding the New API Rate Limit Headers in SAP SuccessFactors (with a Real Response Example)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/understanding-the-new-api-rate-limit-headers-in-sap-successfactors-with-a/ba-p/14498138",
-      "published": "06 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-06T14:58:50+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "This Tool Turns Scientific Articles Into Agents That Answer Questions and Collaborate",
+      "link": "https://singularityhub.com/2026/10/08/this-tool-turns-scientific-articles-into-agents-that-answer-questions-and-collaborate/",
+      "published": "08 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-08T18:24:21+00:00"
+    },
     {
       "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
       "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
@@ -101,50 +108,43 @@
       "published": "05 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-05T13:40:07+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 3)",
-      "link": "https://singularityhub.com/2026/10/03/this-weeks-awesome-tech-stories-from-around-the-web-through-october-3-2/",
-      "published": "03 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-03T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungsgespräche",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html",
+      "title": "Berngau in der Oberpfalz: Ein Toter nach Schüssen bei Waffenkontrolle",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html",
       "published": "08 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T11:42:19+02:00"
+      "sort_date": "2026-10-08T20:17:15+02:00"
     },
     {
-      "title": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
+      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
+      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
       "published": "08 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T10:35:14+02:00"
+      "sort_date": "2026-10-08T19:32:20+02:00"
     },
     {
-      "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
+      "title": "Steinmeier auf Abschiedsbesuch bei Macron: \"Hand in Hand\" durch die Stürme",
+      "link": "https://www.tagesschau.de/ausland/europa/steinmeier-paris-100.html",
       "published": "08 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T10:30:36+02:00"
+      "sort_date": "2026-10-08T19:14:06+02:00"
     },
     {
-      "title": "Hohe Erwartungen an Besuch von EU-Handelskommissar Sefcovic in Peking",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-china-sefcovic-100.html",
+      "title": "Anne Carson: Die Punk-Philosophin unter den Nobelpreisträgern",
+      "link": "https://www.tagesschau.de/kultur/literaturnobelpreis-2026-anne-carson-100.html",
       "published": "08 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T10:27:03+02:00"
+      "sort_date": "2026-10-08T18:35:05+02:00"
     },
     {
-      "title": "Nord-Stream-Anschlag: Diese Indizien belasten den mutmaßlichen Saboteur",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nordstream-anschlag-prozess-olg-hamburg-100.html",
+      "title": "Kommentar: Eine Reform zum Vorteil Melonis",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-wahlgesetz-100.html",
       "published": "08 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T09:01:10+02:00"
+      "sort_date": "2026-10-08T18:31:00+02:00"
     }
   ],
   "Food": []
