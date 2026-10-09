@@ -40,9 +40,30 @@
     {
       "title": "Dynamic Shift Assignment based on Actual Clock-In Clock-Out – 2H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-shift-assignment-based-on-actual-clock-in-clock-out-2h-2026/ba-p/14497098",
-      "published": "08 Oct 2026",
+      "published": "09 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-08T11:48:07+00:00"
+      "sort_date": "2026-10-09T08:07:17+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Learning 2H 2026: Top 5 Enhancements to Review Before Release",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-learning-2h-2026-top-5-enhancements-to-review-before/ba-p/14498556",
+      "published": "09 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-09T05:56:21+00:00"
+    },
+    {
+      "title": "Workaround for Growth portfolio Story report duplicate records due to multiple employment cases",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/workaround-for-growth-portfolio-story-report-duplicate-records-due-to/ba-p/14496587",
+      "published": "09 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-09T05:52:43+00:00"
+    },
+    {
+      "title": "Introducing Time Account Balance Access in Time Valuation: More Flexibility, More Control",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-time-account-balance-access-in-time-valuation-more-flexibility/ba-p/14500070",
+      "published": "09 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-09T05:43:54+00:00"
     },
     {
       "title": "Reusable Views on Classification and Lookup Table  for SAP Commissions Implementation",
@@ -50,27 +71,6 @@
       "published": "07 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-07T06:41:02+00:00"
-    },
-    {
-      "title": "Automating Employee Contract Extension Based on Contract End Date in SAP SuccessFactors EC",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-employee-contract-extension-based-on-contract-end-date-in-sap/ba-p/14494023",
-      "published": "07 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-07T05:40:11+00:00"
-    },
-    {
-      "title": "Introducing Organizational Modeling in SAP SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-organizational-modeling-in-sap-successfactors-employee-central/ba-p/14495331",
-      "published": "07 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-07T03:51:42+00:00"
-    },
-    {
-      "title": "Deploying SAP SmartRecruiters Without SuccessFactors Employee Central",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/deploying-sap-smartrecruiters-without-successfactors-employee-central/ba-p/14498217",
-      "published": "06 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-06T17:49:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-      "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
+      "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
+      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-friedensnobelpreis-navi-pillay-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T02:09:09+02:00"
+      "sort_date": "2026-10-09T11:52:35+02:00"
     },
     {
-      "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
+      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
+      "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T00:08:21+02:00"
+      "sort_date": "2026-10-09T10:49:03+02:00"
     },
     {
-      "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
-      "link": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html",
+      "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T00:00:28+02:00"
+      "sort_date": "2026-10-09T10:32:29+02:00"
     },
     {
-      "title": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
-      "link": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
-      "published": "08 Oct 2026",
+      "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
+      "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T21:32:04+02:00"
+      "sort_date": "2026-10-09T10:32:12+02:00"
     },
     {
-      "title": "Sondierungsgespräche in Berlin: Praxis-Test für die rot-grün-rote Theorie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html",
-      "published": "08 Oct 2026",
+      "title": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
+      "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-08T20:51:04+02:00"
+      "sort_date": "2026-10-09T10:00:22+02:00"
     }
   ],
   "Food": []
