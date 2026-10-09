@@ -42,7 +42,7 @@
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-shift-assignment-based-on-actual-clock-in-clock-out-2h-2026/ba-p/14497098",
       "published": "09 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-09T08:07:17+00:00"
+      "sort_date": "2026-10-09T12:17:34+00:00"
     },
     {
       "title": "SAP SuccessFactors Learning 2H 2026: Top 5 Enhancements to Review Before Release",
@@ -75,6 +75,27 @@
   ],
   "Science": [
     {
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "published": "09 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-09T14:03:07+00:00"
+    },
+    {
+      "title": "The Dawn of the Age of the Exoskeleton",
+      "link": "https://singularityhub.com/2026/10/09/the-dawn-of-the-age-of-the-exoskeleton/",
+      "published": "09 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "title": "We’ve Always Copied Nature. Now We Can Search It.",
+      "link": "https://singularityhub.com/2026/10/09/weve-always-copied-nature-now-we-can-search-it/",
+      "published": "09 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-09T13:59:00+00:00"
+    },
+    {
       "title": "This Tool Turns Scientific Articles Into Agents That Answer Questions and Collaborate",
       "link": "https://singularityhub.com/2026/10/08/this-tool-turns-scientific-articles-into-agents-that-answer-questions-and-collaborate/",
       "published": "08 Oct 2026",
@@ -87,64 +108,43 @@
       "published": "07 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-07T15:08:46+00:00"
-    },
-    {
-      "title": "Epigenetic Editing Could Wipe Out Chronic Hepatitis B Infections",
-      "link": "https://singularityhub.com/2026/10/06/epigenetic-editing-could-wipe-out-lingering-hepatitis-b/",
-      "published": "06 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-06T20:36:31+00:00"
-    },
-    {
-      "title": "Google DeepMind Gives AI-Designed Proteins a Watermark",
-      "link": "https://singularityhub.com/2026/10/05/google-deepmind-gives-ai-designed-proteins-a-watermark/",
-      "published": "05 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-05T20:54:32+00:00"
-    },
-    {
-      "title": "Is AI the End of Math As We Know It?",
-      "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-      "published": "05 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-05T13:40:07+00:00"
     }
   ],
   "News": [
     {
-      "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
-      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-friedensnobelpreis-navi-pillay-100.html",
+      "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T11:52:35+02:00"
+      "sort_date": "2026-10-09T19:47:36+02:00"
     },
     {
-      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
-      "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html",
+      "title": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
+      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T10:49:03+02:00"
+      "sort_date": "2026-10-09T19:12:18+02:00"
     },
     {
-      "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html",
+      "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T10:32:29+02:00"
+      "sort_date": "2026-10-09T18:59:58+02:00"
     },
     {
-      "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
+      "title": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
+      "link": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T10:32:12+02:00"
+      "sort_date": "2026-10-09T17:14:28+02:00"
     },
     {
-      "title": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
+      "title": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html",
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T10:00:22+02:00"
+      "sort_date": "2026-10-09T17:12:24+02:00"
     }
   ],
   "Food": []
