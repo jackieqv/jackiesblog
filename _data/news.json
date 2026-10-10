@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 10)",
+      "link": "https://singularityhub.com/2026/10/10/this-weeks-awesome-tech-stories-from-around-the-web-through-october-10-2/",
+      "published": "10 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-10T14:00:00+00:00"
+    },
+    {
       "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
       "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
       "published": "09 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "08 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-08T18:24:21+00:00"
-    },
-    {
-      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
-      "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-      "published": "07 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-07T15:08:46+00:00"
     }
   ],
   "News": [
     {
-      "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+      "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T13:08:42+02:00"
+      "sort_date": "2026-10-10T18:44:22+02:00"
     },
     {
-      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+      "title": "Serie von Messerattacken an Schulen in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T12:54:13+02:00"
+      "sort_date": "2026-10-10T18:33:42+02:00"
     },
     {
-      "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+      "title": "CDU diskutiert über Umgang mit der AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T12:15:19+02:00"
+      "sort_date": "2026-10-10T17:34:39+02:00"
     },
     {
-      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+      "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T11:04:58+02:00"
+      "sort_date": "2026-10-10T16:36:51+02:00"
     },
     {
-      "title": "Hunderte Festnahmen bei Kakerlaken-Protesten in Indien",
-      "link": "https://www.dw.com/de/hunderte-festnahmen-bei-kakerlaken-protesten-in-indien/a-79627531?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
       "published": "10 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-10T10:56:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T16:33:27+02:00"
     }
   ],
   "Food": []
