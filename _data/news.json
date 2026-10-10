@@ -112,11 +112,32 @@
   ],
   "News": [
     {
+      "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+      "published": "10 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T05:56:30+02:00"
+    },
+    {
       "title": "Trump kündigt russische Diesel-Lieferungen an",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T00:19:16+02:00"
+      "sort_date": "2026-10-10T04:43:04+02:00"
+    },
+    {
+      "title": "Schweres Erdbeben erschüttert Panama",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+      "published": "10 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T01:58:47+02:00"
+    },
+    {
+      "title": "China sagt EU weniger Exporte von Hybridautos zu",
+      "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+      "published": "10 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T00:54:50+02:00"
     },
     {
       "title": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
@@ -124,27 +145,6 @@
       "published": "09 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-09T22:35:39+02:00"
-    },
-    {
-      "title": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
-      "link": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
-      "published": "09 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T21:12:19+02:00"
-    },
-    {
-      "title": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
-      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
-      "published": "09 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T19:12:18+02:00"
-    },
-    {
-      "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-      "published": "09 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-09T18:59:58+02:00"
     }
   ],
   "Food": []
