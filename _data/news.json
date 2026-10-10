@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+      "published": "10 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T22:44:04+02:00"
+    },
+    {
       "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
       "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
       "published": "10 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T18:44:22+02:00"
+      "sort_date": "2026-10-10T22:08:55+02:00"
+    },
+    {
+      "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "published": "10 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-10T20:26:35+02:00"
     },
     {
       "title": "Serie von Messerattacken an Schulen in Polen",
@@ -126,25 +140,11 @@
       "sort_date": "2026-10-10T18:33:42+02:00"
     },
     {
-      "title": "CDU diskutiert über Umgang mit der AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+      "title": "\"Ukrainische Freiwillige\" in Russlands Armee zur Propaganda?",
+      "link": "https://www.dw.com/de/ukrainische-freiwillige-in-russlands-armee-zur-propaganda/a-79600463?maca=de-rss-de-top-1016-xml-mrss",
       "published": "10 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T17:34:39+02:00"
-    },
-    {
-      "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
-      "published": "10 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T16:36:51+02:00"
-    },
-    {
-      "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
-      "published": "10 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-10T16:33:27+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-10T18:32:00+00:00"
     }
   ],
   "Food": []
