@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Stay Current with SAP SuccessFactors Performance and Goal Management: 2H 2026 Updates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/stay-current-with-sap-successfactors-performance-and-goal-management-2h/ba-p/14501154",
+      "published": "11 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-11T12:58:39+00:00"
+    },
+    {
       "title": "2H 2026 - Release highlights of SuccessFactors Succession Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/2h-2026-release-highlights-of-successfactors-succession-management/ba-p/14501080",
       "published": "11 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "09 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-09T05:52:43+00:00"
-    },
-    {
-      "title": "Introducing Time Account Balance Access in Time Valuation: More Flexibility, More Control",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/introducing-time-account-balance-access-in-time-valuation-more-flexibility/ba-p/14500070",
-      "published": "09 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-09T05:43:54+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T13:48:54+02:00"
+      "sort_date": "2026-10-11T20:05:00+02:00"
     },
     {
-      "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
+      "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T13:23:58+02:00"
+      "sort_date": "2026-10-11T19:50:11+02:00"
     },
     {
-      "title": "Papst Leo XIV. kündigt Operation an der Lunge an",
-      "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
+      "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T13:22:28+02:00"
+      "sort_date": "2026-10-11T19:36:32+02:00"
     },
     {
-      "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
+      "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T12:53:06+02:00"
+      "sort_date": "2026-10-11T19:31:38+02:00"
     },
     {
-      "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
+      "title": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
+      "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T12:17:20+02:00"
+      "sort_date": "2026-10-11T16:32:56+02:00"
     }
   ],
   "Food": []
