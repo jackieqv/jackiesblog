@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "2H 2026 - Release highlights of SuccessFactors Succession Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/2h-2026-release-highlights-of-successfactors-succession-management/ba-p/14501080",
+      "published": "11 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-11T06:40:40+00:00"
+    },
+    {
       "title": "Dynamic Shift Assignment based on Actual Clock-In Clock-Out – 2H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/dynamic-shift-assignment-based-on-actual-clock-in-clock-out-2h-2026/ba-p/14497098",
       "published": "09 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "09 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-09T05:43:54+00:00"
-    },
-    {
-      "title": "Reusable Views on Classification and Lookup Table  for SAP Commissions Implementation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/reusable-views-on-classification-and-lookup-table-for-sap-commissions/ba-p/14498519",
-      "published": "07 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-07T06:41:02+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
+      "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T05:50:03+02:00"
+      "sort_date": "2026-10-11T13:48:54+02:00"
     },
     {
-      "title": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
-      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
+      "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T05:47:34+02:00"
+      "sort_date": "2026-10-11T13:23:58+02:00"
     },
     {
-      "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+      "title": "Papst Leo XIV. kündigt Operation an der Lunge an",
+      "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T03:27:57+02:00"
+      "sort_date": "2026-10-11T13:22:28+02:00"
     },
     {
-      "title": "Berliner Sondierungen sorgen für Ärger in der Koalition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
+      "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T03:12:51+02:00"
+      "sort_date": "2026-10-11T12:53:06+02:00"
     },
     {
-      "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+      "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T01:56:54+02:00"
+      "sort_date": "2026-10-11T12:17:20+02:00"
     }
   ],
   "Food": []
