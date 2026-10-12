@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "What does the TechWolf acquisition mean for SuccessFactors customers?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-does-the-techwolf-acquisition-mean-for-successfactors-customers/ba-p/14501901",
+      "published": "12 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-12T19:57:04+00:00"
+    },
+    {
+      "title": "Episode 2 Is Here! AI-Powered Recruiting & What's Next with SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/episode-2-is-here-ai-powered-recruiting-amp-what-s-next-with/ba-p/14501893",
+      "published": "12 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-12T19:08:36+00:00"
+    },
+    {
+      "title": "From SAP SuccessFactors Recruiting to SmartRecruiters - A Practitioner's Transition Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-sap-successfactors-recruiting-to-smartrecruiters-a-practitioner-s/ba-p/14501626",
+      "published": "12 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-12T14:57:48+00:00"
+    },
+    {
       "title": "How to Implement the On-Demand E-Verify Status Change Report in SAP SuccessFactors Onboarding",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-implement-the-on-demand-e-verify-status-change-report-in-sap/ba-p/14500694",
       "published": "12 Oct 2026",
@@ -50,30 +71,23 @@
       "published": "12 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-12T10:01:01+00:00"
-    },
-    {
-      "title": "How to Implement Form I-9 Task Delegation in SAP SuccessFactors Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-implement-form-i-9-task-delegation-in-sap-successfactors-onboarding/ba-p/14500784",
-      "published": "12 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-12T09:58:47+00:00"
-    },
-    {
-      "title": "Enhancements to the Rehire Process in SuccessFactors Onboarding",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/enhancements-to-the-rehire-process-in-successfactors-onboarding/ba-p/14501155",
-      "published": "12 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-12T09:53:53+00:00"
-    },
-    {
-      "title": "What did our RBP model look like a year ago? Five practices for RBP governance in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/what-did-our-rbp-model-look-like-a-year-ago-five-practices-for-rbp/ba-p/14495733",
-      "published": "12 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-12T06:25:14+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "This AI Reconstructs What You’re Looking at From a Brain Scan",
+      "link": "https://singularityhub.com/2026/10/12/this-ai-reconstructs-what-youre-looking-at-from-a-brain-scan/",
+      "published": "12 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-12T17:44:24+00:00"
+    },
+    {
+      "title": "Is ‘Attention’ the Essence of Intelligence?",
+      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "published": "12 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-12T14:20:30+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 10)",
       "link": "https://singularityhub.com/2026/10/10/this-weeks-awesome-tech-stories-from-around-the-web-through-october-10-2/",
@@ -94,57 +108,43 @@
       "published": "09 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-09T14:00:00+00:00"
-    },
-    {
-      "title": "We’ve Always Copied Nature. Now We Can Search It.",
-      "link": "https://singularityhub.com/2026/10/09/weve-always-copied-nature-now-we-can-search-it/",
-      "published": "09 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-09T13:59:00+00:00"
-    },
-    {
-      "title": "This Tool Turns Scientific Articles Into Agents That Answer Questions and Collaborate",
-      "link": "https://singularityhub.com/2026/10/08/this-tool-turns-scientific-articles-into-agents-that-answer-questions-and-collaborate/",
-      "published": "08 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-08T18:24:21+00:00"
     }
   ],
   "News": [
     {
-      "title": "Klingbeil will SPD-Führung neu wählen lassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteifuehrung-100.html",
+      "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
       "published": "12 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T12:09:09+02:00"
+      "sort_date": "2026-10-12T21:49:18+02:00"
     },
     {
-      "title": "Briefporto 2027: Standardbrief könnte 1,14 Euro kosten",
-      "link": "https://www.tagesschau.de/inland/deutsche-post-preisanpassung-entwurf-bundesnetzagentur-100.html",
+      "title": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
+      "link": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-top-1016-xml-mrss",
       "published": "12 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T11:54:11+02:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-12T19:52:00+00:00"
     },
     {
-      "title": "Marktbericht: DAX-Erholung setzt sich fort",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+      "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
+      "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
       "published": "12 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T10:55:44+02:00"
+      "sort_date": "2026-10-12T19:31:01+02:00"
     },
     {
-      "title": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
+      "title": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
       "published": "12 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T10:33:32+02:00"
+      "sort_date": "2026-10-12T19:01:25+02:00"
     },
     {
-      "title": "Was hinter der aktuellen Euro-Schwäche steckt",
-      "link": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+      "title": "Israel verweigert taz-Korrespondentin die Einreise",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
       "published": "12 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T10:17:50+02:00"
+      "sort_date": "2026-10-12T18:08:10+02:00"
     }
   ],
   "Food": []
