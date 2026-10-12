@@ -112,11 +112,25 @@
   ],
   "News": [
     {
+      "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
+      "published": "11 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-11T22:11:44+02:00"
+    },
+    {
       "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-11T20:05:00+02:00"
+    },
+    {
+      "title": "Warum steigen Krebserkrankungen bei Menschen unter 50?",
+      "link": "https://www.dw.com/de/warum-steigen-krebserkrankungen-bei-menschen-unter-50/a-79613980?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "11 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-11T19:58:00+00:00"
     },
     {
       "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
@@ -131,20 +145,6 @@
       "published": "11 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-11T19:36:32+02:00"
-    },
-    {
-      "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-      "published": "11 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T19:31:38+02:00"
-    },
-    {
-      "title": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
-      "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
-      "published": "11 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-11T16:32:56+02:00"
     }
   ],
   "Food": []
