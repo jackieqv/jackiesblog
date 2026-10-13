@@ -38,42 +38,49 @@
   ],
   "Technology": [
     {
-      "title": "OMP Pilot Population: Don’t Ask Where to Start — Ask Where You Have the Conditions",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/omp-pilot-population-don-t-ask-where-to-start-ask-where-you-have-the/ba-p/14502603",
+      "title": "2H Release: Build the capability you need with WalkMe Learning Arc and new agentic capabilities",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-release-build-the-capability-you-need-with-walkme-learning-arc-and-new/ba-p/14502911",
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-13T09:52:51+00:00"
+      "sort_date": "2026-10-13T15:55:37+00:00"
     },
     {
-      "title": "From SAP SuccessFactors Recruiting to SmartRecruiters - A Practitioner's Transition Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/from-sap-successfactors-recruiting-to-smartrecruiters-a-practitioner-s/ba-p/14501626",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-13T07:52:03+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Rollouts in SEA: Balancing Global Design with Local HR Requirements",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-rollouts-in-sea-balancing-global-design-with-local-hr/ba-p/14501087",
+      "title": "SuccessConnect 2026: Joule Agents Are Here. Is Your SAP SuccessFactors Architecture Ready?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successconnect-2026-joule-agents-are-here-is-your-sap-successfactors/ba-p/14502879",
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-13T03:38:48+00:00"
+      "sort_date": "2026-10-13T15:43:33+00:00"
     },
     {
-      "title": "When Two Decimals Became Six: Troubleshooting SAP Compensation Statements",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/when-two-decimals-became-six-troubleshooting-sap-compensation-statements/ba-p/14500696",
+      "title": "eSocial - Nota Técnica S-1.3 Nº 07/2026 - Fase 1 Concluída",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-s-1-3-n%C2%BA-07-2026-fase-1-conclu%C3%ADda/ba-p/14502754",
+      "published": "13 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-13T12:33:22+00:00"
+    },
+    {
+      "title": "Peers, Reports & Team Size: The SuccessFactors Setup Guide",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/peers-reports-amp-team-size-the-successfactors-setup-guide/ba-p/14502722",
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-13T03:35:53+00:00"
+      "sort_date": "2026-10-13T12:10:08+00:00"
     },
     {
-      "title": "What does the TechWolf acquisition mean for SuccessFactors customers?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-does-the-techwolf-acquisition-mean-for-successfactors-customers/ba-p/14501901",
-      "published": "12 Oct 2026",
+      "title": "2H 2026 Release Update -  Provisioning Settings Are Moving to Admin Center",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-update-provisioning-settings-are-moving-to-admin-center/ba-p/14502706",
+      "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-12T19:57:04+00:00"
+      "sort_date": "2026-10-13T11:08:59+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Radical New Tactic Would Stop Deadly Cancers Before They Start",
+      "link": "https://singularityhub.com/2026/10/13/radical-new-tactic-would-stop-deadly-cancers-before-they-start/",
+      "published": "13 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-13T14:00:00+00:00"
+    },
     {
       "title": "This AI Reconstructs What You’re Looking at From a Brain Scan",
       "link": "https://singularityhub.com/2026/10/12/this-ai-reconstructs-what-youre-looking-at-from-a-brain-scan/",
@@ -101,50 +108,43 @@
       "published": "09 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-09T14:03:07+00:00"
-    },
-    {
-      "title": "The Dawn of the Age of the Exoskeleton",
-      "link": "https://singularityhub.com/2026/10/09/the-dawn-of-the-age-of-the-exoskeleton/",
-      "published": "09 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-09T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Anleger bleiben zuversichtlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+      "title": "Lungen-Operation bei Papst Leo erfolgreich verlaufen",
+      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T11:33:13+02:00"
+      "sort_date": "2026-10-13T20:47:28+02:00"
     },
     {
-      "title": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
-      "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
+      "title": "Cyberattacken auf Hunderte französische Supermärkte",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T11:24:42+02:00"
+      "sort_date": "2026-10-13T20:37:01+02:00"
     },
     {
-      "title": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
+      "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T11:17:24+02:00"
+      "sort_date": "2026-10-13T20:03:27+02:00"
     },
     {
-      "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-      "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
+      "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T10:46:32+02:00"
+      "sort_date": "2026-10-13T20:02:23+02:00"
     },
     {
-      "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
+      "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T10:34:21+02:00"
+      "sort_date": "2026-10-13T20:00:34+02:00"
     }
   ],
   "Food": []
