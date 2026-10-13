@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+      "published": "13 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-13T03:38:12+02:00"
+    },
+    {
+      "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+      "published": "13 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-13T02:10:57+02:00"
+    },
+    {
+      "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
+      "published": "12 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-12T23:03:44+02:00"
+    },
+    {
       "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
       "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
       "published": "12 Oct 2026",
@@ -124,27 +145,6 @@
       "published": "12 Oct 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-10-12T19:52:00+00:00"
-    },
-    {
-      "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-      "published": "12 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T19:31:01+02:00"
-    },
-    {
-      "title": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
-      "published": "12 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T19:01:25+02:00"
-    },
-    {
-      "title": "Israel verweigert taz-Korrespondentin die Einreise",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
-      "published": "12 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-12T18:08:10+02:00"
     }
   ],
   "Food": []
