@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Lungen-Operation bei Papst Leo erfolgreich verlaufen",
+      "title": "Papst Leo XIV. hat Lungenkrebs",
       "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T20:47:28+02:00"
+      "sort_date": "2026-10-13T23:49:10+02:00"
+    },
+    {
+      "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+      "published": "13 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-13T22:55:26+02:00"
+    },
+    {
+      "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+      "link": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
+      "published": "13 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-13T22:13:11+02:00"
     },
     {
       "title": "Cyberattacken auf Hunderte französische Supermärkte",
@@ -131,20 +145,6 @@
       "published": "13 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-13T20:03:27+02:00"
-    },
-    {
-      "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
-      "published": "13 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T20:02:23+02:00"
-    },
-    {
-      "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-      "published": "13 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T20:00:34+02:00"
     }
   ],
   "Food": []
