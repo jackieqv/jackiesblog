@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "From Generation to Governance: What’s New in Document Generation (2H 2026)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-generation-to-governance-what-s-new-in-document-generation-2h-2026/ba-p/14503483",
+      "published": "14 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-14T10:34:45+00:00"
+    },
+    {
+      "title": "Understanding the SmartRecruiters for SAP SuccessFactors Standard Product Connectors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-the-smartrecruiters-for-sap-successfactors-standard-product/ba-p/14503295",
+      "published": "14 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-14T08:33:56+00:00"
+    },
+    {
       "title": "What's New in the SAP SuccessFactors App for Microsoft Teams — 2H 2026 Release",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-in-the-sap-successfactors-app-for-microsoft-teams-2h-2026/ba-p/14503260",
       "published": "14 Oct 2026",
@@ -57,23 +71,16 @@
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-13T15:43:33+00:00"
-    },
-    {
-      "title": "eSocial - Nota Técnica S-1.3 Nº 07/2026 - Fase 1 Concluída",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-s-1-3-n%C2%BA-07-2026-fase-1-conclu%C3%ADda/ba-p/14502754",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-13T12:33:22+00:00"
-    },
-    {
-      "title": "Peers, Reports & Team Size: The SuccessFactors Setup Guide",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/peers-reports-amp-team-size-the-successfactors-setup-guide/ba-p/14502722",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-13T12:10:08+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+      "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "published": "14 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-14T14:04:05+00:00"
+    },
     {
       "title": "Radical New Tactic Would Stop Deadly Cancers Before They Start",
       "link": "https://singularityhub.com/2026/10/13/radical-new-tactic-would-stop-deadly-cancers-before-they-start/",
@@ -101,50 +108,43 @@
       "published": "10 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-10T14:00:00+00:00"
-    },
-    {
-      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
-      "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
-      "published": "09 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-09T14:03:07+00:00"
     }
   ],
   "News": [
     {
-      "title": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html",
+      "title": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T10:06:59+02:00"
+      "sort_date": "2026-10-14T16:18:13+02:00"
     },
     {
-      "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+      "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
+      "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T08:59:05+02:00"
+      "sort_date": "2026-10-14T16:17:03+02:00"
     },
     {
-      "title": "Marktbericht: DAX leicht höher gesehen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+      "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
+      "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T07:35:03+02:00"
+      "sort_date": "2026-10-14T15:56:17+02:00"
     },
     {
-      "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
-      "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-14T07:01:00+00:00"
-    },
-    {
-      "title": "100 Jahre Pu der Bär: Ein bisschen Honig und ganz viel Freundschaft",
-      "link": "https://www.tagesschau.de/kultur/winnie-pu-100-jahre-100.html",
+      "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T06:57:59+02:00"
+      "sort_date": "2026-10-14T15:14:36+02:00"
+    },
+    {
+      "title": "Trotz Warnungen: EU-Fördertopf für freiwillige Ausreisen ist leer",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/foerdertopf-ausreisen-abgelehnte-asylbewerber-100.html",
+      "published": "14 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-14T15:00:31+02:00"
     }
   ],
   "Food": []
