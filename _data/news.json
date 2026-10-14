@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+      "published": "14 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-14T22:33:16+02:00"
+    },
+    {
+      "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+      "published": "14 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-14T22:01:02+02:00"
+    },
+    {
       "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
       "published": "14 Oct 2026",
@@ -119,32 +133,18 @@
       "sort_date": "2026-10-14T20:29:12+02:00"
     },
     {
+      "title": "Eine Welt ohne Hunger rückt in weite Ferne",
+      "link": "https://www.dw.com/de/eine-welt-ohne-hunger-rückt-in-weite-ferne/a-79662949?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-14T19:56:00+00:00"
+    },
+    {
       "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-14T18:24:05+02:00"
-    },
-    {
-      "title": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
-      "published": "14 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T18:20:57+02:00"
-    },
-    {
-      "title": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-      "published": "14 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T17:33:55+02:00"
-    },
-    {
-      "title": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
-      "published": "14 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T17:33:29+02:00"
     }
   ],
   "Food": []
