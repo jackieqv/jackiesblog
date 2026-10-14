@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "What's New in the SAP SuccessFactors App for Microsoft Teams — 2H 2026 Release",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-in-the-sap-successfactors-app-for-microsoft-teams-2h-2026/ba-p/14503260",
+      "published": "14 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-14T08:03:07+00:00"
+    },
+    {
       "title": "2H Release: Build the capability you need with WalkMe Learning Arc and new agentic capabilities",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-release-build-the-capability-you-need-with-walkme-learning-arc-and-new/ba-p/14502911",
       "published": "13 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-13T12:10:08+00:00"
-    },
-    {
-      "title": "2H 2026 Release Update -  Provisioning Settings Are Moving to Admin Center",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-update-provisioning-settings-are-moving-to-admin-center/ba-p/14502706",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-13T11:08:59+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Papst Leo XIV. hat Lungenkrebs",
-      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-      "published": "13 Oct 2026",
+      "title": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html",
+      "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T23:49:10+02:00"
+      "sort_date": "2026-10-14T10:06:59+02:00"
     },
     {
-      "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-      "published": "13 Oct 2026",
+      "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+      "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T22:55:26+02:00"
+      "sort_date": "2026-10-14T08:59:05+02:00"
     },
     {
-      "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
-      "link": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
-      "published": "13 Oct 2026",
+      "title": "Marktbericht: DAX leicht höher gesehen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+      "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T22:13:11+02:00"
+      "sort_date": "2026-10-14T07:35:03+02:00"
     },
     {
-      "title": "Cyberattacken auf Hunderte französische Supermärkte",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-      "published": "13 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T20:37:01+02:00"
+      "title": "Papst Leo XIV. wegen Lungenkrebs operiert - News kompakt: Das Wichtigste kurz gefasst",
+      "link": "https://www.dw.com/de/papst-leo-xiv-wegen-lungenkrebs-operiert-news-kompakt-das-wichtigste-kurz-gefasst/a-79656393?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "14 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-14T07:01:00+00:00"
     },
     {
-      "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
-      "published": "13 Oct 2026",
+      "title": "100 Jahre Pu der Bär: Ein bisschen Honig und ganz viel Freundschaft",
+      "link": "https://www.tagesschau.de/kultur/winnie-pu-100-jahre-100.html",
+      "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-13T20:03:27+02:00"
+      "sort_date": "2026-10-14T06:57:59+02:00"
     }
   ],
   "Food": []
