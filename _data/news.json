@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+      "published": "15 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-15T05:15:14+02:00"
+    },
+    {
+      "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+      "published": "15 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-15T05:00:17+02:00"
+    },
+    {
+      "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+      "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+      "published": "15 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-15T03:48:20+02:00"
+    },
+    {
       "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
       "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
       "published": "14 Oct 2026",
@@ -124,27 +145,6 @@
       "published": "14 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-14T22:01:02+02:00"
-    },
-    {
-      "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
-      "published": "14 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T20:29:12+02:00"
-    },
-    {
-      "title": "Eine Welt ohne Hunger rückt in weite Ferne",
-      "link": "https://www.dw.com/de/eine-welt-ohne-hunger-rückt-in-weite-ferne/a-79662949?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-14T19:56:00+00:00"
-    },
-    {
-      "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-      "published": "14 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T18:24:05+02:00"
     }
   ],
   "Food": []
