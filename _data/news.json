@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+      "published": "16 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-16T01:06:09+02:00"
+    },
+    {
       "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
       "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
       "published": "15 Oct 2026",
@@ -138,13 +145,6 @@
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-15T20:05:32+02:00"
-    },
-    {
-      "title": "Koreanische Halbinsel: Wettrüsten auf Hochtour",
-      "link": "https://www.dw.com/de/koreanische-halbinsel-wettrüsten-auf-hochtour/a-79674093?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "15 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-15T19:29:00+00:00"
     }
   ],
   "Food": []
