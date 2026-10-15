@@ -38,11 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "2H 2026 What’s New in SAP SuccessFactors Performance & Goals: Everything You Need in One Read",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/2h-2026-what-s-new-in-sap-successfactors-performance-amp-goals-everything/ba-p/14504117",
+      "published": "15 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-15T15:16:10+00:00"
+    },
+    {
+      "title": "Automating Referral Bonus Payouts: RCM to EC",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-referral-bonus-payouts-rcm-to-ec/ba-p/14504482",
+      "published": "15 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-15T12:39:22+00:00"
+    },
+    {
       "title": "Unlocking Advanced Time Valuation: Extending ECP with SuccessFactors Time Tracking Start & End Times",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlocking-advanced-time-valuation-extending-ecp-with-successfactors-time/ba-p/14504410",
       "published": "15 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-15T08:51:06+00:00"
+      "sort_date": "2026-10-15T12:00:58+00:00"
     },
     {
       "title": "From Generation to Governance: What’s New in Document Generation (2H 2026)",
@@ -57,23 +71,23 @@
       "published": "14 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-14T08:33:56+00:00"
-    },
-    {
-      "title": "What's New in the SAP SuccessFactors App for Microsoft Teams — 2H 2026 Release",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/what-s-new-in-the-sap-successfactors-app-for-microsoft-teams-2h-2026/ba-p/14503260",
-      "published": "14 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-14T08:03:07+00:00"
-    },
-    {
-      "title": "2H Release: Build the capability you need with WalkMe Learning Arc and new agentic capabilities",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-release-build-the-capability-you-need-with-walkme-learning-arc-and-new/ba-p/14502911",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-13T15:55:37+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "The Oldest Living Land Animal Is 194. DNA May Now Reveal the Secret to His Longevity.",
+      "link": "https://singularityhub.com/2026/10/15/the-oldest-living-land-animal-is-194-now-his-dna-may-reveal-secrets-to-longevity/",
+      "published": "15 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-15T14:00:00+00:00"
+    },
+    {
+      "title": "How Do Fungi Keep the Planet Healthy?",
+      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+      "published": "15 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-15T13:40:13+00:00"
+    },
     {
       "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
       "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
@@ -94,57 +108,43 @@
       "published": "12 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-12T17:44:24+00:00"
-    },
-    {
-      "title": "Is ‘Attention’ the Essence of Intelligence?",
-      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "published": "12 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-12T14:20:30+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 10)",
-      "link": "https://singularityhub.com/2026/10/10/this-weeks-awesome-tech-stories-from-around-the-web-through-october-10-2/",
-      "published": "10 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-10T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Schwere Schäden nach Unwetter auf Rhodos",
-      "link": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html",
+      "title": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+      "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T12:45:23+02:00"
+      "sort_date": "2026-10-15T18:05:16+02:00"
     },
     {
-      "title": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
+      "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T12:26:46+02:00"
+      "sort_date": "2026-10-15T17:57:03+02:00"
     },
     {
-      "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
+      "title": "Das sind die Pläne für den Ausweis auf dem Smartphone",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T12:10:33+02:00"
+      "sort_date": "2026-10-15T17:53:10+02:00"
     },
     {
-      "title": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html",
+      "title": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T12:00:12+02:00"
+      "sort_date": "2026-10-15T15:59:53+02:00"
     },
     {
-      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "title": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T11:52:36+02:00"
+      "sort_date": "2026-10-15T15:52:48+02:00"
     }
   ],
   "Food": []
