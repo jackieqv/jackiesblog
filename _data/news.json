@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Unlocking Advanced Time Valuation: Extending ECP with SuccessFactors Time Tracking Start & End Times",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlocking-advanced-time-valuation-extending-ecp-with-successfactors-time/ba-p/14504410",
+      "published": "15 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-15T08:51:06+00:00"
+    },
+    {
       "title": "From Generation to Governance: What’s New in Document Generation (2H 2026)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/from-generation-to-governance-what-s-new-in-document-generation-2h-2026/ba-p/14503483",
       "published": "14 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "13 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-13T15:55:37+00:00"
-    },
-    {
-      "title": "SuccessConnect 2026: Joule Agents Are Here. Is Your SAP SuccessFactors Architecture Ready?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successconnect-2026-joule-agents-are-here-is-your-sap-successfactors/ba-p/14502879",
-      "published": "13 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-13T15:43:33+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+      "title": "Schwere Schäden nach Unwetter auf Rhodos",
+      "link": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T05:15:14+02:00"
+      "sort_date": "2026-10-15T12:45:23+02:00"
     },
     {
-      "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+      "title": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T05:00:17+02:00"
+      "sort_date": "2026-10-15T12:26:46+02:00"
     },
     {
-      "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
-      "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+      "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
       "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-15T03:48:20+02:00"
+      "sort_date": "2026-10-15T12:10:33+02:00"
     },
     {
-      "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-      "published": "14 Oct 2026",
+      "title": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html",
+      "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T22:33:16+02:00"
+      "sort_date": "2026-10-15T12:00:12+02:00"
     },
     {
-      "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-      "published": "14 Oct 2026",
+      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "published": "15 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-14T22:01:02+02:00"
+      "sort_date": "2026-10-15T11:52:36+02:00"
     }
   ],
   "Food": []
