@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
+      "published": "17 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-17T00:22:52+02:00"
+    },
+    {
+      "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
+      "published": "16 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-16T23:15:49+02:00"
+    },
+    {
       "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
       "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
       "published": "16 Oct 2026",
@@ -131,20 +145,6 @@
       "published": "16 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-16T20:07:15+02:00"
-    },
-    {
-      "title": "Papst bittet Putin um Waffenruhe in Oleschky",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
-      "published": "16 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-16T19:25:17+02:00"
-    },
-    {
-      "title": "Angriff auf NS-Dokumentationszentrum in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
-      "published": "16 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-16T19:12:00+02:00"
     }
   ],
   "Food": []
