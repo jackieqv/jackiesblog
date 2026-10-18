@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "One Click to a Clean Employee Record: Print and Export People Profile to PDF in 2H 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/one-click-to-a-clean-employee-record-print-and-export-people-profile-to-pdf/ba-p/14506281",
+      "published": "18 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-18T21:02:12+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 2H 2026 Release: What’s New & What Matters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-release-what-s-new-amp-what-matters/ba-p/14506168",
       "published": "18 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "16 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-16T16:23:39+00:00"
-    },
-    {
-      "title": "Unlocking Advanced Time Valuation: Extending ECP with SuccessFactors Time Tracking Start & End Times",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/unlocking-advanced-time-valuation-extending-ecp-with-successfactors-time/ba-p/14504410",
-      "published": "16 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-16T07:53:27+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,13 @@
   ],
   "News": [
     {
+      "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "published": "19 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-19T00:23:09+02:00"
+    },
+    {
       "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
       "published": "18 Oct 2026",
@@ -138,13 +145,6 @@
       "published": "18 Oct 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
       "sort_date": "2026-10-18T19:54:00+00:00"
-    },
-    {
-      "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-      "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
-      "published": "18 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T18:48:09+02:00"
     }
   ],
   "Food": []
