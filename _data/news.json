@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 2H 2026 Release: What’s New & What Matters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-release-what-s-new-amp-what-matters/ba-p/14506168",
+      "published": "18 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-18T15:11:27+00:00"
+    },
+    {
+      "title": "Compliance Forms in Employee Central - All you need to know!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-forms-in-employee-central-all-you-need-to-know/ba-p/14506166",
+      "published": "18 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-18T11:21:25+00:00"
+    },
+    {
       "title": "Troubleshooting a 404 on One Time Payment in Mass Data Management (2H 2026 Preview)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/troubleshooting-a-404-on-one-time-payment-in-mass-data-management-2h-2026/ba-p/14505982",
       "published": "17 Oct 2026",
@@ -57,20 +71,6 @@
       "published": "16 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-16T07:53:27+00:00"
-    },
-    {
-      "title": "2H 2026 What’s New in SAP SuccessFactors Performance & Goals: Everything You Need in One Read",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/2h-2026-what-s-new-in-sap-successfactors-performance-amp-goals-everything/ba-p/14504117",
-      "published": "15 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-15T15:16:10+00:00"
-    },
-    {
-      "title": "Automating Referral Bonus Payouts: RCM to EC",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-referral-bonus-payouts-rcm-to-ec/ba-p/14504482",
-      "published": "15 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-15T12:39:22+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+      "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
       "published": "18 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T12:03:43+02:00"
+      "sort_date": "2026-10-18T17:18:33+02:00"
     },
     {
-      "title": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
+      "title": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
       "published": "18 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T11:36:32+02:00"
+      "sort_date": "2026-10-18T16:46:25+02:00"
     },
     {
-      "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
-      "link": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
+      "title": "Gewalt bei Protesten beschäftigt auch Italien",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
       "published": "18 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T08:48:59+02:00"
+      "sort_date": "2026-10-18T16:27:58+02:00"
     },
     {
-      "title": "Ukraine-Krieg: Drohnenattacke setzt Öllager in St. Petersburg in Brand",
-      "link": "https://www.dw.com/de/ukraine-krieg-drohnenattacke-setzt-öllager-in-st-petersburg-in-brand/a-79691339?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-18T08:34:00+00:00"
-    },
-    {
-      "title": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
-      "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
+      "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
       "published": "18 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T08:25:03+02:00"
+      "sort_date": "2026-10-18T15:56:51+02:00"
+    },
+    {
+      "title": "Jubel bei erstem öffentlichen Papst-Auftritt nach OP",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-angelus-gebet-106.html",
+      "published": "18 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-18T14:07:31+02:00"
     }
   ],
   "Food": []
