@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Role-Based Permissions — Designing Permission Roles Leading Practice for EC Core",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-role-based-permissions-designing-permission-roles/ba-p/14497675",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T02:08:56+00:00"
+    },
+    {
       "title": "One Click to a Clean Employee Record: Print and Export People Profile to PDF in 2H 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/one-click-to-a-clean-employee-record-print-and-export-people-profile-to-pdf/ba-p/14506281",
       "published": "18 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "17 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-17T15:33:48+00:00"
-    },
-    {
-      "title": "Second Half 2026 Release: Enabling Frictionless People Operations with Agentic AI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-enabling-frictionless-people-operations-with/ba-p/14504963",
-      "published": "16 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-16T16:23:39+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+      "published": "19 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-19T05:00:16+02:00"
+    },
+    {
+      "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
+      "published": "19 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-19T04:17:03+02:00"
+    },
+    {
+      "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+      "link": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+      "published": "19 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-19T02:48:48+02:00"
+    },
+    {
       "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "published": "19 Oct 2026",
@@ -124,27 +145,6 @@
       "published": "18 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-18T21:46:21+02:00"
-    },
-    {
-      "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-      "published": "18 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T21:00:53+02:00"
-    },
-    {
-      "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
-      "published": "18 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T20:32:34+02:00"
-    },
-    {
-      "title": "Sudan: Klimawandel und Drohnenangriffe verschärfen humanitäre Krise",
-      "link": "https://www.dw.com/de/sudan-klimawandel-und-drohnenangriffe-verschärfen-humanitäre-krise/a-79682596?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-18T19:54:00+00:00"
     }
   ],
   "Food": []
