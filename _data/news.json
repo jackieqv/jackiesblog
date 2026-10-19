@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "When I ask Joule something, what actually happens behind the scenes?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/when-i-ask-joule-something-what-actually-happens-behind-the-scenes/ba-p/14429014",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T06:21:10+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Role-Based Permissions — Designing Permission Roles Leading Practice for EC Core",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-role-based-permissions-designing-permission-roles/ba-p/14497675",
       "published": "19 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "18 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-18T11:21:25+00:00"
-    },
-    {
-      "title": "Troubleshooting a 404 on One Time Payment in Mass Data Management (2H 2026 Preview)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/troubleshooting-a-404-on-one-time-payment-in-mass-data-management-2h-2026/ba-p/14505982",
-      "published": "17 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-17T15:33:48+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+      "title": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
+      "link": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T05:00:16+02:00"
+      "sort_date": "2026-10-19T14:07:14+02:00"
     },
     {
-      "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
+      "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T04:17:03+02:00"
+      "sort_date": "2026-10-19T14:05:00+02:00"
     },
     {
-      "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
-      "link": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+      "title": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T02:48:48+02:00"
+      "sort_date": "2026-10-19T13:46:08+02:00"
     },
     {
-      "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "title": "Bringt der Aufschwung in Deutschland auch mehr Jobs?",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T00:23:09+02:00"
+      "sort_date": "2026-10-19T13:25:35+02:00"
     },
     {
-      "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-      "published": "18 Oct 2026",
+      "title": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
+      "link": "https://www.tagesschau.de/wissen/klima/weltnaturkonferenz-in-armenien-startet-100.html",
+      "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-18T21:46:21+02:00"
+      "sort_date": "2026-10-19T13:08:38+02:00"
     }
   ],
   "Food": []
