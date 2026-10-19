@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 2H 2026: Performance & Goals: Everything You Need in One Read",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-performance-amp-goals-everything-you-need-in-one/ba-p/14504117",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-19T20:06:52+00:00"
+    },
+    {
+      "title": "Compensation Statement Acknowledgment",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compensation-statement-acknowledgment/ba-p/14506961",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T20:00:18+00:00"
+    },
+    {
+      "title": "2H Release: Maintain a compliant, job-ready workforce with SAP SuccessFactors Learning",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-release-maintain-a-compliant-job-ready-workforce-with-sap-successfactors/ba-p/14506905",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T17:38:26+00:00"
+    },
+    {
       "title": "When I ask Joule something, what actually happens behind the scenes?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/when-i-ask-joule-something-what-actually-happens-behind-the-scenes/ba-p/14429014",
       "published": "19 Oct 2026",
@@ -50,30 +71,23 @@
       "published": "19 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-19T02:08:56+00:00"
-    },
-    {
-      "title": "One Click to a Clean Employee Record: Print and Export People Profile to PDF in 2H 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/one-click-to-a-clean-employee-record-print-and-export-people-profile-to-pdf/ba-p/14506281",
-      "published": "18 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-18T21:02:12+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors 2H 2026 Release: What’s New & What Matters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-release-what-s-new-amp-what-matters/ba-p/14506168",
-      "published": "18 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-18T15:11:27+00:00"
-    },
-    {
-      "title": "Compliance Forms in Employee Central - All you need to know!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compliance-forms-in-employee-central-all-you-need-to-know/ba-p/14506166",
-      "published": "18 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-18T11:21:25+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "New AI Tool Could Help Scientists Make ‘Rare’ Cross-Disciplinary Leaps",
+      "link": "https://singularityhub.com/2026/10/19/new-ai-tool-could-help-scientists-make-rare-cross-disciplinary-leaps-more-common/",
+      "published": "19 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-19T17:58:32+00:00"
+    },
+    {
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "published": "19 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-19T15:40:26+00:00"
+    },
     {
       "title": "The Evolving Quest to Build Life in a Lab",
       "link": "https://singularityhub.com/2026/10/16/the-evolving-quest-to-build-life-in-a-lab/",
@@ -94,57 +108,43 @@
       "published": "15 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "title": "How Do Fungi Keep the Planet Healthy?",
-      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-      "published": "15 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-15T13:40:13+00:00"
-    },
-    {
-      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
-      "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-      "published": "14 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-14T14:04:05+00:00"
     }
   ],
   "News": [
     {
-      "title": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
-      "link": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
+      "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+      "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T14:07:14+02:00"
+      "sort_date": "2026-10-19T21:52:35+02:00"
     },
     {
-      "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
+      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T14:05:00+02:00"
+      "sort_date": "2026-10-19T21:23:41+02:00"
     },
     {
-      "title": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
+      "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T13:46:08+02:00"
+      "sort_date": "2026-10-19T21:08:04+02:00"
     },
     {
-      "title": "Bringt der Aufschwung in Deutschland auch mehr Jobs?",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
+      "title": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T13:25:35+02:00"
+      "sort_date": "2026-10-19T20:35:46+02:00"
     },
     {
-      "title": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
-      "link": "https://www.tagesschau.de/wissen/klima/weltnaturkonferenz-in-armenien-startet-100.html",
+      "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
       "published": "19 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-19T13:08:38+02:00"
+      "sort_date": "2026-10-19T19:59:59+02:00"
     }
   ],
   "Food": []
