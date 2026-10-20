@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Understanding the changes to Rehires in H2 2026 Onboarding release.",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-the-changes-to-rehires-in-h2-2026-onboarding-release/ba-p/14507506",
+      "published": "20 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-20T14:04:42+00:00"
+    },
+    {
       "title": "2H 2026 Release Updates - SuccessFactors Compensation",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-updates-successfactors-compensation/ba-p/14506965",
       "published": "19 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "19 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-19T20:00:18+00:00"
-    },
-    {
-      "title": "2H Release: Maintain a compliant, job-ready workforce with SAP SuccessFactors Learning",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-release-maintain-a-compliant-job-ready-workforce-with-sap-successfactors/ba-p/14506905",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T17:38:26+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
+      "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T10:07:00+02:00"
+      "sort_date": "2026-10-20T16:00:04+02:00"
     },
     {
-      "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
-      "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+      "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html",
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T09:52:06+02:00"
+      "sort_date": "2026-10-20T15:27:29+02:00"
     },
     {
-      "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
+      "title": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html",
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T08:00:43+02:00"
+      "sort_date": "2026-10-20T15:19:11+02:00"
     },
     {
-      "title": "Marktbericht: Anleger warten auf US-Bilanzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+      "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T07:35:01+02:00"
+      "sort_date": "2026-10-20T15:07:51+02:00"
     },
     {
-      "title": "Chef des weltweit größten Chipherstellers Nvidia wirbt in Deutschland für KI - News kompakt: Das Wichtigste kurz gefasst",
-      "link": "https://www.dw.com/de/chef-des-weltweit-größten-chipherstellers-nvidia-wirbt-in-deutschland-für-ki-news-kompakt-das-wichtigste-kurz-gefasst/a-79708505?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
       "published": "20 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-20T07:00:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-20T14:51:16+02:00"
     }
   ],
   "Food": []
