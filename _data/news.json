@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Blind Patients Recover Partial Vision in Gene Therapy Trial",
+      "link": "https://singularityhub.com/2026/10/20/blind-patients-recover-partial-vision-in-gene-therapy-trial/",
+      "published": "20 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-20T21:05:34+00:00"
+    },
+    {
       "title": "New AI Tool Could Help Scientists Make ‘Rare’ Cross-Disciplinary Leaps",
       "link": "https://singularityhub.com/2026/10/19/new-ai-tool-could-help-scientists-make-rare-cross-disciplinary-leaps-more-common/",
       "published": "19 Oct 2026",
@@ -101,16 +108,23 @@
       "published": "16 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-16T13:25:08+00:00"
-    },
-    {
-      "title": "The Oldest Living Land Animal Is 194. DNA May Now Reveal the Secret to His Longevity.",
-      "link": "https://singularityhub.com/2026/10/15/the-oldest-living-land-animal-is-194-now-his-dna-may-reveal-secrets-to-longevity/",
-      "published": "15 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-15T14:00:00+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+      "published": "20 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-20T22:01:00+02:00"
+    },
+    {
+      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+      "published": "20 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-20T21:56:31+02:00"
+    },
     {
       "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
       "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
@@ -131,20 +145,6 @@
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-20T18:42:23+02:00"
-    },
-    {
-      "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
-      "published": "20 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T18:23:41+02:00"
-    },
-    {
-      "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
-      "published": "20 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T17:38:35+02:00"
     }
   ],
   "Food": []
