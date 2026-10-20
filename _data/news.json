@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "2H 2026 Release Updates - SuccessFactors Compensation",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-updates-successfactors-compensation/ba-p/14506965",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T20:44:51+00:00"
+    },
+    {
+      "title": "Multiple PM Rating and Comp Rating Fields in Compensation Templates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/multiple-pm-rating-and-comp-rating-fields-in-compensation-templates/ba-p/14506964",
+      "published": "19 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-19T20:32:52+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 2H 2026: Performance & Goals: Everything You Need in One Read",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-performance-amp-goals-everything-you-need-in-one/ba-p/14504117",
       "published": "19 Oct 2026",
@@ -57,20 +71,6 @@
       "published": "19 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-19T17:38:26+00:00"
-    },
-    {
-      "title": "When I ask Joule something, what actually happens behind the scenes?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/when-i-ask-joule-something-what-actually-happens-behind-the-scenes/ba-p/14429014",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T06:21:10+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Role-Based Permissions — Designing Permission Roles Leading Practice for EC Core",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-role-based-permissions-designing-permission-roles/ba-p/14497675",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T02:08:56+00:00"
     }
   ],
   "Science": [
