@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
+      "published": "21 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-21T05:05:13+02:00"
+    },
+    {
+      "title": "Tödliches Virus: Nigeria bestätigt ersten Ebola-Fall",
+      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+      "published": "21 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-21T03:11:10+02:00"
+    },
+    {
+      "title": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+      "published": "21 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-21T02:53:00+02:00"
+    },
+    {
       "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
       "published": "20 Oct 2026",
@@ -124,27 +145,6 @@
       "published": "20 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-20T21:56:31+02:00"
-    },
-    {
-      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-      "published": "20 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T19:49:19+02:00"
-    },
-    {
-      "title": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
-      "published": "20 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T18:57:49+02:00"
-    },
-    {
-      "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html",
-      "published": "20 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T18:42:23+02:00"
     }
   ],
   "Food": []
