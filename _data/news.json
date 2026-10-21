@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors 2H 2026 Release: RBPs are Changing, Here’s What to Check Before November 13, 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-release-rbps-are-changing-here-s-what-to-check/ba-p/14507534",
+      "published": "21 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-21T20:13:12+00:00"
+    },
+    {
       "title": "Already-Posted Off-Cycle Result Re-selected? How Simulation Run Behaves",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/already-posted-off-cycle-result-re-selected-how-simulation-run-behaves/ba-p/14506181",
       "published": "21 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "19 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-19T20:32:52+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors 2H 2026: Performance & Goals: Everything You Need in One Read",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-performance-amp-goals-everything-you-need-in-one/ba-p/14504117",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-19T20:06:52+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T17:59:08+02:00"
+      "sort_date": "2026-10-21T22:47:20+02:00"
     },
     {
-      "title": "Krieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+      "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T17:49:52+02:00"
+      "sort_date": "2026-10-21T22:47:10+02:00"
     },
     {
-      "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T17:16:35+02:00"
+      "sort_date": "2026-10-21T20:54:59+02:00"
     },
     {
-      "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
+      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T16:35:26+02:00"
+      "sort_date": "2026-10-21T19:48:20+02:00"
     },
     {
-      "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+      "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T16:34:31+02:00"
+      "sort_date": "2026-10-21T19:21:35+02:00"
     }
   ],
   "Food": []
