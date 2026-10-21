@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Already-Posted Off-Cycle Result Re-selected? How Simulation Run Behaves",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/already-posted-off-cycle-result-re-selected-how-simulation-run-behaves/ba-p/14506181",
+      "published": "21 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-21T09:10:34+00:00"
+    },
+    {
       "title": "Understanding the changes to Rehires in H2 2026 Onboarding release.",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-the-changes-to-rehires-in-h2-2026-onboarding-release/ba-p/14507506",
       "published": "20 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "19 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-19T20:06:52+00:00"
-    },
-    {
-      "title": "Compensation Statement Acknowledgment",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/compensation-statement-acknowledgment/ba-p/14506961",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T20:00:18+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
+      "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
+      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T05:05:13+02:00"
+      "sort_date": "2026-10-21T12:25:05+02:00"
     },
     {
-      "title": "Tödliches Virus: Nigeria bestätigt ersten Ebola-Fall",
-      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+      "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T03:11:10+02:00"
+      "sort_date": "2026-10-21T11:54:59+02:00"
     },
     {
-      "title": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T02:53:00+02:00"
+      "sort_date": "2026-10-21T11:31:54+02:00"
     },
     {
-      "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
-      "published": "20 Oct 2026",
+      "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
+      "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T22:01:00+02:00"
+      "sort_date": "2026-10-21T11:00:03+02:00"
     },
     {
-      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-      "published": "20 Oct 2026",
+      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+      "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-20T21:56:31+02:00"
+      "sort_date": "2026-10-21T10:52:52+02:00"
     }
   ],
   "Food": []
