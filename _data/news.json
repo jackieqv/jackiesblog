@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+      "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+      "published": "21 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-21T14:00:07+00:00"
+    },
+    {
       "title": "Blind Patients Recover Partial Vision in Gene Therapy Trial",
       "link": "https://singularityhub.com/2026/10/20/blind-patients-recover-partial-vision-in-gene-therapy-trial/",
       "published": "20 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "16 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-16T14:00:00+00:00"
-    },
-    {
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "published": "16 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-16T13:25:08+00:00"
     }
   ],
   "News": [
     {
-      "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
-      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
+      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T12:25:05+02:00"
+      "sort_date": "2026-10-21T17:59:08+02:00"
     },
     {
-      "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
-      "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html",
+      "title": "Krieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T11:54:59+02:00"
+      "sort_date": "2026-10-21T17:49:52+02:00"
     },
     {
-      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
+      "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T11:31:54+02:00"
+      "sort_date": "2026-10-21T17:16:35+02:00"
     },
     {
-      "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
+      "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T11:00:03+02:00"
+      "sort_date": "2026-10-21T16:35:26+02:00"
     },
     {
-      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+      "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T10:52:52+02:00"
+      "sort_date": "2026-10-21T16:34:31+02:00"
     }
   ],
   "Food": []
