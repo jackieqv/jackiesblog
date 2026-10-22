@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T21:48:35+02:00"
+    },
+    {
+      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T21:34:07+02:00"
+    },
+    {
+      "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+      "link": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T20:12:49+02:00"
+    },
+    {
+      "title": "Datenschutzerklärung von tagesschau.de",
+      "link": "https://www.tagesschau.de/datenschutz",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T18:54:35+02:00"
+    },
+    {
       "title": "Marktbericht: DAX fällt wieder zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
       "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-22T18:36:57+02:00"
-    },
-    {
-      "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-      "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T18:35:29+02:00"
-    },
-    {
-      "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T18:27:55+02:00"
-    },
-    {
-      "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T17:54:20+02:00"
-    },
-    {
-      "title": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
-      "link": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T17:23:05+02:00"
     }
   ],
   "Food": []
