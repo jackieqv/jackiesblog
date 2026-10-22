@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Personnel Calculation Rule - Factoring Parameter",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/personnel-calculation-rule-factoring-parameter/ba-p/14509136",
+      "published": "22 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-22T10:11:48+00:00"
+    },
+    {
+      "title": "ONB 2.0: Recruiter-Based Task Assignment",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/onb-2-0-recruiter-based-task-assignment/ba-p/14506671",
+      "published": "22 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-22T07:41:03+00:00"
+    },
+    {
+      "title": "Calling SAP SuccessFactors from Postman with OAuth 2.0 (SAML Bearer Assertion) - No External Tools",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/calling-sap-successfactors-from-postman-with-oauth-2-0-saml-bearer/ba-p/14505664",
+      "published": "22 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-22T07:40:17+00:00"
+    },
+    {
       "title": "SAP SuccessFactors 2H 2026 Release: RBPs are Changing, Here’s What to Check Before November 13, 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-2h-2026-release-rbps-are-changing-here-s-what-to-check/ba-p/14507534",
       "published": "21 Oct 2026",
@@ -50,27 +71,6 @@
       "published": "21 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-21T09:10:34+00:00"
-    },
-    {
-      "title": "Understanding the changes to Rehires in H2 2026 Onboarding release.",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/understanding-the-changes-to-rehires-in-h2-2026-onboarding-release/ba-p/14507506",
-      "published": "20 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-20T14:04:42+00:00"
-    },
-    {
-      "title": "2H 2026 Release Updates - SuccessFactors Compensation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-updates-successfactors-compensation/ba-p/14506965",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T20:44:51+00:00"
-    },
-    {
-      "title": "Multiple PM Rating and Comp Rating Fields in Compensation Templates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/multiple-pm-rating-and-comp-rating-fields-in-compensation-templates/ba-p/14506964",
-      "published": "19 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-19T20:32:52+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
-      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+      "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
       "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T05:13:31+02:00"
+      "sort_date": "2026-10-22T13:09:07+02:00"
     },
     {
-      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
-      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
+      "title": "SPD will Pflegereform nachbessern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
       "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T05:05:08+02:00"
+      "sort_date": "2026-10-22T12:31:09+02:00"
     },
     {
-      "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-      "published": "21 Oct 2026",
+      "title": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
+      "link": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html",
+      "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T22:47:20+02:00"
+      "sort_date": "2026-10-22T12:03:36+02:00"
     },
     {
-      "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
-      "published": "21 Oct 2026",
+      "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+      "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T22:47:10+02:00"
+      "sort_date": "2026-10-22T11:25:10+02:00"
     },
     {
-      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-      "published": "21 Oct 2026",
+      "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+      "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T20:54:59+02:00"
+      "sort_date": "2026-10-22T11:24:26+02:00"
     }
   ],
   "Food": []
