@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
+      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T05:13:31+02:00"
+    },
+    {
+      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
+      "published": "22 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-22T05:05:08+02:00"
+    },
+    {
       "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
       "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
       "published": "21 Oct 2026",
@@ -131,20 +145,6 @@
       "published": "21 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-21T20:54:59+02:00"
-    },
-    {
-      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-      "published": "21 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T19:48:20+02:00"
-    },
-    {
-      "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
-      "published": "21 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-21T19:21:35+02:00"
     }
   ],
   "Food": []
