@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
+      "published": "23 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-23T15:52:34+00:00"
+    },
+    {
       "title": "Send Email Notifications Based on Assessment Outcome in SAP SuccessFactors Performance Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/send-email-notifications-based-on-assessment-outcome-in-sap-successfactors/ba-p/14507327",
       "published": "23 Oct 2026",
@@ -64,16 +71,23 @@
       "published": "22 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-22T10:11:48+00:00"
-    },
-    {
-      "title": "ONB 2.0: Recruiter-Based Task Assignment",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/onb-2-0-recruiter-based-task-assignment/ba-p/14506671",
-      "published": "22 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-22T07:41:03+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+      "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "published": "23 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-23T14:54:10+00:00"
+    },
+    {
+      "title": "Why Calling for a ‘Kill Switch’ Is the Wrong Way to Think About Reining in AI",
+      "link": "https://singularityhub.com/2026/10/23/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai/",
+      "published": "23 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-23T14:00:00+00:00"
+    },
     {
       "title": "This AI Model Designs Enzymes With Atomic Precision",
       "link": "https://singularityhub.com/2026/10/22/a-new-ai-model-designs-enzymes-with-atomic-precision/",
@@ -94,57 +108,43 @@
       "published": "20 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-20T21:05:34+00:00"
-    },
-    {
-      "title": "New AI Tool Could Help Scientists Make ‘Rare’ Cross-Disciplinary Leaps",
-      "link": "https://singularityhub.com/2026/10/19/new-ai-tool-could-help-scientists-make-rare-cross-disciplinary-leaps-more-common/",
-      "published": "19 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-19T17:58:32+00:00"
-    },
-    {
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "published": "19 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-19T15:40:26+00:00"
     }
   ],
   "News": [
     {
-      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+      "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+      "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T12:48:25+02:00"
+      "sort_date": "2026-10-23T18:24:21+02:00"
     },
     {
-      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+      "title": "Griechenland verbietet Social Media für unter 15-Jährige",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T12:04:33+02:00"
+      "sort_date": "2026-10-23T17:44:49+02:00"
     },
     {
-      "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
+      "title": "Nicht nur wegen Ryanair-Abzug: Der BER bleibt ein Sorgenflughafen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ryanair-ber-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T11:33:59+02:00"
+      "sort_date": "2026-10-23T17:09:02+02:00"
     },
     {
-      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+      "title": "Russland und Ukraine tauschen erneut Gefangene aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T11:13:15+02:00"
+      "sort_date": "2026-10-23T15:58:44+02:00"
     },
     {
-      "title": "Studie: Hitzesommer 2026 war in Europa der tödlichste bisher",
-      "link": "https://www.dw.com/de/studie-hitzesommer-2026-war-in-europa-der-tödlichste-bisher/a-79741566?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Russlanddeutsche in Kasachstan und der Umgang mit dem Erbe der Sowjetunion",
+      "link": "https://www.dw.com/de/russlanddeutsche-in-kasachstan-und-der-umgang-mit-dem-erbe-der-sowjetunion/a-79728938?maca=de-rss-de-top-1016-xml-mrss",
       "published": "23 Oct 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-23T10:53:00+00:00"
+      "sort_date": "2026-10-23T15:41:00+00:00"
     }
   ],
   "Food": []
