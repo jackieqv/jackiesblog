@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Send Email Notifications Based on Assessment Outcome in SAP SuccessFactors Performance Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/send-email-notifications-based-on-assessment-outcome-in-sap-successfactors/ba-p/14507327",
+      "published": "23 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-23T10:44:02+00:00"
+    },
+    {
       "title": "2H2026 Release Understand the capability of your workforce with Agentic AI & talent intelligence hub",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-understand-the-capability-of-your-workforce-with-agentic-ai/ba-p/14509448",
       "published": "22 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "22 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-22T07:41:03+00:00"
-    },
-    {
-      "title": "Calling SAP SuccessFactors from Postman with OAuth 2.0 (SAML Bearer Assertion) - No External Tools",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/calling-sap-successfactors-from-postman-with-oauth-2-0-saml-bearer/ba-p/14505664",
-      "published": "22 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-22T07:40:17+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
-      "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T05:01:38+02:00"
+      "sort_date": "2026-10-23T12:48:25+02:00"
     },
     {
-      "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T04:28:21+02:00"
+      "sort_date": "2026-10-23T12:04:33+02:00"
     },
     {
-      "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
+      "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
       "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-23T04:01:08+02:00"
+      "sort_date": "2026-10-23T11:33:59+02:00"
     },
     {
-      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
-      "published": "22 Oct 2026",
+      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+      "published": "23 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T21:48:35+02:00"
+      "sort_date": "2026-10-23T11:13:15+02:00"
     },
     {
-      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T21:34:07+02:00"
+      "title": "Studie: Hitzesommer 2026 war in Europa der tödlichste bisher",
+      "link": "https://www.dw.com/de/studie-hitzesommer-2026-war-in-europa-der-tödlichste-bisher/a-79741566?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "23 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-23T10:53:00+00:00"
     }
   ],
   "Food": []
