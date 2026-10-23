@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+      "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+      "published": "23 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-23T05:01:38+02:00"
+    },
+    {
+      "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "published": "23 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-23T04:28:21+02:00"
+    },
+    {
+      "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
+      "published": "23 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-23T04:01:08+02:00"
+    },
+    {
       "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
       "published": "22 Oct 2026",
@@ -124,27 +145,6 @@
       "published": "22 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-22T21:34:07+02:00"
-    },
-    {
-      "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-      "link": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T20:12:49+02:00"
-    },
-    {
-      "title": "Datenschutzerklärung von tagesschau.de",
-      "link": "https://www.tagesschau.de/datenschutz",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T18:54:35+02:00"
-    },
-    {
-      "title": "Marktbericht: DAX fällt wieder zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-      "published": "22 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-22T18:36:57+02:00"
     }
   ],
   "Food": []
