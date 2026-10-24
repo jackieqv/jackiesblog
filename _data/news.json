@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 24)",
+      "link": "https://singularityhub.com/2026/10/24/this-weeks-awesome-tech-stories-from-around-the-web-through-october-24-2/",
+      "published": "24 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-24T14:00:00+00:00"
+    },
+    {
       "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
       "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
       "published": "23 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "21 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-21T14:00:07+00:00"
-    },
-    {
-      "title": "Blind Patients Recover Partial Vision in Gene Therapy Trial",
-      "link": "https://singularityhub.com/2026/10/20/blind-patients-recover-partial-vision-in-gene-therapy-trial/",
-      "published": "20 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-20T21:05:34+00:00"
     }
   ],
   "News": [
     {
-      "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-      "link": "https://www.tagesschau.de/inland/herbststurm-104.html",
+      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T10:59:50+02:00"
+      "sort_date": "2026-10-24T17:20:49+02:00"
     },
     {
-      "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+      "title": "Israelische Armee startet Einsatz in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T10:55:12+02:00"
+      "sort_date": "2026-10-24T16:14:53+02:00"
     },
     {
-      "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+      "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T10:54:51+02:00"
+      "sort_date": "2026-10-24T15:47:08+02:00"
     },
     {
-      "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+      "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T10:27:08+02:00"
+      "sort_date": "2026-10-24T15:36:26+02:00"
     },
     {
-      "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+      "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T10:11:10+02:00"
+      "sort_date": "2026-10-24T15:33:20+02:00"
     }
   ],
   "Food": []
