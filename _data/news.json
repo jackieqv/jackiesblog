@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+      "published": "24 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-24T21:00:39+02:00"
+    },
+    {
+      "title": "Vorgezogene Parlamentswahlen in Serbien: Machtwechsel oder weiter mit  Aleksandar Vučić?",
+      "link": "https://www.dw.com/de/vorgezogene-parlamentswahlen-in-serbien-machtwechsel-oder-weiter-mit-aleksandar-vučić/a-79750692?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "24 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-24T19:20:00+00:00"
+    },
+    {
       "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T17:20:49+02:00"
+      "sort_date": "2026-10-24T18:51:47+02:00"
     },
     {
-      "title": "Israelische Armee startet Einsatz in Hebron",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
+      "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T16:14:53+02:00"
+      "sort_date": "2026-10-24T18:19:11+02:00"
     },
     {
-      "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
+      "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
       "published": "24 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T15:47:08+02:00"
-    },
-    {
-      "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
-      "published": "24 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T15:36:26+02:00"
-    },
-    {
-      "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-      "published": "24 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-24T15:33:20+02:00"
+      "sort_date": "2026-10-24T18:06:57+02:00"
     }
   ],
   "Food": []
