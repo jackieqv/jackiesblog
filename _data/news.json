@@ -112,13 +112,6 @@
   ],
   "News": [
     {
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-      "published": "25 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T21:21:35+01:00"
-    },
-    {
       "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
       "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
       "published": "25 Oct 2026",
@@ -138,6 +131,13 @@
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-25T19:49:43+01:00"
+    },
+    {
+      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+      "published": "25 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-25T19:30:00+01:00"
     },
     {
       "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
