@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Every Phase. Every Tool. Every Decision. How SAP Has Woven AI Into Transformation",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/every-phase-every-tool-every-decision-how-sap-has-woven-ai-into/ba-p/14510214",
+      "published": "25 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-25T15:00:00+00:00"
+    },
+    {
       "title": "Stay Current with SAP SuccessFactors Talent Intelligence Hub: 2H 2026 Updates",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/stay-current-with-sap-successfactors-talent-intelligence-hub-2h-2026/ba-p/14510462",
       "published": "25 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "22 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-22T16:36:18+00:00"
-    },
-    {
-      "title": "Second Half 2026 Release: What’s New in SAP SuccessFactors HCM?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-what-s-new-in-sap-successfactors-hcm/ba-p/14509247",
-      "published": "22 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-22T13:55:15+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+      "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T11:35:11+01:00"
+      "sort_date": "2026-10-25T16:16:47+01:00"
     },
     {
-      "title": "Proteste in Europa - auch mit Gewalt",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+      "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+      "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T09:55:32+01:00"
+      "sort_date": "2026-10-25T16:12:04+01:00"
     },
     {
-      "title": "Israel will Westjordanland am Wahltag abriegeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+      "title": "Gaza droht eine neue Ernährungskrise",
+      "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T09:51:16+01:00"
+      "sort_date": "2026-10-25T15:31:54+01:00"
     },
     {
-      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+      "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+      "link": "https://www.tagesschau.de/inland/umweltpreis-142.html",
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T08:45:03+01:00"
+      "sort_date": "2026-10-25T14:13:45+01:00"
     },
     {
-      "title": "Mehr als 1000 Festnahmen nach neuen Protesten in Frankreich",
-      "link": "https://www.dw.com/de/mehr-als-1000-festnahmen-nach-neuen-protesten-in-frankreich/a-79753740?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Deutscher Umweltpreis würdigt \"Mutmacher\"",
+      "link": "https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-top-1016-xml-mrss",
       "published": "25 Oct 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-25T08:29:00+00:00"
+      "sort_date": "2026-10-25T13:38:00+00:00"
     }
   ],
   "Food": []
