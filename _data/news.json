@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
-      "published": "25 Oct 2026",
+      "title": "Regierung plant Rundfunkreform - Demonstrationen in Tschechien für Meinungsfreiheit",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
+      "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T20:41:15+01:00"
+      "sort_date": "2026-10-26T04:06:18+01:00"
+    },
+    {
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "published": "26 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-26T03:25:53+01:00"
+    },
+    {
+      "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+      "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "published": "26 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-26T00:07:11+01:00"
     },
     {
       "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
@@ -126,25 +140,11 @@
       "sort_date": "2026-10-25T20:25:14+01:00"
     },
     {
-      "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
-      "published": "25 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T19:49:43+01:00"
-    },
-    {
       "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
       "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
       "published": "25 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-25T19:30:00+01:00"
-    },
-    {
-      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
-      "published": "25 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T17:24:20+01:00"
     }
   ],
   "Food": []
