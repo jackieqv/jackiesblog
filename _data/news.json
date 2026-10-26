@@ -52,6 +52,13 @@
       "sort_date": "2026-10-25T08:52:13+00:00"
     },
     {
+      "title": "Making the TOIL Bookable Period Follow the Settlement Period in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/making-the-toil-bookable-period-follow-the-settlement-period-in-sap/ba-p/14510022",
+      "published": "23 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-23T17:33:00+00:00"
+    },
+    {
       "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
       "published": "23 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "23 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-23T10:44:02+00:00"
-    },
-    {
-      "title": "2H2026 Release Understand the capability of your workforce with Agentic AI & talent intelligence hub",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-understand-the-capability-of-your-workforce-with-agentic-ai/ba-p/14509448",
-      "published": "22 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-22T16:36:18+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Regierung plant Rundfunkreform - Demonstrationen in Tschechien für Meinungsfreiheit",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
+      "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T04:06:18+01:00"
+      "sort_date": "2026-10-26T11:51:27+01:00"
     },
     {
-      "title": "Lula gewinnt Wahl in Brasilien",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T03:25:53+01:00"
+      "sort_date": "2026-10-26T11:29:32+01:00"
     },
     {
-      "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-      "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "title": "Oxford Street in London wird zur Fußgängerzone",
+      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T00:07:11+01:00"
+      "sort_date": "2026-10-26T11:27:47+01:00"
     },
     {
-      "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
-      "published": "25 Oct 2026",
+      "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+      "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T20:25:14+01:00"
+      "sort_date": "2026-10-26T11:19:27+01:00"
     },
     {
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-      "published": "25 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-25T19:30:00+01:00"
+      "title": "Thailands Urlaubsinsel Phuket nach Starkregen unter Wasser - Meteorologen rechnen mit weiteren Niederschlägen",
+      "link": "https://www.dw.com/de/thailands-urlaubsinsel-phuket-nach-starkregen-unter-wasser-meteorologen-rechnen-mit-weiteren-niederschlägen/a-79760438?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "26 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-26T10:59:00+00:00"
     }
   ],
   "Food": []
