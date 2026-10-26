@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "2 Key Important updates in Position Management in H2 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2-key-important-updates-in-position-management-in-h2-2026/ba-p/14511001",
+      "published": "26 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-26T12:59:18+00:00"
+    },
+    {
       "title": "Every Phase. Every Tool. Every Decision. How SAP Has Woven AI Into Transformation",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/every-phase-every-tool-every-decision-how-sap-has-woven-ai-into/ba-p/14510214",
       "published": "25 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "23 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-23T17:11:35+00:00"
-    },
-    {
-      "title": "Send Email Notifications Based on Assessment Outcome in SAP SuccessFactors Performance Management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/send-email-notifications-based-on-assessment-outcome-in-sap-successfactors/ba-p/14507327",
-      "published": "23 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-23T10:44:02+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "How Voting Is Like a Klein Bottle",
+      "link": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "published": "26 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-26T14:54:29+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 24)",
       "link": "https://singularityhub.com/2026/10/24/this-weeks-awesome-tech-stories-from-around-the-web-through-october-24-2/",
@@ -101,50 +108,43 @@
       "published": "22 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-22T14:00:00+00:00"
-    },
-    {
-      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
-      "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
-      "published": "21 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-21T14:00:07+00:00"
     }
   ],
   "News": [
     {
-      "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
+      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T11:51:27+01:00"
+      "sort_date": "2026-10-26T20:56:04+01:00"
     },
     {
-      "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
+      "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T11:29:32+01:00"
+      "sort_date": "2026-10-26T20:45:53+01:00"
     },
     {
-      "title": "Oxford Street in London wird zur Fußgängerzone",
-      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
+      "title": "Audi investiert in Amerika, Neckarsulm bangt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T11:27:47+01:00"
+      "sort_date": "2026-10-26T18:56:22+01:00"
     },
     {
-      "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+      "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+      "published": "26 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-26T18:56:13+01:00"
+    },
+    {
+      "title": "Marktbericht: Klare Gewinne zum Wochenstart",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T11:19:27+01:00"
-    },
-    {
-      "title": "Thailands Urlaubsinsel Phuket nach Starkregen unter Wasser - Meteorologen rechnen mit weiteren Niederschlägen",
-      "link": "https://www.dw.com/de/thailands-urlaubsinsel-phuket-nach-starkregen-unter-wasser-meteorologen-rechnen-mit-weiteren-niederschlägen/a-79760438?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "26 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-26T10:59:00+00:00"
+      "sort_date": "2026-10-26T18:05:23+01:00"
     }
   ],
   "Food": []
