@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Is AI Really a Black Box? Neural Networks May Be Easier to Understand Than We Thought",
+      "link": "https://singularityhub.com/2026/10/26/is-ai-really-a-black-box-neural-networks-may-be-easier-to-understand-than-we-thought/",
+      "published": "26 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-26T22:41:53+00:00"
+    },
+    {
       "title": "How Voting Is Like a Klein Bottle",
       "link": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
       "published": "26 Oct 2026",
@@ -101,29 +108,29 @@
       "published": "23 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "title": "This AI Model Designs Enzymes With Atomic Precision",
-      "link": "https://singularityhub.com/2026/10/22/a-new-ai-model-designs-enzymes-with-atomic-precision/",
-      "published": "22 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-22T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "published": "26 Oct 2026",
+      "title": "Harry Kane gewinnt Ballon d'Or",
+      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T20:56:04+01:00"
+      "sort_date": "2026-10-27T00:20:35+01:00"
     },
     {
       "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
       "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T20:45:53+01:00"
+      "sort_date": "2026-10-26T23:30:15+01:00"
+    },
+    {
+      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "published": "26 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-26T20:56:04+01:00"
     },
     {
       "title": "Audi investiert in Amerika, Neckarsulm bangt",
@@ -138,13 +145,6 @@
       "published": "26 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-26T18:56:13+01:00"
-    },
-    {
-      "title": "Marktbericht: Klare Gewinne zum Wochenstart",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-      "published": "26 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T18:05:23+01:00"
     }
   ],
   "Food": []
