@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
+      "published": "27 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-27T04:30:53+00:00"
+    },
+    {
       "title": "2 Key Important updates in Position Management in H2 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2-key-important-updates-in-position-management-in-h2-2026/ba-p/14511001",
       "published": "26 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "23 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-23T17:33:00+00:00"
-    },
-    {
-      "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
-      "published": "23 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-23T17:11:35+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Harry Kane gewinnt Ballon d'Or",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+      "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T00:20:35+01:00"
+      "sort_date": "2026-10-27T09:24:01+01:00"
     },
     {
-      "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-      "published": "26 Oct 2026",
+      "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html",
+      "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T23:30:15+01:00"
+      "sort_date": "2026-10-27T09:12:51+01:00"
     },
     {
-      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "published": "26 Oct 2026",
+      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
+      "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T20:56:04+01:00"
+      "sort_date": "2026-10-27T09:11:22+01:00"
     },
     {
-      "title": "Audi investiert in Amerika, Neckarsulm bangt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
-      "published": "26 Oct 2026",
+      "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
+      "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T18:56:22+01:00"
+      "sort_date": "2026-10-27T08:59:54+01:00"
     },
     {
-      "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-      "published": "26 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-26T18:56:13+01:00"
+      "title": "News kompakt: Schicksalswahl in Israel",
+      "link": "https://www.dw.com/de/news-kompakt-schicksalswahl-in-israel/a-79772301?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "27 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-27T08:01:00+00:00"
     }
   ],
   "Food": []
