@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Updating SmartRecruiters Job Fields via API When Position Mapping Is Not Available",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/updating-smartrecruiters-job-fields-via-api-when-position-mapping-is-not/ba-p/14511533",
+      "published": "27 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-27T09:51:15+00:00"
+    },
+    {
       "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
       "published": "27 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "25 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-25T08:52:13+00:00"
-    },
-    {
-      "title": "Making the TOIL Bookable Period Follow the Settlement Period in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/making-the-toil-bookable-period-follow-the-settlement-period-in-sap/ba-p/14510022",
-      "published": "23 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-23T17:33:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
-      "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html",
+      "title": "Mehr Personal und Befugnisse: EU will Frontex massiv ausbauen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T09:24:01+01:00"
+      "sort_date": "2026-10-27T15:48:50+01:00"
     },
     {
-      "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html",
+      "title": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
+      "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T09:12:51+01:00"
+      "sort_date": "2026-10-27T15:28:22+01:00"
     },
     {
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
+      "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T09:11:22+01:00"
+      "sort_date": "2026-10-27T15:12:19+01:00"
     },
     {
-      "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
+      "title": "Stubb und Störe sprechen mit Putin",
+      "link": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T08:59:54+01:00"
+      "sort_date": "2026-10-27T14:32:22+01:00"
     },
     {
-      "title": "News kompakt: Schicksalswahl in Israel",
-      "link": "https://www.dw.com/de/news-kompakt-schicksalswahl-in-israel/a-79772301?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Russland in Afrika: Was der Kreml erreichen will",
+      "link": "https://www.dw.com/de/russland-in-afrika-was-der-kreml-erreichen-will/a-79774216?maca=de-rss-de-top-1016-xml-mrss",
       "published": "27 Oct 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-27T08:01:00+00:00"
+      "sort_date": "2026-10-27T14:28:00+00:00"
     }
   ],
   "Food": []
