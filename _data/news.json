@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Implementing Dynamic Approvals in SAP SmartRecruiter",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/implementing-dynamic-approvals-in-sap-smartrecruiter/ba-p/14511978",
+      "published": "27 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-27T20:49:36+00:00"
+    },
+    {
       "title": "Updating SmartRecruiters Job Fields via API When Position Mapping Is Not Available",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/updating-smartrecruiters-job-fields-via-api-when-position-mapping-is-not/ba-p/14511533",
       "published": "27 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "25 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "title": "Stay Current with SAP SuccessFactors Talent Intelligence Hub: 2H 2026 Updates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/stay-current-with-sap-successfactors-talent-intelligence-hub-2h-2026/ba-p/14510462",
-      "published": "25 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-25T08:52:13+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Study Could Help Explain Why Colder Body Temperature Extends Lifespan in Many Species",
+      "link": "https://singularityhub.com/2026/10/27/study-could-help-explain-why-colder-body-temperature-extends-lifespan-in-many-species/",
+      "published": "27 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-27T20:50:16+00:00"
+    },
     {
       "title": "Is AI Really a Black Box? Neural Networks May Be Easier to Understand Than We Thought",
       "link": "https://singularityhub.com/2026/10/26/is-ai-really-a-black-box-neural-networks-may-be-easier-to-understand-than-we-thought/",
@@ -101,50 +108,43 @@
       "published": "23 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-23T14:54:10+00:00"
-    },
-    {
-      "title": "Why Calling for a ‘Kill Switch’ Is the Wrong Way to Think About Reining in AI",
-      "link": "https://singularityhub.com/2026/10/23/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai/",
-      "published": "23 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-23T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mehr Personal und Befugnisse: EU will Frontex massiv ausbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html",
+      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T15:48:50+01:00"
+      "sort_date": "2026-10-27T22:16:24+01:00"
     },
     {
-      "title": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-      "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
+      "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T15:28:22+01:00"
+      "sort_date": "2026-10-27T22:01:11+01:00"
     },
     {
-      "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T15:12:19+01:00"
+      "sort_date": "2026-10-27T20:52:58+01:00"
     },
     {
-      "title": "Stubb und Störe sprechen mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
+      "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T14:32:22+01:00"
+      "sort_date": "2026-10-27T18:56:21+01:00"
     },
     {
-      "title": "Russland in Afrika: Was der Kreml erreichen will",
-      "link": "https://www.dw.com/de/russland-in-afrika-was-der-kreml-erreichen-will/a-79774216?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Marktbericht: DAX kann weiter zulegen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
       "published": "27 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-27T14:28:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-27T18:18:35+01:00"
     }
   ],
   "Food": []
