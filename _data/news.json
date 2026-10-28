@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Personnel Calculation Rule - OUTWP",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/personnel-calculation-rule-outwp/ba-p/14509156",
+      "published": "28 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-28T03:56:34+00:00"
+    },
+    {
       "title": "Implementing Dynamic Approvals in SAP SmartRecruiter",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/implementing-dynamic-approvals-in-sap-smartrecruiter/ba-p/14511978",
       "published": "27 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "26 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-26T12:59:18+00:00"
-    },
-    {
-      "title": "Every Phase. Every Tool. Every Decision. How SAP Has Woven AI Into Transformation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/every-phase-every-tool-every-decision-how-sap-has-woven-ai-into/ba-p/14510214",
-      "published": "25 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-25T15:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,18 +112,25 @@
   ],
   "News": [
     {
-      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
       "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-      "published": "27 Oct 2026",
+      "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T22:16:24+01:00"
+      "sort_date": "2026-10-28T04:21:25+01:00"
+    },
+    {
+      "title": "Knesset-Wahl in Israel: Prognosen deuten auf Patt-Situation hin",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+      "published": "28 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-28T04:17:52+01:00"
     },
     {
       "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
-      "published": "27 Oct 2026",
+      "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T22:01:11+01:00"
+      "sort_date": "2026-10-28T00:55:00+01:00"
     },
     {
       "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
@@ -138,13 +145,6 @@
       "published": "27 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-27T18:56:21+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX kann weiter zulegen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-      "published": "27 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T18:18:35+01:00"
     }
   ],
   "Food": []
