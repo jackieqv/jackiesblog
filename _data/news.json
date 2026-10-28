@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Configuration to download Onboarding Documents Via Onboarding Dashboard",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuration-to-download-onboarding-documents-via-onboarding-dashboard/ba-p/14508296",
+      "published": "28 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-28T10:27:17+00:00"
+    },
+    {
+      "title": "Second Half 2026 Release: Reward people for their impact, not their title",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-reward-people-for-their-impact-not-their-title/ba-p/14510085",
+      "published": "28 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-28T04:38:41+00:00"
+    },
+    {
       "title": "Personnel Calculation Rule - OUTWP",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/personnel-calculation-rule-outwp/ba-p/14509156",
       "published": "28 Oct 2026",
@@ -57,20 +71,6 @@
       "published": "27 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-27T09:51:15+00:00"
-    },
-    {
-      "title": "SmartRecruiters and OpenText via SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/smartrecruiters-and-opentext-via-sap-successfactors/ba-p/14509972",
-      "published": "27 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-27T04:30:53+00:00"
-    },
-    {
-      "title": "2 Key Important updates in Position Management in H2 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2-key-important-updates-in-position-management-in-h2-2026/ba-p/14511001",
-      "published": "26 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-26T12:59:18+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+      "title": "Nach Ausreise aus Brasilien: Verwirrung um Aufenthaltsort von Flávio Bolsonaro",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T04:21:25+01:00"
+      "sort_date": "2026-10-28T13:00:47+01:00"
     },
     {
-      "title": "Knesset-Wahl in Israel: Prognosen deuten auf Patt-Situation hin",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+      "title": "Mercedes hat noch größere Probleme im chinesischen Markt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T04:17:52+01:00"
+      "sort_date": "2026-10-28T12:58:54+01:00"
     },
     {
-      "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+      "title": "Diskussion vor Zwischenwahlen: Sind die USA noch eine Demokratie?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T00:55:00+01:00"
+      "sort_date": "2026-10-28T12:35:40+01:00"
     },
     {
-      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
-      "published": "27 Oct 2026",
+      "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+      "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html",
+      "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T20:52:58+01:00"
+      "sort_date": "2026-10-28T12:04:30+01:00"
     },
     {
-      "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
-      "published": "27 Oct 2026",
+      "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
+      "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-27T18:56:21+01:00"
+      "sort_date": "2026-10-28T11:30:22+01:00"
     }
   ],
   "Food": []
