@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Aynı Yasal Duyuru, Aynı Değişim… Yoksa Değil mi?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ayn%C4%B1-yasal-duyuru-ayn%C4%B1-de%C4%9Fi%C5%9Fim-yoksa-de%C4%9Fil-mi/ba-p/14512654",
+      "published": "28 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-28T19:41:58+00:00"
+    },
+    {
       "title": "Configuration to download Onboarding Documents Via Onboarding Dashboard",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuration-to-download-onboarding-documents-via-onboarding-dashboard/ba-p/14508296",
       "published": "28 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "27 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-27T20:49:36+00:00"
-    },
-    {
-      "title": "Updating SmartRecruiters Job Fields via API When Position Mapping Is Not Available",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/updating-smartrecruiters-job-fields-via-api-when-position-mapping-is-not/ba-p/14511533",
-      "published": "27 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-27T09:51:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "published": "28 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-28T16:04:18+00:00"
+    },
     {
       "title": "Study Could Help Explain Why Colder Body Temperature Extends Lifespan in Many Species",
       "link": "https://singularityhub.com/2026/10/27/study-could-help-explain-why-colder-body-temperature-extends-lifespan-in-many-species/",
@@ -101,50 +108,43 @@
       "published": "24 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-      "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
-      "published": "23 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-23T14:54:10+00:00"
     }
   ],
   "News": [
     {
-      "title": "Nach Ausreise aus Brasilien: Verwirrung um Aufenthaltsort von Flávio Bolsonaro",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
+      "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
+      "link": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T13:00:47+01:00"
+      "sort_date": "2026-10-28T20:03:51+01:00"
     },
     {
-      "title": "Mercedes hat noch größere Probleme im chinesischen Markt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
+      "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
+      "link": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T12:58:54+01:00"
+      "sort_date": "2026-10-28T19:20:51+01:00"
     },
     {
-      "title": "Diskussion vor Zwischenwahlen: Sind die USA noch eine Demokratie?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html",
+      "title": "Marktbericht: Der DAX behauptet sich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T12:35:40+01:00"
+      "sort_date": "2026-10-28T18:38:51+01:00"
     },
     {
-      "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
-      "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html",
+      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T12:04:30+01:00"
+      "sort_date": "2026-10-28T18:22:57+01:00"
     },
     {
-      "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
+      "title": "Merz fordert auf Asienreise neue Allianz für regelbasierten Handel",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/merz-asienbesuch-japan-100.html",
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T11:30:22+01:00"
+      "sort_date": "2026-10-28T18:05:18+01:00"
     }
   ],
   "Food": []
