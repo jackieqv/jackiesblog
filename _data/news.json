@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Salary analysis report for internal candidates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/salary-analysis-report-for-internal-candidates/ba-p/14509463",
+      "published": "28 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-28T20:49:14+00:00"
+    },
+    {
       "title": "Aynı Yasal Duyuru, Aynı Değişim… Yoksa Değil mi?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ayn%C4%B1-yasal-duyuru-ayn%C4%B1-de%C4%9Fi%C5%9Fim-yoksa-de%C4%9Fil-mi/ba-p/14512654",
       "published": "28 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "28 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-28T03:56:34+00:00"
-    },
-    {
-      "title": "Implementing Dynamic Approvals in SAP SmartRecruiter",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/implementing-dynamic-approvals-in-sap-smartrecruiter/ba-p/14511978",
-      "published": "27 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-27T20:49:36+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,20 @@
   ],
   "News": [
     {
+      "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+      "published": "28 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-28T22:56:25+01:00"
+    },
+    {
+      "title": "Wie konnte es zu dem schweren Zugunglück kommen?",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
+      "published": "28 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-28T21:54:12+01:00"
+    },
+    {
       "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
       "link": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
       "published": "28 Oct 2026",
@@ -131,20 +145,6 @@
       "published": "28 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-28T18:38:51+01:00"
-    },
-    {
-      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-      "published": "28 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T18:22:57+01:00"
-    },
-    {
-      "title": "Merz fordert auf Asienreise neue Allianz für regelbasierten Handel",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/merz-asienbesuch-japan-100.html",
-      "published": "28 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-28T18:05:18+01:00"
     }
   ],
   "Food": []
