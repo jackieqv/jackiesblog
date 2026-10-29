@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Implementing Dynamic Approvals in SAP SmartRecruiter",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/implementing-dynamic-approvals-in-sap-smartrecruiter/ba-p/14511978",
+      "published": "29 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-29T13:05:44+00:00"
+    },
+    {
+      "title": "Handling Job Approval Rejection in SAP SmartRecruiters: Re-triggering Approvals via API",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/handling-job-approval-rejection-in-sap-smartrecruiters-re-triggering/ba-p/14512969",
+      "published": "29 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-29T10:51:15+00:00"
+    },
+    {
       "title": "Salary analysis report for internal candidates",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/salary-analysis-report-for-internal-candidates/ba-p/14509463",
       "published": "28 Oct 2026",
@@ -57,23 +71,23 @@
       "published": "28 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-28T10:27:17+00:00"
-    },
-    {
-      "title": "Second Half 2026 Release: Reward people for their impact, not their title",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-reward-people-for-their-impact-not-their-title/ba-p/14510085",
-      "published": "28 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-28T04:38:41+00:00"
-    },
-    {
-      "title": "Personnel Calculation Rule - OUTWP",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/personnel-calculation-rule-outwp/ba-p/14509156",
-      "published": "28 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-28T03:56:34+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "published": "29 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-29T15:11:57+00:00"
+    },
+    {
+      "title": "CRISPR Prime Editing Rewrites DNA in the Human Body for the First Time",
+      "link": "https://singularityhub.com/2026/10/29/crispr-prime-editing-rewrites-dna-in-the-human-body-for-the-first-time/",
+      "published": "29 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-29T14:00:00+00:00"
+    },
     {
       "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
       "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
@@ -94,57 +108,43 @@
       "published": "26 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-26T22:41:53+00:00"
-    },
-    {
-      "title": "How Voting Is Like a Klein Bottle",
-      "link": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
-      "published": "26 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-26T14:54:29+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 24)",
-      "link": "https://singularityhub.com/2026/10/24/this-weeks-awesome-tech-stories-from-around-the-web-through-october-24-2/",
-      "published": "24 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-24T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+      "title": "Marktbericht: DAX setzt Klettertour fort",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
       "published": "29 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T09:21:07+01:00"
+      "sort_date": "2026-10-29T18:32:38+01:00"
     },
     {
-      "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+      "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
       "published": "29 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T09:20:43+01:00"
+      "sort_date": "2026-10-29T17:59:55+01:00"
     },
     {
-      "title": "Milliardenverlust bei Volkswagen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
+      "title": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
       "published": "29 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T09:16:16+01:00"
+      "sort_date": "2026-10-29T17:52:47+01:00"
     },
     {
-      "title": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+      "title": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
       "published": "29 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T08:56:14+01:00"
+      "sort_date": "2026-10-29T17:35:53+01:00"
     },
     {
-      "title": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
+      "title": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
       "published": "29 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T08:45:00+01:00"
+      "sort_date": "2026-10-29T17:22:50+01:00"
     }
   ],
   "Food": []
