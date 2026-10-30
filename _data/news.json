@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Is your company using SuccessFactors Workforce Analytics today?",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/is-your-company-using-successfactors-workforce-analytics-today/ba-p/14513664",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-30T09:29:38+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Shell Bar: Product and Module Names Missing in Some Modules",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-shell-bar-product-and-module-names-missing-in-some/ba-p/14513663",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-30T09:29:36+00:00"
+    },
+    {
+      "title": "Managing Multiple Brands in SAP SuccessFactors Recruiting Marketing (RMK)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/managing-multiple-brands-in-sap-successfactors-recruiting-marketing-rmk/ba-p/14509249",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-30T04:20:51+00:00"
+    },
+    {
       "title": "2H 2026: Ramp hires faster and automate onboarding with the Onboarding Assistant",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-ramp-hires-faster-and-automate-onboarding-with-the-onboarding/ba-p/14513354",
       "published": "29 Oct 2026",
@@ -50,27 +71,6 @@
       "published": "29 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-29T10:51:15+00:00"
-    },
-    {
-      "title": "Salary analysis report for internal candidates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/salary-analysis-report-for-internal-candidates/ba-p/14509463",
-      "published": "28 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-28T20:49:14+00:00"
-    },
-    {
-      "title": "Aynı Yasal Duyuru, Aynı Değişim… Yoksa Değil mi?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/ayn%C4%B1-yasal-duyuru-ayn%C4%B1-de%C4%9Fi%C5%9Fim-yoksa-de%C4%9Fil-mi/ba-p/14512654",
-      "published": "28 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-28T19:41:58+00:00"
-    },
-    {
-      "title": "Configuration to download Onboarding Documents Via Onboarding Dashboard",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuration-to-download-onboarding-documents-via-onboarding-dashboard/ba-p/14508296",
-      "published": "28 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-28T10:27:17+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+      "title": "Nachruf auf Patrick Stewart: Er konnte Science-Fiction - und Shakespeare",
+      "link": "https://www.tagesschau.de/kultur/patrick-stewart-nachruf-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T01:01:06+01:00"
+      "sort_date": "2026-10-30T10:29:13+01:00"
     },
     {
-      "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+      "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T00:05:38+01:00"
+      "sort_date": "2026-10-30T10:25:43+01:00"
     },
     {
-      "title": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
-      "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
-      "published": "29 Oct 2026",
+      "title": "Debatte um Eralp überlagert Regierungsbildung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+      "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T21:53:05+01:00"
+      "sort_date": "2026-10-30T10:02:46+01:00"
     },
     {
-      "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-      "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-      "published": "29 Oct 2026",
+      "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky sollen anlaufen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+      "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T21:12:03+01:00"
+      "sort_date": "2026-10-30T09:00:11+01:00"
     },
     {
-      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-      "published": "29 Oct 2026",
+      "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html",
+      "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-29T19:40:44+01:00"
+      "sort_date": "2026-10-30T08:56:44+01:00"
     }
   ],
   "Food": []
