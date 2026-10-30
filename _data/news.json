@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Not Every Extra Hour Is Overtime!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/not-every-extra-hour-is-overtime/ba-p/14514078",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-30T18:02:26+00:00"
+    },
+    {
       "title": "Licença Paternidade (Lei 15.371/2026)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/licen%C3%A7a-paternidade-lei-15-371-2026/ba-p/14513366",
       "published": "30 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "30 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-30T09:29:36+00:00"
-    },
-    {
-      "title": "Managing Multiple Brands in SAP SuccessFactors Recruiting Marketing (RMK)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/managing-multiple-brands-in-sap-successfactors-recruiting-marketing-rmk/ba-p/14509249",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-30T04:20:51+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Is There More to Cold Fusion Than Failure and Fraud?",
+      "link": "https://www.quantamagazine.org/is-there-more-to-cold-fusion-than-failure-and-fraud-20261030/",
+      "published": "30 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-30T19:22:57+00:00"
+    },
     {
       "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
       "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
@@ -101,50 +108,43 @@
       "published": "29 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "published": "28 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-28T16:04:18+00:00"
     }
   ],
   "News": [
+    {
+      "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+      "published": "30 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-30T21:21:33+01:00"
+    },
+    {
+      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+      "published": "30 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-30T19:59:17+01:00"
+    },
+    {
+      "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
+      "published": "30 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-30T19:46:53+01:00"
+    },
+    {
+      "title": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
+      "link": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
+      "published": "30 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-30T19:27:55+01:00"
+    },
     {
       "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-30T18:22:12+01:00"
-    },
-    {
-      "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T17:49:53+01:00"
-    },
-    {
-      "title": "Steinmeier in China: Handelsüberschuss im Fokus",
-      "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T17:35:59+01:00"
-    },
-    {
-      "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T17:03:53+01:00"
-    },
-    {
-      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T16:55:15+01:00"
     }
   ],
   "Food": []
