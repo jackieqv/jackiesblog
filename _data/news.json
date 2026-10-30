@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Licença Paternidade (Lei 15.371/2026)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/licen%C3%A7a-paternidade-lei-15-371-2026/ba-p/14513366",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-30T12:00:00+00:00"
+    },
+    {
+      "title": "Welcome Back: Smarter, Faster Rehire in SAP SuccessFactors Onboarding 2H 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/welcome-back-smarter-faster-rehire-in-sap-successfactors-onboarding-2h-2026/ba-p/14513702",
+      "published": "30 Oct 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-10-30T10:06:23+00:00"
+    },
+    {
       "title": "Is your company using SuccessFactors Workforce Analytics today?",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/is-your-company-using-successfactors-workforce-analytics-today/ba-p/14513664",
       "published": "30 Oct 2026",
@@ -57,23 +71,23 @@
       "published": "30 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-30T04:20:51+00:00"
-    },
-    {
-      "title": "2H 2026: Ramp hires faster and automate onboarding with the Onboarding Assistant",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-ramp-hires-faster-and-automate-onboarding-with-the-onboarding/ba-p/14513354",
-      "published": "29 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-29T20:05:03+00:00"
-    },
-    {
-      "title": "Handling Job Approval Rejection in SAP SmartRecruiters: Re-triggering Approvals via API",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/handling-job-approval-rejection-in-sap-smartrecruiters-re-triggering/ba-p/14512969",
-      "published": "29 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-29T10:51:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+      "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "published": "30 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-30T14:52:05+00:00"
+    },
+    {
+      "title": "AI May Quickly Generate Ideas—but Teams of People Are Still More Creative",
+      "link": "https://singularityhub.com/2026/10/30/ai-may-quickly-generate-ideas-but-teams-of-people-are-still-more-creative/",
+      "published": "30 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-30T14:00:00+00:00"
+    },
     {
       "title": "How Do You Take a Picture of a Black Hole?",
       "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
@@ -94,57 +108,43 @@
       "published": "28 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-28T16:04:18+00:00"
-    },
-    {
-      "title": "Study Could Help Explain Why Colder Body Temperature Extends Lifespan in Many Species",
-      "link": "https://singularityhub.com/2026/10/27/study-could-help-explain-why-colder-body-temperature-extends-lifespan-in-many-species/",
-      "published": "27 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-27T20:50:16+00:00"
-    },
-    {
-      "title": "Is AI Really a Black Box? Neural Networks May Be Easier to Understand Than We Thought",
-      "link": "https://singularityhub.com/2026/10/26/is-ai-really-a-black-box-neural-networks-may-be-easier-to-understand-than-we-thought/",
-      "published": "26 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-26T22:41:53+00:00"
     }
   ],
   "News": [
     {
-      "title": "Nachruf auf Patrick Stewart: Er konnte Science-Fiction - und Shakespeare",
-      "link": "https://www.tagesschau.de/kultur/patrick-stewart-nachruf-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T10:29:13+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+      "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T10:25:43+01:00"
+      "sort_date": "2026-10-30T18:22:12+01:00"
     },
     {
-      "title": "Debatte um Eralp überlagert Regierungsbildung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+      "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T10:02:46+01:00"
+      "sort_date": "2026-10-30T17:49:53+01:00"
     },
     {
-      "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky sollen anlaufen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+      "title": "Steinmeier in China: Handelsüberschuss im Fokus",
+      "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T09:00:11+01:00"
+      "sort_date": "2026-10-30T17:35:59+01:00"
     },
     {
-      "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html",
+      "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T08:56:44+01:00"
+      "sort_date": "2026-10-30T17:03:53+01:00"
+    },
+    {
+      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+      "published": "30 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-30T16:55:15+01:00"
     }
   ],
   "Food": []
