@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Known Issue: “Document Generation Usage Record” Missing from Base Object Selection When Configuring",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/known-issue-document-generation-usage-record-missing-from-base-object/ba-p/14514212",
+      "published": "31 Oct 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-10-31T10:54:12+00:00"
+    },
+    {
       "title": "Not Every Extra Hour Is Overtime!",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/not-every-extra-hour-is-overtime/ba-p/14514078",
       "published": "30 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "30 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-30T09:29:38+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Shell Bar: Product and Module Names Missing in Some Modules",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-shell-bar-product-and-module-names-missing-in-some/ba-p/14513663",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-30T09:29:36+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+      "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T04:57:32+01:00"
+      "sort_date": "2026-10-31T12:15:09+01:00"
     },
     {
-      "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+      "title": "Warum Horror-Serien die Streaming-Charts dominieren",
+      "link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T04:42:57+01:00"
+      "sort_date": "2026-10-31T12:09:27+01:00"
     },
     {
-      "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
+      "title": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T04:05:42+01:00"
+      "sort_date": "2026-10-31T11:51:32+01:00"
     },
     {
-      "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T00:56:24+01:00"
+      "sort_date": "2026-10-31T11:09:19+01:00"
     },
     {
-      "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T21:21:33+01:00"
+      "title": "Eklat um Verfassungsgericht: Polens Präsident sagt Reise ab",
+      "link": "https://www.dw.com/de/eklat-um-verfassungsgericht-polens-präsident-sagt-reise-ab/a-79814902?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "31 Oct 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-10-31T10:36:00+00:00"
     }
   ],
   "Food": []
