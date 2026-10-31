@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 31)",
+      "link": "https://singularityhub.com/2026/10/31/this-weeks-awesome-tech-stories-from-around-the-web-through-october-31-2/",
+      "published": "31 Oct 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-10-31T14:00:00+00:00"
+    },
+    {
       "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
       "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
       "published": "30 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "29 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "published": "28 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-28T16:04:18+00:00"
     }
   ],
   "News": [
     {
-      "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T12:15:09+01:00"
+      "sort_date": "2026-10-31T17:39:40+01:00"
     },
     {
-      "title": "Warum Horror-Serien die Streaming-Charts dominieren",
-      "link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html",
+      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T12:09:27+01:00"
+      "sort_date": "2026-10-31T17:21:31+01:00"
     },
     {
-      "title": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
+      "title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T11:51:32+01:00"
+      "sort_date": "2026-10-31T17:12:40+01:00"
     },
     {
-      "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
+      "title": "Demos in vielen Städten: Jugend-Proteste bisher weitgehend friedlich",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T11:09:19+01:00"
+      "sort_date": "2026-10-31T16:55:18+01:00"
     },
     {
-      "title": "Eklat um Verfassungsgericht: Polens Präsident sagt Reise ab",
-      "link": "https://www.dw.com/de/eklat-um-verfassungsgericht-polens-präsident-sagt-reise-ab/a-79814902?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
       "published": "31 Oct 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-10-31T10:36:00+00:00"
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T16:06:39+01:00"
     }
   ],
   "Food": []
