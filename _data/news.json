@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T17:39:40+01:00"
+      "sort_date": "2026-10-31T21:33:42+01:00"
+    },
+    {
+      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T20:02:09+01:00"
+    },
+    {
+      "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T19:05:02+01:00"
+    },
+    {
+      "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T17:54:43+01:00"
     },
     {
       "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
@@ -124,27 +145,6 @@
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-31T17:21:31+01:00"
-    },
-    {
-      "title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T17:12:40+01:00"
-    },
-    {
-      "title": "Demos in vielen Städten: Jugend-Proteste bisher weitgehend friedlich",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T16:55:18+01:00"
-    },
-    {
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T16:06:39+01:00"
     }
   ],
   "Food": []
