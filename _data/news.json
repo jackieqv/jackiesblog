@@ -75,13 +75,6 @@
   ],
   "Science": [
     {
-      "title": "Is There More to Cold Fusion Than Failure and Fraud?",
-      "link": "https://www.quantamagazine.org/is-there-more-to-cold-fusion-than-failure-and-fraud-20261030/",
-      "published": "30 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-30T19:22:57+00:00"
-    },
-    {
       "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
       "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
       "published": "30 Oct 2026",
@@ -108,43 +101,50 @@
       "published": "29 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "published": "28 Oct 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-10-28T16:04:18+00:00"
     }
   ],
   "News": [
+    {
+      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T04:57:32+01:00"
+    },
+    {
+      "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T04:42:57+01:00"
+    },
+    {
+      "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T04:05:42+01:00"
+    },
+    {
+      "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "published": "31 Oct 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-10-31T00:56:24+01:00"
+    },
     {
       "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
       "published": "30 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-30T21:21:33+01:00"
-    },
-    {
-      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T19:59:17+01:00"
-    },
-    {
-      "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T19:46:53+01:00"
-    },
-    {
-      "title": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
-      "link": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T19:27:55+01:00"
-    },
-    {
-      "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-      "published": "30 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-30T18:22:12+01:00"
     }
   ],
   "Food": []
