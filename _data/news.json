@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+      "published": "01 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-01T05:26:15+01:00"
+    },
+    {
+      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+      "published": "01 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-01T03:32:36+01:00"
+    },
+    {
+      "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+      "published": "01 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-01T03:06:07+01:00"
+    },
+    {
+      "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+      "published": "01 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-01T02:44:46+01:00"
+    },
+    {
       "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
       "published": "31 Oct 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-10-31T21:33:42+01:00"
-    },
-    {
-      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T20:02:09+01:00"
-    },
-    {
-      "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T19:05:02+01:00"
-    },
-    {
-      "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T17:54:43+01:00"
-    },
-    {
-      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
-      "published": "31 Oct 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-10-31T17:21:31+01:00"
     }
   ],
   "Food": []
