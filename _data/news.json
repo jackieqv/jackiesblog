@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Scheduling a Report by Email with a Custom Subject and Body in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/scheduling-a-report-by-email-with-a-custom-subject-and-body-in-sap/ba-p/14514246",
+      "published": "02 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-02T10:08:30+00:00"
+    },
+    {
       "title": "Known Issue: “Document Generation Usage Record” Missing from Base Object Selection When Configuring",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/known-issue-document-generation-usage-record-missing-from-base-object/ba-p/14514212",
       "published": "31 Oct 2026",
@@ -64,13 +71,6 @@
       "published": "30 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-30T10:06:23+00:00"
-    },
-    {
-      "title": "Is your company using SuccessFactors Workforce Analytics today?",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/is-your-company-using-successfactors-workforce-analytics-today/ba-p/14513664",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-30T09:29:38+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+      "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T00:50:04+01:00"
+      "sort_date": "2026-11-02T11:16:12+01:00"
     },
     {
-      "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-      "published": "01 Nov 2026",
+      "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
+      "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-01T21:37:14+01:00"
+      "sort_date": "2026-11-02T10:21:20+01:00"
     },
     {
-      "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-      "published": "01 Nov 2026",
+      "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-01T21:27:02+01:00"
+      "sort_date": "2026-11-02T10:06:31+01:00"
     },
     {
-      "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
-      "published": "01 Nov 2026",
+      "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+      "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-01T20:59:02+01:00"
+      "sort_date": "2026-11-02T09:59:47+01:00"
     },
     {
-      "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
-      "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
-      "published": "01 Nov 2026",
+      "title": "Neun Tote bei Flugzeugabsturz in Florida",
+      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+      "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-01T20:42:19+01:00"
+      "sort_date": "2026-11-02T09:13:47+01:00"
     }
   ],
   "Food": []
