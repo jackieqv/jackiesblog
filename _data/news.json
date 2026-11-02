@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "published": "02 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-02T15:48:57+00:00"
+    },
+    {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 31)",
       "link": "https://singularityhub.com/2026/10/31/this-weeks-awesome-tech-stories-from-around-the-web-through-october-31-2/",
       "published": "31 Oct 2026",
@@ -101,50 +108,43 @@
       "published": "29 Oct 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-10-29T15:11:57+00:00"
-    },
-    {
-      "title": "CRISPR Prime Editing Rewrites DNA in the Human Body for the First Time",
-      "link": "https://singularityhub.com/2026/10/29/crispr-prime-editing-rewrites-dna-in-the-human-body-for-the-first-time/",
-      "published": "29 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-29T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
+      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T11:16:12+01:00"
+      "sort_date": "2026-11-02T22:21:05+01:00"
     },
     {
-      "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
+      "title": "Jüdische Akademie in Frankfurt eröffnet",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T10:21:20+01:00"
+      "sort_date": "2026-11-02T21:37:43+01:00"
     },
     {
-      "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T10:06:31+01:00"
+      "sort_date": "2026-11-02T21:15:15+01:00"
     },
     {
-      "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+      "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+      "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T09:59:47+01:00"
+      "sort_date": "2026-11-02T21:00:49+01:00"
     },
     {
-      "title": "Neun Tote bei Flugzeugabsturz in Florida",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+      "title": "Wie die Menschen in Cherson die Oleschky-Waffenruhe erlebten",
+      "link": "https://www.dw.com/de/wie-die-menschen-in-cherson-die-oleschky-waffenruhe-erlebten/a-79831796?maca=de-rss-de-top-1016-xml-mrss",
       "published": "02 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T09:13:47+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-02T20:08:00+00:00"
     }
   ],
   "Food": []
