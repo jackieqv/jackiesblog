@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Latest Development Goals: Restore Management Hierarchy Navigation in Subordinate Search",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-development-goals-restore-management-hierarchy-navigation-in/ba-p/14515645",
+      "published": "03 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-03T13:40:16+00:00"
+    },
+    {
+      "title": "How to Reset Expired SAP Automation Pilot Service Account Credentials in SAP SPM Implementations",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/how-to-reset-expired-sap-automation-pilot-service-account-credentials-in/ba-p/14515335",
+      "published": "03 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-03T07:09:11+00:00"
+    },
+    {
       "title": "Scheduling a Report by Email with a Custom Subject and Body in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/scheduling-a-report-by-email-with-a-custom-subject-and-body-in-sap/ba-p/14514246",
       "published": "02 Nov 2026",
@@ -57,20 +71,6 @@
       "published": "31 Oct 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-10-31T10:54:12+00:00"
-    },
-    {
-      "title": "Not Every Extra Hour Is Overtime!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/not-every-extra-hour-is-overtime/ba-p/14514078",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-30T18:02:26+00:00"
-    },
-    {
-      "title": "Licença Paternidade (Lei 15.371/2026)",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/licen%C3%A7a-paternidade-lei-15-371-2026/ba-p/14513366",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-30T12:00:00+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "USA greifen iranische Ziele in Straße von Hormus an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+      "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T05:05:38+01:00"
+      "sort_date": "2026-11-03T14:33:24+01:00"
     },
     {
-      "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
-      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+      "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T04:55:28+01:00"
+      "sort_date": "2026-11-03T14:25:20+01:00"
     },
     {
-      "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+      "title": "Bundesweite Razzia gegen mutmaßliche Linksextremisten",
+      "link": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T03:25:42+01:00"
+      "sort_date": "2026-11-03T13:48:39+01:00"
     },
     {
-      "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+      "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T01:44:25+01:00"
+      "sort_date": "2026-11-03T13:24:53+01:00"
     },
     {
-      "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
-      "published": "02 Nov 2026",
+      "title": "Die Midterms in Zahlen und Karten",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+      "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T21:15:15+01:00"
+      "sort_date": "2026-11-03T13:17:36+01:00"
     }
   ],
   "Food": []
