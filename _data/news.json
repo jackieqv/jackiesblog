@@ -38,11 +38,25 @@
   ],
   "Technology": [
     {
+      "title": "2H2026 | Talent that moves with the business | Agentic AI for Career & Talent Dev, and Perf & Goals",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-talent-that-moves-with-the-business-agentic-ai-for-career-amp-talent/ba-p/14515811",
+      "published": "03 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-03T19:29:46+00:00"
+    },
+    {
+      "title": "E-Verify v32: Prepare Your Hiring Sites!",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/e-verify-v32-prepare-your-hiring-sites/ba-p/14515709",
+      "published": "03 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-03T14:54:24+00:00"
+    },
+    {
       "title": "Latest Development Goals: Restore Management Hierarchy Navigation in Subordinate Search",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-development-goals-restore-management-hierarchy-navigation-in/ba-p/14515645",
       "published": "03 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-03T13:40:16+00:00"
+      "sort_date": "2026-11-03T13:42:35+00:00"
     },
     {
       "title": "How to Reset Expired SAP Automation Pilot Service Account Credentials in SAP SPM Implementations",
@@ -57,20 +71,6 @@
       "published": "02 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-02T10:08:30+00:00"
-    },
-    {
-      "title": "How We Built a Smart Document Archival Solution for SAP SuccessFactors HCM Using SAP HANA Cloud",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-smart-document-archival-solution-for-sap-successfactors-hcm/ba-p/14514703",
-      "published": "02 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-02T09:14:32+00:00"
-    },
-    {
-      "title": "Known Issue: “Document Generation Usage Record” Missing from Base Object Selection When Configuring",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/known-issue-document-generation-usage-record-missing-from-base-object/ba-p/14514212",
-      "published": "31 Oct 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-10-31T10:54:12+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+      "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
+      "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T14:33:24+01:00"
+      "sort_date": "2026-11-03T20:52:48+01:00"
     },
     {
-      "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
+      "title": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T14:25:20+01:00"
+      "sort_date": "2026-11-03T20:05:51+01:00"
     },
     {
-      "title": "Bundesweite Razzia gegen mutmaßliche Linksextremisten",
-      "link": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html",
+      "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T13:48:39+01:00"
+      "sort_date": "2026-11-03T19:40:26+01:00"
     },
     {
-      "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
+      "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
+      "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T13:24:53+01:00"
+      "sort_date": "2026-11-03T19:39:26+01:00"
     },
     {
-      "title": "Die Midterms in Zahlen und Karten",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+      "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T13:17:36+01:00"
+      "sort_date": "2026-11-03T19:27:43+01:00"
     }
   ],
   "Food": []
