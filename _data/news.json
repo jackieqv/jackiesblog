@@ -45,6 +45,13 @@
       "sort_date": "2026-11-02T10:08:30+00:00"
     },
     {
+      "title": "How We Built a Smart Document Archival Solution for SAP SuccessFactors HCM Using SAP HANA Cloud",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-smart-document-archival-solution-for-sap-successfactors-hcm/ba-p/14514703",
+      "published": "02 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-02T09:14:32+00:00"
+    },
+    {
       "title": "Known Issue: “Document Generation Usage Record” Missing from Base Object Selection When Configuring",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/known-issue-document-generation-usage-record-missing-from-base-object/ba-p/14514212",
       "published": "31 Oct 2026",
@@ -64,16 +71,16 @@
       "published": "30 Oct 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-10-30T12:00:00+00:00"
-    },
-    {
-      "title": "Welcome Back: Smarter, Faster Rehire in SAP SuccessFactors Onboarding 2H 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/welcome-back-smarter-faster-rehire-in-sap-successfactors-onboarding-2h-2026/ba-p/14513702",
-      "published": "30 Oct 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-10-30T10:06:23+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Scientists Can Now Ask AI to Design Proteins Using Plain Language",
+      "link": "https://singularityhub.com/2026/11/02/scientists-can-now-ask-ai-to-design-proteins-using-plain-language/",
+      "published": "03 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-03T00:19:54+00:00"
+    },
     {
       "title": "Is There Anything Left in the Dream of Cold Fusion?",
       "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
@@ -101,29 +108,36 @@
       "published": "30 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "published": "29 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-29T15:11:57+00:00"
     }
   ],
   "News": [
     {
-      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-      "published": "02 Nov 2026",
+      "title": "USA greifen iranische Ziele in Straße von Hormus an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+      "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T22:21:05+01:00"
+      "sort_date": "2026-11-03T05:05:38+01:00"
     },
     {
-      "title": "Jüdische Akademie in Frankfurt eröffnet",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
-      "published": "02 Nov 2026",
+      "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+      "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T21:37:43+01:00"
+      "sort_date": "2026-11-03T04:55:28+01:00"
+    },
+    {
+      "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+      "published": "03 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-03T03:25:42+01:00"
+    },
+    {
+      "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+      "published": "03 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-03T01:44:25+01:00"
     },
     {
       "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
@@ -131,20 +145,6 @@
       "published": "02 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-02T21:15:15+01:00"
-    },
-    {
-      "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-      "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-      "published": "02 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-02T21:00:49+01:00"
-    },
-    {
-      "title": "Wie die Menschen in Cherson die Oleschky-Waffenruhe erlebten",
-      "link": "https://www.dw.com/de/wie-die-menschen-in-cherson-die-oleschky-waffenruhe-erlebten/a-79831796?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "02 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-02T20:08:00+00:00"
     }
   ],
   "Food": []
