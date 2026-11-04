@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "High-Volume Hiring: Transforming Recruitment with SmartRecruiters for SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/high-volume-hiring-transforming-recruitment-with-smartrecruiters-for-sap/ba-p/14515886",
+      "published": "04 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-04T00:36:06+00:00"
+    },
+    {
       "title": "2H2026 | Talent that moves with the business | Agentic AI for Career & Talent Dev, and Perf & Goals",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-talent-that-moves-with-the-business-agentic-ai-for-career-amp-talent/ba-p/14515811",
       "published": "03 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "03 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-03T07:09:11+00:00"
-    },
-    {
-      "title": "Scheduling a Report by Email with a Custom Subject and Body in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/scheduling-a-report-by-email-with-a-custom-subject-and-body-in-sap/ba-p/14514246",
-      "published": "02 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-02T10:08:30+00:00"
     }
   ],
   "Science": [
@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Liveblog zu den Midterms: ++ Erste Wahlen beendet ++ Auszählung beginnt ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "published": "04 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-04T01:59:02+01:00"
+    },
+    {
+      "title": "Erste Wahllokale bei US-Kongresswahlen geschlossen",
+      "link": "https://www.dw.com/de/erste-wahllokale-bei-us-kongresswahlen-geschlossen/a-79848805?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "04 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-04T00:29:00+00:00"
+    },
+    {
+      "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+      "published": "03 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-03T21:58:56+01:00"
+    },
+    {
       "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
       "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
       "published": "03 Nov 2026",
@@ -124,27 +145,6 @@
       "published": "03 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-03T20:05:51+01:00"
-    },
-    {
-      "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
-      "published": "03 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T19:40:26+01:00"
-    },
-    {
-      "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-      "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
-      "published": "03 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T19:39:26+01:00"
-    },
-    {
-      "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-      "published": "03 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-03T19:27:43+01:00"
     }
   ],
   "Food": []
