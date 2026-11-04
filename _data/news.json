@@ -1,55 +1,62 @@
 {
   "Education": [
     {
-      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
-      "link": "https://coffeeandjunk.substack.com/p/position",
-      "published": "26 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-26T12:30:37+00:00"
+      "title": "A new window to the early universe (and aliens?)",
+      "link": "https://bigthink.com/13-8/james-webb-telescope",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T16:00:00+00:00"
     },
     {
-      "title": "Low Ego Is Not Thinking Less of Yourself",
-      "link": "https://coffeeandjunk.substack.com/p/low-ego",
-      "published": "12 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-12T12:32:08+00:00"
+      "title": "The cruelest people in Russian history",
+      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T15:00:00+00:00"
     },
     {
-      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
-      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
-      "published": "21 Jun 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-06-21T12:31:15+00:00"
+      "title": "Mindfulness: New age craze or science-backed solution?",
+      "link": "https://bigthink.com/mind-brain/mindfulness-science",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:40:03+00:00"
     },
     {
-      "title": "The Kind of Happiness That Does Not Explain Itself",
-      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
-      "published": "17 May 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-05-17T12:30:00+00:00"
+      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
+      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:00:00+00:00"
     },
     {
-      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
-      "link": "https://coffeeandjunk.substack.com/p/absence",
-      "published": "25 Jan 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-01-25T12:31:21+00:00"
+      "title": "What happens when two different respiratory viruses infect the same cell?",
+      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
   "Technology": [
+    {
+      "title": "Upcoming Webinar | Autonomous HCM: Delivering the Future of Work with Agentic AI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-autonomous-hcm-delivering-the-future-of-work-with-agentic/ba-p/14516512",
+      "published": "04 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-04T16:40:30+00:00"
+    },
+    {
+      "title": "New Webinar: High-Volume Hiring with SmartRecruiters for SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-webinar-high-volume-hiring-with-smartrecruiters-for-sap-successfactors/ba-p/14515886",
+      "published": "04 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-04T16:25:16+00:00"
+    },
     {
       "title": "Automating User Login Method Transition in SAP SuccessFactors",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-user-login-method-transition-in-sap-successfactors/ba-p/14493669",
       "published": "04 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-04T05:53:08+00:00"
-    },
-    {
-      "title": "High-Volume Hiring: Transforming Recruitment with SmartRecruiters for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/high-volume-hiring-transforming-recruitment-with-smartrecruiters-for-sap/ba-p/14515886",
-      "published": "04 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-04T00:36:06+00:00"
     },
     {
       "title": "2H2026 | Talent that moves with the business | Agentic AI for Career & Talent Dev, and Perf & Goals",
@@ -64,16 +71,23 @@
       "published": "03 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-03T14:54:24+00:00"
-    },
-    {
-      "title": "Latest Development Goals: Restore Management Hierarchy Navigation in Subordinate Search",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-development-goals-restore-management-hierarchy-navigation-in/ba-p/14515645",
-      "published": "03 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-03T13:42:35+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Microsoft’s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors",
+      "link": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/",
+      "published": "04 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-04T18:55:52+00:00"
+    },
+    {
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "published": "04 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-04T15:32:52+00:00"
+    },
     {
       "title": "Scientists Can Now Ask AI to Design Proteins Using Plain Language",
       "link": "https://singularityhub.com/2026/11/02/scientists-can-now-ask-ai-to-design-proteins-using-plain-language/",
@@ -94,57 +108,43 @@
       "published": "31 Oct 2026",
       "source": "SingularityHub",
       "sort_date": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
-      "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-      "published": "30 Oct 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-10-30T14:52:05+00:00"
-    },
-    {
-      "title": "AI May Quickly Generate Ideas—but Teams of People Are Still More Creative",
-      "link": "https://singularityhub.com/2026/10/30/ai-may-quickly-generate-ideas-but-teams-of-people-are-still-more-creative/",
-      "published": "30 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-30T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Liveblog zu den Midterms: ++ Pistorius gratuliert US-Demokraten zu \"historischem Sieg\" ++",
+      "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
       "published": "04 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T11:07:46+01:00"
+      "sort_date": "2026-11-04T20:19:15+01:00"
     },
     {
-      "title": "Kinderbuchautor und Illustrator Janosch mit 95 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/janosch-gestorben-100.html",
-      "published": "04 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T10:57:45+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX-Anleger reagieren gelassen",
+      "title": "Marktbericht: DAX-Anleger in Kauflaune",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
       "published": "04 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T10:46:01+01:00"
+      "sort_date": "2026-11-04T18:31:22+01:00"
     },
     {
-      "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
+      "title": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+      "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
       "published": "04 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T10:43:26+01:00"
+      "sort_date": "2026-11-04T17:50:16+01:00"
     },
     {
-      "title": "Midterms-Analyse: Sechs Erkenntnisse nach der \"blauen Welle\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html",
+      "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+      "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
       "published": "04 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T10:24:29+01:00"
+      "sort_date": "2026-11-04T17:49:39+01:00"
+    },
+    {
+      "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
+      "published": "04 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-04T17:37:10+01:00"
     }
   ],
   "Food": []
