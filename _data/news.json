@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Science Is Littered With AI Slop. A New Detector Could Filter It Out.",
+      "link": "https://singularityhub.com/2026/11/05/science-is-littered-with-ai-slop-a-new-detector-could-filter-it-out/",
+      "published": "05 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-05T15:00:00+00:00"
+    },
+    {
       "title": "Microsoft’s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors",
       "link": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/",
       "published": "04 Nov 2026",
@@ -101,50 +108,43 @@
       "published": "02 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-02T15:48:57+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through October 31)",
-      "link": "https://singularityhub.com/2026/10/31/this-weeks-awesome-tech-stories-from-around-the-web-through-october-31-2/",
-      "published": "31 Oct 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-10-31T14:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bankenpleite stürzt Paraguay in eine Krise",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
+      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T11:18:28+01:00"
+      "sort_date": "2026-11-05T20:11:03+01:00"
     },
     {
-      "title": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
-      "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
+      "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T10:48:09+01:00"
+      "sort_date": "2026-11-05T19:57:49+01:00"
+    },
+    {
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+      "published": "05 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-05T19:26:37+01:00"
+    },
+    {
+      "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+      "published": "05 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-05T18:56:47+01:00"
     },
     {
       "title": "Marktbericht: DAX springt auf Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T10:20:01+01:00"
-    },
-    {
-      "title": "US-Midterms: Sieg der Demokraten auf ganzer Linie",
-      "link": "https://www.dw.com/de/us-midterms-sieg-der-demokraten-auf-ganzer-linie/a-79848805?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "05 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-05T10:16:00+00:00"
-    },
-    {
-      "title": "Midterms: Was die Demokraten aus Texas lernen können",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html",
-      "published": "05 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T10:12:33+01:00"
+      "sort_date": "2026-11-05T18:16:27+01:00"
     }
   ],
   "Food": []
