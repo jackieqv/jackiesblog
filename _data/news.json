@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "Career Site Builder - Recruiting Marketing: 2026-2027 Monthly Release Dates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/career-site-builder-recruiting-marketing-2026-2027-monthly-release-dates/ba-p/14514734",
+      "published": "05 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-05T07:39:13+00:00"
+    },
+    {
+      "title": "How We Built a Smart Document Archival Solution for SAP SuccessFactors HCM Using SAP HANA Cloud",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-smart-document-archival-solution-for-sap-successfactors-hcm/ba-p/14514703",
+      "published": "05 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-05T07:36:11+00:00"
+    },
+    {
+      "title": "Function module HR_READ_INFOTYPE does not return any result Post-SAP Note 3413629 Implementation",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/function-module-hr-read-infotype-does-not-return-any-result-post-sap-note/ba-p/14516700",
+      "published": "05 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-05T05:00:13+00:00"
+    },
+    {
       "title": "Upcoming Webinar | Autonomous HCM: Delivering the Future of Work with Agentic AI",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-autonomous-hcm-delivering-the-future-of-work-with-agentic/ba-p/14516512",
       "published": "04 Nov 2026",
@@ -50,27 +71,6 @@
       "published": "04 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-04T16:25:16+00:00"
-    },
-    {
-      "title": "Automating User Login Method Transition in SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-user-login-method-transition-in-sap-successfactors/ba-p/14493669",
-      "published": "04 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-04T05:53:08+00:00"
-    },
-    {
-      "title": "2H2026 | Talent that moves with the business | Agentic AI for Career & Talent Dev, and Perf & Goals",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-talent-that-moves-with-the-business-agentic-ai-for-career-amp-talent/ba-p/14515811",
-      "published": "03 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-03T19:29:46+00:00"
-    },
-    {
-      "title": "E-Verify v32: Prepare Your Hiring Sites!",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/e-verify-v32-prepare-your-hiring-sites/ba-p/14515709",
-      "published": "03 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-03T14:54:24+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+      "title": "Bankenpleite stürzt Paraguay in eine Krise",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T01:10:07+01:00"
+      "sort_date": "2026-11-05T11:18:28+01:00"
     },
     {
-      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+      "title": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
+      "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T00:35:58+01:00"
+      "sort_date": "2026-11-05T10:48:09+01:00"
     },
     {
-      "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-      "published": "04 Nov 2026",
+      "title": "Marktbericht: DAX springt auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+      "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T23:08:00+01:00"
+      "sort_date": "2026-11-05T10:20:01+01:00"
     },
     {
-      "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
-      "published": "04 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T22:15:24+01:00"
+      "title": "US-Midterms: Sieg der Demokraten auf ganzer Linie",
+      "link": "https://www.dw.com/de/us-midterms-sieg-der-demokraten-auf-ganzer-linie/a-79848805?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "05 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-05T10:16:00+00:00"
     },
     {
-      "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
-      "published": "04 Nov 2026",
+      "title": "Midterms: Was die Demokraten aus Texas lernen können",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html",
+      "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-04T21:24:21+01:00"
+      "sort_date": "2026-11-05T10:12:33+01:00"
     }
   ],
   "Food": []
