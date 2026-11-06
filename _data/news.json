@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "Announcement: New Blog on the SAP Certified - Joule Studio Developer Exam",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/announcement-new-blog-on-the-sap-certified-joule-studio-developer-exam/ba-p/14517319",
+      "published": "05 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-05T23:48:29+00:00"
+    },
+    {
+      "title": "2H 2026: Get to Value Faster With Connected Recruiting & Migration Acceleration Tools",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-get-to-value-faster-with-connected-recruiting-amp-migration/ba-p/14517301",
+      "published": "05 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-05T22:36:13+00:00"
+    },
+    {
       "title": "Career Site Builder - Recruiting Marketing: 2026-2027 Monthly Release Dates",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/career-site-builder-recruiting-marketing-2026-2027-monthly-release-dates/ba-p/14514734",
       "published": "05 Nov 2026",
@@ -57,20 +71,6 @@
       "published": "05 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-05T05:00:13+00:00"
-    },
-    {
-      "title": "Upcoming Webinar | Autonomous HCM: Delivering the Future of Work with Agentic AI",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/upcoming-webinar-autonomous-hcm-delivering-the-future-of-work-with-agentic/ba-p/14516512",
-      "published": "04 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-04T19:57:34+00:00"
-    },
-    {
-      "title": "New Webinar: High-Volume Hiring with SmartRecruiters for SAP SuccessFactors",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-webinar-high-volume-hiring-with-smartrecruiters-for-sap-successfactors/ba-p/14515886",
-      "published": "04 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-04T16:25:16+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-      "published": "05 Nov 2026",
+      "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "published": "06 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T20:11:03+01:00"
+      "sort_date": "2026-11-06T01:55:35+01:00"
+    },
+    {
+      "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+      "published": "06 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-06T00:44:38+01:00"
     },
     {
       "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
       "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T19:57:49+01:00"
+      "sort_date": "2026-11-05T22:18:10+01:00"
     },
     {
-      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+      "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T19:26:37+01:00"
+      "sort_date": "2026-11-05T20:34:20+01:00"
     },
     {
-      "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
       "published": "05 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T18:56:47+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX springt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-      "published": "05 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-05T18:16:27+01:00"
+      "sort_date": "2026-11-05T20:11:03+01:00"
     }
   ],
   "Food": []
