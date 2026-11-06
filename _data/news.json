@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "published": "06 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-06T15:48:54+00:00"
+    },
+    {
+      "title": "What Does the ‘I’ in AI Really Mean?",
+      "link": "https://singularityhub.com/2026/11/06/what-does-the-i-in-ai-really-mean/",
+      "published": "06 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-06T15:00:00+00:00"
+    },
+    {
       "title": "Science Is Littered With AI Slop. A New Detector Could Filter It Out.",
       "link": "https://singularityhub.com/2026/11/05/science-is-littered-with-ai-slop-a-new-detector-could-filter-it-out/",
       "published": "05 Nov 2026",
@@ -94,57 +108,43 @@
       "published": "04 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-04T15:32:52+00:00"
-    },
-    {
-      "title": "Scientists Can Now Ask AI to Design Proteins Using Plain Language",
-      "link": "https://singularityhub.com/2026/11/02/scientists-can-now-ask-ai-to-design-proteins-using-plain-language/",
-      "published": "03 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-03T00:19:54+00:00"
-    },
-    {
-      "title": "Is There Anything Left in the Dream of Cold Fusion?",
-      "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-      "published": "02 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-02T15:48:57+00:00"
     }
   ],
   "News": [
     {
-      "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+      "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
       "published": "06 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-06T10:30:52+01:00"
+      "sort_date": "2026-11-06T19:53:38+01:00"
     },
     {
-      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+      "title": "Die gestohlenen Kinder von Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
       "published": "06 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-06T10:29:54+01:00"
+      "sort_date": "2026-11-06T18:48:38+01:00"
     },
     {
-      "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
+      "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+      "published": "06 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-06T18:46:51+01:00"
+    },
+    {
+      "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
       "published": "06 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-06T10:29:32+01:00"
+      "sort_date": "2026-11-06T18:30:36+01:00"
     },
     {
-      "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+      "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
       "published": "06 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-06T10:13:00+01:00"
-    },
-    {
-      "title": "Ukraine: Trump stellt \"sehr großes\" Abkommen mit Russland in Aussicht",
-      "link": "https://www.dw.com/de/ukraine-trump-stellt-sehr-großes-abkommen-mit-russland-in-aussicht/a-79873159?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "06 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-06T10:05:00+00:00"
+      "sort_date": "2026-11-06T18:08:10+01:00"
     }
   ],
   "Food": []
