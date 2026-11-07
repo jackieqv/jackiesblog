@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T18:09:38+01:00"
+      "sort_date": "2026-11-07T22:23:30+01:00"
+    },
+    {
+      "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+      "published": "07 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-07T21:33:23+01:00"
+    },
+    {
+      "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+      "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+      "published": "07 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-07T21:31:48+01:00"
+    },
+    {
+      "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+      "published": "07 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-07T20:56:52+01:00"
     },
     {
       "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
       "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T17:59:14+01:00"
-    },
-    {
-      "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
-      "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "07 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-07T17:00:00+00:00"
-    },
-    {
-      "title": "Wofür Trumps neuer Stabschef Miller steht",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T15:57:49+01:00"
-    },
-    {
-      "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T15:41:43+01:00"
+      "sort_date": "2026-11-07T19:57:56+01:00"
     }
   ],
   "Food": []
