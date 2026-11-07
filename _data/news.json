@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 7)",
+      "link": "https://singularityhub.com/2026/11/07/this-weeks-awesome-tech-stories-from-around-the-web-through-november-7-2/",
+      "published": "07 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-07T15:00:00+00:00"
+    },
+    {
       "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
       "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
       "published": "06 Nov 2026",
@@ -101,50 +108,43 @@
       "published": "04 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-04T18:55:52+00:00"
-    },
-    {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "published": "04 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-04T15:32:52+00:00"
     }
   ],
   "News": [
     {
-      "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+      "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T10:28:52+01:00"
+      "sort_date": "2026-11-07T18:09:38+01:00"
     },
     {
-      "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
-      "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+      "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T09:10:26+01:00"
+      "sort_date": "2026-11-07T17:59:14+01:00"
     },
     {
-      "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T08:40:23+01:00"
-    },
-    {
-      "title": "News kompakt: Neuseeland vor knappem Wahlausgang",
-      "link": "https://www.dw.com/de/news-kompakt-neuseeland-vor-knappem-wahlausgang/a-79883515?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+      "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-top-1016-xml-mrss",
       "published": "07 Nov 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-07T08:09:00+00:00"
+      "sort_date": "2026-11-07T17:00:00+00:00"
     },
     {
-      "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+      "title": "Wofür Trumps neuer Stabschef Miller steht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T08:02:40+01:00"
+      "sort_date": "2026-11-07T15:57:49+01:00"
+    },
+    {
+      "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+      "published": "07 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-07T15:41:43+01:00"
     }
   ],
   "Food": []
