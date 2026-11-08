@@ -45,20 +45,6 @@
       "sort_date": "2026-11-05T23:48:29+00:00"
     },
     {
-      "title": "2H 2026: Get to Value Faster With Connected Recruiting & Migration Acceleration Tools",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-get-to-value-faster-with-connected-recruiting-amp-migration/ba-p/14517301",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T22:36:13+00:00"
-    },
-    {
-      "title": "Career Site Builder - Recruiting Marketing: 2026-2027 Monthly Release Dates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/career-site-builder-recruiting-marketing-2026-2027-monthly-release-dates/ba-p/14514734",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T07:39:13+00:00"
-    },
-    {
       "title": "How We Built a Smart Document Archival Solution for SAP SuccessFactors HCM Using SAP HANA Cloud",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-smart-document-archival-solution-for-sap-successfactors-hcm/ba-p/14514703",
       "published": "05 Nov 2026",
@@ -66,11 +52,25 @@
       "sort_date": "2026-11-05T07:36:11+00:00"
     },
     {
-      "title": "Function module HR_READ_INFOTYPE does not return any result Post-SAP Note 3413629 Implementation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/function-module-hr-read-infotype-does-not-return-any-result-post-sap-note/ba-p/14516700",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T05:00:13+00:00"
+      "title": "Automating User Login Method Transition in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/automating-user-login-method-transition-in-sap-successfactors/ba-p/14493669",
+      "published": "04 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-04T05:53:08+00:00"
+    },
+    {
+      "title": "Latest Development Goals: Restore Management Hierarchy Navigation in Subordinate Search",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/latest-development-goals-restore-management-hierarchy-navigation-in/ba-p/14515645",
+      "published": "03 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-03T13:42:35+00:00"
+    },
+    {
+      "title": "Scheduling a Report by Email with a Custom Subject and Body in SAP SuccessFactors",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/scheduling-a-report-by-email-with-a-custom-subject-and-body-in-sap/ba-p/14514246",
+      "published": "02 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-02T10:08:30+00:00"
     }
   ],
   "Science": [
@@ -112,11 +112,32 @@
   ],
   "News": [
     {
-      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-      "published": "07 Nov 2026",
+      "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+      "published": "08 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T22:23:30+01:00"
+      "sort_date": "2026-11-08T04:28:25+01:00"
+    },
+    {
+      "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+      "published": "08 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-08T03:28:44+01:00"
+    },
+    {
+      "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+      "published": "08 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-08T02:50:38+01:00"
+    },
+    {
+      "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+      "published": "08 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-08T01:14:21+01:00"
     },
     {
       "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
@@ -124,27 +145,6 @@
       "published": "07 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-07T21:33:23+01:00"
-    },
-    {
-      "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-      "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T21:31:48+01:00"
-    },
-    {
-      "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T20:56:52+01:00"
-    },
-    {
-      "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
-      "published": "07 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-07T19:57:56+01:00"
     }
   ],
   "Food": []
