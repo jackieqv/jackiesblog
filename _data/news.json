@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "eSocial - Nota Técnica S-1.3 Nº 072026 - Fase 2 Concluída",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-s-1-3-n%C2%BA-072026-fase-2-conclu%C3%ADda/ba-p/14519152",
+      "published": "09 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-09T20:29:39+00:00"
+    },
+    {
       "title": "Announcement: New Blog on the SAP Certified - Joule Studio Developer Exam",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/announcement-new-blog-on-the-sap-certified-joule-studio-developer-exam/ba-p/14517319",
       "published": "05 Nov 2026",
@@ -64,16 +71,16 @@
       "published": "05 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-05T07:36:11+00:00"
-    },
-    {
-      "title": "Function module HR_READ_INFOTYPE does not return any result Post-SAP Note 3413629 Implementation",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/function-module-hr-read-infotype-does-not-return-any-result-post-sap-note/ba-p/14516700",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T05:00:13+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Did Life Begin in an RNA World?",
+      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "published": "09 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-09T15:20:29+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 7)",
       "link": "https://singularityhub.com/2026/11/07/this-weeks-awesome-tech-stories-from-around-the-web-through-november-7-2/",
@@ -101,50 +108,43 @@
       "published": "05 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-05T15:00:00+00:00"
-    },
-    {
-      "title": "Microsoft’s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors",
-      "link": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/",
-      "published": "04 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-04T18:55:52+00:00"
     }
   ],
   "News": [
     {
-      "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+      "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
       "published": "09 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-09T11:41:19+01:00"
+      "sort_date": "2026-11-09T22:27:31+01:00"
     },
     {
-      "title": "Das ist der Weg zum neuen Staatsoberhaupt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+      "title": "Republikaner Massie will Hegseth des Amtes entheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
       "published": "09 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-09T11:09:44+01:00"
+      "sort_date": "2026-11-09T21:48:39+01:00"
     },
     {
-      "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
-      "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+      "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
       "published": "09 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-09T10:59:46+01:00"
+      "sort_date": "2026-11-09T20:34:13+01:00"
     },
     {
-      "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+      "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
       "published": "09 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-09T10:25:58+01:00"
+      "sort_date": "2026-11-09T20:14:42+01:00"
     },
     {
-      "title": "Schneider fordert Alternative zur Plastiksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+      "title": "Steinmeier-Rede zum 9. November: Die Scham der Reichspogromnacht, vom Glück des Mauerfalls",
+      "link": "https://www.dw.com/de/steinmeier-rede-zum-9-november-die-scham-der-reichspogromnacht-vom-glück-des-mauerfalls/a-79900308?maca=de-rss-de-top-1016-xml-mrss",
       "published": "09 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-09T10:03:50+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-09T20:07:00+00:00"
     }
   ],
   "Food": []
