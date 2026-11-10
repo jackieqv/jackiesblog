@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Data: The Foundation of Business AI in HCM - December 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/data-the-foundation-of-business-ai-in-hcm-december-2026/ba-p/14520001",
+      "published": "10 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-10T19:21:03+00:00"
+    },
+    {
       "title": "2H2026 Release: Meet the Payroll Assistant, the next milestone on the journey to Autonomous Payroll",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-meet-the-payroll-assistant-the-next-milestone-on-the-journey/ba-p/14519528",
       "published": "10 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "05 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-05T22:36:13+00:00"
-    },
-    {
-      "title": "Career Site Builder - Recruiting Marketing: 2026-2027 Monthly Release Dates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/career-site-builder-recruiting-marketing-2026-2027-monthly-release-dates/ba-p/14514734",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T07:39:13+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+      "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
       "published": "10 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T16:51:55+01:00"
+      "sort_date": "2026-11-10T22:08:29+01:00"
     },
     {
-      "title": "Maschinenbauer \"fassungslos\" über Bundesregierung",
-      "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+      "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
       "published": "10 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T16:43:59+01:00"
+      "sort_date": "2026-11-10T22:04:36+01:00"
     },
     {
-      "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+      "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
       "published": "10 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T16:37:43+01:00"
+      "sort_date": "2026-11-10T18:27:27+01:00"
     },
     {
-      "title": "Sudan-Krieg: Immer mehr Menschen in Not - Kürzungen verschärfen die Lage",
-      "link": "https://www.dw.com/de/sudan-krieg-immer-mehr-menschen-in-not-kürzungen-verschärfen-die-lage/a-79908319?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "10 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-10T16:20:00+00:00"
-    },
-    {
-      "title": "Zwei Tote bei russischen Luftangriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+      "title": "Marktbericht: Der DAX wird zurückgepfiffen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
       "published": "10 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T15:42:40+01:00"
+      "sort_date": "2026-11-10T18:21:50+01:00"
+    },
+    {
+      "title": "Wadephul warnt Iran vor hybriden Angriffen",
+      "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+      "published": "10 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-10T17:51:08+01:00"
     }
   ],
   "Food": []
