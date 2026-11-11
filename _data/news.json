@@ -75,6 +75,20 @@
   ],
   "Science": [
     {
+      "title": "How a Metabolic Spark Could Have Jump-Started Life",
+      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "published": "11 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-11T15:10:30+00:00"
+    },
+    {
+      "title": "AI Models Can Tell When Researchers Plant Concepts in Their Neural Networks. Is It Self-Reflection?",
+      "link": "https://singularityhub.com/2026/11/11/ai-models-can-tell-when-researchers-plant-concepts-in-their-neural-networks-is-it-self-reflection/",
+      "published": "11 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-11T15:00:00+00:00"
+    },
+    {
       "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
       "link": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
       "published": "10 Nov 2026",
@@ -94,57 +108,43 @@
       "published": "09 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-09T15:20:29+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 7)",
-      "link": "https://singularityhub.com/2026/11/07/this-weeks-awesome-tech-stories-from-around-the-web-through-november-7-2/",
-      "published": "07 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-07T15:00:00+00:00"
-    },
-    {
-      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-      "published": "06 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-06T15:48:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+      "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
       "published": "11 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-11T14:30:06+01:00"
+      "sort_date": "2026-11-11T22:30:05+01:00"
     },
     {
-      "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
+      "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
       "published": "11 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-11T13:40:59+01:00"
+      "sort_date": "2026-11-11T21:29:48+01:00"
     },
     {
-      "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
+      "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+      "link": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
       "published": "11 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-11T13:40:08+01:00"
+      "sort_date": "2026-11-11T20:26:10+01:00"
     },
     {
-      "title": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
+      "title": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
+      "link": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
       "published": "11 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-11T13:34:37+01:00"
+      "sort_date": "2026-11-11T19:56:21+01:00"
     },
     {
-      "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+      "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
       "published": "11 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-11T13:07:44+01:00"
+      "sort_date": "2026-11-11T19:46:53+01:00"
     }
   ],
   "Food": []
