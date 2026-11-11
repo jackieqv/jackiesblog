@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Tips on using Integration Center for Performance Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/tips-on-using-integration-center-for-performance-management/ba-p/14520065",
+      "published": "11 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-11T02:02:01+00:00"
+    },
+    {
       "title": "Data: The Foundation of Business AI in HCM - December 2026",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/data-the-foundation-of-business-ai-in-hcm-december-2026/ba-p/14520001",
       "published": "10 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "05 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-05T23:48:29+00:00"
-    },
-    {
-      "title": "2H 2026: Get to Value Faster With Connected Recruiting & Migration Acceleration Tools",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-get-to-value-faster-with-connected-recruiting-amp-migration/ba-p/14517301",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-05T22:36:13+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+      "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+      "published": "11 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-11T05:22:53+01:00"
+    },
+    {
+      "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+      "published": "11 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-11T02:20:58+01:00"
+    },
+    {
+      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+      "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
+      "published": "11 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-11T02:17:49+01:00"
+    },
+    {
+      "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+      "published": "11 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-11T01:19:26+01:00"
+    },
+    {
       "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
       "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
       "published": "10 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-10T22:08:29+01:00"
-    },
-    {
-      "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
-      "published": "10 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T22:04:36+01:00"
-    },
-    {
-      "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-      "published": "10 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T18:27:27+01:00"
-    },
-    {
-      "title": "Marktbericht: Der DAX wird zurückgepfiffen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-      "published": "10 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T18:21:50+01:00"
-    },
-    {
-      "title": "Wadephul warnt Iran vor hybriden Angriffen",
-      "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
-      "published": "10 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-10T17:51:08+01:00"
     }
   ],
   "Food": []
