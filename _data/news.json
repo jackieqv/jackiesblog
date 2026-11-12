@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "2H 2026: Move from Application to Offer Faster with SmartRecruiters",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-move-from-application-to-offer-faster-with-smartrecruiters/ba-p/14521574",
+      "published": "12 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-12T21:19:37+00:00"
+    },
+    {
+      "title": "Before Autonomous HCM: Three Mistakes I See Every SuccessFactors Learning & Talent Customer Make",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/before-autonomous-hcm-three-mistakes-i-see-every-successfactors-learning/ba-p/14521450",
+      "published": "12 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-12T15:56:58+00:00"
+    },
+    {
       "title": "California Time Tracking with SAP Best Practices: From Overtime to Meal Waivers",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/california-time-tracking-with-sap-best-practices-from-overtime-to-meal/ba-p/14503724",
       "published": "12 Nov 2026",
@@ -57,94 +71,80 @@
       "published": "12 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-12T06:36:03+00:00"
-    },
-    {
-      "title": "Tips on using Integration Center for Performance Management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/tips-on-using-integration-center-for-performance-management/ba-p/14520065",
-      "published": "11 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-11T02:02:01+00:00"
-    },
-    {
-      "title": "Data: The Foundation of Business AI in HCM - December 2026",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/data-the-foundation-of-business-ai-in-hcm-december-2026/ba-p/14520001",
-      "published": "10 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-10T19:21:03+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Can Network Science Transform Health and Nutrition?",
+      "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+      "published": "12 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-12T19:40:54+00:00"
+    },
+    {
+      "title": "A New Era for the Dawn of Life",
+      "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+      "published": "12 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-12T16:20:28+00:00"
+    },
+    {
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "published": "12 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-12T15:45:27+00:00"
+    },
+    {
+      "title": "This AI Learned Language From the Recordings of a Baby’s First 1,000 Days",
+      "link": "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/",
+      "published": "12 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-12T15:00:00+00:00"
+    },
     {
       "title": "How a Metabolic Spark Could Have Jump-Started Life",
       "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
       "published": "11 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-11T15:10:30+00:00"
-    },
-    {
-      "title": "AI Models Can Tell When Researchers Plant Concepts in Their Neural Networks. Is It Self-Reflection?",
-      "link": "https://singularityhub.com/2026/11/11/ai-models-can-tell-when-researchers-plant-concepts-in-their-neural-networks-is-it-self-reflection/",
-      "published": "11 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-11T15:00:00+00:00"
-    },
-    {
-      "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
-      "link": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
-      "published": "10 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-10T16:18:21+00:00"
-    },
-    {
-      "title": "The Case for a Bubble at Life’s Start",
-      "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
-      "published": "10 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-10T15:08:35+00:00"
-    },
-    {
-      "title": "Did Life Begin in an RNA World?",
-      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "published": "09 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-09T15:20:29+00:00"
     }
   ],
   "News": [
     {
-      "title": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
-      "link": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
+      "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T15:28:14+01:00"
+      "sort_date": "2026-11-12T22:09:07+01:00"
     },
     {
-      "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+      "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T15:25:28+01:00"
+      "sort_date": "2026-11-12T19:44:38+01:00"
     },
     {
-      "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+      "title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+      "link": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T15:18:03+01:00"
+      "sort_date": "2026-11-12T19:44:20+01:00"
     },
     {
-      "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
+      "title": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T14:29:26+01:00"
+      "sort_date": "2026-11-12T18:41:58+01:00"
     },
     {
-      "title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-      "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
+      "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T14:28:28+01:00"
+      "sort_date": "2026-11-12T18:31:15+01:00"
     }
   ],
   "Food": []
