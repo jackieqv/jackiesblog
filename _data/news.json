@@ -38,6 +38,27 @@
   ],
   "Technology": [
     {
+      "title": "California Time Tracking with SAP Best Practices: From Overtime to Meal Waivers",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/california-time-tracking-with-sap-best-practices-from-overtime-to-meal/ba-p/14503724",
+      "published": "12 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-12T06:40:22+00:00"
+    },
+    {
+      "title": "2H 2026 Release Highlights of SAP Best Practices for SAP SuccessFactors Time Management",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-highlights-of-sap-best-practices-for-sap-successfactors/ba-p/14492925",
+      "published": "12 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-12T06:39:52+00:00"
+    },
+    {
+      "title": "Configuring Custom Workflow Email Notifications for Employee Salary Advance Request",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuring-custom-workflow-email-notifications-for-employee-salary-advance/ba-p/14520232",
+      "published": "12 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-12T06:36:03+00:00"
+    },
+    {
       "title": "Tips on using Integration Center for Performance Management",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/tips-on-using-integration-center-for-performance-management/ba-p/14520065",
       "published": "11 Nov 2026",
@@ -50,27 +71,6 @@
       "published": "10 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-10T19:21:03+00:00"
-    },
-    {
-      "title": "2H2026 Release: Meet the Payroll Assistant, the next milestone on the journey to Autonomous Payroll",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-release-meet-the-payroll-assistant-the-next-milestone-on-the-journey/ba-p/14519528",
-      "published": "10 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-10T08:40:04+00:00"
-    },
-    {
-      "title": "eSocial - Nota Técnica S-1.3 Nº 072026 - Fase 2 Concluída",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/esocial-nota-t%C3%A9cnica-s-1-3-n%C2%BA-072026-fase-2-conclu%C3%ADda/ba-p/14519152",
-      "published": "09 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-09T20:29:39+00:00"
-    },
-    {
-      "title": "Announcement: New Blog on the SAP Certified - Joule Studio Developer Exam",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/announcement-new-blog-on-the-sap-certified-joule-studio-developer-exam/ba-p/14517319",
-      "published": "05 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-05T23:48:29+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "11KM-Podcast: Israel und das Westjordanland - weitere Gewalt oder neue Hoffnung?",
-      "link": "https://www.tagesschau.de/podcast-11km-israel-westjordanland-102.html",
+      "title": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
+      "link": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T06:29:27+01:00"
+      "sort_date": "2026-11-12T15:28:14+01:00"
     },
     {
-      "title": "DR Kongo: Die Cholera ist zurück",
-      "link": "https://www.dw.com/de/dr-kongo-die-cholera-ist-zurück/a-79908973?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "12 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-12T05:45:00+00:00"
-    },
-    {
-      "title": "Historischer Sieg in Mississippi: Der lange Weg zur schwarzen Stimme",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+      "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T05:37:34+01:00"
+      "sort_date": "2026-11-12T15:25:28+01:00"
     },
     {
-      "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+      "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T04:34:55+01:00"
+      "sort_date": "2026-11-12T15:18:03+01:00"
     },
     {
-      "title": "Offene Wunden: Der Papst und die Missbrauchsskandale",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+      "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
       "published": "12 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-12T03:33:13+01:00"
+      "sort_date": "2026-11-12T14:29:26+01:00"
+    },
+    {
+      "title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
+      "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
+      "published": "12 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-12T14:28:28+01:00"
     }
   ],
   "Food": []
