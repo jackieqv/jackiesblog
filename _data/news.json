@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Do AI Agents Have Minds? A Philosopher Explains",
+      "link": "https://singularityhub.com/2026/11/13/do-ai-agents-have-minds-a-philosopher-explains/",
+      "published": "13 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-13T15:00:00+00:00"
+    },
+    {
       "title": "Can Network Science Transform Health and Nutrition?",
       "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
       "published": "12 Nov 2026",
@@ -101,50 +108,43 @@
       "published": "12 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-12T15:00:00+00:00"
-    },
-    {
-      "title": "How a Metabolic Spark Could Have Jump-Started Life",
-      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-      "published": "11 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-11T15:10:30+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+      "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
       "published": "13 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T14:11:16+01:00"
+      "sort_date": "2026-11-13T20:06:39+01:00"
     },
     {
-      "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
+      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
       "published": "13 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T14:00:43+01:00"
+      "sort_date": "2026-11-13T19:44:23+01:00"
     },
     {
-      "title": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod!\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
+      "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
       "published": "13 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T13:28:28+01:00"
+      "sort_date": "2026-11-13T18:57:57+01:00"
     },
     {
-      "title": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
+      "title": "Online ausgetrickst - EU will Verbraucher besser schützen",
+      "link": "https://www.dw.com/de/online-ausgetrickst-eu-will-verbraucher-besser-schützen/a-79943717?maca=de-rss-de-top-1016-xml-mrss",
       "published": "13 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T13:20:30+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-13T18:42:00+00:00"
     },
     {
-      "title": "Österreich: Barmherzige Brüder wegen Medikamentenpreisen in Kritik",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-orden-barmherzige-brueder-hohe-medikamentenpreise-100.html",
+      "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
       "published": "13 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T13:02:42+01:00"
+      "sort_date": "2026-11-13T18:15:20+01:00"
     }
   ],
   "Food": []
