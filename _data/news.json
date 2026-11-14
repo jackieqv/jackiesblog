@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 14)",
+      "link": "https://singularityhub.com/2026/11/14/this-weeks-awesome-tech-stories-from-around-the-web-through-november-14-2/",
+      "published": "14 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-14T15:00:00+00:00"
+    },
+    {
       "title": "Do AI Agents Have Minds? A Philosopher Explains",
       "link": "https://singularityhub.com/2026/11/13/do-ai-agents-have-minds-a-philosopher-explains/",
       "published": "13 Nov 2026",
@@ -101,50 +108,43 @@
       "published": "12 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-12T15:45:27+00:00"
-    },
-    {
-      "title": "This AI Learned Language From the Recordings of a Baby’s First 1,000 Days",
-      "link": "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/",
-      "published": "12 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-12T15:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+      "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
+      "link": "https://www.tagesschau.de/kultur/esc-asia-100.html",
       "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T13:42:12+01:00"
+      "sort_date": "2026-11-14T20:24:24+01:00"
     },
     {
-      "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-      "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+      "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
       "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T12:11:58+01:00"
+      "sort_date": "2026-11-14T20:09:28+01:00"
     },
     {
-      "title": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
-      "link": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-14T11:28:00+00:00"
-    },
-    {
-      "title": "Nach Pannen bei Microsoft raten Experten zu mehr Vorsicht",
-      "link": "https://www.dw.com/de/nach-pannen-bei-microsoft-raten-experten-zu-mehr-vorsicht/a-79947639?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "14 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-14T11:24:00+00:00"
-    },
-    {
-      "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+      "title": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
+      "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
       "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T11:17:44+01:00"
+      "sort_date": "2026-11-14T19:47:48+01:00"
+    },
+    {
+      "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+      "published": "14 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-14T19:12:45+01:00"
+    },
+    {
+      "title": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
+      "published": "14 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-14T18:01:00+01:00"
     }
   ],
   "Food": []
