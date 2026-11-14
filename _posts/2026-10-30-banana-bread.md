@@ -2,6 +2,7 @@
 title: "Banana Loaf"
 published: true
 date: 2026-10-30
+show_in_recent_posts: false
 categories:
   - baking
 tags:
