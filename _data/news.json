@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "2H2026: Go From a Long List to the Right Talent with Winston Match",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-go-from-a-long-list-to-the-right-talent-with-winston-match/ba-p/14521590",
+      "published": "13 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-13T21:30:00+00:00"
+    },
+    {
       "title": "2H 2026: Move from Application to Offer Faster with SmartRecruiters",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-move-from-application-to-offer-faster-with-smartrecruiters/ba-p/14521574",
       "published": "12 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "12 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-12T06:39:52+00:00"
-    },
-    {
-      "title": "Configuring Custom Workflow Email Notifications for Employee Salary Advance Request",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/configuring-custom-workflow-email-notifications-for-employee-salary-advance/ba-p/14520232",
-      "published": "12 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-12T06:36:03+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-      "published": "13 Nov 2026",
+      "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+      "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+      "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T20:06:39+01:00"
+      "sort_date": "2026-11-14T05:41:37+01:00"
     },
     {
-      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-      "published": "13 Nov 2026",
+      "title": "Keine Priorität für Klimaschutz in der Koalition",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+      "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T19:44:23+01:00"
+      "sort_date": "2026-11-14T05:40:44+01:00"
     },
     {
-      "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-      "published": "13 Nov 2026",
+      "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+      "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T18:57:57+01:00"
+      "sort_date": "2026-11-14T04:18:01+01:00"
     },
     {
-      "title": "Online ausgetrickst - EU will Verbraucher besser schützen",
-      "link": "https://www.dw.com/de/online-ausgetrickst-eu-will-verbraucher-besser-schützen/a-79943717?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "13 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-13T18:42:00+00:00"
+      "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+      "published": "14 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-14T03:36:59+01:00"
     },
     {
-      "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-      "published": "13 Nov 2026",
+      "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+      "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+      "published": "14 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-13T18:15:20+01:00"
+      "sort_date": "2026-11-14T01:51:37+01:00"
     }
   ],
   "Food": []
