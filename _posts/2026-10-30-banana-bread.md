@@ -1,5 +1,6 @@
 ---
 title: "Banana Loaf"
+published: true
 date: 2026-10-30
 categories:
   - baking
