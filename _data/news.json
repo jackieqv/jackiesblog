@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "published": "15 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-15T00:12:16+01:00"
+    },
+    {
+      "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "published": "14 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-14T22:31:18+01:00"
+    },
+    {
+      "title": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
+      "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
+      "published": "14 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-14T20:45:01+01:00"
+    },
+    {
       "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
       "link": "https://www.tagesschau.de/kultur/esc-asia-100.html",
       "published": "14 Nov 2026",
@@ -119,32 +140,11 @@
       "sort_date": "2026-11-14T20:24:24+01:00"
     },
     {
-      "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+      "title": "Gaza: Humanitäre Lage verschärft sich, politische Lösung bleibt aus",
+      "link": "https://www.dw.com/de/gaza-humanitäre-lage-verschärft-sich-politische-lösung-bleibt-aus/a-79946973?maca=de-rss-de-top-1016-xml-mrss",
       "published": "14 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T20:09:28+01:00"
-    },
-    {
-      "title": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
-      "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
-      "published": "14 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T19:47:48+01:00"
-    },
-    {
-      "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
-      "published": "14 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T19:12:45+01:00"
-    },
-    {
-      "title": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
-      "published": "14 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-14T18:01:00+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-14T20:23:00+00:00"
     }
   ],
   "Food": []
