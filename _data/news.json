@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "How We Built a Mass Hiring and Data Management Solution for SAP SuccessFactors HCM Using SAP BTP",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-mass-hiring-and-data-management-solution-for-sap/ba-p/14523138",
+      "published": "16 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-16T11:46:30+00:00"
+    },
+    {
       "title": "2H2026: Go From a Long List to the Right Talent with Winston Match",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-go-from-a-long-list-to-the-right-talent-with-winston-match/ba-p/14521590",
       "published": "13 Nov 2026",
@@ -64,16 +71,23 @@
       "published": "12 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-12T06:40:22+00:00"
-    },
-    {
-      "title": "2H 2026 Release Highlights of SAP Best Practices for SAP SuccessFactors Time Management",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-release-highlights-of-sap-best-practices-for-sap-successfactors/ba-p/14492925",
-      "published": "12 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-12T06:39:52+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Tiny Magnetic Robots Help Dissolve Blood Clots Six Times Faster Than With Drugs Alone",
+      "link": "https://singularityhub.com/2026/11/16/tiny-magnetic-robots-help-dissolve-blood-clots-six-times-faster-than-with-drugs-alone/",
+      "published": "16 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-16T21:09:30+00:00"
+    },
+    {
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "published": "16 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-16T15:15:33+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 14)",
       "link": "https://singularityhub.com/2026/11/14/this-weeks-awesome-tech-stories-from-around-the-web-through-november-14-2/",
@@ -94,57 +108,43 @@
       "published": "12 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-12T19:40:54+00:00"
-    },
-    {
-      "title": "A New Era for the Dawn of Life",
-      "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
-      "published": "12 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-12T16:20:28+00:00"
-    },
-    {
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "published": "12 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-12T15:45:27+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
+      "title": "Abschiebezentrum geplant: Was steckt hinter den Ruanda-Plänen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+      "published": "16 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-16T19:59:11+01:00"
+    },
+    {
+      "title": "NATO zurück auf 1997: Was Putin von Europa verlangt",
+      "link": "https://www.dw.com/de/nato-zurück-auf-1997-was-putin-von-europa-verlangt/a-79961715?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "16 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-16T18:57:00+00:00"
+    },
+    {
+      "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
       "published": "16 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-16T10:58:43+01:00"
+      "sort_date": "2026-11-16T18:21:14+01:00"
     },
     {
-      "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
-      "link": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+      "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
       "published": "16 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-16T10:32:58+01:00"
+      "sort_date": "2026-11-16T18:07:43+01:00"
     },
     {
-      "title": "Söder hält Stromsteuersenkung doch noch für möglich",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+      "title": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
       "published": "16 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-16T09:24:05+01:00"
-    },
-    {
-      "title": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
-      "published": "16 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-16T09:07:28+01:00"
-    },
-    {
-      "title": "Immer mehr Angriffe: BKA-Chef Münch fordert Ausbau der Cyberabwehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cyberangriffe-abwehr-bka-100.html",
-      "published": "16 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-16T09:05:48+01:00"
+      "sort_date": "2026-11-16T17:36:35+01:00"
     }
   ],
   "Food": []
