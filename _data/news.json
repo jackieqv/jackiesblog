@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "LIVE SESSIONS on SAP Enterprise Support value maps – SAP SuccessFactors HCM Updates",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/live-sessions-on-sap-enterprise-support-value-maps-sap-successfactors-hcm/ba-p/14525235",
+      "published": "18 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-18T11:37:07+00:00"
+    },
+    {
       "title": "SAP SuccessFactors Webinar: Moving From Workforce Analytics to People Intelligence",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-webinar-moving-from-workforce-analytics-to-people/ba-p/14524657",
       "published": "17 Nov 2026",
@@ -64,16 +71,23 @@
       "published": "16 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-16T11:46:30+00:00"
-    },
-    {
-      "title": "2H2026: Go From a Long List to the Right Talent with Winston Match",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h2026-go-from-a-long-list-to-the-right-talent-with-winston-match/ba-p/14521590",
-      "published": "13 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-13T21:30:00+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
+      "link": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
+      "published": "18 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-18T18:17:56+00:00"
+    },
+    {
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "published": "18 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-18T15:51:40+00:00"
+    },
     {
       "title": "Tiny Magnetic Robots Help Dissolve Blood Clots Six Times Faster Than With Drugs Alone",
       "link": "https://singularityhub.com/2026/11/16/tiny-magnetic-robots-help-dissolve-blood-clots-six-times-faster-than-with-drugs-alone/",
@@ -94,57 +108,43 @@
       "published": "14 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-14T15:00:00+00:00"
-    },
-    {
-      "title": "Do AI Agents Have Minds? A Philosopher Explains",
-      "link": "https://singularityhub.com/2026/11/13/do-ai-agents-have-minds-a-philosopher-explains/",
-      "published": "13 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "title": "Can Network Science Transform Health and Nutrition?",
-      "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
-      "published": "12 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-12T19:40:54+00:00"
     }
   ],
   "News": [
     {
-      "title": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-union-100.html",
+      "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+      "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
       "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-18T11:32:57+01:00"
+      "sort_date": "2026-11-18T20:44:46+01:00"
     },
     {
-      "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
+      "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
       "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-18T11:17:57+01:00"
+      "sort_date": "2026-11-18T20:43:17+01:00"
     },
     {
-      "title": "So weit wie noch nie: Raumsonde \"Voyager 1\" - einen Lichttag von Erde entfernt",
-      "link": "https://www.tagesschau.de/wissen/technologie/voyager-1-100.html",
+      "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
+      "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
       "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-18T10:46:22+01:00"
+      "sort_date": "2026-11-18T19:11:40+01:00"
     },
     {
-      "title": "Xi und Putin demonstrieren Einigkeit vor Treffen mit Trump",
-      "link": "https://www.dw.com/de/xi-und-putin-demonstrieren-einigkeit-vor-treffen-mit-trump/a-79978226?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "18 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-18T10:40:00+00:00"
-    },
-    {
-      "title": "Wenig Bewegung beim DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+      "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
       "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-18T10:32:04+01:00"
+      "sort_date": "2026-11-18T19:02:26+01:00"
+    },
+    {
+      "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+      "published": "18 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-18T18:55:38+01:00"
     }
   ],
   "Food": []
