@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Webinar: Moving From Workforce Analytics to People Intelligence",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-successfactors-webinar-moving-from-workforce-analytics-to-people/ba-p/14524657",
+      "published": "17 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-17T19:54:14+00:00"
+    },
+    {
       "title": "Second Half 2026 Release: Moving from workforce strategy to execution with organizational modeling",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-moving-from-workforce-strategy-to-execution-with/ba-p/14523597",
       "published": "17 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "13 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-13T21:30:00+00:00"
-    },
-    {
-      "title": "2H 2026: Move from Application to Offer Faster with SmartRecruiters",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2h-2026-move-from-application-to-offer-faster-with-smartrecruiters/ba-p/14521574",
-      "published": "12 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-12T21:19:37+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-      "published": "17 Nov 2026",
+      "title": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
+      "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-17T19:03:42+01:00"
+      "sort_date": "2026-11-18T03:12:36+01:00"
     },
     {
-      "title": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
-      "published": "17 Nov 2026",
+      "title": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
+      "link": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
+      "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-17T18:35:34+01:00"
+      "sort_date": "2026-11-18T02:34:24+01:00"
     },
     {
-      "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-      "published": "17 Nov 2026",
+      "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "published": "18 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-17T18:26:00+01:00"
+      "sort_date": "2026-11-18T01:59:30+01:00"
     },
     {
-      "title": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
+      "title": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
       "published": "17 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-17T17:52:59+01:00"
+      "sort_date": "2026-11-17T22:20:52+01:00"
     },
     {
-      "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
+      "title": "Sozialproteste in Frankreich reißen nicht ab",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "published": "17 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-17T17:52:47+01:00"
+      "sort_date": "2026-11-17T21:02:01+01:00"
     }
   ],
   "Food": []
