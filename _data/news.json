@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/organizational-modeling-in-sap-successfactors-employee-central-see-it-in/ba-p/14526494",
+      "published": "19 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-19T19:17:47+00:00"
+    },
+    {
       "title": "LIVE SESSIONS on SAP Enterprise Support value maps – SAP SuccessFactors HCM Updates",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/live-sessions-on-sap-enterprise-support-value-maps-sap-successfactors-hcm/ba-p/14525235",
       "published": "18 Nov 2026",
@@ -64,16 +71,16 @@
       "published": "16 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-16T23:47:43+00:00"
-    },
-    {
-      "title": "How We Built a Mass Hiring and Data Management Solution for SAP SuccessFactors HCM Using SAP BTP",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/how-we-built-a-mass-hiring-and-data-management-solution-for-sap/ba-p/14523138",
-      "published": "16 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-16T11:46:30+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Novel Gene Therapy Nearly Erases ‘Drug Resistant’ Seizures",
+      "link": "https://singularityhub.com/2026/11/19/novel-gene-therapy-nearly-erases-drug-resistant-seizures/",
+      "published": "19 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-19T15:00:00+00:00"
+    },
     {
       "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
       "link": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
@@ -101,50 +108,43 @@
       "published": "16 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-16T15:15:33+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 14)",
-      "link": "https://singularityhub.com/2026/11/14/this-weeks-awesome-tech-stories-from-around-the-web-through-november-14-2/",
-      "published": "14 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-14T15:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "BSI warnt vor erhöhter Gefahrenlage durch  KI-Angriffe",
-      "link": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",
+      "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
       "published": "19 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-19T12:06:07+01:00"
+      "sort_date": "2026-11-19T20:22:45+01:00"
     },
     {
-      "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-      "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
+      "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
       "published": "19 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-19T11:40:26+01:00"
+      "sort_date": "2026-11-19T20:19:58+01:00"
     },
     {
-      "title": "Heizen wird wegen steigender Energiepreise immer teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
-      "published": "19 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-19T11:10:08+01:00"
-    },
-    {
-      "title": "Trump, Xi, Putin: Gipfel in China mit hochtrabenden Worten",
-      "link": "https://www.dw.com/de/trump-xi-putin-gipfel-in-china-mit-hochtrabenden-worten/a-79988021?maca=de-rss-de-top-1016-xml-mrss",
+      "title": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
+      "link": "https://www.dw.com/de/ukraine-russland-verhandlungen-wer-spricht-für-europa-und-wer-nicht/a-79996255?maca=de-rss-de-top-1016-xml-mrss",
       "published": "19 Nov 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-19T11:06:00+00:00"
+      "sort_date": "2026-11-19T19:31:00+00:00"
     },
     {
-      "title": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+      "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+      "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
       "published": "19 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-19T11:02:23+01:00"
+      "sort_date": "2026-11-19T19:30:48+01:00"
+    },
+    {
+      "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
+      "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "19 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-19T18:46:00+00:00"
     }
   ],
   "Food": []
