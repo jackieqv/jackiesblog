@@ -40,9 +40,9 @@
     {
       "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/organizational-modeling-in-sap-successfactors-employee-central-see-it-in/ba-p/14526494",
-      "published": "19 Nov 2026",
+      "published": "20 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-19T19:17:47+00:00"
+      "sort_date": "2026-11-20T01:33:51+00:00"
     },
     {
       "title": "LIVE SESSIONS on SAP Enterprise Support value maps – SAP SuccessFactors HCM Updates",
@@ -112,18 +112,25 @@
   ],
   "News": [
     {
+      "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+      "published": "20 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-20T02:56:36+01:00"
+    },
+    {
+      "title": "Strafbefehl gegen Tesla-Werksleiter",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+      "published": "19 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-19T21:07:12+01:00"
+    },
+    {
       "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
       "published": "19 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-19T20:22:45+01:00"
-    },
-    {
-      "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-      "published": "19 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-19T20:19:58+01:00"
     },
     {
       "title": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
@@ -138,13 +145,6 @@
       "published": "19 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-19T19:30:48+01:00"
-    },
-    {
-      "title": "Koalition der Willigen in Berlin: \"Wir halten zur Ukraine\"",
-      "link": "https://www.dw.com/de/koalition-der-willigen-in-berlin-wir-halten-zur-ukraine/a-79990134?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "19 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-19T18:46:00+00:00"
     }
   ],
   "Food": []
