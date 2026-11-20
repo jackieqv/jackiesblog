@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent/ba-p/14526970",
+      "published": "20 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-20T13:21:55+00:00"
+    },
+    {
+      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal/ba-p/14524325",
+      "published": "20 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-20T11:45:40+00:00"
+    },
+    {
       "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/organizational-modeling-in-sap-successfactors-employee-central-see-it-in/ba-p/14526494",
       "published": "20 Nov 2026",
@@ -57,23 +71,23 @@
       "published": "17 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-17T19:54:14+00:00"
-    },
-    {
-      "title": "Second Half 2026 Release: Moving from workforce strategy to execution with organizational modeling",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/second-half-2026-release-moving-from-workforce-strategy-to-execution-with/ba-p/14523597",
-      "published": "17 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-17T01:41:05+00:00"
-    },
-    {
-      "title": "New 'Unlocking AI for HR' Episode: A Deep Dive into Joule, AI Assistants, and Autonomous Work",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/new-unlocking-ai-for-hr-episode-a-deep-dive-into-joule-ai-assistants-and/ba-p/14523618",
-      "published": "16 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-16T23:47:43+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "Catching AI’s Mistakes Is a Mental Burden—and a Drag on Productivity",
+      "link": "https://singularityhub.com/2026/11/20/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity/",
+      "published": "20 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-20T15:00:00+00:00"
+    },
+    {
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "published": "20 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-20T14:50:41+00:00"
+    },
     {
       "title": "Novel Gene Therapy Nearly Erases ‘Drug Resistant’ Seizures",
       "link": "https://singularityhub.com/2026/11/19/novel-gene-therapy-nearly-erases-drug-resistant-seizures/",
@@ -94,57 +108,43 @@
       "published": "18 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-18T15:51:40+00:00"
-    },
-    {
-      "title": "Tiny Magnetic Robots Help Dissolve Blood Clots Six Times Faster Than With Drugs Alone",
-      "link": "https://singularityhub.com/2026/11/16/tiny-magnetic-robots-help-dissolve-blood-clots-six-times-faster-than-with-drugs-alone/",
-      "published": "16 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-16T21:09:30+00:00"
-    },
-    {
-      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-      "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-      "published": "16 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-16T15:15:33+00:00"
     }
   ],
   "News": [
     {
-      "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+      "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurf",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
       "published": "20 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T11:41:07+01:00"
+      "sort_date": "2026-11-20T19:25:36+01:00"
     },
     {
-      "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
+      "title": "Weltbevölkerungsbericht: Die GenZ ist gebildet, aber verunsichert",
+      "link": "https://www.dw.com/de/weltbevölkerungsbericht-die-genz-ist-gebildet-aber-verunsichert/a-80003564?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "20 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-20T19:22:00+00:00"
+    },
+    {
+      "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+      "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+      "published": "20 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-20T18:44:07+01:00"
+    },
+    {
+      "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
       "published": "20 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T11:04:11+01:00"
+      "sort_date": "2026-11-20T18:17:33+01:00"
     },
     {
-      "title": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
+      "title": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
       "published": "20 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T10:55:01+01:00"
-    },
-    {
-      "title": "Deutschlands Verteidigungsminister will Militärpakt mit Polen ausbauen",
-      "link": "https://www.dw.com/de/deutschlands-verteidigungsminister-will-militärpakt-mit-polen-ausbauen/a-80000181?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "20 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-20T10:37:00+00:00"
-    },
-    {
-      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-      "published": "20 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T09:16:20+01:00"
+      "sort_date": "2026-11-20T17:22:44+01:00"
     }
   ],
   "Food": []
