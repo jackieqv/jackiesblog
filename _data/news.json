@@ -1,39 +1,39 @@
 {
   "Education": [
     {
-      "title": "A new window to the early universe (and aliens?)",
-      "link": "https://bigthink.com/13-8/james-webb-telescope",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T16:00:00+00:00"
+      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
+      "link": "https://coffeeandjunk.substack.com/p/position",
+      "published": "26 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-26T12:30:37+00:00"
     },
     {
-      "title": "The cruelest people in Russian history",
-      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T15:00:00+00:00"
+      "title": "Low Ego Is Not Thinking Less of Yourself",
+      "link": "https://coffeeandjunk.substack.com/p/low-ego",
+      "published": "12 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-12T12:32:08+00:00"
     },
     {
-      "title": "Mindfulness: New age craze or science-backed solution?",
-      "link": "https://bigthink.com/mind-brain/mindfulness-science",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:40:03+00:00"
+      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
+      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
+      "published": "21 Jun 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-06-21T12:31:15+00:00"
     },
     {
-      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
-      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:00:00+00:00"
+      "title": "The Kind of Happiness That Does Not Explain Itself",
+      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
+      "published": "17 May 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-05-17T12:30:00+00:00"
     },
     {
-      "title": "What happens when two different respiratory viruses infect the same cell?",
-      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T07:35:26+00:00"
+      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
+      "link": "https://coffeeandjunk.substack.com/p/absence",
+      "published": "25 Jan 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-01-25T12:31:21+00:00"
     }
   ],
   "Technology": [
@@ -112,7 +112,21 @@
   ],
   "News": [
     {
-      "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurf",
+      "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+      "published": "20 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-20T22:28:00+01:00"
+    },
+    {
+      "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+      "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+      "published": "20 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-20T21:25:44+01:00"
+    },
+    {
+      "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
       "published": "20 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
@@ -131,20 +145,6 @@
       "published": "20 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-20T18:44:07+01:00"
-    },
-    {
-      "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-      "published": "20 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T18:17:33+01:00"
-    },
-    {
-      "title": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
-      "published": "20 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-20T17:22:44+01:00"
     }
   ],
   "Food": []
