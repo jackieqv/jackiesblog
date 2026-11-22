@@ -1,42 +1,49 @@
 {
   "Education": [
     {
-      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
-      "link": "https://coffeeandjunk.substack.com/p/position",
-      "published": "26 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-26T12:30:37+00:00"
+      "title": "A new window to the early universe (and aliens?)",
+      "link": "https://bigthink.com/13-8/james-webb-telescope",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T16:00:00+00:00"
     },
     {
-      "title": "Low Ego Is Not Thinking Less of Yourself",
-      "link": "https://coffeeandjunk.substack.com/p/low-ego",
-      "published": "12 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-12T12:32:08+00:00"
+      "title": "The cruelest people in Russian history",
+      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T15:00:00+00:00"
     },
     {
-      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
-      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
-      "published": "21 Jun 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-06-21T12:31:15+00:00"
+      "title": "Mindfulness: New age craze or science-backed solution?",
+      "link": "https://bigthink.com/mind-brain/mindfulness-science",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:40:03+00:00"
     },
     {
-      "title": "The Kind of Happiness That Does Not Explain Itself",
-      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
-      "published": "17 May 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-05-17T12:30:00+00:00"
+      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
+      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:00:00+00:00"
     },
     {
-      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
-      "link": "https://coffeeandjunk.substack.com/p/absence",
-      "published": "25 Jan 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-01-25T12:31:21+00:00"
+      "title": "What happens when two different respiratory viruses infect the same cell?",
+      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
   "Technology": [
+    {
+      "title": "Skipping MDF Warning Messages in OData API Upserts with warningAcknowledged",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/skipping-mdf-warning-messages-in-odata-api-upserts-with-warningacknowledged/ba-p/14527194",
+      "published": "22 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-22T07:25:41+00:00"
+    },
     {
       "title": "Payroll Posting from ECP to S4/HANA",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/payroll-posting-from-ecp-to-s4-hana/ba-p/14527390",
@@ -64,13 +71,6 @@
       "published": "20 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-20T11:45:40+00:00"
-    },
-    {
-      "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/organizational-modeling-in-sap-successfactors-employee-central-see-it-in/ba-p/14526494",
-      "published": "20 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-20T01:33:51+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-      "published": "21 Nov 2026",
+      "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+      "published": "22 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T21:17:57+01:00"
+      "sort_date": "2026-11-22T11:30:12+01:00"
     },
     {
-      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-      "published": "21 Nov 2026",
+      "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+      "published": "22 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T20:54:06+01:00"
+      "sort_date": "2026-11-22T11:25:29+01:00"
     },
     {
-      "title": "IT-Ausfälle in den USA: Zwischen Systemfehlern und Budgetkürzungen",
-      "link": "https://www.dw.com/de/it-ausfälle-in-den-usa-zwischen-systemfehlern-und-budgetkürzungen/a-80002682?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "21 Nov 2026",
+      "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+      "published": "22 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-22T10:51:56+01:00"
+    },
+    {
+      "title": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+      "published": "22 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-22T10:48:00+01:00"
+    },
+    {
+      "title": "UN-Klimakonferenz vor dem Scheitern?",
+      "link": "https://www.dw.com/de/un-klimakonferenz-vor-dem-scheitern/a-80012944?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "22 Nov 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-21T20:14:00+00:00"
-    },
-    {
-      "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-      "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-      "published": "21 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T18:32:19+01:00"
-    },
-    {
-      "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-      "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
-      "published": "21 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T16:55:59+01:00"
+      "sort_date": "2026-11-22T09:54:00+00:00"
     }
   ],
   "Food": []
