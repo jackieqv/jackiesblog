@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Payroll Posting from ECP to S4/HANA",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/payroll-posting-from-ecp-to-s4-hana/ba-p/14527390",
+      "published": "21 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-21T20:21:59+00:00"
+    },
+    {
       "title": "Position Validity Mismatch During Employee Replication from SF EC to S/4HANA",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/position-validity-mismatch-during-employee-replication-from-sf-ec-to-s/ba-p/14527329",
       "published": "21 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "20 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-20T01:33:51+00:00"
-    },
-    {
-      "title": "LIVE SESSIONS on SAP Enterprise Support value maps – SAP SuccessFactors HCM Updates",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/live-sessions-on-sap-enterprise-support-value-maps-sap-successfactors-hcm/ba-p/14525235",
-      "published": "18 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-18T11:37:07+00:00"
     }
   ],
   "Science": [
@@ -112,11 +112,25 @@
   ],
   "News": [
     {
-      "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
       "published": "21 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T18:43:51+01:00"
+      "sort_date": "2026-11-21T21:17:57+01:00"
+    },
+    {
+      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+      "published": "21 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-21T20:54:06+01:00"
+    },
+    {
+      "title": "IT-Ausfälle in den USA: Zwischen Systemfehlern und Budgetkürzungen",
+      "link": "https://www.dw.com/de/it-ausfälle-in-den-usa-zwischen-systemfehlern-und-budgetkürzungen/a-80002682?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "21 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-21T20:14:00+00:00"
     },
     {
       "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
@@ -131,20 +145,6 @@
       "published": "21 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-21T16:55:59+01:00"
-    },
-    {
-      "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
-      "published": "21 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T16:36:57+01:00"
-    },
-    {
-      "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
-      "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
-      "published": "21 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-21T15:07:14+01:00"
     }
   ],
   "Food": []
