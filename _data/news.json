@@ -1,42 +1,56 @@
 {
   "Education": [
     {
-      "title": "A new window to the early universe (and aliens?)",
-      "link": "https://bigthink.com/13-8/james-webb-telescope",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T16:00:00+00:00"
+      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
+      "link": "https://coffeeandjunk.substack.com/p/position",
+      "published": "26 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-26T12:30:37+00:00"
     },
     {
-      "title": "The cruelest people in Russian history",
-      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T15:00:00+00:00"
+      "title": "Low Ego Is Not Thinking Less of Yourself",
+      "link": "https://coffeeandjunk.substack.com/p/low-ego",
+      "published": "12 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-12T12:32:08+00:00"
     },
     {
-      "title": "Mindfulness: New age craze or science-backed solution?",
-      "link": "https://bigthink.com/mind-brain/mindfulness-science",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:40:03+00:00"
+      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
+      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
+      "published": "21 Jun 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-06-21T12:31:15+00:00"
     },
     {
-      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
-      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:00:00+00:00"
+      "title": "The Kind of Happiness That Does Not Explain Itself",
+      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
+      "published": "17 May 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-05-17T12:30:00+00:00"
     },
     {
-      "title": "What happens when two different respiratory viruses infect the same cell?",
-      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T07:35:26+00:00"
+      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
+      "link": "https://coffeeandjunk.substack.com/p/absence",
+      "published": "25 Jan 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-01-25T12:31:21+00:00"
     }
   ],
   "Technology": [
+    {
+      "title": "Replicating Bank Account Numbers Beyond 18 Characters in SAP S/4HANA Using IT0009",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-bank-account-numbers-beyond-18-characters-in-sap-s-4hana-using/ba-p/14528136",
+      "published": "23 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-23T14:42:57+00:00"
+    },
+    {
+      "title": "🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2027-future-of-work-predictions-people-management-managing-amp-rewarding/ba-p/14527615",
+      "published": "23 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-23T14:00:00+00:00"
+    },
     {
       "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal/ba-p/14524325",
@@ -57,23 +71,16 @@
       "published": "22 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-22T07:25:41+00:00"
-    },
-    {
-      "title": "Payroll Posting from ECP to S4/HANA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/payroll-posting-from-ecp-to-s4-hana/ba-p/14527390",
-      "published": "21 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-21T20:21:59+00:00"
-    },
-    {
-      "title": "Position Validity Mismatch During Employee Replication from SF EC to S/4HANA",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/position-validity-mismatch-during-employee-replication-from-sf-ec-to-s/ba-p/14527329",
-      "published": "21 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-21T14:21:36+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "published": "23 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-23T15:27:11+00:00"
+    },
     {
       "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 21)",
       "link": "https://singularityhub.com/2026/11/21/this-weeks-awesome-tech-stories-from-around-the-web-through-november-21-2/",
@@ -101,50 +108,43 @@
       "published": "19 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-19T15:00:00+00:00"
-    },
-    {
-      "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
-      "link": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
-      "published": "18 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-18T18:17:56+00:00"
     }
   ],
   "News": [
     {
-      "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+      "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
       "published": "23 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T12:49:55+01:00"
+      "sort_date": "2026-11-23T21:11:45+01:00"
     },
     {
-      "title": "Bombendrohungen an Hunderten Schulen bundesweit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+      "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+      "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
       "published": "23 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T12:17:06+01:00"
+      "sort_date": "2026-11-23T20:07:24+01:00"
     },
     {
-      "title": "Wer ist schuld am Scheitern des Klimagipfels?",
-      "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+      "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
+      "link": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
       "published": "23 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T11:42:23+01:00"
+      "sort_date": "2026-11-23T20:07:13+01:00"
     },
     {
-      "title": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+      "title": "Atombombe im All: Was Russland vorhaben soll - und was das für den Westen bedeutet",
+      "link": "https://www.dw.com/de/atombombe-im-all-was-russland-vorhaben-soll-und-was-das-für-den-westen-bedeutet/a-80026072?maca=de-rss-de-top-1016-xml-mrss",
       "published": "23 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T11:30:31+01:00"
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-23T19:43:00+00:00"
     },
     {
-      "title": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
+      "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
+      "link": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
       "published": "23 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T11:26:02+01:00"
+      "sort_date": "2026-11-23T18:59:22+01:00"
     }
   ],
   "Food": []
