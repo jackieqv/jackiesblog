@@ -1,42 +1,49 @@
 {
   "Education": [
     {
-      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
-      "link": "https://coffeeandjunk.substack.com/p/position",
-      "published": "26 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-26T12:30:37+00:00"
+      "title": "A new window to the early universe (and aliens?)",
+      "link": "https://bigthink.com/13-8/james-webb-telescope",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T16:00:00+00:00"
     },
     {
-      "title": "Low Ego Is Not Thinking Less of Yourself",
-      "link": "https://coffeeandjunk.substack.com/p/low-ego",
-      "published": "12 Jul 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-07-12T12:32:08+00:00"
+      "title": "The cruelest people in Russian history",
+      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T15:00:00+00:00"
     },
     {
-      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
-      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
-      "published": "21 Jun 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-06-21T12:31:15+00:00"
+      "title": "Mindfulness: New age craze or science-backed solution?",
+      "link": "https://bigthink.com/mind-brain/mindfulness-science",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:40:03+00:00"
     },
     {
-      "title": "The Kind of Happiness That Does Not Explain Itself",
-      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
-      "published": "17 May 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-05-17T12:30:00+00:00"
+      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
+      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T13:00:00+00:00"
     },
     {
-      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
-      "link": "https://coffeeandjunk.substack.com/p/absence",
-      "published": "25 Jan 2026",
-      "source": "The Sunday Wisdom",
-      "sort_date": "2026-01-25T12:31:21+00:00"
+      "title": "What happens when two different respiratory viruses infect the same cell?",
+      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
+      "published": "15 Sep 2021",
+      "source": "Big Think",
+      "sort_date": "2021-09-15T07:35:26+00:00"
     }
   ],
   "Technology": [
+    {
+      "title": "Resolving \"A technical error has occurred while reading the time data\" in Employee Central Time Off",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/resolving-quot-a-technical-error-has-occurred-while-reading-the-time-data/ba-p/14528477",
+      "published": "24 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-24T05:31:49+00:00"
+    },
     {
       "title": "Replicating Bank Account Numbers Beyond 18 Characters in SAP S/4HANA Using IT0009",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-bank-account-numbers-beyond-18-characters-in-sap-s-4hana-using/ba-p/14528136",
@@ -64,13 +71,6 @@
       "published": "23 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-23T11:14:21+00:00"
-    },
-    {
-      "title": "Skipping MDF Warning Messages in OData API Upserts with warningAcknowledged",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/skipping-mdf-warning-messages-in-odata-api-upserts-with-warningacknowledged/ba-p/14527194",
-      "published": "22 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-22T07:25:41+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-      "published": "23 Nov 2026",
+      "title": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
+      "published": "24 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T21:11:45+01:00"
+      "sort_date": "2026-11-24T08:55:06+01:00"
     },
     {
-      "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-      "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-      "published": "23 Nov 2026",
+      "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
+      "published": "24 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T20:07:24+01:00"
+      "sort_date": "2026-11-24T08:42:34+01:00"
     },
     {
-      "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
-      "link": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
-      "published": "23 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T20:07:13+01:00"
-    },
-    {
-      "title": "Atombombe im All: Was Russland vorhaben soll - und was das für den Westen bedeutet",
-      "link": "https://www.dw.com/de/atombombe-im-all-was-russland-vorhaben-soll-und-was-das-für-den-westen-bedeutet/a-80026072?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "23 Nov 2026",
+      "title": "Trump wertet Rückkehr des Nvidia-Chefs als eigenen Verdienst - News kompakt: Das Wichtigste kurz gefasst",
+      "link": "https://www.dw.com/de/trump-wertet-rückkehr-des-nvidia-chefs-als-eigenen-verdienst-news-kompakt-das-wichtigste-kurz-gefasst/a-80027604?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "24 Nov 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-23T19:43:00+00:00"
+      "sort_date": "2026-11-24T08:01:00+00:00"
     },
     {
-      "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
-      "link": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
-      "published": "23 Nov 2026",
+      "title": "Marktbericht: Atempause nach Nvidia-Feuerwerk",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+      "published": "24 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-23T18:59:22+01:00"
+      "sort_date": "2026-11-24T07:55:41+01:00"
+    },
+    {
+      "title": "Worum es in der Haushaltswoche im Bundestag geht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushaltswoche-114.html",
+      "published": "24 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-24T07:47:59+01:00"
     }
   ],
   "Food": []
