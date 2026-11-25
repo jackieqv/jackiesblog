@@ -38,6 +38,20 @@
   ],
   "Technology": [
     {
+      "title": "SAP SuccessFactors Global Search Outage on HCM55:Root Cause Analysis and Lessons for",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-global-search-outage-on-hcm55-root-cause-analysis-and/ba-p/14529678",
+      "published": "25 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-25T16:19:55+00:00"
+    },
+    {
+      "title": "SAP SuccessFactors Time Tracking: Why Attendance Management Is More Than Recording Working Hours",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-time-tracking-why-attendance-management-is-more-than/ba-p/14527041",
+      "published": "25 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-25T08:56:15+00:00"
+    },
+    {
       "title": "SAP Enable Now - Adoption Sessions 2027 (Americas)",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-enable-now-adoption-sessions-2027-americas/ba-p/14529121",
       "published": "24 Nov 2026",
@@ -57,23 +71,23 @@
       "published": "24 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-24T05:31:49+00:00"
-    },
-    {
-      "title": "Replicating Bank Account Numbers Beyond 18 Characters in SAP S/4HANA Using IT0009",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/replicating-bank-account-numbers-beyond-18-characters-in-sap-s-4hana-using/ba-p/14528136",
-      "published": "23 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-23T14:42:57+00:00"
-    },
-    {
-      "title": "🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/2027-future-of-work-predictions-people-management-managing-amp-rewarding/ba-p/14527615",
-      "published": "23 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-23T14:00:00+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "This AI Tweaks LLM Neural Networks Like a Gene Editor",
+      "link": "https://singularityhub.com/2026/11/25/this-ai-tweaks-llm-neural-networks-like-a-gene-editor/",
+      "published": "25 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-25T15:00:00+00:00"
+    },
+    {
+      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+      "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+      "published": "25 Nov 2026",
+      "source": "Quanta Magazine",
+      "sort_date": "2026-11-25T14:00:49+00:00"
+    },
     {
       "title": "FDA Set to Approve First CRISPR Therapy That Edits Genes Inside the Body",
       "link": "https://singularityhub.com/2026/11/24/fda-set-to-approve-first-crispr-therapy-that-edits-genes-inside-the-body/",
@@ -94,57 +108,43 @@
       "published": "21 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-21T15:00:00+00:00"
-    },
-    {
-      "title": "Catching AI’s Mistakes Is a Mental Burden—and a Drag on Productivity",
-      "link": "https://singularityhub.com/2026/11/20/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity/",
-      "published": "20 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-20T15:00:00+00:00"
-    },
-    {
-      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-      "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-      "published": "20 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-20T14:50:41+00:00"
     }
   ],
   "News": [
     {
-      "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
       "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T02:40:52+01:00"
+      "sort_date": "2026-11-25T17:29:03+01:00"
     },
     {
-      "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "title": "KI-Ernüchterung an den Börsen greift um sich",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
       "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T01:06:58+01:00"
+      "sort_date": "2026-11-25T17:28:08+01:00"
     },
     {
-      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
-      "published": "24 Nov 2026",
+      "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
+      "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T21:17:10+01:00"
+      "sort_date": "2026-11-25T17:10:40+01:00"
     },
     {
-      "title": "\"Russisches Starlink\" - Wie kann Rasswet den Ukraine-Krieg verändern?",
-      "link": "https://www.dw.com/de/russisches-starlink-wie-kann-rasswet-den-ukraine-krieg-verändern/a-80033063?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "24 Nov 2026",
+      "title": "USA wollen neuen 15-Prozent-Zoll für EU-Importe",
+      "link": "https://www.dw.com/de/usa-wollen-neuen-15-prozent-zoll-für-eu-importe/a-80045806?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "25 Nov 2026",
       "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-24T20:59:00+00:00"
+      "sort_date": "2026-11-25T15:57:00+00:00"
     },
     {
-      "title": "Verbraucherschützer haben die smarte Brille im Blick",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
-      "published": "24 Nov 2026",
+      "title": "Wenn der Partner zuschlägt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
+      "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T20:06:34+01:00"
+      "sort_date": "2026-11-25T15:36:47+01:00"
     }
   ],
   "Food": []
