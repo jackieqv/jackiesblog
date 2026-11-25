@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "SAP Enable Now - Adoption Sessions 2027 (Americas)",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-enable-now-adoption-sessions-2027-americas/ba-p/14529121",
+      "published": "24 Nov 2026",
+      "source": "Human Capital Management Blog Posts by SAP articles",
+      "sort_date": "2026-11-24T20:52:55+00:00"
+    },
+    {
       "title": "SuccessFactors Variable Pay - do not consider inactive periods for rehires",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/successfactors-variable-pay-do-not-consider-inactive-periods-for-rehires/ba-p/14528899",
       "published": "24 Nov 2026",
@@ -64,13 +71,6 @@
       "published": "23 Nov 2026",
       "source": "Human Capital Management Blog Posts by SAP articles",
       "sort_date": "2026-11-23T14:00:00+00:00"
-    },
-    {
-      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal/ba-p/14524325",
-      "published": "23 Nov 2026",
-      "source": "Human Capital Management Blog Posts by SAP articles",
-      "sort_date": "2026-11-23T11:17:07+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
+      "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "published": "25 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-25T02:40:52+01:00"
+    },
+    {
+      "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "published": "25 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-25T01:06:58+01:00"
+    },
+    {
+      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "published": "24 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-24T21:17:10+01:00"
+    },
+    {
+      "title": "\"Russisches Starlink\" - Wie kann Rasswet den Ukraine-Krieg verändern?",
+      "link": "https://www.dw.com/de/russisches-starlink-wie-kann-rasswet-den-ukraine-krieg-verändern/a-80033063?maca=de-rss-de-top-1016-xml-mrss",
+      "published": "24 Nov 2026",
+      "source": "Deutsche Welle: DW.com Themen des Tages",
+      "sort_date": "2026-11-24T20:59:00+00:00"
+    },
+    {
       "title": "Verbraucherschützer haben die smarte Brille im Blick",
       "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
       "published": "24 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-24T20:06:34+01:00"
-    },
-    {
-      "title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-      "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
-      "published": "24 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T19:39:01+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-      "published": "24 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T18:36:29+01:00"
-    },
-    {
-      "title": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
-      "link": "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
-      "published": "24 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T18:21:31+01:00"
-    },
-    {
-      "title": "35. Todestag von Freddie Mercury: Eine unsterbliche Stimme",
-      "link": "https://www.tagesschau.de/kultur/freddie-mercury-todestag-100.html",
-      "published": "24 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-24T17:52:38+01:00"
     }
   ],
   "Food": []
