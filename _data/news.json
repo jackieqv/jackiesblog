@@ -75,6 +75,13 @@
   ],
   "Science": [
     {
+      "title": "Scientists Gave AI a ‘Stroke’ to Map Its Language Circuits",
+      "link": "https://singularityhub.com/2026/11/26/scientists-gave-ai-a-stroke-to-map-its-language-circuits/",
+      "published": "26 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-26T15:00:00+00:00"
+    },
+    {
       "title": "This AI Tweaks LLM Neural Networks Like a Gene Editor",
       "link": "https://singularityhub.com/2026/11/25/this-ai-tweaks-llm-neural-networks-like-a-gene-editor/",
       "published": "25 Nov 2026",
@@ -101,50 +108,43 @@
       "published": "23 Nov 2026",
       "source": "Quanta Magazine",
       "sort_date": "2026-11-23T15:27:11+00:00"
-    },
-    {
-      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 21)",
-      "link": "https://singularityhub.com/2026/11/21/this-weeks-awesome-tech-stories-from-around-the-web-through-november-21-2/",
-      "published": "21 Nov 2026",
-      "source": "SingularityHub",
-      "sort_date": "2026-11-21T15:00:00+00:00"
     }
   ],
   "News": [
     {
-      "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
+      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T12:39:55+01:00"
+      "sort_date": "2026-11-26T20:16:09+01:00"
     },
     {
-      "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+      "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
+      "link": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T12:04:32+01:00"
+      "sort_date": "2026-11-26T20:15:35+01:00"
     },
     {
-      "title": "Black Weeks: Wie die Rabattschlacht Handel und Kunden verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html",
+      "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+      "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T11:54:56+01:00"
+      "sort_date": "2026-11-26T19:08:12+01:00"
     },
     {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+      "title": "Warum die Bundeswehr im Senegal trainiert",
+      "link": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T11:33:57+01:00"
+      "sort_date": "2026-11-26T18:59:05+01:00"
     },
     {
       "title": "Marktbericht: DAX macht einen Sprung nach vorn",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T10:57:46+01:00"
+      "sort_date": "2026-11-26T18:23:20+01:00"
     }
   ],
   "Food": []
