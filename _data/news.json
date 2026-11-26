@@ -1,42 +1,49 @@
 {
   "Education": [
     {
-      "title": "A new window to the early universe (and aliens?)",
-      "link": "https://bigthink.com/13-8/james-webb-telescope",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T16:00:00+00:00"
+      "title": "There Is No Life That Cannot Be Successfully Prosecuted From the Right Angle",
+      "link": "https://coffeeandjunk.substack.com/p/position",
+      "published": "26 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-26T12:30:37+00:00"
     },
     {
-      "title": "The cruelest people in Russian history",
-      "link": "https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T15:00:00+00:00"
+      "title": "Low Ego Is Not Thinking Less of Yourself",
+      "link": "https://coffeeandjunk.substack.com/p/low-ego",
+      "published": "12 Jul 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-07-12T12:32:08+00:00"
     },
     {
-      "title": "Mindfulness: New age craze or science-backed solution?",
-      "link": "https://bigthink.com/mind-brain/mindfulness-science",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:40:03+00:00"
+      "title": "I Cannot Quite Respect a Goodness That Refuses Effectiveness",
+      "link": "https://coffeeandjunk.substack.com/p/effective-hero",
+      "published": "21 Jun 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-06-21T12:31:15+00:00"
     },
     {
-      "title": "Big Tech and privacy: Apple flirts with the \"dark side\"",
-      "link": "https://bigthink.com/technology-innovation/big-tech-privacy-apple",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T13:00:00+00:00"
+      "title": "The Kind of Happiness That Does Not Explain Itself",
+      "link": "https://coffeeandjunk.substack.com/p/unexplained-happiness",
+      "published": "17 May 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-05-17T12:30:00+00:00"
     },
     {
-      "title": "What happens when two different respiratory viruses infect the same cell?",
-      "link": "https://bigthink.com/surprising-science/two-viruses-one-cell",
-      "published": "15 Sep 2021",
-      "source": "Big Think",
-      "sort_date": "2021-09-15T07:35:26+00:00"
+      "title": "Some Absences Are Not Problems to Be Solved but Realities to Be Carried",
+      "link": "https://coffeeandjunk.substack.com/p/absence",
+      "published": "25 Jan 2026",
+      "source": "The Sunday Wisdom",
+      "sort_date": "2026-01-25T12:31:21+00:00"
     }
   ],
   "Technology": [
+    {
+      "title": "Duplicate Transactions Triggered by the Escape Key, Patch Fix Confirmed for 30 November 2026",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/duplicate-transactions-triggered-by-the-escape-key-patch-fix-confirmed-for/ba-p/14529704",
+      "published": "25 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-25T17:18:38+00:00"
+    },
     {
       "title": "SAP SuccessFactors Global Search Outage on HCM55:Root Cause Analysis and Lessons for",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-global-search-outage-on-hcm55-root-cause-analysis-and/ba-p/14529678",
@@ -64,13 +71,6 @@
       "published": "24 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-24T13:23:04+00:00"
-    },
-    {
-      "title": "Resolving \"A technical error has occurred while reading the time data\" in Employee Central Time Off",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/resolving-quot-a-technical-error-has-occurred-while-reading-the-time-data/ba-p/14528477",
-      "published": "24 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-24T05:31:49+00:00"
     }
   ],
   "Science": [
@@ -112,39 +112,39 @@
   ],
   "News": [
     {
-      "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
-      "published": "25 Nov 2026",
+      "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+      "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T17:29:03+01:00"
+      "sort_date": "2026-11-26T00:56:55+01:00"
     },
     {
-      "title": "KI-Ernüchterung an den Börsen greift um sich",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
+      "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+      "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
       "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T17:28:08+01:00"
+      "sort_date": "2026-11-25T22:10:04+01:00"
     },
     {
-      "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
+      "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
       "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T17:10:40+01:00"
+      "sort_date": "2026-11-25T20:50:08+01:00"
     },
     {
-      "title": "USA wollen neuen 15-Prozent-Zoll für EU-Importe",
-      "link": "https://www.dw.com/de/usa-wollen-neuen-15-prozent-zoll-für-eu-importe/a-80045806?maca=de-rss-de-top-1016-xml-mrss",
-      "published": "25 Nov 2026",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "sort_date": "2026-11-25T15:57:00+00:00"
-    },
-    {
-      "title": "Wenn der Partner zuschlägt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
+      "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
       "published": "25 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-25T15:36:47+01:00"
+      "sort_date": "2026-11-25T20:36:24+01:00"
+    },
+    {
+      "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+      "published": "25 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-25T20:14:28+01:00"
     }
   ],
   "Food": []
