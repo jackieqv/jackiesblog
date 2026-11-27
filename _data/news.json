@@ -38,6 +38,13 @@
   ],
   "Technology": [
     {
+      "title": "Selecting the Latest Modified Business Trip Record from Historical MDF Data Using SAP CPI",
+      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/selecting-the-latest-modified-business-trip-record-from-historical-mdf-data/ba-p/14514206",
+      "published": "27 Nov 2026",
+      "source": "Human Capital Management Blog Posts by Members articles",
+      "sort_date": "2026-11-27T10:27:47+00:00"
+    },
+    {
       "title": "SAP SPM Incentive Management - Data Integration - White Paper - Performance Tuning",
       "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-spm-incentive-management-data-integration-white-paper-performance/ba-p/14522121",
       "published": "26 Nov 2026",
@@ -64,16 +71,16 @@
       "published": "25 Nov 2026",
       "source": "Human Capital Management Blog Posts by Members articles",
       "sort_date": "2026-11-25T16:19:55+00:00"
-    },
-    {
-      "title": "SAP SuccessFactors Time Tracking: Why Attendance Management Is More Than Recording Working Hours",
-      "link": "https://community.sap.com/t5/human-capital-management-blog-posts-by-members/sap-successfactors-time-tracking-why-attendance-management-is-more-than/ba-p/14527041",
-      "published": "25 Nov 2026",
-      "source": "Human Capital Management Blog Posts by Members articles",
-      "sort_date": "2026-11-25T08:56:15+00:00"
     }
   ],
   "Science": [
+    {
+      "title": "A New Way to Extract Oxygen From Lunar Soil Could Support Bases on the Moon",
+      "link": "https://singularityhub.com/2026/11/27/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon/",
+      "published": "27 Nov 2026",
+      "source": "SingularityHub",
+      "sort_date": "2026-11-27T15:00:00+00:00"
+    },
     {
       "title": "Scientists Gave AI a ‘Stroke’ to Map Its Language Circuits",
       "link": "https://singularityhub.com/2026/11/26/scientists-gave-ai-a-stroke-to-map-its-language-circuits/",
@@ -101,50 +108,43 @@
       "published": "24 Nov 2026",
       "source": "SingularityHub",
       "sort_date": "2026-11-24T16:57:26+00:00"
-    },
-    {
-      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-      "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
-      "published": "23 Nov 2026",
-      "source": "Quanta Magazine",
-      "sort_date": "2026-11-23T15:27:11+00:00"
     }
   ],
   "News": [
     {
-      "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
-      "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+      "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
       "published": "27 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-27T02:29:29+01:00"
+      "sort_date": "2026-11-27T17:09:18+01:00"
     },
     {
-      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+      "title": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+      "link": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
       "published": "27 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-27T01:02:22+01:00"
+      "sort_date": "2026-11-27T16:03:21+01:00"
     },
     {
-      "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
-      "link": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
-      "published": "26 Nov 2026",
+      "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
+      "published": "27 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T22:54:39+01:00"
+      "sort_date": "2026-11-27T15:13:55+01:00"
     },
     {
-      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-      "published": "26 Nov 2026",
+      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+      "published": "27 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T20:16:09+01:00"
+      "sort_date": "2026-11-27T15:12:31+01:00"
     },
     {
-      "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
-      "link": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
-      "published": "26 Nov 2026",
+      "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+      "link": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+      "published": "27 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T20:15:35+01:00"
+      "sort_date": "2026-11-27T15:10:01+01:00"
     }
   ],
   "Food": []
