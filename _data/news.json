@@ -112,6 +112,27 @@
   ],
   "News": [
     {
+      "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+      "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+      "published": "27 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-27T02:29:29+01:00"
+    },
+    {
+      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+      "published": "27 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-27T01:02:22+01:00"
+    },
+    {
+      "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+      "link": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+      "published": "26 Nov 2026",
+      "source": "tagesschau.de - Die Nachrichten der ARD",
+      "sort_date": "2026-11-26T22:54:39+01:00"
+    },
+    {
       "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "published": "26 Nov 2026",
@@ -124,27 +145,6 @@
       "published": "26 Nov 2026",
       "source": "tagesschau.de - Die Nachrichten der ARD",
       "sort_date": "2026-11-26T20:15:35+01:00"
-    },
-    {
-      "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
-      "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
-      "published": "26 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T19:08:12+01:00"
-    },
-    {
-      "title": "Warum die Bundeswehr im Senegal trainiert",
-      "link": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
-      "published": "26 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T18:59:05+01:00"
-    },
-    {
-      "title": "Marktbericht: DAX macht einen Sprung nach vorn",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-      "published": "26 Nov 2026",
-      "source": "tagesschau.de - Die Nachrichten der ARD",
-      "sort_date": "2026-11-26T18:23:20+01:00"
     }
   ],
   "Food": []
